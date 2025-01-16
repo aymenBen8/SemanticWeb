@@ -1,0 +1,1231 @@
+@prefix ns1: <http://example.org/ontology/pokemon#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Adaptability a ns1:Ability ;
+    ns1:japaneseName "てきおうりょく"^^xsd:string ;
+    ns1:name "Adaptability"^^xsd:string .
+
+ns1:Aerilate a ns1:Ability ;
+    ns1:japaneseName "スカイスキン"^^xsd:string ;
+    ns1:name "Aerilate"^^xsd:string .
+
+ns1:Aftermath a ns1:Ability ;
+    ns1:japaneseName "ゆうばく"^^xsd:string ;
+    ns1:name "Aftermath"^^xsd:string .
+
+ns1:Air_Lock a ns1:Ability ;
+    ns1:japaneseName "エアロック"^^xsd:string ;
+    ns1:name "Air Lock"^^xsd:string .
+
+ns1:Analytic a ns1:Ability ;
+    ns1:japaneseName "アナライズ"^^xsd:string ;
+    ns1:name "Analytic"^^xsd:string .
+
+ns1:Anger_Point a ns1:Ability ;
+    ns1:japaneseName "いかりのつぼ"^^xsd:string ;
+    ns1:name "Anger Point"^^xsd:string .
+
+ns1:Anger_Shell a ns1:Ability ;
+    ns1:japaneseName "いかりのこうら"^^xsd:string ;
+    ns1:name "Anger Shell"^^xsd:string .
+
+ns1:Anticipation a ns1:Ability ;
+    ns1:japaneseName "きけんよち"^^xsd:string ;
+    ns1:name "Anticipation"^^xsd:string .
+
+ns1:Arena_Trap a ns1:Ability ;
+    ns1:japaneseName "ありじごく"^^xsd:string ;
+    ns1:name "Arena Trap"^^xsd:string .
+
+ns1:Armor_Tail a ns1:Ability ;
+    ns1:japaneseName "テイルアーマー"^^xsd:string ;
+    ns1:name "Armor Tail"^^xsd:string .
+
+ns1:Aroma_Veil a ns1:Ability ;
+    ns1:japaneseName "アロマベール"^^xsd:string ;
+    ns1:name "Aroma Veil"^^xsd:string .
+
+ns1:As_One a ns1:Ability ;
+    ns1:japaneseName "じんばいったい"^^xsd:string ;
+    ns1:name "As One"^^xsd:string .
+
+ns1:Aura_Break a ns1:Ability ;
+    ns1:japaneseName "オーラブレイク"^^xsd:string ;
+    ns1:name "Aura Break"^^xsd:string .
+
+ns1:Bad_Dreams a ns1:Ability ;
+    ns1:japaneseName "ナイトメア"^^xsd:string ;
+    ns1:name "Bad Dreams"^^xsd:string .
+
+ns1:Ball_Fetch a ns1:Ability ;
+    ns1:japaneseName "たまひろい"^^xsd:string ;
+    ns1:name "Ball Fetch"^^xsd:string .
+
+ns1:Battery a ns1:Ability ;
+    ns1:japaneseName "バッテリー"^^xsd:string ;
+    ns1:name "Battery"^^xsd:string .
+
+ns1:Battle_Armor a ns1:Ability ;
+    ns1:japaneseName "カブトアーマー"^^xsd:string ;
+    ns1:name "Battle Armor"^^xsd:string .
+
+ns1:Battle_Bond a ns1:Ability ;
+    ns1:japaneseName "きずなへんげ"^^xsd:string ;
+    ns1:name "Battle Bond"^^xsd:string .
+
+ns1:Beads_of_Ruin a ns1:Ability ;
+    ns1:japaneseName "わざわいのたま"^^xsd:string ;
+    ns1:name "Beads of Ruin"^^xsd:string .
+
+ns1:Beast_Boost a ns1:Ability ;
+    ns1:japaneseName "ビーストブースト"^^xsd:string ;
+    ns1:name "Beast Boost"^^xsd:string .
+
+ns1:Berserk a ns1:Ability ;
+    ns1:japaneseName "ぎゃくじょう"^^xsd:string ;
+    ns1:name "Berserk"^^xsd:string .
+
+ns1:Big_Pecks a ns1:Ability ;
+    ns1:japaneseName "はとむね"^^xsd:string ;
+    ns1:name "Big Pecks"^^xsd:string .
+
+ns1:Blaze a ns1:Ability ;
+    ns1:japaneseName "もうか"^^xsd:string ;
+    ns1:name "Blaze"^^xsd:string .
+
+ns1:Bulletproof a ns1:Ability ;
+    ns1:japaneseName "ぼうだん"^^xsd:string ;
+    ns1:name "Bulletproof"^^xsd:string .
+
+ns1:Cacophony a ns1:Ability ;
+    ns1:japaneseName "そうおん"^^xsd:string ;
+    ns1:name "Cacophony"^^xsd:string .
+
+ns1:Cheek_Pouch a ns1:Ability ;
+    ns1:japaneseName "ほおぶくろ"^^xsd:string ;
+    ns1:name "Cheek Pouch"^^xsd:string .
+
+ns1:Chilling_Neigh a ns1:Ability ;
+    ns1:japaneseName "しろのいななき"^^xsd:string ;
+    ns1:name "Chilling Neigh"^^xsd:string .
+
+ns1:Chlorophyll a ns1:Ability ;
+    ns1:japaneseName "ようりょくそ"^^xsd:string ;
+    ns1:name "Chlorophyll"^^xsd:string .
+
+ns1:Clear_Body a ns1:Ability ;
+    ns1:japaneseName "クリアボディ"^^xsd:string ;
+    ns1:name "Clear Body"^^xsd:string .
+
+ns1:Cloud_Nine a ns1:Ability ;
+    ns1:japaneseName "ノーてんき"^^xsd:string ;
+    ns1:name "Cloud Nine"^^xsd:string .
+
+ns1:Color_Change a ns1:Ability ;
+    ns1:japaneseName "へんしょく"^^xsd:string ;
+    ns1:name "Color Change"^^xsd:string .
+
+ns1:Comatose a ns1:Ability ;
+    ns1:japaneseName "ぜったいねむり"^^xsd:string ;
+    ns1:name "Comatose"^^xsd:string .
+
+ns1:Commander a ns1:Ability ;
+    ns1:japaneseName "しれいとう"^^xsd:string ;
+    ns1:name "Commander"^^xsd:string .
+
+ns1:Competitive a ns1:Ability ;
+    ns1:japaneseName "かちき"^^xsd:string ;
+    ns1:name "Competitive"^^xsd:string .
+
+ns1:Compound_Eyes a ns1:Ability ;
+    ns1:japaneseName "ふくがん"^^xsd:string ;
+    ns1:name "Compound Eyes"^^xsd:string .
+
+ns1:Contrary a ns1:Ability ;
+    ns1:japaneseName "あまのじゃく"^^xsd:string ;
+    ns1:name "Contrary"^^xsd:string .
+
+ns1:Corrosion a ns1:Ability ;
+    ns1:japaneseName "ふしょく"^^xsd:string ;
+    ns1:name "Corrosion"^^xsd:string .
+
+ns1:Costar a ns1:Ability ;
+    ns1:japaneseName "きょうえん"^^xsd:string ;
+    ns1:name "Costar"^^xsd:string .
+
+ns1:Cotton_Down a ns1:Ability ;
+    ns1:japaneseName "わたげ"^^xsd:string ;
+    ns1:name "Cotton Down"^^xsd:string .
+
+ns1:Cud_Chew a ns1:Ability ;
+    ns1:japaneseName "はんすう"^^xsd:string ;
+    ns1:name "Cud Chew"^^xsd:string .
+
+ns1:Curious_Medicine a ns1:Ability ;
+    ns1:japaneseName "きみょうなくすり"^^xsd:string ;
+    ns1:name "Curious Medicine"^^xsd:string .
+
+ns1:Cursed_Body a ns1:Ability ;
+    ns1:japaneseName "のろわれボディ"^^xsd:string ;
+    ns1:name "Cursed Body"^^xsd:string .
+
+ns1:Cute_Charm a ns1:Ability ;
+    ns1:japaneseName "メロメロボディ"^^xsd:string ;
+    ns1:name "Cute Charm"^^xsd:string .
+
+ns1:Damp a ns1:Ability ;
+    ns1:japaneseName "しめりけ"^^xsd:string ;
+    ns1:name "Damp"^^xsd:string .
+
+ns1:Dancer a ns1:Ability ;
+    ns1:japaneseName "おどりこ"^^xsd:string ;
+    ns1:name "Dancer"^^xsd:string .
+
+ns1:Dark_Aura a ns1:Ability ;
+    ns1:japaneseName "ダークオーラ"^^xsd:string ;
+    ns1:name "Dark Aura"^^xsd:string .
+
+ns1:Dauntless_Shield a ns1:Ability ;
+    ns1:japaneseName "ふくつのたて"^^xsd:string ;
+    ns1:name "Dauntless Shield"^^xsd:string .
+
+ns1:Dazzling a ns1:Ability ;
+    ns1:japaneseName "ビビッドボディ"^^xsd:string ;
+    ns1:name "Dazzling"^^xsd:string .
+
+ns1:Defeatist a ns1:Ability ;
+    ns1:japaneseName "よわき"^^xsd:string ;
+    ns1:name "Defeatist"^^xsd:string .
+
+ns1:Defiant a ns1:Ability ;
+    ns1:japaneseName "まけんき"^^xsd:string ;
+    ns1:name "Defiant"^^xsd:string .
+
+ns1:Delta_Stream a ns1:Ability ;
+    ns1:japaneseName "デルタストリーム"^^xsd:string ;
+    ns1:name "Delta Stream"^^xsd:string .
+
+ns1:Desolate_Land a ns1:Ability ;
+    ns1:japaneseName "おわりのだいち"^^xsd:string ;
+    ns1:name "Desolate Land"^^xsd:string .
+
+ns1:Disguise a ns1:Ability ;
+    ns1:japaneseName "ばけのかわ"^^xsd:string ;
+    ns1:name "Disguise"^^xsd:string .
+
+ns1:Download a ns1:Ability ;
+    ns1:japaneseName "ダウンロード"^^xsd:string ;
+    ns1:name "Download"^^xsd:string .
+
+ns1:Dragons_Maw a ns1:Ability ;
+    ns1:japaneseName "りゅうのあぎと"^^xsd:string ;
+    ns1:name "Dragon's Maw"^^xsd:string .
+
+ns1:Drizzle a ns1:Ability ;
+    ns1:japaneseName "あめふらし"^^xsd:string ;
+    ns1:name "Drizzle"^^xsd:string .
+
+ns1:Drought a ns1:Ability ;
+    ns1:japaneseName "ひでり"^^xsd:string ;
+    ns1:name "Drought"^^xsd:string .
+
+ns1:Dry_Skin a ns1:Ability ;
+    ns1:japaneseName "かんそうはだ"^^xsd:string ;
+    ns1:name "Dry Skin"^^xsd:string .
+
+ns1:Early_Bird a ns1:Ability ;
+    ns1:japaneseName "はやおき"^^xsd:string ;
+    ns1:name "Early Bird"^^xsd:string .
+
+ns1:Earth_Eater a ns1:Ability ;
+    ns1:japaneseName "どしょく"^^xsd:string ;
+    ns1:name "Earth Eater"^^xsd:string .
+
+ns1:Effect_Spore a ns1:Ability ;
+    ns1:japaneseName "ほうし"^^xsd:string ;
+    ns1:name "Effect Spore"^^xsd:string .
+
+ns1:Electric_Surge a ns1:Ability ;
+    ns1:japaneseName "エレキメイカー"^^xsd:string ;
+    ns1:name "Electric Surge"^^xsd:string .
+
+ns1:Electromorphosis a ns1:Ability ;
+    ns1:japaneseName "でんきにかえる"^^xsd:string ;
+    ns1:name "Electromorphosis"^^xsd:string .
+
+ns1:Embody_Aspect a ns1:Ability ;
+    ns1:japaneseName "おもかげやどし"^^xsd:string ;
+    ns1:name "Embody Aspect"^^xsd:string .
+
+ns1:Emergency_Exit a ns1:Ability ;
+    ns1:japaneseName "ききかいひ"^^xsd:string ;
+    ns1:name "Emergency Exit"^^xsd:string .
+
+ns1:Fairy_Aura a ns1:Ability ;
+    ns1:japaneseName "フェアリーオーラ"^^xsd:string ;
+    ns1:name "Fairy Aura"^^xsd:string .
+
+ns1:Filter a ns1:Ability ;
+    ns1:japaneseName "フィルター"^^xsd:string ;
+    ns1:name "Filter"^^xsd:string .
+
+ns1:Flame_Body a ns1:Ability ;
+    ns1:japaneseName "ほのおのからだ"^^xsd:string ;
+    ns1:name "Flame Body"^^xsd:string .
+
+ns1:Flare_Boost a ns1:Ability ;
+    ns1:japaneseName "ねつぼうそう"^^xsd:string ;
+    ns1:name "Flare Boost"^^xsd:string .
+
+ns1:Flash_Fire a ns1:Ability ;
+    ns1:japaneseName "もらいび"^^xsd:string ;
+    ns1:name "Flash Fire"^^xsd:string .
+
+ns1:Flower_Gift a ns1:Ability ;
+    ns1:japaneseName "フラワーギフト"^^xsd:string ;
+    ns1:name "Flower Gift"^^xsd:string .
+
+ns1:Flower_Veil a ns1:Ability ;
+    ns1:japaneseName "フラワーベール"^^xsd:string ;
+    ns1:name "Flower Veil"^^xsd:string .
+
+ns1:Fluffy a ns1:Ability ;
+    ns1:japaneseName "もふもふ"^^xsd:string ;
+    ns1:name "Fluffy"^^xsd:string .
+
+ns1:Forecast a ns1:Ability ;
+    ns1:japaneseName "てんきや"^^xsd:string ;
+    ns1:name "Forecast"^^xsd:string .
+
+ns1:Forewarn a ns1:Ability ;
+    ns1:japaneseName "よちむ"^^xsd:string ;
+    ns1:name "Forewarn"^^xsd:string .
+
+ns1:Friend_Guard a ns1:Ability ;
+    ns1:japaneseName "フレンドガード"^^xsd:string ;
+    ns1:name "Friend Guard"^^xsd:string .
+
+ns1:Frisk a ns1:Ability ;
+    ns1:japaneseName "おみとおし"^^xsd:string ;
+    ns1:name "Frisk"^^xsd:string .
+
+ns1:Full_Metal_Body a ns1:Ability ;
+    ns1:japaneseName "メタルプロテクト"^^xsd:string ;
+    ns1:name "Full Metal Body"^^xsd:string .
+
+ns1:Fur_Coat a ns1:Ability ;
+    ns1:japaneseName "ファーコート"^^xsd:string ;
+    ns1:name "Fur Coat"^^xsd:string .
+
+ns1:Gale_Wings a ns1:Ability ;
+    ns1:japaneseName "はやてのつばさ"^^xsd:string ;
+    ns1:name "Gale Wings"^^xsd:string .
+
+ns1:Galvanize a ns1:Ability ;
+    ns1:japaneseName "エレキスキン"^^xsd:string ;
+    ns1:name "Galvanize"^^xsd:string .
+
+ns1:Gluttony a ns1:Ability ;
+    ns1:japaneseName "くいしんぼう"^^xsd:string ;
+    ns1:name "Gluttony"^^xsd:string .
+
+ns1:Good_as_Gold a ns1:Ability ;
+    ns1:japaneseName "おうごんのからだ"^^xsd:string ;
+    ns1:name "Good as Gold"^^xsd:string .
+
+ns1:Gooey a ns1:Ability ;
+    ns1:japaneseName "ぬめぬめ"^^xsd:string ;
+    ns1:name "Gooey"^^xsd:string .
+
+ns1:Gorilla_Tactics a ns1:Ability ;
+    ns1:japaneseName "ごりむちゅう"^^xsd:string ;
+    ns1:name "Gorilla Tactics"^^xsd:string .
+
+ns1:Grass_Pelt a ns1:Ability ;
+    ns1:japaneseName "くさのけがわ"^^xsd:string ;
+    ns1:name "Grass Pelt"^^xsd:string .
+
+ns1:Grassy_Surge a ns1:Ability ;
+    ns1:japaneseName "グラスメイカー"^^xsd:string ;
+    ns1:name "Grassy Surge"^^xsd:string .
+
+ns1:Grim_Neigh a ns1:Ability ;
+    ns1:japaneseName "くろのいななき"^^xsd:string ;
+    ns1:name "Grim Neigh"^^xsd:string .
+
+ns1:Guard_Dog a ns1:Ability ;
+    ns1:japaneseName "ばんけん"^^xsd:string ;
+    ns1:name "Guard Dog"^^xsd:string .
+
+ns1:Gulp_Missile a ns1:Ability ;
+    ns1:japaneseName "うのミサイル"^^xsd:string ;
+    ns1:name "Gulp Missile"^^xsd:string .
+
+ns1:Guts a ns1:Ability ;
+    ns1:japaneseName "こんじょう"^^xsd:string ;
+    ns1:name "Guts"^^xsd:string .
+
+ns1:Hadron_Engine a ns1:Ability ;
+    ns1:japaneseName "ハドロンエンジン"^^xsd:string ;
+    ns1:name "Hadron Engine"^^xsd:string .
+
+ns1:Harvest a ns1:Ability ;
+    ns1:japaneseName "しゅうかく"^^xsd:string ;
+    ns1:name "Harvest"^^xsd:string .
+
+ns1:Healer a ns1:Ability ;
+    ns1:japaneseName "いやしのこころ"^^xsd:string ;
+    ns1:name "Healer"^^xsd:string .
+
+ns1:Heatproof a ns1:Ability ;
+    ns1:japaneseName "たいねつ"^^xsd:string ;
+    ns1:name "Heatproof"^^xsd:string .
+
+ns1:Heavy_Metal a ns1:Ability ;
+    ns1:japaneseName "ヘヴィメタル"^^xsd:string ;
+    ns1:name "Heavy Metal"^^xsd:string .
+
+ns1:Honey_Gather a ns1:Ability ;
+    ns1:japaneseName "みつあつめ"^^xsd:string ;
+    ns1:name "Honey Gather"^^xsd:string .
+
+ns1:Hospitality a ns1:Ability ;
+    ns1:japaneseName "おもてなし"^^xsd:string ;
+    ns1:name "Hospitality"^^xsd:string .
+
+ns1:Huge_Power a ns1:Ability ;
+    ns1:japaneseName "ちからもち"^^xsd:string ;
+    ns1:name "Huge Power"^^xsd:string .
+
+ns1:Hunger_Switch a ns1:Ability ;
+    ns1:japaneseName "はらぺこスイッチ"^^xsd:string ;
+    ns1:name "Hunger Switch"^^xsd:string .
+
+ns1:Hustle a ns1:Ability ;
+    ns1:japaneseName "はりきり"^^xsd:string ;
+    ns1:name "Hustle"^^xsd:string .
+
+ns1:Hydration a ns1:Ability ;
+    ns1:japaneseName "うるおいボディ"^^xsd:string ;
+    ns1:name "Hydration"^^xsd:string .
+
+ns1:Hyper_Cutter a ns1:Ability ;
+    ns1:japaneseName "かいりきバサミ"^^xsd:string ;
+    ns1:name "Hyper Cutter"^^xsd:string .
+
+ns1:Ice_Body a ns1:Ability ;
+    ns1:japaneseName "アイスボディ"^^xsd:string ;
+    ns1:name "Ice Body"^^xsd:string .
+
+ns1:Ice_Face a ns1:Ability ;
+    ns1:japaneseName "アイスフェイス"^^xsd:string ;
+    ns1:name "Ice Face"^^xsd:string .
+
+ns1:Ice_Scales a ns1:Ability ;
+    ns1:japaneseName "こおりのりんぷん"^^xsd:string ;
+    ns1:name "Ice Scales"^^xsd:string .
+
+ns1:Illuminate a ns1:Ability ;
+    ns1:japaneseName "はっこう"^^xsd:string ;
+    ns1:name "Illuminate"^^xsd:string .
+
+ns1:Illusion a ns1:Ability ;
+    ns1:japaneseName "イリュージョン"^^xsd:string ;
+    ns1:name "Illusion"^^xsd:string .
+
+ns1:Immunity a ns1:Ability ;
+    ns1:japaneseName "めんえき"^^xsd:string ;
+    ns1:name "Immunity"^^xsd:string .
+
+ns1:Imposter a ns1:Ability ;
+    ns1:japaneseName "かわりもの"^^xsd:string ;
+    ns1:name "Imposter"^^xsd:string .
+
+ns1:Infiltrator a ns1:Ability ;
+    ns1:japaneseName "すりぬけ"^^xsd:string ;
+    ns1:name "Infiltrator"^^xsd:string .
+
+ns1:Innards_Out a ns1:Ability ;
+    ns1:japaneseName "とびだすなかみ"^^xsd:string ;
+    ns1:name "Innards Out"^^xsd:string .
+
+ns1:Inner_Focus a ns1:Ability ;
+    ns1:japaneseName "せいしんりょく"^^xsd:string ;
+    ns1:name "Inner Focus"^^xsd:string .
+
+ns1:Insomnia a ns1:Ability ;
+    ns1:japaneseName "ふみん"^^xsd:string ;
+    ns1:name "Insomnia"^^xsd:string .
+
+ns1:Intimidate a ns1:Ability ;
+    ns1:japaneseName "いかく"^^xsd:string ;
+    ns1:name "Intimidate"^^xsd:string .
+
+ns1:Intrepid_Sword a ns1:Ability ;
+    ns1:japaneseName "ふとうのけん"^^xsd:string ;
+    ns1:name "Intrepid Sword"^^xsd:string .
+
+ns1:Iron_Barbs a ns1:Ability ;
+    ns1:japaneseName "てつのトゲ"^^xsd:string ;
+    ns1:name "Iron Barbs"^^xsd:string .
+
+ns1:Iron_Fist a ns1:Ability ;
+    ns1:japaneseName "てつのこぶし"^^xsd:string ;
+    ns1:name "Iron Fist"^^xsd:string .
+
+ns1:Justified a ns1:Ability ;
+    ns1:japaneseName "せいぎのこころ"^^xsd:string ;
+    ns1:name "Justified"^^xsd:string .
+
+ns1:Keen_Eye a ns1:Ability ;
+    ns1:japaneseName "するどいめ"^^xsd:string ;
+    ns1:name "Keen Eye"^^xsd:string .
+
+ns1:Klutz a ns1:Ability ;
+    ns1:japaneseName "ぶきよう"^^xsd:string ;
+    ns1:name "Klutz"^^xsd:string .
+
+ns1:Leaf_Guard a ns1:Ability ;
+    ns1:japaneseName "リーフガード"^^xsd:string ;
+    ns1:name "Leaf Guard"^^xsd:string .
+
+ns1:Levitate a ns1:Ability ;
+    ns1:japaneseName "ふゆう"^^xsd:string ;
+    ns1:name "Levitate"^^xsd:string .
+
+ns1:Libero a ns1:Ability ;
+    ns1:japaneseName "リベロ"^^xsd:string ;
+    ns1:name "Libero"^^xsd:string .
+
+ns1:Light_Metal a ns1:Ability ;
+    ns1:japaneseName "ライトメタル"^^xsd:string ;
+    ns1:name "Light Metal"^^xsd:string .
+
+ns1:Lightning_Rod a ns1:Ability ;
+    ns1:japaneseName "ひらいしん"^^xsd:string ;
+    ns1:name "Lightning Rod"^^xsd:string .
+
+ns1:Limber a ns1:Ability ;
+    ns1:japaneseName "じゅうなん"^^xsd:string ;
+    ns1:name "Limber"^^xsd:string .
+
+ns1:Lingering_Aroma a ns1:Ability ;
+    ns1:japaneseName "とれないにおい"^^xsd:string ;
+    ns1:name "Lingering Aroma"^^xsd:string .
+
+ns1:Liquid_Ooze a ns1:Ability ;
+    ns1:japaneseName "ヘドロえき"^^xsd:string ;
+    ns1:name "Liquid Ooze"^^xsd:string .
+
+ns1:Liquid_Voice a ns1:Ability ;
+    ns1:japaneseName "うるおいボイス"^^xsd:string ;
+    ns1:name "Liquid Voice"^^xsd:string .
+
+ns1:Long_Reach a ns1:Ability ;
+    ns1:japaneseName "えんかく"^^xsd:string ;
+    ns1:name "Long Reach"^^xsd:string .
+
+ns1:Magic_Bounce a ns1:Ability ;
+    ns1:japaneseName "マジックミラー"^^xsd:string ;
+    ns1:name "Magic Bounce"^^xsd:string .
+
+ns1:Magic_Guard a ns1:Ability ;
+    ns1:japaneseName "マジックガード"^^xsd:string ;
+    ns1:name "Magic Guard"^^xsd:string .
+
+ns1:Magician a ns1:Ability ;
+    ns1:japaneseName "マジシャン"^^xsd:string ;
+    ns1:name "Magician"^^xsd:string .
+
+ns1:Magma_Armor a ns1:Ability ;
+    ns1:japaneseName "マグマのよろい"^^xsd:string ;
+    ns1:name "Magma Armor"^^xsd:string .
+
+ns1:Magnet_Pull a ns1:Ability ;
+    ns1:japaneseName "じりょく"^^xsd:string ;
+    ns1:name "Magnet Pull"^^xsd:string .
+
+ns1:Marvel_Scale a ns1:Ability ;
+    ns1:japaneseName "ふしぎなうろこ"^^xsd:string ;
+    ns1:name "Marvel Scale"^^xsd:string .
+
+ns1:Mega_Launcher a ns1:Ability ;
+    ns1:japaneseName "メガランチャー"^^xsd:string ;
+    ns1:name "Mega Launcher"^^xsd:string .
+
+ns1:Merciless a ns1:Ability ;
+    ns1:japaneseName "ひとでなし"^^xsd:string ;
+    ns1:name "Merciless"^^xsd:string .
+
+ns1:Mimicry a ns1:Ability ;
+    ns1:japaneseName "ぎたい"^^xsd:string ;
+    ns1:name "Mimicry"^^xsd:string .
+
+ns1:Minds_Eye a ns1:Ability ;
+    ns1:japaneseName "しんがん"^^xsd:string ;
+    ns1:name "Mind's Eye"^^xsd:string .
+
+ns1:Minus a ns1:Ability ;
+    ns1:japaneseName "マイナス"^^xsd:string ;
+    ns1:name "Minus"^^xsd:string .
+
+ns1:Mirror_Armor a ns1:Ability ;
+    ns1:japaneseName "ミラーアーマー"^^xsd:string ;
+    ns1:name "Mirror Armor"^^xsd:string .
+
+ns1:Misty_Surge a ns1:Ability ;
+    ns1:japaneseName "ミストメイカー"^^xsd:string ;
+    ns1:name "Misty Surge"^^xsd:string .
+
+ns1:Mold_Breaker a ns1:Ability ;
+    ns1:japaneseName "かたやぶり"^^xsd:string ;
+    ns1:name "Mold Breaker"^^xsd:string .
+
+ns1:Moody a ns1:Ability ;
+    ns1:japaneseName "ムラっけ"^^xsd:string ;
+    ns1:name "Moody"^^xsd:string .
+
+ns1:Motor_Drive a ns1:Ability ;
+    ns1:japaneseName "でんきエンジン"^^xsd:string ;
+    ns1:name "Motor Drive"^^xsd:string .
+
+ns1:Moxie a ns1:Ability ;
+    ns1:japaneseName "じしんかじょう"^^xsd:string ;
+    ns1:name "Moxie"^^xsd:string .
+
+ns1:Multiscale a ns1:Ability ;
+    ns1:japaneseName "マルチスケイル"^^xsd:string ;
+    ns1:name "Multiscale"^^xsd:string .
+
+ns1:Multitype a ns1:Ability ;
+    ns1:japaneseName "マルチタイプ"^^xsd:string ;
+    ns1:name "Multitype"^^xsd:string .
+
+ns1:Mummy a ns1:Ability ;
+    ns1:japaneseName "ミイラ"^^xsd:string ;
+    ns1:name "Mummy"^^xsd:string .
+
+ns1:Mycelium_Might a ns1:Ability ;
+    ns1:japaneseName "きんしのちから"^^xsd:string ;
+    ns1:name "Mycelium Might"^^xsd:string .
+
+ns1:Natural_Cure a ns1:Ability ;
+    ns1:japaneseName "しぜんかいふく"^^xsd:string ;
+    ns1:name "Natural Cure"^^xsd:string .
+
+ns1:Neuroforce a ns1:Ability ;
+    ns1:japaneseName "ブレインフォース"^^xsd:string ;
+    ns1:name "Neuroforce"^^xsd:string .
+
+ns1:Neutralizing_Gas a ns1:Ability ;
+    ns1:japaneseName "かがくへんかガス"^^xsd:string ;
+    ns1:name "Neutralizing Gas"^^xsd:string .
+
+ns1:No_Guard a ns1:Ability ;
+    ns1:japaneseName "ノーガード"^^xsd:string ;
+    ns1:name "No Guard"^^xsd:string .
+
+ns1:Normalize a ns1:Ability ;
+    ns1:japaneseName "ノーマルスキン"^^xsd:string ;
+    ns1:name "Normalize"^^xsd:string .
+
+ns1:Oblivious a ns1:Ability ;
+    ns1:japaneseName "どんかん"^^xsd:string ;
+    ns1:name "Oblivious"^^xsd:string .
+
+ns1:Opportunist a ns1:Ability ;
+    ns1:japaneseName "びんじょう"^^xsd:string ;
+    ns1:name "Opportunist"^^xsd:string .
+
+ns1:Orichalcum_Pulse a ns1:Ability ;
+    ns1:japaneseName "ひひいろのこどう"^^xsd:string ;
+    ns1:name "Orichalcum Pulse"^^xsd:string .
+
+ns1:Overcoat a ns1:Ability ;
+    ns1:japaneseName "ぼうじん"^^xsd:string ;
+    ns1:name "Overcoat"^^xsd:string .
+
+ns1:Overgrow a ns1:Ability ;
+    ns1:japaneseName "しんりょく"^^xsd:string ;
+    ns1:name "Overgrow"^^xsd:string .
+
+ns1:Own_Tempo a ns1:Ability ;
+    ns1:japaneseName "マイペース"^^xsd:string ;
+    ns1:name "Own Tempo"^^xsd:string .
+
+ns1:Parental_Bond a ns1:Ability ;
+    ns1:japaneseName "おやこあい"^^xsd:string ;
+    ns1:name "Parental Bond"^^xsd:string .
+
+ns1:Pastel_Veil a ns1:Ability ;
+    ns1:japaneseName "パステルベール"^^xsd:string ;
+    ns1:name "Pastel Veil"^^xsd:string .
+
+ns1:Perish_Body a ns1:Ability ;
+    ns1:japaneseName "ほろびのボディ"^^xsd:string ;
+    ns1:name "Perish Body"^^xsd:string .
+
+ns1:Pickpocket a ns1:Ability ;
+    ns1:japaneseName "わるいてぐせ"^^xsd:string ;
+    ns1:name "Pickpocket"^^xsd:string .
+
+ns1:Pickup a ns1:Ability ;
+    ns1:japaneseName "ものひろい"^^xsd:string ;
+    ns1:name "Pickup"^^xsd:string .
+
+ns1:Pixilate a ns1:Ability ;
+    ns1:japaneseName "フェアリースキン"^^xsd:string ;
+    ns1:name "Pixilate"^^xsd:string .
+
+ns1:Plus a ns1:Ability ;
+    ns1:japaneseName "プラス"^^xsd:string ;
+    ns1:name "Plus"^^xsd:string .
+
+ns1:Poison_Heal a ns1:Ability ;
+    ns1:japaneseName "ポイズンヒール"^^xsd:string ;
+    ns1:name "Poison Heal"^^xsd:string .
+
+ns1:Poison_Point a ns1:Ability ;
+    ns1:japaneseName "どくのトゲ"^^xsd:string ;
+    ns1:name "Poison Point"^^xsd:string .
+
+ns1:Poison_Puppeteer a ns1:Ability ;
+    ns1:japaneseName "どくくぐつ"^^xsd:string ;
+    ns1:name "Poison Puppeteer"^^xsd:string .
+
+ns1:Poison_Touch a ns1:Ability ;
+    ns1:japaneseName "どくしゅ"^^xsd:string ;
+    ns1:name "Poison Touch"^^xsd:string .
+
+ns1:Power_Construct a ns1:Ability ;
+    ns1:japaneseName "スワームチェンジ"^^xsd:string ;
+    ns1:name "Power Construct"^^xsd:string .
+
+ns1:Power_Spot a ns1:Ability ;
+    ns1:japaneseName "パワースポット"^^xsd:string ;
+    ns1:name "Power Spot"^^xsd:string .
+
+ns1:Power_of_Alchemy a ns1:Ability ;
+    ns1:japaneseName "かがくのちから"^^xsd:string ;
+    ns1:name "Power of Alchemy"^^xsd:string .
+
+ns1:Prankster a ns1:Ability ;
+    ns1:japaneseName "いたずらごころ"^^xsd:string ;
+    ns1:name "Prankster"^^xsd:string .
+
+ns1:Pressure a ns1:Ability ;
+    ns1:japaneseName "プレッシャー"^^xsd:string ;
+    ns1:name "Pressure"^^xsd:string .
+
+ns1:Primordial_Sea a ns1:Ability ;
+    ns1:japaneseName "はじまりのうみ"^^xsd:string ;
+    ns1:name "Primordial Sea"^^xsd:string .
+
+ns1:Prism_Armor a ns1:Ability ;
+    ns1:japaneseName "プリズムアーマー"^^xsd:string ;
+    ns1:name "Prism Armor"^^xsd:string .
+
+ns1:Propeller_Tail a ns1:Ability ;
+    ns1:japaneseName "スクリューおびれ"^^xsd:string ;
+    ns1:name "Propeller Tail"^^xsd:string .
+
+ns1:Protean a ns1:Ability ;
+    ns1:japaneseName "へんげんじざい"^^xsd:string ;
+    ns1:name "Protean"^^xsd:string .
+
+ns1:Protosynthesis a ns1:Ability ;
+    ns1:japaneseName "こだいかっせい"^^xsd:string ;
+    ns1:name "Protosynthesis"^^xsd:string .
+
+ns1:Psychic_Surge a ns1:Ability ;
+    ns1:japaneseName "サイコメイカー"^^xsd:string ;
+    ns1:name "Psychic Surge"^^xsd:string .
+
+ns1:Punk_Rock a ns1:Ability ;
+    ns1:japaneseName "パンクロック"^^xsd:string ;
+    ns1:name "Punk Rock"^^xsd:string .
+
+ns1:Pure_Power a ns1:Ability ;
+    ns1:japaneseName "ヨガパワー"^^xsd:string ;
+    ns1:name "Pure Power"^^xsd:string .
+
+ns1:Purifying_Salt a ns1:Ability ;
+    ns1:japaneseName "きよめのしお"^^xsd:string ;
+    ns1:name "Purifying Salt"^^xsd:string .
+
+ns1:Quark_Drive a ns1:Ability ;
+    ns1:japaneseName "クォークチャージ"^^xsd:string ;
+    ns1:name "Quark Drive"^^xsd:string .
+
+ns1:Queenly_Majesty a ns1:Ability ;
+    ns1:japaneseName "じょおうのいげん"^^xsd:string ;
+    ns1:name "Queenly Majesty"^^xsd:string .
+
+ns1:Quick_Draw a ns1:Ability ;
+    ns1:japaneseName "クイックドロウ"^^xsd:string ;
+    ns1:name "Quick Draw"^^xsd:string .
+
+ns1:Quick_Feet a ns1:Ability ;
+    ns1:japaneseName "はやあし"^^xsd:string ;
+    ns1:name "Quick Feet"^^xsd:string .
+
+ns1:RKS_System a ns1:Ability ;
+    ns1:japaneseName "ＡＲシステム"^^xsd:string ;
+    ns1:name "RKS System"^^xsd:string .
+
+ns1:Rain_Dish a ns1:Ability ;
+    ns1:japaneseName "あめうけざら"^^xsd:string ;
+    ns1:name "Rain Dish"^^xsd:string .
+
+ns1:Rattled a ns1:Ability ;
+    ns1:japaneseName "びびり"^^xsd:string ;
+    ns1:name "Rattled"^^xsd:string .
+
+ns1:Receiver a ns1:Ability ;
+    ns1:japaneseName "レシーバー"^^xsd:string ;
+    ns1:name "Receiver"^^xsd:string .
+
+ns1:Reckless a ns1:Ability ;
+    ns1:japaneseName "すてみ"^^xsd:string ;
+    ns1:name "Reckless"^^xsd:string .
+
+ns1:Refrigerate a ns1:Ability ;
+    ns1:japaneseName "フリーズスキン"^^xsd:string ;
+    ns1:name "Refrigerate"^^xsd:string .
+
+ns1:Regenerator a ns1:Ability ;
+    ns1:japaneseName "さいせいりょく"^^xsd:string ;
+    ns1:name "Regenerator"^^xsd:string .
+
+ns1:Ripen a ns1:Ability ;
+    ns1:japaneseName "じゅくせい"^^xsd:string ;
+    ns1:name "Ripen"^^xsd:string .
+
+ns1:Rivalry a ns1:Ability ;
+    ns1:japaneseName "とうそうしん"^^xsd:string ;
+    ns1:name "Rivalry"^^xsd:string .
+
+ns1:Rock_Head a ns1:Ability ;
+    ns1:japaneseName "いしあたま"^^xsd:string ;
+    ns1:name "Rock Head"^^xsd:string .
+
+ns1:Rocky_Payload a ns1:Ability ;
+    ns1:japaneseName "いわはこび"^^xsd:string ;
+    ns1:name "Rocky Payload"^^xsd:string .
+
+ns1:Rough_Skin a ns1:Ability ;
+    ns1:japaneseName "さめはだ"^^xsd:string ;
+    ns1:name "Rough Skin"^^xsd:string .
+
+ns1:Run_Away a ns1:Ability ;
+    ns1:japaneseName "にげあし"^^xsd:string ;
+    ns1:name "Run Away"^^xsd:string .
+
+ns1:Sand_Force a ns1:Ability ;
+    ns1:japaneseName "すなのちから"^^xsd:string ;
+    ns1:name "Sand Force"^^xsd:string .
+
+ns1:Sand_Rush a ns1:Ability ;
+    ns1:japaneseName "すなかき"^^xsd:string ;
+    ns1:name "Sand Rush"^^xsd:string .
+
+ns1:Sand_Spit a ns1:Ability ;
+    ns1:japaneseName "すなはき"^^xsd:string ;
+    ns1:name "Sand Spit"^^xsd:string .
+
+ns1:Sand_Stream a ns1:Ability ;
+    ns1:japaneseName "すなおこし"^^xsd:string ;
+    ns1:name "Sand Stream"^^xsd:string .
+
+ns1:Sand_Veil a ns1:Ability ;
+    ns1:japaneseName "すながくれ"^^xsd:string ;
+    ns1:name "Sand Veil"^^xsd:string .
+
+ns1:Sap_Sipper a ns1:Ability ;
+    ns1:japaneseName "そうしょく"^^xsd:string ;
+    ns1:name "Sap Sipper"^^xsd:string .
+
+ns1:Schooling a ns1:Ability ;
+    ns1:japaneseName "ぎょぐん"^^xsd:string ;
+    ns1:name "Schooling"^^xsd:string .
+
+ns1:Scrappy a ns1:Ability ;
+    ns1:japaneseName "きもったま"^^xsd:string ;
+    ns1:name "Scrappy"^^xsd:string .
+
+ns1:Screen_Cleaner a ns1:Ability ;
+    ns1:japaneseName "バリアフリー"^^xsd:string ;
+    ns1:name "Screen Cleaner"^^xsd:string .
+
+ns1:Seed_Sower a ns1:Ability ;
+    ns1:japaneseName "こぼれダネ"^^xsd:string ;
+    ns1:name "Seed Sower"^^xsd:string .
+
+ns1:Serene_Grace a ns1:Ability ;
+    ns1:japaneseName "てんのめぐみ"^^xsd:string ;
+    ns1:name "Serene Grace"^^xsd:string .
+
+ns1:Shadow_Shield a ns1:Ability ;
+    ns1:japaneseName "ファントムガード"^^xsd:string ;
+    ns1:name "Shadow Shield"^^xsd:string .
+
+ns1:Shadow_Tag a ns1:Ability ;
+    ns1:japaneseName "かげふみ"^^xsd:string ;
+    ns1:name "Shadow Tag"^^xsd:string .
+
+ns1:Sharpness a ns1:Ability ;
+    ns1:japaneseName "きれあじ"^^xsd:string ;
+    ns1:name "Sharpness"^^xsd:string .
+
+ns1:Shed_Skin a ns1:Ability ;
+    ns1:japaneseName "だっぴ"^^xsd:string ;
+    ns1:name "Shed Skin"^^xsd:string .
+
+ns1:Sheer_Force a ns1:Ability ;
+    ns1:japaneseName "ちからずく"^^xsd:string ;
+    ns1:name "Sheer Force"^^xsd:string .
+
+ns1:Shell_Armor a ns1:Ability ;
+    ns1:japaneseName "シェルアーマー"^^xsd:string ;
+    ns1:name "Shell Armor"^^xsd:string .
+
+ns1:Shield_Dust a ns1:Ability ;
+    ns1:japaneseName "りんぷん"^^xsd:string ;
+    ns1:name "Shield Dust"^^xsd:string .
+
+ns1:Shields_Down a ns1:Ability ;
+    ns1:japaneseName "リミットシールド"^^xsd:string ;
+    ns1:name "Shields Down"^^xsd:string .
+
+ns1:Simple a ns1:Ability ;
+    ns1:japaneseName "たんじゅん"^^xsd:string ;
+    ns1:name "Simple"^^xsd:string .
+
+ns1:Skill_Link a ns1:Ability ;
+    ns1:japaneseName "スキルリンク"^^xsd:string ;
+    ns1:name "Skill Link"^^xsd:string .
+
+ns1:Slow_Start a ns1:Ability ;
+    ns1:japaneseName "スロースタート"^^xsd:string ;
+    ns1:name "Slow Start"^^xsd:string .
+
+ns1:Slush_Rush a ns1:Ability ;
+    ns1:japaneseName "ゆきかき"^^xsd:string ;
+    ns1:name "Slush Rush"^^xsd:string .
+
+ns1:Sniper a ns1:Ability ;
+    ns1:japaneseName "スナイパー"^^xsd:string ;
+    ns1:name "Sniper"^^xsd:string .
+
+ns1:Snow_Cloak a ns1:Ability ;
+    ns1:japaneseName "ゆきがくれ"^^xsd:string ;
+    ns1:name "Snow Cloak"^^xsd:string .
+
+ns1:Snow_Warning a ns1:Ability ;
+    ns1:japaneseName "ゆきふらし"^^xsd:string ;
+    ns1:name "Snow Warning"^^xsd:string .
+
+ns1:Solar_Power a ns1:Ability ;
+    ns1:japaneseName "サンパワー"^^xsd:string ;
+    ns1:name "Solar Power"^^xsd:string .
+
+ns1:Solid_Rock a ns1:Ability ;
+    ns1:japaneseName "ハードロック"^^xsd:string ;
+    ns1:name "Solid Rock"^^xsd:string .
+
+ns1:Soul-Heart a ns1:Ability ;
+    ns1:japaneseName "ソウルハート"^^xsd:string ;
+    ns1:name "Soul-Heart"^^xsd:string .
+
+ns1:Soundproof a ns1:Ability ;
+    ns1:japaneseName "ぼうおん"^^xsd:string ;
+    ns1:name "Soundproof"^^xsd:string .
+
+ns1:Speed_Boost a ns1:Ability ;
+    ns1:japaneseName "かそく"^^xsd:string ;
+    ns1:name "Speed Boost"^^xsd:string .
+
+ns1:Stakeout a ns1:Ability ;
+    ns1:japaneseName "はりこみ"^^xsd:string ;
+    ns1:name "Stakeout"^^xsd:string .
+
+ns1:Stall a ns1:Ability ;
+    ns1:japaneseName "あとだし"^^xsd:string ;
+    ns1:name "Stall"^^xsd:string .
+
+ns1:Stalwart a ns1:Ability ;
+    ns1:japaneseName "すじがねいり"^^xsd:string ;
+    ns1:name "Stalwart"^^xsd:string .
+
+ns1:Stamina a ns1:Ability ;
+    ns1:japaneseName "じきゅうりょく"^^xsd:string ;
+    ns1:name "Stamina"^^xsd:string .
+
+ns1:Stance_Change a ns1:Ability ;
+    ns1:japaneseName "バトルスイッチ"^^xsd:string ;
+    ns1:name "Stance Change"^^xsd:string .
+
+ns1:Static a ns1:Ability ;
+    ns1:japaneseName "せいでんき"^^xsd:string ;
+    ns1:name "Static"^^xsd:string .
+
+ns1:Steadfast a ns1:Ability ;
+    ns1:japaneseName "ふくつのこころ"^^xsd:string ;
+    ns1:name "Steadfast"^^xsd:string .
+
+ns1:Steam_Engine a ns1:Ability ;
+    ns1:japaneseName "じょうききかん"^^xsd:string ;
+    ns1:name "Steam Engine"^^xsd:string .
+
+ns1:Steelworker a ns1:Ability ;
+    ns1:japaneseName "はがねつかい"^^xsd:string ;
+    ns1:name "Steelworker"^^xsd:string .
+
+ns1:Steely_Spirit a ns1:Ability ;
+    ns1:japaneseName "はがねのせいしん"^^xsd:string ;
+    ns1:name "Steely Spirit"^^xsd:string .
+
+ns1:Stench a ns1:Ability ;
+    ns1:japaneseName "あくしゅう"^^xsd:string ;
+    ns1:name "Stench"^^xsd:string .
+
+ns1:Sticky_Hold a ns1:Ability ;
+    ns1:japaneseName "ねんちゃく"^^xsd:string ;
+    ns1:name "Sticky Hold"^^xsd:string .
+
+ns1:Storm_Drain a ns1:Ability ;
+    ns1:japaneseName "よびみず"^^xsd:string ;
+    ns1:name "Storm Drain"^^xsd:string .
+
+ns1:Strong_Jaw a ns1:Ability ;
+    ns1:japaneseName "がんじょうあご"^^xsd:string ;
+    ns1:name "Strong Jaw"^^xsd:string .
+
+ns1:Sturdy a ns1:Ability ;
+    ns1:japaneseName "がんじょう"^^xsd:string ;
+    ns1:name "Sturdy"^^xsd:string .
+
+ns1:Suction_Cups a ns1:Ability ;
+    ns1:japaneseName "きゅうばん"^^xsd:string ;
+    ns1:name "Suction Cups"^^xsd:string .
+
+ns1:Super_Luck a ns1:Ability ;
+    ns1:japaneseName "きょううん"^^xsd:string ;
+    ns1:name "Super Luck"^^xsd:string .
+
+ns1:Supersweet_Syrup a ns1:Ability ;
+    ns1:japaneseName "かんろなミツ"^^xsd:string ;
+    ns1:name "Supersweet Syrup"^^xsd:string .
+
+ns1:Supreme_Overlord a ns1:Ability ;
+    ns1:japaneseName "そうだいしょう"^^xsd:string ;
+    ns1:name "Supreme Overlord"^^xsd:string .
+
+ns1:Surge_Surfer a ns1:Ability ;
+    ns1:japaneseName "サーフテール"^^xsd:string ;
+    ns1:name "Surge Surfer"^^xsd:string .
+
+ns1:Swarm a ns1:Ability ;
+    ns1:japaneseName "むしのしらせ"^^xsd:string ;
+    ns1:name "Swarm"^^xsd:string .
+
+ns1:Sweet_Veil a ns1:Ability ;
+    ns1:japaneseName "スイートベール"^^xsd:string ;
+    ns1:name "Sweet Veil"^^xsd:string .
+
+ns1:Swift_Swim a ns1:Ability ;
+    ns1:japaneseName "すいすい"^^xsd:string ;
+    ns1:name "Swift Swim"^^xsd:string .
+
+ns1:Sword_of_Ruin a ns1:Ability ;
+    ns1:japaneseName "わざわいのつるぎ"^^xsd:string ;
+    ns1:name "Sword of Ruin"^^xsd:string .
+
+ns1:Symbiosis a ns1:Ability ;
+    ns1:japaneseName "きょうせい"^^xsd:string ;
+    ns1:name "Symbiosis"^^xsd:string .
+
+ns1:Synchronize a ns1:Ability ;
+    ns1:japaneseName "シンクロ"^^xsd:string ;
+    ns1:name "Synchronize"^^xsd:string .
+
+ns1:Tablets_of_Ruin a ns1:Ability ;
+    ns1:japaneseName "わざわいのおふだ"^^xsd:string ;
+    ns1:name "Tablets of Ruin"^^xsd:string .
+
+ns1:Tangled_Feet a ns1:Ability ;
+    ns1:japaneseName "ちどりあし"^^xsd:string ;
+    ns1:name "Tangled Feet"^^xsd:string .
+
+ns1:Tangling_Hair a ns1:Ability ;
+    ns1:japaneseName "カーリーヘアー"^^xsd:string ;
+    ns1:name "Tangling Hair"^^xsd:string .
+
+ns1:Technician a ns1:Ability ;
+    ns1:japaneseName "テクニシャン"^^xsd:string ;
+    ns1:name "Technician"^^xsd:string .
+
+ns1:Telepathy a ns1:Ability ;
+    ns1:japaneseName "テレパシー"^^xsd:string ;
+    ns1:name "Telepathy"^^xsd:string .
+
+ns1:Tera_Shell a ns1:Ability ;
+    ns1:japaneseName "テラスシェル"^^xsd:string ;
+    ns1:name "Tera Shell"^^xsd:string .
+
+ns1:Tera_Shift a ns1:Ability ;
+    ns1:japaneseName "テラスチェンジ"^^xsd:string ;
+    ns1:name "Tera Shift"^^xsd:string .
+
+ns1:Teraform_Zero a ns1:Ability ;
+    ns1:japaneseName "ゼロフォーミング"^^xsd:string ;
+    ns1:name "Teraform Zero"^^xsd:string .
+
+ns1:Teravolt a ns1:Ability ;
+    ns1:japaneseName "テラボルテージ"^^xsd:string ;
+    ns1:name "Teravolt"^^xsd:string .
+
+ns1:Thermal_Exchange a ns1:Ability ;
+    ns1:japaneseName "ねつこうかん"^^xsd:string ;
+    ns1:name "Thermal Exchange"^^xsd:string .
+
+ns1:Thick_Fat a ns1:Ability ;
+    ns1:japaneseName "あついしぼう"^^xsd:string ;
+    ns1:name "Thick Fat"^^xsd:string .
+
+ns1:Tinted_Lens a ns1:Ability ;
+    ns1:japaneseName "いろめがね"^^xsd:string ;
+    ns1:name "Tinted Lens"^^xsd:string .
+
+ns1:Torrent a ns1:Ability ;
+    ns1:japaneseName "げきりゅう"^^xsd:string ;
+    ns1:name "Torrent"^^xsd:string .
+
+ns1:Tough_Claws a ns1:Ability ;
+    ns1:japaneseName "かたいツメ"^^xsd:string ;
+    ns1:name "Tough Claws"^^xsd:string .
+
+ns1:Toxic_Boost a ns1:Ability ;
+    ns1:japaneseName "どくぼうそう"^^xsd:string ;
+    ns1:name "Toxic Boost"^^xsd:string .
+
+ns1:Toxic_Chain a ns1:Ability ;
+    ns1:japaneseName "どくのくさり"^^xsd:string ;
+    ns1:name "Toxic Chain"^^xsd:string .
+
+ns1:Toxic_Debris a ns1:Ability ;
+    ns1:japaneseName "どくげしょう"^^xsd:string ;
+    ns1:name "Toxic Debris"^^xsd:string .
+
+ns1:Trace a ns1:Ability ;
+    ns1:japaneseName "トレース"^^xsd:string ;
+    ns1:name "Trace"^^xsd:string .
+
+ns1:Transistor a ns1:Ability ;
+    ns1:japaneseName "トランジスタ"^^xsd:string ;
+    ns1:name "Transistor"^^xsd:string .
+
+ns1:Triage a ns1:Ability ;
+    ns1:japaneseName "ヒーリングシフト"^^xsd:string ;
+    ns1:name "Triage"^^xsd:string .
+
+ns1:Truant a ns1:Ability ;
+    ns1:japaneseName "なまけ"^^xsd:string ;
+    ns1:name "Truant"^^xsd:string .
+
+ns1:Turboblaze a ns1:Ability ;
+    ns1:japaneseName "ターボブレイズ"^^xsd:string ;
+    ns1:name "Turboblaze"^^xsd:string .
+
+ns1:Unaware a ns1:Ability ;
+    ns1:japaneseName "てんねん"^^xsd:string ;
+    ns1:name "Unaware"^^xsd:string .
+
+ns1:Unburden a ns1:Ability ;
+    ns1:japaneseName "かるわざ"^^xsd:string ;
+    ns1:name "Unburden"^^xsd:string .
+
+ns1:Unnerve a ns1:Ability ;
+    ns1:japaneseName "きんちょうかん"^^xsd:string ;
+    ns1:name "Unnerve"^^xsd:string .
+
+ns1:Unseen_Fist a ns1:Ability ;
+    ns1:japaneseName "ふかしのこぶし"^^xsd:string ;
+    ns1:name "Unseen Fist"^^xsd:string .
+
+ns1:Vessel_of_Ruin a ns1:Ability ;
+    ns1:japaneseName "わざわいのうつわ"^^xsd:string ;
+    ns1:name "Vessel of Ruin"^^xsd:string .
+
+ns1:Victory_Star a ns1:Ability ;
+    ns1:japaneseName "しょうりのほし"^^xsd:string ;
+    ns1:name "Victory Star"^^xsd:string .
+
+ns1:Vital_Spirit a ns1:Ability ;
+    ns1:japaneseName "やるき"^^xsd:string ;
+    ns1:name "Vital Spirit"^^xsd:string .
+
+ns1:Volt_Absorb a ns1:Ability ;
+    ns1:japaneseName "ちくでん"^^xsd:string ;
+    ns1:name "Volt Absorb"^^xsd:string .
+
+ns1:Wandering_Spirit a ns1:Ability ;
+    ns1:japaneseName "さまようたましい"^^xsd:string ;
+    ns1:name "Wandering Spirit"^^xsd:string .
+
+ns1:Water_Absorb a ns1:Ability ;
+    ns1:japaneseName "ちょすい"^^xsd:string ;
+    ns1:name "Water Absorb"^^xsd:string .
+
+ns1:Water_Bubble a ns1:Ability ;
+    ns1:japaneseName "すいほう"^^xsd:string ;
+    ns1:name "Water Bubble"^^xsd:string .
+
+ns1:Water_Compaction a ns1:Ability ;
+    ns1:japaneseName "みずがため"^^xsd:string ;
+    ns1:name "Water Compaction"^^xsd:string .
+
+ns1:Water_Veil a ns1:Ability ;
+    ns1:japaneseName "みずのベール"^^xsd:string ;
+    ns1:name "Water Veil"^^xsd:string .
+
+ns1:Weak_Armor a ns1:Ability ;
+    ns1:japaneseName "くだけるよろい"^^xsd:string ;
+    ns1:name "Weak Armor"^^xsd:string .
+
+ns1:Well-Baked_Body a ns1:Ability ;
+    ns1:japaneseName "こんがりボディ"^^xsd:string ;
+    ns1:name "Well-Baked Body"^^xsd:string .
+
+ns1:White_Smoke a ns1:Ability ;
+    ns1:japaneseName "しろいけむり"^^xsd:string ;
+    ns1:name "White Smoke"^^xsd:string .
+
+ns1:Wimp_Out a ns1:Ability ;
+    ns1:japaneseName "にげごし"^^xsd:string ;
+    ns1:name "Wimp Out"^^xsd:string .
+
+ns1:Wind_Power a ns1:Ability ;
+    ns1:japaneseName "ふうりょくでんき"^^xsd:string ;
+    ns1:name "Wind Power"^^xsd:string .
+
+ns1:Wind_Rider a ns1:Ability ;
+    ns1:japaneseName "かぜのり"^^xsd:string ;
+    ns1:name "Wind Rider"^^xsd:string .
+
+ns1:Wonder_Guard a ns1:Ability ;
+    ns1:japaneseName "ふしぎなまもり"^^xsd:string ;
+    ns1:name "Wonder Guard"^^xsd:string .
+
+ns1:Wonder_Skin a ns1:Ability ;
+    ns1:japaneseName "ミラクルスキン"^^xsd:string ;
+    ns1:name "Wonder Skin"^^xsd:string .
+
+ns1:Zen_Mode a ns1:Ability ;
+    ns1:japaneseName "ダルマモード"^^xsd:string ;
+    ns1:name "Zen Mode"^^xsd:string .
+
+ns1:Zero_to_Hero a ns1:Ability ;
+    ns1:japaneseName "マイティチェンジ"^^xsd:string ;
+    ns1:name "Zero to Hero"^^xsd:string .
+

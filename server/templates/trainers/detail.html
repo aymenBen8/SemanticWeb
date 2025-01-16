@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Détails du Dresseur - Pokémon Knowledge Graph</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="background"></div>
+
+    <header>
+        <h1>Détails du Dresseur</h1>
+    </header>
+
+    <nav>
+        <a href="{{ url_for('home') }}">Accueil</a>
+        <a href="{{ url_for('pokemon_list') }}">Pokémon</a>
+        <a href="{{ url_for('trainer_list') }}">Dresseurs</a>
+    </nav>
+
+    <div class="trainer-detail-section">
+        <div class="trainer-card">
+            <img src="{{ trainer.image.value }}" alt="{{ trainer.name.value }}" referrerpolicy="no-referrer" onerror="this.src='https://via.placeholder.com/120';">
+            <h2>{{ trainer.name.value }}</h2>
+            <p>Genre : {{ trainer.gender.value }}</p>
+            <p>Nom japonais : {{ trainer.japaneseName.value }}</p>
+            <p>Relatif à : {{ trainer.relatedTo.value }}</p>
+        </div>
+
+        <a href="{{ url_for('trainer_list') }}" class="btn-details">Retour à la liste</a>
+    </div>
+
+    <div class="footer">
+        <p>© 2025 Pokémon Knowledge Graph Project | Made with ❤️</p>
+    </div>
+</body>
+</html>

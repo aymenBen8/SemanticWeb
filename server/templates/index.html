@@ -1,0 +1,153 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="featured-section">
+        <h2>Featured Pokémon</h2>
+        <div class="carousel">
+            <div class="carousel-container">
+                <div class="carousel-slide">
+                    {% for pokemon in featured_pokemon %}
+                        <div class="carousel-item animated">
+                            <img src="https://cdn.bulbagarden.net/upload/thumb/{{ pokemon.image.value }}" alt="{{ pokemon.name.value }}">
+                            <h3>{{ pokemon.name.value }}</h3>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <button class="carousel-button prev" onclick="prevSlide()">&#10094;</button>
+            <button class="carousel-button next" onclick="nextSlide()">&#10095;</button>
+        </div>
+    </div>
+
+    <div class="featured-section">
+        <h2>Featured Trainers</h2>
+        <div class="carousel">
+            <div class="carousel-container">
+                <div class="carousel-slide">
+                    {% for trainer in featured_trainers %}
+                        <div class="carousel-item animated">
+                            <img src="https://cdn.bulbagarden.net/upload/thumb/{{ trainer.image.value }}" alt="{{ trainer.name.value }}">
+                            <h3>{{ trainer.name.value }}</h3>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <button class="carousel-button prev" onclick="prevSlide()">&#10094;</button>
+            <button class="carousel-button next" onclick="nextSlide()">&#10095;</button>
+        </div>
+    </div>
+
+    <div class="featured-section">
+        <h2>Featured Abilities</h2>
+        <div class="carousel">
+            <div class="carousel-container">
+                <div class="carousel-slide">
+                    {% for ability in featured_abilities %}
+                        <div class="carousel-item animated">
+                            <img src="https://cdn.bulbagarden.net/upload/thumb/{{ ability.image.value }}" alt="{{ ability.name.value }}">
+                            <h3>{{ ability.name.value }}</h3>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <button class="carousel-button prev" onclick="prevSlide()">&#10094;</button>
+            <button class="carousel-button next" onclick="nextSlide()">&#10095;</button>
+        </div>
+    </div>
+
+    <div class="featured-section">
+        <h2>Featured Locations</h2>
+        <div class="carousel">
+            <div class="carousel-container">
+                <div class="carousel-slide">
+                    {% for location in featured_locations %}
+                        <div class="carousel-item animated">
+                            <img src="https://cdn.bulbagarden.net/upload/thumb/{{ location.image.value }}" alt="{{ location.name.value }}">
+                            <h3>{{ location.name.value }}</h3>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <button class="carousel-button prev" onclick="prevSlide()">&#10094;</button>
+            <button class="carousel-button next" onclick="nextSlide()">&#10095;</button>
+        </div>
+    </div>
+
+    <div class="featured-section">
+        <h2>Featured Items</h2>
+        <div class="carousel">
+            <div class="carousel-container">
+                <div class="carousel-slide">
+                    {% for item in featured_items %}
+                        <div class="carousel-item animated">
+                            <img src="https://cdn.bulbagarden.net/upload/thumb/{{ item.image.value }}" alt="{{ item.name.value }}">
+                            <h3>{{ item.name.value }}</h3>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <button class="carousel-button prev" onclick="prevSlide()">&#10094;</button>
+            <button class="carousel-button next" onclick="nextSlide()">&#10095;</button>
+        </div>
+    </div>
+
+    <div class="featured-section">
+        <h2>Featured Moves</h2>
+        <div class="carousel">
+            <div class="carousel-container">
+                <div class="carousel-slide">
+                    {% for move in featured_moves %}
+                        <div class="carousel-item animated">
+                            <img src="https://cdn.bulbagarden.net/upload/thumb/{{ move.image.value }}" alt="{{ move.name.value }}">
+                            <h3>{{ move.name.value }}</h3>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <button class="carousel-button prev" onclick="prevSlide()">&#10094;</button>
+            <button class="carousel-button next" onclick="nextSlide()">&#10095;</button>
+        </div>
+    </div>
+
+    <div class="about-section">
+        <h2>About the Project</h2>
+        <p>
+            The Pokémon Knowledge Graph is a comprehensive database that integrates information about Pokémon, trainers, abilities, locations, items, and moves. Built using Semantic Web technologies, it provides a rich and interconnected view of the Pokémon universe.
+        </p>
+    </div>
+
+    <script>
+        // JavaScript pour l'interactivité de la page d'accueil
+        function searchEntity() {
+            const query = document.getElementById('searchInput').value;
+            if (query) {
+                window.location.href = `/search?query=${encodeURIComponent(query)}`;
+            } else {
+                alert("Please enter a search term!");
+            }
+        }
+
+        // Carousel functionality
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.carousel-item');
+        const totalSlides = slides.length;
+
+        function showSlide(index) {
+            const slideWidth = slides[0].clientWidth;
+            document.querySelector('.carousel-slide').style.transform = `translateX(${-index * slideWidth}px)`;
+        }
+
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            showSlide(currentSlide);
+        }
+
+        function prevSlide() {
+            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            showSlide(currentSlide);
+        }
+
+        // Auto-rotate carousel
+        setInterval(nextSlide, 5000);
+    </script>
+{% endblock %}

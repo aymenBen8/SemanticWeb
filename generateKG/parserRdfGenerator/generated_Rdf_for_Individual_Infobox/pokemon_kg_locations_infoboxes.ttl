@@ -1,0 +1,4595 @@
+@prefix ns1: <http://example.org/ontology/pokemon#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Abandoned_Ship a ns1:Location ;
+    ns1:japaneseName "すてられ"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Abandoned Ship"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Abundant_Shrine a ns1:Location ;
+    ns1:description "People once lived in this village, and it still feels the same as it did then."^^xsd:string ;
+    ns1:japaneseName "ほうじょうのやしろ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Abundant Shrine"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Abyssal_Ruins a ns1:Location ;
+    ns1:description "An ancient tomb that is said to be the resting place of an ancient king."^^xsd:string ;
+    ns1:japaneseName "海底遺跡"^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Abyssal Ruins"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Aether_House a ns1:Location ;
+    ns1:japaneseName "エーテルハウス"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Aether House"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Aether_Paradise a ns1:Location ;
+    ns1:description "A VLFS or a \"very large floating structure.\" This is where the Aether Foundation's research facilities are."^^xsd:string ;
+    ns1:japaneseName "エーテルパラダイス"^^xsd:string ;
+    ns1:locationType "steel"^^xsd:string ;
+    ns1:name "Aether Paradise"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Aipom_Hill a ns1:Location ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Aipom Hill"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Air_Continent a ns1:Location ;
+    ns1:japaneseName "風の大陸"^^xsd:string ;
+    ns1:locationType "fog"^^xsd:string ;
+    ns1:name "Air Continent"^^xsd:string ;
+    ns1:region ns1:Pokmon_world_Mystery_DungeonMystery_Dungeon_world .
+
+ns1:Akala_Island a ns1:Location ;
+    ns1:japaneseName "アーカラじま"^^xsd:string ;
+    ns1:locationType "fairy egg"^^xsd:string ;
+    ns1:name "Akala Island"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Akala_Outskirts a ns1:Location ;
+    ns1:description "A grassy stretch along Akala's southern-most coast. It leads from Memorial Hill to the Ruins of Life."^^xsd:string ;
+    ns1:japaneseName "アーカラはずれ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Akala Outskirts"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Alabaster_Icelands a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Alabaster Icelands"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Alfornada_Cavern a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Alfornada Cavern"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Almia_Castle a ns1:Location ;
+    ns1:description "A castle on the distant shore of Icle Lake, which is in the north of Hia Valley. A precious treasure is said to rest in the deepest part of this abandoned edifice."^^xsd:string ;
+    ns1:japaneseName "アルミアのおしろ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Almia Castle"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Altar_of_the_Moone a ns1:Location ;
+    ns1:description "An altar that is said to be closely associated with the depicted in the local folklore."^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Altar of the Moone"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Altar_of_the_Sunne a ns1:Location ;
+    ns1:description "An altar that is said to be closely associated with the depicted in the local folklore."^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Altar of the Sunne"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Altering_Cave a ns1:Location ;
+    ns1:description "This island has been known by this name since the distant past. No one today knows where it got this name, however."^^xsd:string ;
+    ns1:japaneseName "へんげのどうくつ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Altering Cave"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Altru_Building a ns1:Location ;
+    ns1:japaneseName "アンヘルビル"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Altru Building"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Altru_Tower a ns1:Location ;
+    ns1:description "The tallest tower in the Almia region. It was built by Altru Inc. in commemoration of its 70th anniversary. In reality, the tower turned out to be an abominable weapon to gain control over all Pokémon in the Almia Region."^^xsd:string ;
+    ns1:japaneseName "アンヘルタワー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Altru Tower"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Amity_Square a ns1:Location ;
+    ns1:description "The square is a place where s can stroll peacefully with ."^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Amity Square"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Ancient_Poni_Path a ns1:Location ;
+    ns1:description "An old path that leads to Vast Poni Canyon. Some people and Pokémon still try to live in the ruins here, but not many."^^xsd:string ;
+    ns1:japaneseName "ポニの"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Ancient Poni Path"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Ancient_Quarry a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Ancient Quarry"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Ancient_Tomb a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Ancient Tomb"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Apple_Hills a ns1:Location ;
+    ns1:japaneseName "アップルヒルズ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Apple Hills"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Area_Zero a ns1:Location ;
+    ns1:japaneseName "エリアゼロ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Area Zero"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Area_Zero_Underdepths a ns1:Location ;
+    ns1:japaneseName "ゼロの大空洞"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Area Zero Underdepths"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Arenas_Approach a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Arena's Approach"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Artisan_Cave a ns1:Location ;
+    ns1:japaneseName "アトリエのあな"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Artisan Cave"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Asado_Desert a ns1:Location ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Asado Desert"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Aspiration_Hill a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Aspiration Hill"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Atlantis a ns1:Location ;
+    ns1:japaneseName "アトランティス"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "Atlantis"^^xsd:string ;
+    ns1:region ns1:Carmonte_Island .
+
+ns1:Aurus_Island a ns1:Location ;
+    ns1:japaneseName "アウラム"^^xsd:string ;
+    ns1:locationType "gold"^^xsd:string ;
+    ns1:name "Aurus Island"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Autumnal_Avenue a ns1:Location ;
+    ns1:japaneseName "オトンヌ アベニュー"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Autumnal Avenue"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Avalanche_Slopes a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Avalanche Slopes"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Avaluggs_Legacy a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Avalugg's Legacy"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Axews_Eye a ns1:Location ;
+    ns1:japaneseName "キバ湖の瞳"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Axew's Eye"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Azure_Bay a ns1:Location ;
+    ns1:description "The deep blue ocean off Kalos's coast, where Pokémon from distant lands are said to visit."^^xsd:string ;
+    ns1:japaneseName "アズール"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Azure Bay"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Baa_de_Mer_Ranch a ns1:Location ;
+    ns1:japaneseName "メェール"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Baa de Mer Ranch"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Baker_Detective_Agency a ns1:Location ;
+    ns1:japaneseName "ベイカー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Baker Detective Agency"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:Ballimere_Lake a ns1:Location ;
+    ns1:japaneseName "ボールレイクの湖畔"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Ballimere Lake"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Bamboo_Borough a ns1:Location ;
+    ns1:japaneseName "バンブーストリート"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Bamboo Borough"^^xsd:string ;
+    ns1:region ns1:Unknown .
+
+ns1:Barren_Badlands a ns1:Location ;
+    ns1:description "A wasteland overlooked by cliffs, where fissures spew heat and toxic gas."^^xsd:string ;
+    ns1:japaneseName "カラリ"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Barren Badlands"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Bathers_Lagoon a ns1:Location ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "Bathers' Lagoon"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Battle_Buffet a ns1:Location ;
+    ns1:japaneseName "バトルバイキング"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Battle Buffet"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Battle_Caf a ns1:Location ;
+    ns1:japaneseName "バトルカフェ"^^xsd:string ;
+    ns1:locationType "fairy"^^xsd:string ;
+    ns1:name "Battle Café"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Battle_Chateau a ns1:Location ;
+    ns1:japaneseName "バトルシャトー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Battle Chateau"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Battle_Frontier a ns1:Location ;
+    ns1:description "The Battle Frontier--where the best of the best Trainers gather to test their skills--is located here.A place where people from all over come to show off their strength."^^xsd:string ;
+    ns1:japaneseName "バトルフロンティア"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Battle Frontier"^^xsd:string ;
+    ns1:region ns1:Hoenn,
+        ns1:Sinnoh .
+
+ns1:Battle_Maison a ns1:Location ;
+    ns1:japaneseName "バトルハウス"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Battle Maison"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Battle_Park a ns1:Location ;
+    ns1:description "The Battle Tower—where the best of the best Trainers gather to test their skill—is located here."^^xsd:string ;
+    ns1:japaneseName "バトルパーク"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Battle Park"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Battle_Resort a ns1:Location ;
+    ns1:description "This grand resort was built with the aim of allowing Trainers to enjoy every kind of Pokémon battle."^^xsd:string ;
+    ns1:japaneseName "バトルリゾート"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Battle Resort"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Battle_Royal_Dome a ns1:Location ;
+    ns1:japaneseName "ロイヤルドーム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Battle Royal Dome"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Battle_Royale a ns1:Location ;
+    ns1:japaneseName "バトルロイヤル"^^xsd:string ;
+    ns1:name "Battle Royale"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Battle_Subway a ns1:Location ;
+    ns1:japaneseName "バトルサブウェイ"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Battle Subway"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Battle_Tent a ns1:Location ;
+    ns1:japaneseName "バトルテント"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Battle Tent"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Battle_Tower a ns1:Location ;
+    ns1:japaneseName "バトルタワー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Battle Tower"^^xsd:string ;
+    ns1:region ns1:Galar,
+        ns1:Hoenn,
+        ns1:Johto,
+        ns1:Sinnoh .
+
+ns1:Battle_Tree a ns1:Location ;
+    ns1:description "The sacred battle grounds for the toughest Trainers of the Alola region."^^xsd:string ;
+    ns1:japaneseName "バトルツリー"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Battle Tree"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Battleground a ns1:Location ;
+    ns1:japaneseName "しょうぶどころ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Battleground"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Bell_Tower a ns1:Location ;
+    ns1:description "A tower that's said to have a that lands there."^^xsd:string ;
+    ns1:japaneseName "スズのとう"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Bell Tower"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Bellchime_Trail a ns1:Location ;
+    ns1:description "A path said to always be bathed in sunset, no matter what the season."^^xsd:string ;
+    ns1:japaneseName "スズねのこみち"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Bellchime Trail"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Belusylva_Island a ns1:Location ;
+    ns1:japaneseName "ベラス"^^xsd:string ;
+    ns1:locationType "yellow"^^xsd:string ;
+    ns1:name "Belusylva Island"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Berry_Forest a ns1:Location ;
+    ns1:description "A forest on a small islet off the coast of Three Island. Berries grow wildly in profusion, quickly replenishing those that fall off."^^xsd:string ;
+    ns1:japaneseName "きのみのもり"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Berry Forest"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Berry_fields a ns1:Location ;
+    ns1:description "A Berry field with soft soil. It is the pride and joy of the local Berry master."^^xsd:string ;
+    ns1:japaneseName "きのみ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Berry fields"^^xsd:string ;
+    ns1:region ns1:Alola,
+        ns1:Kalos .
+
+ns1:Big_Bluff_Cavern a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Big Bluff Cavern"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Big_Stadium_and_Small_Court a ns1:Location ;
+    ns1:japaneseName "ビッグスタジアムとリトルコート"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Big Stadium and Small Court"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Big_Wave_Beach a ns1:Location ;
+    ns1:description "A beach with huge waves. It's located near a motel. It's one of the Mantine Surf Spots."^^xsd:string ;
+    ns1:japaneseName "ビッグウェーブビーチ"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Big Wave Beach"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Birth_Island a ns1:Location ;
+    ns1:japaneseName "たんじょうのしま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Birth Island"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Black_Tower a ns1:Location ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Black Tower"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Blush_Mountain a ns1:Location ;
+    ns1:description "The mountain where the Geothermal Power Plant is situated. Its output covers almost all of Ula'ula Island's electric needs."^^xsd:string ;
+    ns1:japaneseName "ホテリ"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Blush Mountain"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Blushing_Beach a ns1:Location ;
+    ns1:description "Pristine sands and pastel tones make for a serene shoreline."^^xsd:string ;
+    ns1:japaneseName "ニジイロビーチ"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Blushing Beach"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Bogsunk_Cavern a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Bogsunk Cavern"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Bolderoll_Ravine a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Bolderoll Ravine"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Bolderoll_Slope a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Bolderoll Slope"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Bonechill_Wastes a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Bonechill Wastes"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Brava_Arena a ns1:Location ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Brava Arena"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Brawlers_Cave a ns1:Location ;
+    ns1:japaneseName "ファイトケイブ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Brawlers' Cave"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Bridge_Field a ns1:Location ;
+    ns1:japaneseName "ハシノマ原っぱ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Bridge Field"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Brooklet_Hill a ns1:Location ;
+    ns1:description "The best fishing spot in the Alola region. Its series of cascading waterfalls make it look like a terrace field."^^xsd:string ;
+    ns1:japaneseName "せせらぎの"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Brooklet Hill"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Burned_Tower a ns1:Location ;
+    ns1:description "A tower that was hit by lightning, and subsequently caught fire and burned."^^xsd:string ;
+    ns1:japaneseName "やけたとう"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Burned Tower"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Caf_Cabin a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Café Cabin"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Canal_Ruins a ns1:Location ;
+    ns1:japaneseName "カナルのいせき"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Canal Ruins"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Canalave_Library a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Canalave Library"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Canyon_Biome a ns1:Location ;
+    ns1:japaneseName "キャニオンエリア"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Canyon Biome"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Canyon_Plaza a ns1:Location ;
+    ns1:japaneseName "キャニオンスクエア"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Canyon Plaza"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Caph_Squads_Base a ns1:Location ;
+    ns1:japaneseName "チーム・カーフのアジト"^^xsd:string ;
+    ns1:locationType "fighting"^^xsd:string ;
+    ns1:name "Caph Squad's Base"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Cappucci_Island a ns1:Location ;
+    ns1:japaneseName "カプチ"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Cappucci Island"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:Capture_Arena a ns1:Location ;
+    ns1:description "A Capture Arena is a special facility where Rangers can test their capturing skills. It is open only to those Rangers deemed to be experts. Pokémon here are all very tough to capture—getting them all is challenging."^^xsd:string ;
+    ns1:japaneseName "キャプチャ・アリーナ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Capture Arena"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Card_e_Room a ns1:Location ;
+    ns1:japaneseName "カードｅルーム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Card e Room"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Cargo_Ship a ns1:Location ;
+    ns1:description "A ship that was originally built for transporting ordinary cargo. It was pressing into service by Team Dim Sun in an attempt to spirit away large numbers of Pokémon from Boyleland."^^xsd:string ;
+    ns1:japaneseName "かもつせん"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Cargo Ship"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Casseroya_Lake a ns1:Location ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Casseroya Lake"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Castaway_Shore a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Castaway Shore"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Castelia_Sewers a ns1:Location ;
+    ns1:description "Iron bars around the exits were dismantled, drawing curious Trainers."^^xsd:string ;
+    ns1:japaneseName "ヒウン"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Castelia Sewers"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Cave_of_Being a ns1:Location ;
+    ns1:description "They say the deepest part of the cave leads to the Sinnoh region."^^xsd:string ;
+    ns1:locationType "Cave"^^xsd:string ;
+    ns1:name "Cave of Being"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Cave_of_Origin a ns1:Location ;
+    ns1:description "A long-sleeping Pokémon will descend upon this cavern in order to awaken its true powers."^^xsd:string ;
+    ns1:japaneseName "目覚めのほこら"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Cave of Origin"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Celadon_Condominiums a ns1:Location ;
+    ns1:japaneseName "タマムシマンション"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Celadon Condominiums"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Celadon_Department_Store a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Celadon Department Store"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Celadon_Game_Corner a ns1:Location ;
+    ns1:japaneseName "タマムシゲームコーナー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Celadon Game Corner"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Celestial_Tower a ns1:Location ;
+    ns1:description "A tall tower with a large bell whose tones are said to purify the spirit."^^xsd:string ;
+    ns1:japaneseName "タワーオブヘブン"^^xsd:string ;
+    ns1:locationType "ghost"^^xsd:string ;
+    ns1:name "Celestial Tower"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Celestica_Ruins a ns1:Location ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Celestica Ruins"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Celestica_Trail a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Celestica Trail"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Central_Plaza a ns1:Location ;
+    ns1:japaneseName "センタースクエア"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Central Plaza"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Central_Square a ns1:Location ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Central Square"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:Cerulean_Cave a ns1:Location ;
+    ns1:description "A mysterious cave that is filled with terribly tough Pokémon. It is so dangerous, the Pokémon League is in charge of it.A cave that had collapsed once. It has been reconstructed."^^xsd:string ;
+    ns1:japaneseName "ハナダの"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Cerulean Cave"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Challenge_Beach a ns1:Location ;
+    ns1:japaneseName "チャレンジビーチ"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Challenge Beach"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Challenge_Road a ns1:Location ;
+    ns1:japaneseName "チャレンジロード"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Challenge Road"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Chamber_of_Emptiness a ns1:Location ;
+    ns1:description "A mysterious void. It is said that nothing can exist within it."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Chamber of Emptiness"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Chargestone_Cave a ns1:Location ;
+    ns1:description "A cave where electrically charged stones float."^^xsd:string ;
+    ns1:japaneseName "電気石の洞穴"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Chargestone Cave"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Chargestone_Cavern a ns1:Location ;
+    ns1:japaneseName "電気石の岩窟"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Chargestone Cavern"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Chilling_Waterhead a ns1:Location ;
+    ns1:japaneseName "ひやみず洞"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Chilling Waterhead"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Chroma_Ruins a ns1:Location ;
+    ns1:description "Curious ruins from long ago, located in the northwest of the Chroma Highlands. No one knows when the original site was built or who undertook the monumental task. Legends speak of a precious treasure resting deep inside."^^xsd:string ;
+    ns1:japaneseName "ヌリエのいせき"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Chroma Ruins"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Chteau_de_Rosa a ns1:Location ;
+    ns1:japaneseName "シャトー・ド・ローザ"^^xsd:string ;
+    ns1:locationType "psychic"^^xsd:string ;
+    ns1:name "Château de Rosa"^^xsd:string ;
+    ns1:region ns1:Carmonte_Island .
+
+ns1:Cinnabar_Lab a ns1:Location ;
+    ns1:japaneseName "グレンラボラトリー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Cinnabar Lab"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Cipher_Key_Lair a ns1:Location ;
+    ns1:description "It appears to be a building. Does it have any ties to Cipher?A factory secretly made by Cipher. Shadow Pokémon links may exist.The Shadow Pokémon factory that was wrecked by ."^^xsd:string ;
+    ns1:japaneseName "シャドーの秘密工場"^^xsd:string ;
+    ns1:locationType "shadow"^^xsd:string ;
+    ns1:name "Cipher Key Lair"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Cipher_Lab a ns1:Location ;
+    ns1:description "A sinister and menacing laboratory that was built in the desert without notice.A secret lab run by the criminal syndicate Cipher to study and develop Shadow Pokémon.Once used by Cipher, this facility was thought to be abandoned.Cipher's old lab back in operation. Prof. Krane may be held here.The lab used by the reactivated Cipher for developing XD001."^^xsd:string ;
+    ns1:japaneseName "シャドーのラボ"^^xsd:string ;
+    ns1:locationType "shadow"^^xsd:string ;
+    ns1:name "Cipher Lab"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Citadark_Isle a ns1:Location ;
+    ns1:description "A volcanic island ringed by magma."^^xsd:string ;
+    ns1:japaneseName "ニケルダーク島"^^xsd:string ;
+    ns1:locationType "Volcano"^^xsd:string ;
+    ns1:name "Citadark Isle"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Clamberclaw_Cliffs a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Clamberclaw Cliffs"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Cliff_Cave a ns1:Location ;
+    ns1:japaneseName "だんがいのどうくつ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Cliff Cave"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Cliff_Edge_Gate a ns1:Location ;
+    ns1:japaneseName "がけっぷちゲート"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Cliff Edge Gate"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Cloudcap_Pass a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Cloudcap Pass"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Cloudpool_Ridge a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Cloudpool Ridge"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Coastal_Biome a ns1:Location ;
+    ns1:japaneseName "コーストエリア"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Coastal Biome"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Coastal_Plaza a ns1:Location ;
+    ns1:japaneseName "コーストスクエア"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Coastal Plaza"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Cobalt_Coastlands a ns1:Location ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Cobalt Coastlands"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Cold_Storage a ns1:Location ;
+    ns1:locationType "ice"^^xsd:string ;
+    ns1:name "Cold Storage"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Colonnade_Hollow a ns1:Location ;
+    ns1:japaneseName "列柱洞"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Colonnade Hollow"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Connecting_Cave a ns1:Location ;
+    ns1:description "This cave linking Route 7 and Cyllage City is notable for its great hordes of Zubat."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Connecting Cave"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Coral_Sea a ns1:Location ;
+    ns1:japaneseName "サンゴのうみ"^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Coral Sea"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Coronet_Highlands a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Coronet Highlands"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Cottonsedge_Prairie a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Cottonsedge Prairie"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Courageous_Cavern a ns1:Location ;
+    ns1:japaneseName "闘心の洞窟"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Courageous Cavern"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Courtyard_Colosseum a ns1:Location ;
+    ns1:description "Located in an old castle, this Colosseum is lit only by the room and stars above."^^xsd:string ;
+    ns1:japaneseName "キャッスルコロシアム"^^xsd:string ;
+    ns1:locationType "fog"^^xsd:string ;
+    ns1:name "Courtyard Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:Cove_Lily_Motel a ns1:Location ;
+    ns1:japaneseName "モナミ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Cove Lily Motel"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Crescent_Isle a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Crescent Isle"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Crevasse_Passage a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Crevasse Passage"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Crimson_Mirelands a ns1:Location ;
+    ns1:locationType "marsh"^^xsd:string ;
+    ns1:name "Crimson Mirelands"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Crossing_Slope a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Crossing Slope"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Crown_Shrine a ns1:Location ;
+    ns1:japaneseName "カンムリ神殿"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Crown Shrine"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Crystal_Colosseum a ns1:Location ;
+    ns1:description "Deep below Pokétopia, this Colosseum is lit by the pulsing crystals on its walls."^^xsd:string ;
+    ns1:japaneseName "クリスタルコロシアム"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Crystal Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:Crystal_Pool a ns1:Location ;
+    ns1:japaneseName "てらす池"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Crystal Pool"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Dalizapa_Passage a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Dalizapa Passage"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Dappled_Grove a ns1:Location ;
+    ns1:japaneseName "こもれび林"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Dappled Grove"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Dark_Cave a ns1:Location ;
+    ns1:description "A dark, difficult-to-navigate tunnel that runs beneath the Johto region."^^xsd:string ;
+    ns1:japaneseName "くらやみのほらあな"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Dark Cave"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Dark_Temple a ns1:Location ;
+    ns1:japaneseName "やみのしんでん"^^xsd:string ;
+    ns1:locationType "dark"^^xsd:string ;
+    ns1:name "Dark Temple"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Daybreak_Ruins a ns1:Location ;
+    ns1:japaneseName "アサヒのいせき"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Daybreak Ruins"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Dazzling_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Dazzling Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Deadwood_Haunt a ns1:Location ;
+    ns1:japaneseName "オバケワラ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Deadwood Haunt"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Deep_Colosseum a ns1:Location ;
+    ns1:japaneseName "ボトムコロシアム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Deep Colosseum"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Deertrack_Heights a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Deertrack Heights"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Deertrack_Path a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Deertrack Path"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Denis_Residence a ns1:Location ;
+    ns1:japaneseName "デニス邸"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Denis Residence"^^xsd:string ;
+    ns1:region ns1:Unknown .
+
+ns1:Desert_Resort a ns1:Location ;
+    ns1:description "It is a popular place for tourists, but too harsh to be a resort."^^xsd:string ;
+    ns1:japaneseName "リゾートデザート"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Desert Resort"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Desert_Ruins a ns1:Location ;
+    ns1:locationType "Ruins"^^xsd:string ;
+    ns1:name "Desert Ruins"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Desert_Underpass a ns1:Location ;
+    ns1:japaneseName "さばくのちかどう"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Desert Underpass"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Devon_Corporation a ns1:Location ;
+    ns1:japaneseName "デボンコーポレーション"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Devon Corporation"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Diamond_Heath a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Diamond Heath"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Digletts_Tunnel a ns1:Location ;
+    ns1:description "Diglett and people worked together to finish digging this tunnel several years ago."^^xsd:string ;
+    ns1:japaneseName "ディグダトンネル"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Diglett's Tunnel"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Distortion_World a ns1:Location ;
+    ns1:japaneseName "やぶれたせかい"^^xsd:string ;
+    ns1:locationType "distortion"^^xsd:string ;
+    ns1:name "Distortion World"^^xsd:string ;
+    ns1:region ns1:RegionNone .
+
+ns1:Dividing_Peak_Tunnel a ns1:Location ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Dividing Peak Tunnel"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Dolce_Island a ns1:Location ;
+    ns1:description "An island full of nature and a paradise for Pokémon. Wild Pokémon are living a carefree lifestyle."^^xsd:string ;
+    ns1:japaneseName "ドロップじま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Dolce Island"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Dotted_Hole a ns1:Location ;
+    ns1:description "A mysterious, just-discovered ruin from an ancient time. It got its name from the six dots on its door."^^xsd:string ;
+    ns1:japaneseName "てんのあな"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Dotted Hole"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Dragons_Den a ns1:Location ;
+    ns1:japaneseName "りゅうのあな"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Dragon's Den"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Dragonspiral_Tower a ns1:Location ;
+    ns1:description "The oldest tower in the Unova region. No one knows its history."^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Dragonspiral Tower"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Dreaded_Den a ns1:Location ;
+    ns1:japaneseName "恐れ穴"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Dreaded Den"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Dreamyard a ns1:Location ;
+    ns1:description "A plant site used as a playground for children and Pokémon."^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Dreamyard"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Driftveil_Drawbridge a ns1:Location ;
+    ns1:description "A drawbridge raises and lowers, depending on the ship schedules."^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Driftveil Drawbridge"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Droning_Meadow a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Droning Meadow"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Durice_Island a ns1:Location ;
+    ns1:japaneseName "デュラス"^^xsd:string ;
+    ns1:locationType "poison"^^xsd:string ;
+    ns1:name "Durice Island"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Dusk_Factory a ns1:Location ;
+    ns1:description "This creepy and sinister factory only operates from dusk until dawn."^^xsd:string ;
+    ns1:japaneseName "ヨナベこうじょう"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Dusk Factory"^^xsd:string ;
+    ns1:region ns1:Fiore .
+
+ns1:Dusty_Bowl a ns1:Location ;
+    ns1:japaneseName "砂塵の窪地"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Dusty Bowl"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Dyna_Tree_Hill a ns1:Location ;
+    ns1:japaneseName "ダイ木の丘"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Dyna Tree Hill"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:East_Lake_Axewell a ns1:Location ;
+    ns1:japaneseName "キバ湖・東"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "East Lake Axewell"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:East_Paldean_Sea a ns1:Location ;
+    ns1:japaneseName "パルデア"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "East Paldean Sea"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:East_Province_Area_One a ns1:Location ;
+    ns1:japaneseName "東１番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "East Province (Area One)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:East_Province_Area_Three a ns1:Location ;
+    ns1:japaneseName "東３番エリア"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "East Province (Area Three)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:East_Province_Area_Two a ns1:Location ;
+    ns1:japaneseName "東２番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "East Province (Area Two)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Eastern_Sea a ns1:Location ;
+    ns1:japaneseName "ひがしのうみ"^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Eastern Sea"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Elsewhere_Forest a ns1:Location ;
+    ns1:description "A foggy forest at the top of a mountain, hidden by the clouds."^^xsd:string ;
+    ns1:japaneseName "トキシキの"^^xsd:string ;
+    ns1:locationType "fog"^^xsd:string ;
+    ns1:name "Elsewhere Forest"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Elysium a ns1:Location ;
+    ns1:japaneseName "イリジウム"^^xsd:string ;
+    ns1:locationType "steel"^^xsd:string ;
+    ns1:name "Elysium"^^xsd:string ;
+    ns1:region ns1:Carmonte_Island .
+
+ns1:Embedded_Tower a ns1:Location ;
+    ns1:japaneseName "うずもれのとう"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Embedded Tower"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Energy_Plant a ns1:Location ;
+    ns1:japaneseName "エネルギープラント"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Energy Plant"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Entralink a ns1:Location ;
+    ns1:description "In the middle of the Unova region, it is a place of mysterious power."^^xsd:string ;
+    ns1:japaneseName "ハイリンク"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Entralink"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Estival_Avenue a ns1:Location ;
+    ns1:japaneseName "エテ アベニュー"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Estival Avenue"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Eterna_Condominiums a ns1:Location ;
+    ns1:japaneseName "ハクタイマンション"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Eterna Condominiums"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Eterna_Forest a ns1:Location ;
+    ns1:description "A forest enveloped in chilly air. Thick stands of trees turn the forest into a natural maze.Deep in the forest is the Old Chateau. It is falling into disrepair after being abandoned by its owner."^^xsd:string ;
+    ns1:japaneseName "ハクタイの"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Eterna Forest"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Exeggutor_Island a ns1:Location ;
+    ns1:description "It's a paradise for Exeggutor! This island is designated as a special preserve."^^xsd:string ;
+    ns1:japaneseName "ナッシー・アイランド"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Exeggutor Island"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Fabled_Cave a ns1:Location ;
+    ns1:japaneseName "おぼろの"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Fabled Cave"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Fabled_Spring a ns1:Location ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Fabled Spring"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Faldera_Island a ns1:Location ;
+    ns1:description "A volcanic island with flowing magma. Its ground is made of cooled magma, and many of the Pokémon there are heat tolerant."^^xsd:string ;
+    ns1:japaneseName "ファルデラじま"^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Faldera Island"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Faraway_Island a ns1:Location ;
+    ns1:japaneseName "さいはてのことう"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Faraway Island"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Fellhorn_Gorge a ns1:Location ;
+    ns1:japaneseName "鬼角峡谷"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Fellhorn Gorge"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Festival_Plaza a ns1:Location ;
+    ns1:japaneseName "フェスサークル"^^xsd:string ;
+    ns1:locationType "Building"^^xsd:string ;
+    ns1:name "Festival Plaza"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Fields_of_Honor a ns1:Location ;
+    ns1:japaneseName "一礼野原"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Fields of Honor"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Fiery_Path a ns1:Location ;
+    ns1:description "The Pokémon that live in this area like to use the steam that erupts from the ground as a sort of bath."^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Fiery Path"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Fighting_Dojo a ns1:Location ;
+    ns1:locationType "fighting"^^xsd:string ;
+    ns1:name "Fighting Dojo"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Fine_Park a ns1:Location ;
+    ns1:japaneseName "ファインパーク"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Fine Park"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:Fiore_Temple a ns1:Location ;
+    ns1:description "This temple was apparently built by people and Pokémon together in ancient times."^^xsd:string ;
+    ns1:japaneseName "フィオレしんでん"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Fiore Temple"^^xsd:string ;
+    ns1:region ns1:Fiore .
+
+ns1:Fire_Temple a ns1:Location ;
+    ns1:japaneseName "ほのおのしんでん"^^xsd:string ;
+    ns1:locationType "fire"^^xsd:string ;
+    ns1:name "Fire Temple"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Fireflow_Volcano a ns1:Location ;
+    ns1:description "Pokémon have thrived in this fiery volcanic region since prehistoric times."^^xsd:string ;
+    ns1:japaneseName "ドロー"^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Fireflow Volcano"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Firescourge_Shrine a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Firescourge Shrine"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Firespit_Island a ns1:Location ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Firespit Island"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Five_Island a ns1:Location ;
+    ns1:japaneseName "５のしま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Five Island"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Floaro_Gardens a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Floaro Gardens"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Floaroma_Meadow a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Floaroma Meadow"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Floccesy_Ranch a ns1:Location ;
+    ns1:description "Before long, the area became a ranch as Pokémon and people gathered."^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Floccesy Ranch"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Florio_Island a ns1:Location ;
+    ns1:japaneseName "フロレオ"^^xsd:string ;
+    ns1:locationType "blue"^^xsd:string ;
+    ns1:name "Florio Island"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Florio_Nature_Park a ns1:Location ;
+    ns1:description "In this lush, green park, see Pokémon up close in their natural habitat."^^xsd:string ;
+    ns1:japaneseName "フロレオ"^^xsd:string ;
+    ns1:locationType "Grass"^^xsd:string ;
+    ns1:name "Florio Nature Park"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Flower_Paradise a ns1:Location ;
+    ns1:description "A speck of an island far from any civilization. It is covered in an abundance of flowers."^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Flower Paradise"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Forest_Temple a ns1:Location ;
+    ns1:japaneseName "もりのしんでん"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Forest Temple"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Forest_of_Focus a ns1:Location ;
+    ns1:japaneseName "集中の森"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Forest of Focus"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Founja_Jungle a ns1:Location ;
+    ns1:description "The sweet scent of fruits and plants envelops this verdant jungle."^^xsd:string ;
+    ns1:japaneseName "ミッケジャングル"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Founja Jungle"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Fountainspring_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Fountainspring Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Four_Island a ns1:Location ;
+    ns1:japaneseName "４のしま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Four Island"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Friend_Safari a ns1:Location ;
+    ns1:japaneseName "フレンドサファリ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Friend Safari"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Frigid_Sea a ns1:Location ;
+    ns1:japaneseName "凍てつきの海"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Frigid Sea"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Frost_Cavern a ns1:Location ;
+    ns1:description "The drifting snow and impenetrable fog make this cavern a place of fantastical illusions."^^xsd:string ;
+    ns1:japaneseName "フロストケイブ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Frost Cavern"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Frostpoint_Field a ns1:Location ;
+    ns1:japaneseName "氷点雪原"^^xsd:string ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Frostpoint Field"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Fuego_Ironworks a ns1:Location ;
+    ns1:description "The sprawling ironworks is located with the forest at its back.The ironworks refines iron ore mined from Mt. Coronet to make iron and to manufacture mechanical parts."^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Fuego Ironworks"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Fullmoon_Island a ns1:Location ;
+    ns1:description "A small, crescent-shaped pond that lies inside a closed-off forest."^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Fullmoon Island"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:GNN a ns1:Location ;
+    ns1:japaneseName "GNN"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "GNN"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:GO_Park a ns1:Location ;
+    ns1:japaneseName "ＧＯパーク"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "GO Park"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Galar_Mine a ns1:Location ;
+    ns1:japaneseName "ガラル鉱山"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Galar Mine"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Galar_Mine_No_2 a ns1:Location ;
+    ns1:japaneseName "第二鉱山"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Galar Mine No. 2"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Galaxy_Hall a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Galaxy Hall"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Gapejaw_Bog a ns1:Location ;
+    ns1:locationType "marsh"^^xsd:string ;
+    ns1:name "Gapejaw Bog"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Gateway_Colosseum a ns1:Location ;
+    ns1:description "Floating at the entrance to Pokétopia, this Colosseum offers a beautiful view."^^xsd:string ;
+    ns1:japaneseName "ゲートコロシアム"^^xsd:string ;
+    ns1:locationType "blue"^^xsd:string ;
+    ns1:name "Gateway Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:Giant_Chasm a ns1:Location ;
+    ns1:description "Legend says that if you approach this big chasm, disasters surely follow."^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Giant Chasm"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Giants_Bed a ns1:Location ;
+    ns1:japaneseName "巨人の寝床"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Giant's Bed"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Giants_Cap a ns1:Location ;
+    ns1:japaneseName "巨人の帽子"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Giant's Cap"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Giants_Foot a ns1:Location ;
+    ns1:japaneseName "巨人の靴底"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Giant's Foot"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Giants_Mirror a ns1:Location ;
+    ns1:japaneseName "巨人の鏡池"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Giant's Mirror"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Giants_Seat a ns1:Location ;
+    ns1:japaneseName "巨人の腰かけ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Giant's Seat"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Ginkgo_Landing a ns1:Location ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Ginkgo Landing"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Glacial_Cavern a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Glacial Cavern"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Glacier_Terrace a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Glacier Terrace"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Glaseado_Mountain a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Glaseado Mountain"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Glimwood_Tangle a ns1:Location ;
+    ns1:japaneseName "ルミナスメイズの森"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Glimwood Tangle"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Glittering_Cave a ns1:Location ;
+    ns1:description "Lose all sense of direction as you wander though this cave, where Luminous Moss glows emerald green."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Glittering Cave"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Global_Terminal a ns1:Location ;
+    ns1:japaneseName "グローバルターミナル"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Global Terminal"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Global_Wonder_Station a ns1:Location ;
+    ns1:japaneseName "グローバルミラクルトレードステーション"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Global Wonder Station"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Gnarled_Den a ns1:Location ;
+    ns1:japaneseName "いびつな"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Gnarled Den"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Go-Rock_Base a ns1:Location ;
+    ns1:description "Go-Rock Squad's proud of this secret hideout with state-of-the-art facilities."^^xsd:string ;
+    ns1:japaneseName "ゴーゴーだんアジト"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Go-Rock Base"^^xsd:string ;
+    ns1:region ns1:Fiore .
+
+ns1:Golden_Lowlands a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Golden Lowlands"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Goldenrod_Department_Store a ns1:Location ;
+    ns1:japaneseName "コガネひゃっかてん"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Goldenrod Department Store"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Goldenrod_Game_Corner a ns1:Location ;
+    ns1:japaneseName "コガネゲームコーナー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Goldenrod Game Corner"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Goldenrod_Radio_Tower a ns1:Location ;
+    ns1:japaneseName "コガネラジオとう"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Goldenrod Radio Tower"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Goldenrod_Tunnel a ns1:Location ;
+    ns1:japaneseName "コガネちかつうろ"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Goldenrod Tunnel"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Grand_Underground a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Grand Underground"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Grandtree_Arena a ns1:Location ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Grandtree Arena"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Granite_Cave a ns1:Location ;
+    ns1:description "This cavern is famous for its cave art, which depicts events from thousands of years ago."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Granite Cave"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Grass_Continent a ns1:Location ;
+    ns1:japaneseName "草の大陸"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Grass Continent"^^xsd:string ;
+    ns1:region ns1:Pokmon_world_Mystery_DungeonMystery_Dungeon_world .
+
+ns1:Grassland_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Grassland Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Grasswither_Shrine a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Grasswither Shrine"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Great_Crater_of_Paldea a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Great Crater of Paldea"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Great_Marsh a ns1:Location ;
+    ns1:locationType "Marsh"^^xsd:string ;
+    ns1:name "Great Marsh"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Groundblight_Shrine a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Groundblight Shrine"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Grueling_Grove a ns1:Location ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Grueling Grove"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Haina_Desert a ns1:Location ;
+    ns1:description "A scorching-hot desert beyond Route 13. Trainers often get lost here in this broiling labyrinth."^^xsd:string ;
+    ns1:japaneseName "ハイナ"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Haina Desert"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Hall_of_Origin a ns1:Location ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Hall of Origin"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Hallowed_Tower a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Hallowed Tower"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Hammerlocke_Hills a ns1:Location ;
+    ns1:japaneseName "ナックル丘陵"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Hammerlocke Hills"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Hano_Beach a ns1:Location ;
+    ns1:description "The beach near Hano Grand Hotel at the Hano Grand Resort. Pyukumuku-chucking is a popular part-time job to do here."^^xsd:string ;
+    ns1:japaneseName "ハノハノビーチ"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Hano Beach"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Hano_Grand_Resort a ns1:Location ;
+    ns1:description "The biggest of all the resorts in the Alola region. The hotel is fully booked a year in advance.'''Hano Grand Hotel''': One of the best resorts in the Alola region. Everybody talks about this five-star hotel."^^xsd:string ;
+    ns1:japaneseName "ハノハノリゾート"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Hano Grand Resort"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Hauoli_Cemetery a ns1:Location ;
+    ns1:description "The people and Pokémon on Melemele Island share their lives, and here they have also shared their graves for generations."^^xsd:string ;
+    ns1:japaneseName "ハウオリ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Hau'oli Cemetery"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Heahea_Beach a ns1:Location ;
+    ns1:description "A bustling beach connecting to Heahea City. It's one of the Mantine Surf Spots."^^xsd:string ;
+    ns1:japaneseName "カンタイビーチ"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Heahea Beach"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Hearts_Crag a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Heart's Crag"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Heavenward_Lookout a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Heavenward Lookout"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Hi-Hat_Caf a ns1:Location ;
+    ns1:japaneseName "ハイハットカフェ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Hi-Hat Café"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:Hibernal_Avenue a ns1:Location ;
+    ns1:japaneseName "イベール アベニュー"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Hibernal Avenue"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Hibernal_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Hibernal Cave"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Hideaway_Bay a ns1:Location ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "Hideaway Bay"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Hippowdon_Temple a ns1:Location ;
+    ns1:description "A mysterious temple with a Hippowdon motif that sits in the Haruba Desert. There are tales of a precious treasure the lies deep inside the temple."^^xsd:string ;
+    ns1:japaneseName "カバルドンしんでん"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Hippowdon Temple"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Hokulani_Observatory a ns1:Location ;
+    ns1:description "A research facility for observing and studying various phenomena in space."^^xsd:string ;
+    ns1:japaneseName "ホクラニ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Hokulani Observatory"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Holm_of_Trials a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Holm of Trials"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Honeycalm_Island a ns1:Location ;
+    ns1:japaneseName "ハニカーム島"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Honeycalm Island"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Honeycalm_Sea a ns1:Location ;
+    ns1:japaneseName "ハニカームの海"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Honeycalm Sea"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Horseshoe_Plains a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Horseshoe Plains"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Hotel_Grand_Lake a ns1:Location ;
+    ns1:japaneseName "ホテルグランドレイク"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Hotel Grand Lake"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Hotel_Richissime a ns1:Location ;
+    ns1:japaneseName "グランドホテル シュールリッシュ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Hotel Richissime"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:House_of_Memories a ns1:Location ;
+    ns1:japaneseName "たましいのいえ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "House of Memories"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Ice_Column_Chamber a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Ice Column Chamber"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Ice_Path a ns1:Location ;
+    ns1:description "A cave that connects Route 44 to Blackthorn City."^^xsd:string ;
+    ns1:japaneseName "こおりのぬけみち"^^xsd:string ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Ice Path"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Ice_Temple a ns1:Location ;
+    ns1:japaneseName "こおりのしんでん"^^xsd:string ;
+    ns1:locationType "ice"^^xsd:string ;
+    ns1:name "Ice Temple"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Iceberg_Ruins a ns1:Location ;
+    ns1:japaneseName "ひょうざんのいせき"^^xsd:string,
+        "氷山の遺跡"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Iceberg Ruins"^^xsd:string ;
+    ns1:region ns1:Galar,
+        ns1:Sinnoh .
+
+ns1:Icebound_Falls a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Icebound Falls"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Icefall_Cave a ns1:Location ;
+    ns1:description "A cave which is covered by water and ice on Four Island. It seems like the end of the cave is connected to the ocean."^^xsd:string ;
+    ns1:japaneseName "いてだきのどうくつ"^^xsd:string ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Icefall Cave"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Icepeak_Arena a ns1:Location ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Icepeak Arena"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Icepeak_Cavern a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Icepeak Cavern"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Icerend_Shrine a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Icerend Shrine"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Icy_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Icy Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Ilex_Forest a ns1:Location ;
+    ns1:description "A large forest full of trees that are used to make charcoal."^^xsd:string ;
+    ns1:japaneseName "ウバメの"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Ilex Forest"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Infernal_Pass a ns1:Location ;
+    ns1:japaneseName "地獄谷"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Infernal Pass"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Inlet_Grotto a ns1:Location ;
+    ns1:japaneseName "入り江のほら穴"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Inlet Grotto"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Inside_of_Truck a ns1:Location ;
+    ns1:japaneseName "トラックのなか"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Inside of Truck"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Insular_Sea a ns1:Location ;
+    ns1:japaneseName "離れ島海域"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Insular Sea"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Interdream_Zone a ns1:Location ;
+    ns1:japaneseName "夢のはざま"^^xsd:string ;
+    ns1:locationType "distortion"^^xsd:string ;
+    ns1:name "Interdream Zone"^^xsd:string ;
+    ns1:region ns1:RegionNone .
+
+ns1:Iron_Island a ns1:Location ;
+    ns1:description "A small, ore-rich island that is off the coast of Eterna City.Inside the island are remnants of an iron ore mining operation from the past."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Iron Island"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Iron_Ruins a ns1:Location ;
+    ns1:japaneseName "くろがねのいせき"^^xsd:string,
+        "黒鉄の遺跡"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Iron Ruins"^^xsd:string ;
+    ns1:region ns1:Galar,
+        ns1:Sinnoh .
+
+ns1:Island_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Island Cave"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Islespy_Shore a ns1:Location ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Islespy Shore"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Jewel_Tower a ns1:Location ;
+    ns1:japaneseName "ジュエルタワー"^^xsd:string ;
+    ns1:locationType "diamond"^^xsd:string ;
+    ns1:name "Jewel Tower"^^xsd:string ;
+    ns1:region ns1:Carmonte_Island .
+
+ns1:Join_Avenue a ns1:Location ;
+    ns1:description "A big avenue that keeps developing as you communicate with more people."^^xsd:string ;
+    ns1:japaneseName "ジョインアベニュー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Join Avenue"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Joyful_Game_Corner a ns1:Location ;
+    ns1:japaneseName "たのしいゲームコーナー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Joyful Game Corner"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Jubilife_TV a ns1:Location ;
+    ns1:japaneseName "テレビコトブキ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Jubilife TV"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Juice_Shoppe a ns1:Location ;
+    ns1:japaneseName "しるや"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Juice Shoppe"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Jungle_Relic a ns1:Location ;
+    ns1:description "Rangers once tested their skills here, but it remains virtually unused now.A sudden volcanic eruption completely altered the surrounding area here."^^xsd:string ;
+    ns1:japaneseName "サフラのうみ"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Jungle Relic"^^xsd:string ;
+    ns1:region ns1:Fiore .
+
+ns1:Kalae_Bay a ns1:Location ;
+    ns1:description "One of the most scenic spots on Melemele Island. It was chosen as one of the top 100 views in Alola."^^xsd:string ;
+    ns1:japaneseName "カーラエ"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Kala'e Bay"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Kalos_Power_Plant a ns1:Location ;
+    ns1:description "An environmentally responsible power plant that generates solar power from space."^^xsd:string ;
+    ns1:japaneseName "カロス"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Kalos Power Plant"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Kaminkos_House a ns1:Location ;
+    ns1:description "The peculiar manor that is home to the eccentric scientist Dr. Kaminko."^^xsd:string ;
+    ns1:japaneseName "カミンコ博士の屋敷"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Kaminko's House"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Kantonian_Gym a ns1:Location ;
+    ns1:japaneseName "ジムオブカントー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Kantonian Gym"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Kisara_Plain a ns1:Location ;
+    ns1:japaneseName "キサラそうげん"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Kisara Plain"^^xsd:string ;
+    ns1:region ns1:Fiore .
+
+ns1:Kitakami_Hall a ns1:Location ;
+    ns1:japaneseName "キタカミセンター"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Kitakami Hall"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Kitakami_Road a ns1:Location ;
+    ns1:japaneseName "キタカミ街道"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Kitakami Road"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Kitakami_Wilds a ns1:Location ;
+    ns1:japaneseName "キタカミ原生地域"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Kitakami Wilds"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Laboratory_of_Ecology_and_Natural_Sciences a ns1:Location ;
+    ns1:description "This research facility serves as home base as you explore Lental."^^xsd:string ;
+    ns1:japaneseName "レンティル ポケモン"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Laboratory of Ecology and Natural Sciences"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Lagoon_Colosseum a ns1:Location ;
+    ns1:description "Located on the edge of Pokétopia, this Colosseum is great for friendly battles."^^xsd:string ;
+    ns1:japaneseName "コーラルコロシアム"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Lagoon Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:Lake_Acuity a ns1:Location ;
+    ns1:locationType "Lake"^^xsd:string ;
+    ns1:name "Lake Acuity"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Lake_Valor a ns1:Location ;
+    ns1:locationType "Lake"^^xsd:string ;
+    ns1:name "Lake Valor"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Lake_Verity a ns1:Location ;
+    ns1:locationType "Lake"^^xsd:string ;
+    ns1:name "Lake Verity"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Lake_of_Outrage a ns1:Location ;
+    ns1:japaneseName "げきりんの湖"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Lake of Outrage"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Lake_of_Rage a ns1:Location ;
+    ns1:description "A huge lake full of clear, blue water."^^xsd:string ;
+    ns1:japaneseName "いかりのみずうみ"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Lake of Rage"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Lake_of_the_Moone a ns1:Location ;
+    ns1:description "A place that seems to have some connection to the Alola's . The lake forms a perfect circle."^^xsd:string ;
+    ns1:japaneseName "の"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Lake of the Moone"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Lake_of_the_Sunne a ns1:Location ;
+    ns1:description "A place that seems to have some connection to the Alola's . The lake forms a perfect circle."^^xsd:string ;
+    ns1:japaneseName "の"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Lake of the Sunne"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Lakeside_Cave a ns1:Location ;
+    ns1:japaneseName "湖畔の洞窟"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Lakeside Cave"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Lava_Dome_Sanctum a ns1:Location ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Lava Dome Sanctum"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Layuda_Island a ns1:Location ;
+    ns1:description "A thundercloud-covered island. With storms that never cease, no one can even get close to it. Many Pokémon there are Electric group."^^xsd:string ;
+    ns1:japaneseName "ライウンじま"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Layuda Island"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Lental_Seafloor a ns1:Location ;
+    ns1:description "This wondrous underwater world awaits just beyond a ."^^xsd:string ;
+    ns1:japaneseName "レンティル"^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Lental Seafloor"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Liberty_Garden a ns1:Location ;
+    ns1:description "An island symbol of hope for a world where humans and Pokémon live free."^^xsd:string ;
+    ns1:japaneseName "リバティガーデン"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Liberty Garden"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Light_Temple a ns1:Location ;
+    ns1:japaneseName "ひかりのしんでん"^^xsd:string ;
+    ns1:locationType "steel"^^xsd:string ;
+    ns1:name "Light Temple"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Lilycove_Department_Store a ns1:Location ;
+    ns1:japaneseName "ミナモデパート"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Lilycove Department Store"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Lilycove_Museum a ns1:Location ;
+    ns1:japaneseName "ミナモ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Lilycove Museum"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Litwick_Cave a ns1:Location ;
+    ns1:japaneseName "ヒトモシ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Litwick Cave"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:Lonely_Spring a ns1:Location ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Lonely Spring"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Loop_Lagoon a ns1:Location ;
+    ns1:japaneseName "円環の入り江"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Loop Lagoon"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Lost_Cave a ns1:Location ;
+    ns1:description "A bewildering cave off the coast of Resort Gorgeous. Some curious thrill seekers have never emerged from it."^^xsd:string ;
+    ns1:japaneseName "かえらずのあな"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Lost Cave"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Lost_Hotel a ns1:Location ;
+    ns1:description "This once-famous hotel clings to the shade of its former glory after tragedy left it in ruins."^^xsd:string ;
+    ns1:japaneseName "ホテル"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Lost Hotel"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Lost_Tower a ns1:Location ;
+    ns1:japaneseName "ロストタワー"^^xsd:string ;
+    ns1:locationType "ghost"^^xsd:string ;
+    ns1:name "Lost Tower"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Lostlorn_Forest a ns1:Location ;
+    ns1:description "It was once known as a place where people got lost for no reason."^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Lostlorn Forest"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Lumiose_Museum a ns1:Location ;
+    ns1:japaneseName "ミアレ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Lumiose Museum"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Lunkers_Lair a ns1:Location ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Lunker's Lair"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Lush_Jungle a ns1:Location ;
+    ns1:description "A heavily wooded tropical rain forest. It's famous for producing ingredients for delicious meals."^^xsd:string ;
+    ns1:japaneseName "シェードジャングル"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Lush Jungle"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Lysandre_Labs a ns1:Location ;
+    ns1:japaneseName "フラダリラボ"^^xsd:string ;
+    ns1:locationType "Building"^^xsd:string ;
+    ns1:name "Lysandre Labs"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Magma_Colosseum a ns1:Location ;
+    ns1:description "Built atop an active volcano, this Colosseum is ideal for heated battles."^^xsd:string ;
+    ns1:japaneseName "マグマコロシアム"^^xsd:string ;
+    ns1:locationType "fire"^^xsd:string ;
+    ns1:name "Magma Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:Magma_Hideout a ns1:Location ;
+    ns1:japaneseName "マグマだんアジト"^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Magma Hideout"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Magnet_Train a ns1:Location ;
+    ns1:japaneseName "リニアモーターカー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Magnet Train"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Mahalo_Trail a ns1:Location ;
+    ns1:description "A mountainous trail that leads to the sacred ruins. The cool air up here is very soothing on the skin."^^xsd:string ;
+    ns1:japaneseName "マハロ"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Mahalo Trail"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Main_Street_Colosseum a ns1:Location ;
+    ns1:description "Always full of tourists, this Colosseum sits on the main street of Pokétopia."^^xsd:string ;
+    ns1:japaneseName "ストリートコロシアム"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Main Street Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:Malie_Garden a ns1:Location ;
+    ns1:description "A well-manicured garden located in the middle of Malie City. The large lake within it seems to resemble something..."^^xsd:string ;
+    ns1:japaneseName "マリエ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Malie Garden"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Maniac_Tunnel a ns1:Location ;
+    ns1:japaneseName "マニアトンネル"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Maniac Tunnel"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Maricopia_Islands a ns1:Location ;
+    ns1:japaneseName "コピア"^^xsd:string ;
+    ns1:locationType "psychic"^^xsd:string ;
+    ns1:name "Maricopia Islands"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Maricopia_Reef a ns1:Location ;
+    ns1:description "This coral reef echoes with the pleasant sounds of waves and singing."^^xsd:string ;
+    ns1:japaneseName "コピアリーフ"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Maricopia Reef"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Marine_Cave a ns1:Location ;
+    ns1:japaneseName "うみのどうくつ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string,
+        "underwater"^^xsd:string ;
+    ns1:name "Marine Cave"^^xsd:string ;
+    ns1:region ns1:Almia,
+        ns1:Hoenn .
+
+ns1:Marine_Tube a ns1:Location ;
+    ns1:description "An undersea tunnel built using cutting-edge technology."^^xsd:string ;
+    ns1:japaneseName "マリンチューブ"^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Marine Tube"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Marvelous_Bridge a ns1:Location ;
+    ns1:description "The most advanced bridge in Unova, designed to soften any impact."^^xsd:string ;
+    ns1:japaneseName "ワンダーブリッジ"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Marvelous Bridge"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Master_Dojo a ns1:Location ;
+    ns1:japaneseName "マスター道場"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Master Dojo"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Mauville_Food_Court a ns1:Location ;
+    ns1:japaneseName "キンセツキッチン"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Mauville Food Court"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Mauville_Game_Corner a ns1:Location ;
+    ns1:japaneseName "キンセツゲームコーナー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Mauville Game Corner"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Max_Lair a ns1:Location ;
+    ns1:japaneseName "マックスダイ巣穴"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Max Lair"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Meetup_Spot a ns1:Location ;
+    ns1:japaneseName "集いの空き地"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Meetup Spot"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Megalo_Tower a ns1:Location ;
+    ns1:japaneseName "メガロタワー"^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Megalo Tower"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Melemele_Island a ns1:Location ;
+    ns1:japaneseName "メレメレ"^^xsd:string ;
+    ns1:locationType "yellow"^^xsd:string ;
+    ns1:name "Melemele Island"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Melemele_Meadow a ns1:Location ;
+    ns1:description "A place where yellow flowers bloom in abundance. You can gather the nectar Oricorio loves to feed on here."^^xsd:string ;
+    ns1:japaneseName "メレメレの"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Melemele Meadow"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Melemele_Sea a ns1:Location ;
+    ns1:description "'''East part:''' The vast sea spreads, and various Pokémon live among rocks.'''West part:''' The sea is crowded with Melemele islanders, local Pokémon, and visiting tourists all year round."^^xsd:string ;
+    ns1:japaneseName "メレメレ"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Melemele Sea"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Memorial_Hill a ns1:Location ;
+    ns1:description "A place where the memories of people and Pokémon linger. Many people come from other islands to visit this graveyard."^^xsd:string ;
+    ns1:japaneseName "メモリアルヒル"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Memorial Hill"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Meteor_Falls a ns1:Location ;
+    ns1:description "This waterfall is said to have been the site of a meteor shower. An ancient people once made their home here."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Meteor Falls"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Mightywide_River a ns1:Location ;
+    ns1:description "This nutrient-rich river flows throughout the entire island."^^xsd:string ;
+    ns1:japaneseName "ヨーヨーリバー"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Mightywide River"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Miracle_Cycle a ns1:Location ;
+    ns1:japaneseName "ミラクルサイクル"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Miracle Cycle"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Mirage_Cave a ns1:Location ;
+    ns1:japaneseName "マボロシ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Mirage Cave"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Mirage_Forest a ns1:Location ;
+    ns1:japaneseName "マボロシ"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Mirage Forest"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Mirage_Island a ns1:Location ;
+    ns1:japaneseName "まぼろしじま"^^xsd:string,
+        "マボロシ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Mirage Island"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Mirage_Mountain a ns1:Location ;
+    ns1:japaneseName "マボロシ"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Mirage Mountain"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Mirage_Tower a ns1:Location ;
+    ns1:japaneseName "げんえいのとう"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Mirage Tower"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Mist_Continent a ns1:Location ;
+    ns1:japaneseName "霧の大陸"^^xsd:string ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Mist Continent"^^xsd:string ;
+    ns1:region ns1:Pokmon_world_Mystery_DungeonMystery_Dungeon_world .
+
+ns1:Mitonga_Island a ns1:Location ;
+    ns1:description "An island with dangerous cliffs and old ruins. Tilt Village sometimes welcomes ships from faraway continents."^^xsd:string ;
+    ns1:japaneseName "ミロンダじま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Mitonga Island"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Molten_Arena a ns1:Location ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Molten Arena"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Moomoo_Farm a ns1:Location ;
+    ns1:japaneseName "モーモーぼくじょう"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Moomoo Farm"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Moonview_Arena a ns1:Location ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Moonview Arena"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Moor_of_Icirrus a ns1:Location ;
+    ns1:description "They say water collecting in hollows on the flat land created the moor."^^xsd:string ;
+    ns1:locationType "|April|August|December=snow|marsh"^^xsd:string ;
+    ns1:name "Moor of Icirrus"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Mossdeep_Space_Center a ns1:Location ;
+    ns1:japaneseName "トクサネセンター"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Mossdeep Space Center"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Mossfell_Confluence a ns1:Location ;
+    ns1:japaneseName "落合川原"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Mossfell Confluence"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Motostoke_Outskirts a ns1:Location ;
+    ns1:japaneseName "エンジンシティはずれ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Motostoke Outskirts"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Motostoke_Riverbank a ns1:Location ;
+    ns1:japaneseName "エンジンリバーサイド"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Motostoke Riverbank"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Mount_Coronet a ns1:Location ;
+    ns1:description "A sacred mountain that is capped the year round with snow. A gigantic maze sprawls inside it.There is an ancient ruin named the Spear Pillar located here."^^xsd:string ;
+    ns1:japaneseName "テンガン"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Mount Coronet"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Mount_Hokulani a ns1:Location ;
+    ns1:description "A mountain suitable for observing the stars. There is an observatory on top."^^xsd:string ;
+    ns1:japaneseName "ホクラニ"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Mount Hokulani"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Mount_Lanakila a ns1:Location ;
+    ns1:description "The roughest and coldest mountain in the Alola region. A large-scale construction project has been taken up here."^^xsd:string ;
+    ns1:japaneseName "ラナキラマウンテン"^^xsd:string ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Mount Lanakila"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Mt_Battle a ns1:Location ;
+    ns1:description "A place of challenging training for all trainers. It is currently held by a sinister gang.A place for battle training that is always open to all trainer challenges.A place for battle training that is always open to Trainers."^^xsd:string ;
+    ns1:japaneseName "バトル山"^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Mt. Battle"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Mt_Chimney a ns1:Location ;
+    ns1:description "This volcano towers to a height of nearly . The view from its peak is beyond compare."^^xsd:string ;
+    ns1:japaneseName "えんとつ"^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Mt. Chimney"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Mt_Ember a ns1:Location ;
+    ns1:description "Supposedly an inactive volcano. However, there are persistent reports that the peak blazes with fire at night."^^xsd:string ;
+    ns1:japaneseName "ともしびやま"^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Mt. Ember"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Mt_Moon a ns1:Location ;
+    ns1:description "A mystical mountain that is known for its frequent meteor falls. The shards of stars that fall here are known as Moon Stones.A mountain where a star fell. It now holds a mysterious power.A mountain where shooting stars are said to fall. It is apparently abundant with fossils."^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Mt. Moon"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Mt_Moon_Square a ns1:Location ;
+    ns1:japaneseName "おつきみやまひろば"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Mt. Moon Square"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Mt_Mortar a ns1:Location ;
+    ns1:description "A naturally large cavern that is incredibly spacious."^^xsd:string ;
+    ns1:japaneseName "スリバチ"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Mt. Mortar"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Mt_Pyre a ns1:Location ;
+    ns1:description "The mountain is where spirits of Pokémon have rested and will always rest: past, present, and future."^^xsd:string ;
+    ns1:japaneseName "おくりび"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Mt. Pyre"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Mt_Silver_Cave a ns1:Location ;
+    ns1:description "A hallowed mountain that rises between the Johto and Kanto regions."^^xsd:string ;
+    ns1:japaneseName "シロガネどうくつ"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Mt. Silver Cave"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Mt_Sorbet a ns1:Location ;
+    ns1:japaneseName "ソルベラスやま"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Mt. Sorbet"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Mystery_Continent a ns1:Location ;
+    ns1:japaneseName "謎の大陸"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Mystery Continent"^^xsd:string ;
+    ns1:region ns1:Pokmon_world_Mystery_DungeonMystery_Dungeon_world .
+
+ns1:Nameless_Cavern a ns1:Location ;
+    ns1:japaneseName "未知の洞窟"^^xsd:string ;
+    ns1:locationType "Cave"^^xsd:string ;
+    ns1:name "Nameless Cavern"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Naranja_Academy a ns1:Location ;
+    ns1:japaneseName "オレンジアカデミー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Naranja Academy"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:National_Park a ns1:Location ;
+    ns1:description "A spacious and beautiful park. It's connected to the Pokéathlon Dome."^^xsd:string ;
+    ns1:japaneseName "しぜんこうえん"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "National Park"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Nature_Preserve a ns1:Location ;
+    ns1:japaneseName "自然保護区"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Nature Preserve"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Natures_Pantry a ns1:Location ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Nature's Pantry"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Navel_Rock a ns1:Location ;
+    ns1:japaneseName "へそのいわ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Navel Rock"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Navi_Squads_Base a ns1:Location ;
+    ns1:japaneseName "チーム・シーのアジト"^^xsd:string ;
+    ns1:locationType "poison"^^xsd:string ;
+    ns1:name "Navi Squad's Base"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Neon_Colosseum a ns1:Location ;
+    ns1:description "Laced with pulsing neon, this Colosseum sits on a balcony high atop Pokétopia."^^xsd:string ;
+    ns1:japaneseName "カジノシアターコロシアム"^^xsd:string ;
+    ns1:locationType "grass"^^xsd:string ;
+    ns1:name "Neon Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:New_Mauville a ns1:Location ;
+    ns1:description "Though it was planned to be a subterranean city extending 69 floors underground, this project died in development."^^xsd:string ;
+    ns1:japaneseName "ニューキンセツ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "New Mauville"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Newmoon_Island a ns1:Location ;
+    ns1:description "A small, round pond that lies inside a closed-off forest."^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Newmoon Island"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:North_Boulevard a ns1:Location ;
+    ns1:japaneseName "ノースサイド ストリート"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "North Boulevard"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:North_Lake_Miloch a ns1:Location ;
+    ns1:japaneseName "ミロカロ湖・北"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "North Lake Miloch"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:North_Paldean_Sea a ns1:Location ;
+    ns1:japaneseName "パルデア"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "North Paldean Sea"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:North_Province_Area_One a ns1:Location ;
+    ns1:japaneseName "北１番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "North Province (Area One)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:North_Province_Area_Three a ns1:Location ;
+    ns1:japaneseName "北３番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "North Province (Area Three)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:North_Province_Area_Two a ns1:Location ;
+    ns1:japaneseName "北２番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "North Province (Area Two)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Ns_Castle a ns1:Location ;
+    ns1:description "It once appeared in the past as a base for Team Plasma..."^^xsd:string ;
+    ns1:japaneseName "Ｎの城"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "N's Castle"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:ONBS a ns1:Location ;
+    ns1:japaneseName "ＯＮＢＳ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "ONBS"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Oblivia_Ruins a ns1:Location ;
+    ns1:japaneseName "オブリビアいせき"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Oblivia Ruins"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Obsidian_Falls a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Obsidian Falls"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Obsidian_Fieldlands a ns1:Location ;
+    ns1:locationType "grass"^^xsd:string ;
+    ns1:name "Obsidian Fieldlands"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Oceanic_Museum a ns1:Location ;
+    ns1:japaneseName "の"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Oceanic Museum"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Odd_Temple a ns1:Location ;
+    ns1:japaneseName "ナゾのしんでん"^^xsd:string ;
+    ns1:locationType "psychic"^^xsd:string ;
+    ns1:name "Odd Temple"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Oil_Field_Hideout a ns1:Location ;
+    ns1:description "A once-active underwater oil field that's shut down. It is now used by Team Dim Sun as its hideout. It also appears to serve as a secret factory where devices like the Miniremo systems are mass produced."^^xsd:string ;
+    ns1:japaneseName "かいていゆでんアジト"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Oil Field Hideout"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Old_Cemetery a ns1:Location ;
+    ns1:japaneseName "いにしえの墓地"^^xsd:string ;
+    ns1:locationType "ghost"^^xsd:string ;
+    ns1:name "Old Cemetery"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Old_Chateau a ns1:Location ;
+    ns1:description "Deep in the forest is the Old Chateau. It is falling into disrepair after being abandoned by its owner."^^xsd:string ;
+    ns1:locationType "ghost"^^xsd:string ;
+    ns1:name "Old Chateau"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Old_Mansion a ns1:Location ;
+    ns1:japaneseName "ふるいやしき"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Old Mansion"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Olivia_Palace a ns1:Location ;
+    ns1:japaneseName "パレス・オリヴィア"^^xsd:string ;
+    ns1:locationType "dark"^^xsd:string ;
+    ns1:name "Olivia Palace"^^xsd:string ;
+    ns1:region ns1:Carmonte_Island .
+
+ns1:Olivine_Lighthouse a ns1:Location ;
+    ns1:description "It shines brightly over the ocean with the power of Ampharos."^^xsd:string ;
+    ns1:japaneseName "アサギのとうだい"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Olivine Lighthouse"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:One_Island a ns1:Location ;
+    ns1:japaneseName "１のしま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "One Island"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Oni_Mountain a ns1:Location ;
+    ns1:japaneseName "鬼が山"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Oni Mountain"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Onis_Maw a ns1:Location ;
+    ns1:japaneseName "鬼歯空洞"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Oni's Maw"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Oreburgh_Mine a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Oreburgh Mine"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Oreburgh_Mining_Museum a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Oreburgh Mining Museum"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Oreburrow_Tunnel a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Oreburrow Tunnel"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Orre_Colosseum a ns1:Location ;
+    ns1:description "A Colosseum in the desert that is known only among the elite."^^xsd:string ;
+    ns1:japaneseName "オーレコロシアム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Orre Colosseum"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Outaway_Cave a ns1:Location ;
+    ns1:description "This extensive cave system stretches far into the depths of the earth."^^xsd:string ;
+    ns1:japaneseName "ハナレ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Outaway Cave"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Outskirt_Stand a ns1:Location ;
+    ns1:description "A lonely gasoline stand in a desolate desert. Travelers visit it on their journeys.A lonely gas station in the desert. Travelers stop by on their journeys."^^xsd:string ;
+    ns1:japaneseName "町外れのスタンド"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Outskirt Stand"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:P2_Laboratory a ns1:Location ;
+    ns1:description "Team Plasma's secret lab is located on a quiet little island."^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "P2 Laboratory"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Pal_Park a ns1:Location ;
+    ns1:description "This used to be the location of the Safari Zone, but is now the Pal Park."^^xsd:string ;
+    ns1:japaneseName "パルパーク"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Pal Park"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Paniola_Ranch a ns1:Location ;
+    ns1:description "The ranch managed together by the people and Pokémon living in Paniola Town."^^xsd:string ;
+    ns1:japaneseName "オハナ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Paniola Ranch"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Paradise_Barrens a ns1:Location ;
+    ns1:japaneseName "楽土の荒地"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Paradise Barrens"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Parfum_Palace a ns1:Location ;
+    ns1:description "A luxurious palace constructed 300 years ago by a king who wished to display his power to all."^^xsd:string ;
+    ns1:japaneseName "パルファム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Parfum Palace"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Passerby_Analytics_HQ a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Passerby Analytics HQ"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Pastures a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Pastures"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Path_to_the_Peak a ns1:Location ;
+    ns1:japaneseName "頂への雪道"^^xsd:string ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Path to the Peak"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Pathless_Plain a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Pathless Plain"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Pattern_Bush a ns1:Location ;
+    ns1:description "A lush and bush-like area. In it are patterns where no grass grows. Some study it in the belief that a secret is concealed."^^xsd:string ;
+    ns1:japaneseName "しるしのはやし"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Pattern Bush"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Peril_Cliffs a ns1:Location ;
+    ns1:description "An extremely dangerous set of cliffs to which access is forbidden. Rare plant life and many kinds of wild Pokémon can be found here."^^xsd:string ;
+    ns1:japaneseName "イノチがけ"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Peril Cliffs"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Petalburg_Woods a ns1:Location ;
+    ns1:description "This dense forest, with its abundance of trees, is well known to be a favorite habitat for Shroomish."^^xsd:string ;
+    ns1:japaneseName "トウカの"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Petalburg Woods"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Pewter_Museum_of_Science a ns1:Location ;
+    ns1:japaneseName "ニビ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pewter Museum of Science"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Phenac_Stadium a ns1:Location ;
+    ns1:japaneseName "フェナススタジアム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Phenac Stadium"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Pick_a_Peck_of_Colors_Flower_Shop a ns1:Location ;
+    ns1:japaneseName "フラワーショップいろとりどり"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pick a Peck of Colors Flower Shop"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Pikachu_Valley a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Pikachu Valley"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Pinwheel_Forest a ns1:Location ;
+    ns1:description "You can go through hollows of fallen trees, too."^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Pinwheel Forest"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Plains_Grotto a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Plains Grotto"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Plasma_Frigate a ns1:Location ;
+    ns1:description "A mysterious black vessel seen in various locations in Unova."^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Plasma Frigate"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Pledge_Grove a ns1:Location ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Pledge Grove"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Poco_Path a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Poco Path"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Pok_Ball_Factory a ns1:Location ;
+    ns1:description "An expansive factory where every Poké Ball used in the Kalos region is produced."^^xsd:string ;
+    ns1:japaneseName "ボール"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Poké Ball Factory"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Pok_Pelago a ns1:Location ;
+    ns1:japaneseName "ポケリゾート"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Poké Pelago"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Pok_Spot a ns1:Location ;
+    ns1:description "A rough and rocky Poké Spot where wild Pokémon appear.'''|Rock'''A lush, oasis-like Poké Spot where wild Pokémon appear.'''|Oasis'''A dark and damp Poké Spot where wild Pokémon appear.'''|Cave'''"^^xsd:string ;
+    ns1:japaneseName "ポケスポット"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Poké Spot"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Pok_Transfer_Lab a ns1:Location ;
+    ns1:description "A facility to study Pokémon from faraway regions."^^xsd:string ;
+    ns1:japaneseName "シフトファクトリー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Poké Transfer Lab"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Pokathlon_Dome a ns1:Location ;
+    ns1:japaneseName "ポケスロンドーム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pokéathlon Dome"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Pokmon_Communication_Center a ns1:Location ;
+    ns1:japaneseName "ポケモンコミュニケーションセンター"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pokémon Communication Center"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Pokmon_Comprehensive_Laboratory a ns1:Location ;
+    ns1:japaneseName "ポケモン"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pokémon Comprehensive Laboratory"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:Pokmon_HQ_Lab a ns1:Location ;
+    ns1:description "The Orre Region's top research lab that studies Pokémon comprehensively."^^xsd:string ;
+    ns1:japaneseName "ポケモン総合研究所"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pokémon HQ Lab"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Pokmon_League_Reception_Gate a ns1:Location ;
+    ns1:japaneseName "ポケモンリーグうけつけゲート"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pokémon League Reception Gate"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Pokmon_Mansion a ns1:Location ;
+    ns1:description "A decrepit, burned-down mansion on Cinnabar Island. It got its name because a famous Pokémon researcher lived there."^^xsd:string ;
+    ns1:japaneseName "ポケモン"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string,
+        "ruins"^^xsd:string ;
+    ns1:name "Pokémon Mansion"^^xsd:string ;
+    ns1:region ns1:Kanto,
+        ns1:Sinnoh .
+
+ns1:Pokmon_Network_Center a ns1:Location ;
+    ns1:japaneseName "ポケモンネットワークセンター"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Pokémon Network Center"^^xsd:string ;
+    ns1:region ns1:Sevii_IslandsSevii_Islands .
+
+ns1:Pokmon_Resort a ns1:Location ;
+    ns1:japaneseName "ポケモンリゾート"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Pokémon Resort"^^xsd:string ;
+    ns1:region ns1:Unknown .
+
+ns1:Pokmon_Tower a ns1:Location ;
+    ns1:description "A tower that houses the graves of countless Pokémon. Many people visit it daily to pay their respects to the fallen."^^xsd:string ;
+    ns1:japaneseName "ポケモンタワー"^^xsd:string ;
+    ns1:locationType "ghost"^^xsd:string ;
+    ns1:name "Pokémon Tower"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Pokmon_Trainers_School a ns1:Location ;
+    ns1:japaneseName "トレーナーズスクール"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pokémon Trainers' School"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Pokmon_Unity_Lab a ns1:Location ;
+    ns1:japaneseName "ポケモン共生研究所"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pokémon Unity Lab"^^xsd:string ;
+    ns1:region ns1:Unknown .
+
+ns1:Pokmon_Village a ns1:Location ;
+    ns1:description "Legends say a place exists where Pokémon live in hiding, but no one has ever found it."^^xsd:string ;
+    ns1:japaneseName "ポケモンの"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Pokémon Village"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Pokmon_World_Tournament a ns1:Location ;
+    ns1:description "Trainers who are proud of their skills compete in tournaments."^^xsd:string ;
+    ns1:japaneseName "ポケモンワールドトーナメント"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pokémon World Tournament"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Pokstar_Studios a ns1:Location ;
+    ns1:description "Pokéstar Studios, where great movies are produced."^^xsd:string ;
+    ns1:japaneseName "ポケウッド"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pokéstar Studios"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Poktch_Company a ns1:Location ;
+    ns1:japaneseName "ポケッチカンパニー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pokétch Company"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Polar_Biome a ns1:Location ;
+    ns1:japaneseName "ポーラエリア"^^xsd:string ;
+    ns1:locationType "ice"^^xsd:string ;
+    ns1:name "Polar Biome"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Polar_Plaza a ns1:Location ;
+    ns1:japaneseName "ポーラスクエア"^^xsd:string ;
+    ns1:locationType "ice"^^xsd:string ;
+    ns1:name "Polar Plaza"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Poni_Beach a ns1:Location ;
+    ns1:description "A beach on Poni Island with an abundance of nature. It's one of the Mantine Surf Spots."^^xsd:string ;
+    ns1:japaneseName "ポニのビーチ"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Poni Beach"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Poni_Breaker_Coast a ns1:Location ;
+    ns1:description "The southern coast of Poni Island, where rough waves pound mercilessly upon the shore."^^xsd:string ;
+    ns1:japaneseName "ポニの"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Poni Breaker Coast"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Poni_Coast a ns1:Location ;
+    ns1:description "The north-eastern coast of Poni Island, where the clarity of the water makes it a popular view spot."^^xsd:string ;
+    ns1:japaneseName "ポニの"^^xsd:string ;
+    ns1:locationType "rock"^^xsd:string ;
+    ns1:name "Poni Coast"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Poni_Gauntlet a ns1:Location ;
+    ns1:description "A difficult path that leads to the Battle Tree. It's full of tough Trainers."^^xsd:string ;
+    ns1:japaneseName "ポニの"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Poni Gauntlet"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Poni_Grove a ns1:Location ;
+    ns1:description "A natural path that winds among the many trees. It leads to the eastern side of Poni Island."^^xsd:string ;
+    ns1:japaneseName "ポニの"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Poni Grove"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Poni_Island a ns1:Location ;
+    ns1:japaneseName "ポニじま"^^xsd:string ;
+    ns1:locationType "TCG Pokémon Tool"^^xsd:string ;
+    ns1:name "Poni Island"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Poni_Meadow a ns1:Location ;
+    ns1:description "A place where purple flowers bloom in abundance. You can gather the nectar Oricorio loves to feed on here."^^xsd:string ;
+    ns1:japaneseName "ポニの"^^xsd:string ;
+    ns1:locationType "fog"^^xsd:string ;
+    ns1:name "Poni Meadow"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Poni_Plains a ns1:Location ;
+    ns1:description "The plains that lead to the northern part of Poni island. There is also a path connecting to Poni Meadow from here."^^xsd:string ;
+    ns1:japaneseName "ポニの"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Poni Plains"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Poni_Wilds a ns1:Location ;
+    ns1:description "The entrance to Poni Island. It connects to Seafolk Village."^^xsd:string ;
+    ns1:japaneseName "ポニの"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Poni Wilds"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Porto_Marinada_Market a ns1:Location ;
+    ns1:japaneseName "マリナード市場"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Porto Marinada Market"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Potbottom_Desert a ns1:Location ;
+    ns1:japaneseName "鍋底砂漠"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Potbottom Desert"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Power_Plant a ns1:Location ;
+    ns1:description "A power plant that was abandoned years ago, though some of the machines still work. It is infested with electric Pokémon.The plant that generates all the energy for the Kanto region.A technological complex where Electric-type Pokémon are commonly found."^^xsd:string ;
+    ns1:japaneseName "/"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Power Plant"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Prestige_Precept_Center a ns1:Location ;
+    ns1:japaneseName "トレーナーズトレーニングセンター"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Prestige Precept Center"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Pretty_Petal_flower_shop a ns1:Location ;
+    ns1:japaneseName "フラワーショップ サン・トウカ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pretty Petal flower shop"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Primeval_Grotto a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Primeval Grotto"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Professor_Oaks_Laboratory a ns1:Location ;
+    ns1:japaneseName "オーキド研究所"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Professor Oak's Laboratory"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Puel_Sea a ns1:Location ;
+    ns1:description "A shallow sea off the coast of Pueltown. Many kinds of Pokémon make their home in its crystal clear waters. Crossing the seafloor are fast-moving currents that swiftly propel swimmers."^^xsd:string ;
+    ns1:japaneseName "プエルおき"^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Puel Sea"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Pyrite_Bldg a ns1:Location ;
+    ns1:japaneseName "パイラのビル"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Pyrite Bldg"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Pyrite_Cave a ns1:Location ;
+    ns1:japaneseName "パイラのどうくつ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Pyrite Cave"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Pyrite_Colosseum a ns1:Location ;
+    ns1:japaneseName "パイラコロシアム"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Pyrite Colosseum"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Rad_Rickshaws_Cycle_Shop a ns1:Location ;
+    ns1:japaneseName "サイクル ショップ じてんしゃ じんりき"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Rad Rickshaw's Cycle Shop"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Rainbow_Dais a ns1:Location ;
+    ns1:japaneseName "にじのさいだん"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Rainbow Dais"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Ramanas_Island a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Ramanas Island"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Ramanas_Park a ns1:Location ;
+    ns1:japaneseName "ハマナスパーク"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Ramanas Park"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Ranger_Union a ns1:Location ;
+    ns1:description "Located in the northwest of the Almia region, the Ranger Union serves as a central base of operations. It supports all the activities of Rangers in the Almia Region and its surrounding areas."^^xsd:string ;
+    ns1:japaneseName "レンジャーユニオン"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Ranger Union"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Rasp_Cavern a ns1:Location ;
+    ns1:japaneseName "ヤスリどうくつ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Rasp Cavern"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Ravaged_Path a ns1:Location ;
+    ns1:japaneseName "荒れた抜け道"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Ravaged Path"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Realgam_Colosseum a ns1:Location ;
+    ns1:japaneseName "ラルガコロシアム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Realgam Colosseum"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Realgam_Tower a ns1:Location ;
+    ns1:description "The construction site for an immense tower, which will have a Colosseum on the top floor.An immense tower that was finally completed as Cipher's base. It has a Colosseum on top.An immense tower that was finally completed. It is said to have a suspended Colosseum.An immense, members-only tower that is jam-packed with entertainment."^^xsd:string ;
+    ns1:japaneseName "ラルガタワー / 工事現場"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Realgam Tower"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Reflection_Cave a ns1:Location ;
+    ns1:description "The sheer faces of these rock walls reflect the images of people and Pokémon like nature's mirror."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Reflection Cave"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Relic_Castle a ns1:Location ;
+    ns1:description "Ancient ruins with a glorious history, buried in the sand as time went by."^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Relic Castle"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Relic_Cave a ns1:Location ;
+    ns1:japaneseName "ほこらのどうくつ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Relic Cave"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Relic_Passage a ns1:Location ;
+    ns1:description "A recently discovered passage that leads to the Relic Castle."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Relic Passage"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Relic_Stone a ns1:Location ;
+    ns1:japaneseName "聖なるほこら"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Relic Stone"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Renbow_Island a ns1:Location ;
+    ns1:description "An island with beautiful beaches and woods. Cocona Village is where people live idyllically."^^xsd:string ;
+    ns1:japaneseName "レインボじま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Renbow Island"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Resolution_Cave a ns1:Location ;
+    ns1:description "A cave that leads deep, deep down under the ground. How it got the name \"resolution\" is not known."^^xsd:string ;
+    ns1:japaneseName "エンドケイブ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Resolution Cave"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Revelers_Road a ns1:Location ;
+    ns1:japaneseName "舞出山道"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Reveler's Road"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Reversal_Mountain a ns1:Location ;
+    ns1:description "A volcano that grabs headlines for its many recent eruptions.A volcano with a record of a huge eruption long ago."^^xsd:string ;
+    ns1:japaneseName "リバースマウンテン"^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Reversal Mountain"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Ribbon_Syndicate a ns1:Location ;
+    ns1:japaneseName "リボンシンジケート"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Ribbon Syndicate"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Riverbank_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Riverbank Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Roaring-Sea_Caves a ns1:Location ;
+    ns1:japaneseName "海鳴りの洞窟"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Roaring-Sea Caves"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Rock_Peak_Ruins a ns1:Location ;
+    ns1:japaneseName "いわやまのいせき"^^xsd:string,
+        "岩山の遺跡"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Rock Peak Ruins"^^xsd:string ;
+    ns1:region ns1:Galar,
+        ns1:Sinnoh .
+
+ns1:Rock_Tunnel a ns1:Location ;
+    ns1:description "A naturally formed underground tunnel. Because it has not been developed, it is inky dark inside. A light is needed to get through.A dark tunnel that begins in Lavender Town and comes out in Cerulean City.A large natural tunnel. It's pitch black, so a light source is required."^^xsd:string ;
+    ns1:japaneseName "イワヤマトンネル"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Rock Tunnel"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Rocket_Warehouse a ns1:Location ;
+    ns1:japaneseName "ロケットだんそうこ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Rocket Warehouse"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Rocky_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Rocky Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Rolling_Fields a ns1:Location ;
+    ns1:japaneseName "うららか草原"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Rolling Fields"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Rose_Tower a ns1:Location ;
+    ns1:japaneseName "ローズタワービル"^^xsd:string ;
+    ns1:locationType "steel"^^xsd:string ;
+    ns1:name "Rose Tower"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Rotoms_Room a ns1:Location ;
+    ns1:japaneseName "ロトムのへや"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Rotom's Room"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Route_9_Tunnel a ns1:Location ;
+    ns1:japaneseName "ルートナイントンネル"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Route 9 Tunnel"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Royal_Unova a ns1:Location ;
+    ns1:japaneseName "ロイヤルイッシュ"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Royal Unova"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Ruchbah_Squads_Base a ns1:Location ;
+    ns1:japaneseName "チーム・ルクバーのアジト"^^xsd:string ;
+    ns1:locationType "fairy"^^xsd:string ;
+    ns1:name "Ruchbah Squad's Base"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Ruins_of_Abundance a ns1:Location ;
+    ns1:description "The ruins that enshrine , one of the land spirits. It is said that life grows here."^^xsd:string ;
+    ns1:japaneseName "りの"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Ruins of Abundance"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Ruins_of_Alph a ns1:Location ;
+    ns1:description "A place where you can find a former adventure."^^xsd:string ;
+    ns1:japaneseName "アルフの"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Ruins of Alph"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Ruins_of_Conflict a ns1:Location ;
+    ns1:description "The ruins that enshrine , one of the land spirits. It is said that life is tested here."^^xsd:string ;
+    ns1:japaneseName "の"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Ruins of Conflict"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Ruins_of_Hope a ns1:Location ;
+    ns1:description "The ruins that enshrine , one of the land spirits. It is said that life ends its journey here."^^xsd:string ;
+    ns1:japaneseName "の"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Ruins of Hope"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Ruins_of_Life a ns1:Location ;
+    ns1:description "The ruins that enshrine , one of the land spirits. It is said that life is born here."^^xsd:string ;
+    ns1:japaneseName "の"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Ruins of Life"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Ruins_of_Remembrance a ns1:Location ;
+    ns1:description "These ruins slumber on a forgotten island, their origins a mystery."^^xsd:string ;
+    ns1:japaneseName "シューゴ"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Ruins of Remembrance"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Rusturf_Tunnel a ns1:Location ;
+    ns1:description "This stone tunnel links together Rustboro and Verdanturf. Its name was chosen as a mixture of the two."^^xsd:string ;
+    ns1:japaneseName "カナシダトンネル"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Rusturf Tunnel"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Rydels_Cycles a ns1:Location ;
+    ns1:japaneseName "サイクルショップカゼノ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Rydel's Cycles"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Ryme_City_Police_Station a ns1:Location ;
+    ns1:japaneseName "ライム警察署"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Ryme City Police Station"^^xsd:string ;
+    ns1:region ns1:Unknown .
+
+ns1:Ryme_Wharf a ns1:Location ;
+    ns1:japaneseName "ライム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Ryme Wharf"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:SS_Anne a ns1:Location ;
+    ns1:japaneseName "サント・アンヌ号"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "S.S. Anne"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:SS_Aqua a ns1:Location ;
+    ns1:description "A boat that traverses ocean paths using hydraulic power."^^xsd:string ;
+    ns1:japaneseName "アクアごう"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "S.S. Aqua"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:SS_Libra a ns1:Location ;
+    ns1:description "The missing cargo ship. Did Cipher transport it here?"^^xsd:string ;
+    ns1:japaneseName "リブラ号"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "S.S. Libra"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:SS_Prime_Treasure a ns1:Location ;
+    ns1:japaneseName "プライム・トレジャー"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "S.S. Prime Treasure"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:SS_Sinnoh a ns1:Location ;
+    ns1:japaneseName "シンオウ / ラセンまる"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "S.S. Sinnoh"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:SS_Tidal a ns1:Location ;
+    ns1:japaneseName "タイドリップ"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "S.S. Tidal"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Sacred_Plaza a ns1:Location ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Sacred Plaza"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Safari_Zone a ns1:Location ;
+    ns1:description "An amusement park outside Fuchsia City where many rare Pokémon can be observed in the wild. Catch them in a popular game!"^^xsd:string,
+        "This amusement area provides a rich environment in which to catch many different kinds of Pokémon."^^xsd:string ;
+    ns1:japaneseName "サファリゾーン"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Safari Zone"^^xsd:string ;
+    ns1:region ns1:Hoenn,
+        ns1:Johto,
+        ns1:Kanto .
+
+ns1:Sand_Continent a ns1:Location ;
+    ns1:japaneseName "砂の大陸"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Sand Continent"^^xsd:string ;
+    ns1:region ns1:Pokmon_world_Mystery_DungeonMystery_Dungeon_world .
+
+ns1:Sandgem_Flats a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Sandgem Flats"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Sands_Reach a ns1:Location ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Sand's Reach"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Sandsear_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Sandsear Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Sandy_Cave a ns1:Location ;
+    ns1:description "The vast sea spreads, and various Pokémon live among rocks."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Sandy Cave"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Santalune_Forest a ns1:Location ;
+    ns1:description "The gentle light filtering through this sun-dappled forest makes it a popular spot for nature walks."^^xsd:string ;
+    ns1:japaneseName "ハクダンの"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Santalune Forest"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Savanna_Biome a ns1:Location ;
+    ns1:japaneseName "サバンナエリア"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Savanna Biome"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Savanna_Plaza a ns1:Location ;
+    ns1:japaneseName "サバンナスクエア"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Savanna Plaza"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Scarlet_Bog a ns1:Location ;
+    ns1:locationType "marsh"^^xsd:string ;
+    ns1:name "Scarlet Bog"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Schedar_Squads_Base a ns1:Location ;
+    ns1:japaneseName "チーム・シェダルのアジト"^^xsd:string ;
+    ns1:locationType "fire"^^xsd:string ;
+    ns1:name "Schedar Squad's Base"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Scorched_Slab a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Scorched Slab"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Sea_Cottage a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Sea Cottage"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Sea_Mauville a ns1:Location ;
+    ns1:description "A facility that was decommissioned dozens of years ago. It is now maintained as a natural preserve."^^xsd:string ;
+    ns1:japaneseName "シーキンセツ"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Sea Mauville"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Sea_Spirits_Den a ns1:Location ;
+    ns1:description "A pit in the shallows of Azure Bay thought to have been from an ancient outpouring of energy."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Sea Spirit's Den"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Sea_of_Wailord a ns1:Location ;
+    ns1:description "An area of the sea to the east of the Almia region where Wailord has been spotted. In recent times, it has been fouled by pollutants and discarded supplies from an underwater oil field nearby."^^xsd:string ;
+    ns1:japaneseName "ホエルオーのうみ"^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Sea of Wailord"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Sea_of_Wonders a ns1:Location ;
+    ns1:japaneseName "七不思議の海"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Sea of Wonders"^^xsd:string ;
+    ns1:region ns1:Pokmon_world_Mystery_DungeonMystery_Dungeon_world .
+
+ns1:Seafloor_Cavern a ns1:Location ;
+    ns1:description "It is said that once dwelled here in the ancient mists of a time long past."^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Seafloor Cavern"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Seagallop a ns1:Location ;
+    ns1:japaneseName "シーギャロップごう"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Seagallop"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Seagrass_Haven a ns1:Location ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Seagrass Haven"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Sealed_Chamber a ns1:Location ;
+    ns1:japaneseName "おふれの"^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Sealed Chamber"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Seaside_Cave a ns1:Location ;
+    ns1:description "A rock that became passable due to wind, waves, and Pokémon."^^xsd:string ;
+    ns1:locationType "Cave"^^xsd:string ;
+    ns1:name "Seaside Cave"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Seaside_Cycling_Road a ns1:Location ;
+    ns1:japaneseName "シーサイドサイクリングロード"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Seaside Cycling Road"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Seaside_Hollow a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Seaside Hollow"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Seaward_Cave a ns1:Location ;
+    ns1:description "A cave that connects Melemele Meadow and Kala'e Bay. It is filled with salty smell of the sea."^^xsd:string ;
+    ns1:japaneseName "ぎの"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Seaward Cave"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Secret_Hollow a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Secret Hollow"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Secret_Islet a ns1:Location ;
+    ns1:description "There is a large tree on this little island that would be ideal for making a Secret Base."^^xsd:string ;
+    ns1:japaneseName "ひみつの"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Secret Islet"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Secret_Meadow a ns1:Location ;
+    ns1:description "There are many small caves in this meadow that would be ideal for making Secret Bases."^^xsd:string ;
+    ns1:japaneseName "ひみつの"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Secret Meadow"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Secret_Shore a ns1:Location ;
+    ns1:description "There are many small caves along this shore that would be ideal for making Secret Bases."^^xsd:string ;
+    ns1:japaneseName "ひみつのいそべ"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Secret Shore"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Secret_Side_Path a ns1:Location ;
+    ns1:description "The NEO-ONE's shrinking function allows you to access this secret path."^^xsd:string ;
+    ns1:japaneseName "カクレけ"^^xsd:string ;
+    ns1:locationType "grass"^^xsd:string ;
+    ns1:name "Secret Side Path"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Segin_Squads_Base a ns1:Location ;
+    ns1:japaneseName "チーム・セギンのアジト"^^xsd:string ;
+    ns1:locationType "dark"^^xsd:string ;
+    ns1:name "Segin Squad's Base"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Sendoff_Spring a ns1:Location ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "Sendoff Spring"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Serenity_Park a ns1:Location ;
+    ns1:japaneseName "憩いの公園"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Serenity Park"^^xsd:string ;
+    ns1:region ns1:Unknown .
+
+ns1:Seven_Island a ns1:Location ;
+    ns1:japaneseName "７のしま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Seven Island"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Seven_Stars_Restaurant a ns1:Location ;
+    ns1:japaneseName "レストランななつぼし"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Seven Stars Restaurant"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Shabboneau_Castle a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Shabboneau Castle"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Shady_House a ns1:Location ;
+    ns1:description "A mansion abandoned by a certain rich citizen. People sometimes call it the \"Shady Chateau,\" too."^^xsd:string ;
+    ns1:japaneseName "いかがわしき"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Shady House"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Shiver_Snowfields a ns1:Location ;
+    ns1:description "A shimmering, frigid landscape encased in perpetual ice and snow."^^xsd:string ;
+    ns1:japaneseName "ヒエール"^^xsd:string ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Shiver Snowfields"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Shoal_Cave a ns1:Location ;
+    ns1:description "This cave's appearance changes greatly between high tide and low tide."^^xsd:string ;
+    ns1:locationType "|9|10|11|12|1|2=water|cave"^^xsd:string ;
+    ns1:name "Shoal Cave"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Shopping_Mall_Nine a ns1:Location ;
+    ns1:japaneseName "ショッピングモール アールナイン"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Shopping Mall Nine"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Shrouded_Ruins a ns1:Location ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Shrouded Ruins"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Silph_Company a ns1:Location ;
+    ns1:japaneseName "シルフカンパニー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Silph Company"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Sinjoh_Ruins a ns1:Location ;
+    ns1:description "A snow-covered area of old legends, surrounded by a wall of snow."^^xsd:string ;
+    ns1:japaneseName "シントいせき"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Sinjoh Ruins"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Six_Island a ns1:Location ;
+    ns1:japaneseName "６のしま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Six Island"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Sky a ns1:Location ;
+    ns1:japaneseName "じょうくう"^^xsd:string ;
+    ns1:locationType "fog"^^xsd:string ;
+    ns1:name "Sky"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Sky_Fortress a ns1:Location ;
+    ns1:description "The fortress that was built by evil people in ancient times to rule the world and has been sealed away in the Oblivia region. Its primary weapon can destroy an island in one shot."^^xsd:string ;
+    ns1:japaneseName "くうちゅうようさい"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Sky Fortress"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Sky_Pillar a ns1:Location ;
+    ns1:description "This tower was created for the veneration of a that lives far above in the heavens."^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Sky Pillar"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Skyarrow_Bridge a ns1:Location ;
+    ns1:description "The biggest, longest bridge in Unova has four supporting towers."^^xsd:string ;
+    ns1:japaneseName "スカイアローブリッジ"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Skyarrow Bridge"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Slippery_Slope a ns1:Location ;
+    ns1:japaneseName "滑り出し雪原"^^xsd:string ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Slippery Slope"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Slowpoke_Well a ns1:Location ;
+    ns1:description "When Slowpoke are thirsty, they come here to drink."^^xsd:string ;
+    ns1:japaneseName "ヤドンのいど"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Slowpoke Well"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Sludge_Mound a ns1:Location ;
+    ns1:locationType "marsh"^^xsd:string ;
+    ns1:name "Sludge Mound"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Slumbering_Weald a ns1:Location ;
+    ns1:japaneseName "まどろみの"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Slumbering Weald"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Snagem_Hideout a ns1:Location ;
+    ns1:description "The former base of Team Snagem that was completely destroyed in a catastrophic explosion.Team Snagem's base is apparently still in use even after it was destroyed.The base where Team Snagem dreams of regaining its former glory."^^xsd:string ;
+    ns1:japaneseName "スナッチ団のアジト"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Snagem Hideout"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Snowfall_Hot_Spring a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Snowfall Hot Spring"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Snowpoint_Temple a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Snowpoint Temple"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Snowslide_Slope a ns1:Location ;
+    ns1:japaneseName "雪中渓谷"^^xsd:string ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Snowslide Slope"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Soaring_in_the_sky a ns1:Location ;
+    ns1:locationType "flying"^^xsd:string ;
+    ns1:name "Soaring in the sky"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Socarrat_Trail a ns1:Location ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Socarrat Trail"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Solaceon_Ruins a ns1:Location ;
+    ns1:japaneseName "ズイの"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Solaceon Ruins"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Sonorous_Path a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Sonorous Path"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Soothing_Wetlands a ns1:Location ;
+    ns1:japaneseName "清涼湿原"^^xsd:string ;
+    ns1:locationType "marsh"^^xsd:string ;
+    ns1:name "Soothing Wetlands"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Sophian_Island a ns1:Location ;
+    ns1:description "An island with snow-covered Mt. Sorbet and a beautiful waterfall. The Aqua Resort is home to many who come to retire there."^^xsd:string ;
+    ns1:japaneseName "ソピアナじま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Sophian Island"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:South_Boulevard a ns1:Location ;
+    ns1:japaneseName "サウスサイド ストリート"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "South Boulevard"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:South_Lake_Miloch a ns1:Location ;
+    ns1:japaneseName "ミロカロ湖・南"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "South Lake Miloch"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:South_Paldean_Sea a ns1:Location ;
+    ns1:japaneseName "パルデア"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "South Paldean Sea"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:South_Province_Area_Five a ns1:Location ;
+    ns1:japaneseName "南５番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "South Province (Area Five)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:South_Province_Area_Four a ns1:Location ;
+    ns1:japaneseName "南４番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "South Province (Area Four)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:South_Province_Area_One a ns1:Location ;
+    ns1:japaneseName "南１番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "South Province (Area One)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:South_Province_Area_Six a ns1:Location ;
+    ns1:japaneseName "南６番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "South Province (Area Six)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:South_Province_Area_Three a ns1:Location ;
+    ns1:japaneseName "南３番エリア"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "South Province (Area Three)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:South_Province_Area_Two a ns1:Location ;
+    ns1:japaneseName "南２番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "South Province (Area Two)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Southern_Island a ns1:Location ;
+    ns1:description "This small island is surrounded by a mysterious veil that makes approach impossible for mere humans."^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Southern Island"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Southern_Ruins a ns1:Location ;
+    ns1:japaneseName "南の遺跡"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Southern Ruins"^^xsd:string ;
+    ns1:region ns1:Unknown .
+
+ns1:Spacious_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Spacious Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Spear_Pillar a ns1:Location ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Spear Pillar"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Split-Decision_Ruins a ns1:Location ;
+    ns1:japaneseName "定めの遺跡"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Split-Decision Ruins"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Sprout_Tower a ns1:Location ;
+    ns1:description "A tower where they study diligently to learn to live with Pokémon."^^xsd:string ;
+    ns1:japaneseName "マダツボミのとう"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Sprout Tower"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Stargazer_Colosseum a ns1:Location ;
+    ns1:description "With a view that stretches on forever, this Colosseum is great for epic battles."^^xsd:string ;
+    ns1:japaneseName "スタービューコロシアム"^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Stargazer Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:Stargleam_Cavern a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Stargleam Cavern"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Stark_Mountain a ns1:Location ;
+    ns1:description "A rugged, seemingly indestructible rock mountain that is thickly blanketed by the volcanic ash it spews.Inside the mountain, fissures in spilled and hardened lava form enormous caverns."^^xsd:string ;
+    ns1:japaneseName "ハードマウンテン"^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Stark Mountain"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Stepping-Stone_Sea a ns1:Location ;
+    ns1:japaneseName "並ぶ島の海"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Stepping-Stone Sea"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Sterns_Shipyard a ns1:Location ;
+    ns1:japaneseName "クスノキ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Stern's Shipyard"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Still-Water_Cavern a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Still-Water Cavern"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Stone_Portal a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Stone Portal"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Stonetooth_Rows a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Stonetooth Rows"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Stony_Wilderness a ns1:Location ;
+    ns1:japaneseName "ストーンズ原野"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Stony Wilderness"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Strange_House a ns1:Location ;
+    ns1:description "A house known for a sad incident that is said to keep people away."^^xsd:string ;
+    ns1:japaneseName "ストレンジャーハウス"^^xsd:string ;
+    ns1:locationType "ghost"^^xsd:string ;
+    ns1:name "Strange House"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Submarine a ns1:Location ;
+    ns1:japaneseName "せんすいかん"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Submarine"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Sunlit_Cavern a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Sunlit Cavern"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Sunny_Park_Colosseum a ns1:Location ;
+    ns1:description "This outdoor Colosseum sits in the middle of a popular family park."^^xsd:string ;
+    ns1:japaneseName "サニーパークコロシアム"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Sunny Park Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:Sunset_Colosseum a ns1:Location ;
+    ns1:description "Located on Sunset Bay, this Colosseum was the site of many ancient battles."^^xsd:string ;
+    ns1:japaneseName "サンセットコロシアム"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "Sunset Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:Sunyshore_Market a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Sunyshore Market"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Swampy_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Swampy Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Sweltering_Sands a ns1:Location ;
+    ns1:description "In this vast desert, Pokémon gather at a small oasis to relax."^^xsd:string ;
+    ns1:japaneseName "ネッサ"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Sweltering Sands"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:TV_Mauville a ns1:Location ;
+    ns1:japaneseName "テレビキンセツ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "TV Mauville"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Tagtree_Thicket a ns1:Location ;
+    ns1:japaneseName "しるしの木立ち"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Tagtree Thicket"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Tahnti_Park a ns1:Location ;
+    ns1:japaneseName "タンティ"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Tahnti Park"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:Tanoby_Chambers a ns1:Location ;
+    ns1:description "An ancient ruin that is rumored to be home to a peculiar Pokémon. However, so far, the Pokémon remains an unconfirmed rumor."^^xsd:string ;
+    ns1:japaneseName "アスカナのせきしつ"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Tanoby Chambers"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Tanoby_Key a ns1:Location ;
+    ns1:japaneseName "アスカナのかぎ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Tanoby Key"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Team_Aqua_Hideout a ns1:Location ;
+    ns1:japaneseName "アクアアジト"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "Team Aqua Hideout"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Team_Flare_Secret_HQ a ns1:Location ;
+    ns1:description "The base of Team Flare's operations, built in secret to activate the ultimate weapon."^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Team Flare Secret HQ"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Team_Galactic_Eterna_Building a ns1:Location ;
+    ns1:japaneseName "ギンガハクタイビル"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Team Galactic Eterna Building"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Team_Galactic_HQ a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Team Galactic HQ"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Team_Magma_Hideout a ns1:Location ;
+    ns1:japaneseName "マグマアジト"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Team Magma Hideout"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Team_Rocket_HQ a ns1:Location ;
+    ns1:japaneseName "ロケットだんアジト"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Team Rocket HQ"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Team_Rocket_Hideout a ns1:Location ;
+    ns1:japaneseName "ロケットアジト"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Team Rocket Hideout"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Team_Rockets_Castle a ns1:Location ;
+    ns1:japaneseName "ロケット団の城"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Team Rocket's Castle"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Temple_of_Sinnoh a ns1:Location ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Temple of Sinnoh"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Ten_Carat_Hill a ns1:Location ;
+    ns1:description "A great hill formed by the activity of an underwater volcano. It is famous for the hollow in its middle that is open to the air."^^xsd:string ;
+    ns1:japaneseName "テンカラットヒル"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Ten Carat Hill"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Terarium a ns1:Location ;
+    ns1:japaneseName "テラリウムドーム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Terarium"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Terminus_Cave a ns1:Location ;
+    ns1:description "A coal mine that was closed a few years ago due to rumors of a monster living deep within it."^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Terminus Cave"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Terra_Cave a ns1:Location ;
+    ns1:japaneseName "りくのどうくつ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Terra Cave"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:The_Heartwood a ns1:Location ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "The Heartwood"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:The_Under_Subway a ns1:Location ;
+    ns1:japaneseName "アンダーのちかてつ"^^xsd:string ;
+    ns1:locationType "ground"^^xsd:string ;
+    ns1:name "The Under Subway"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:The_Volcano a ns1:Location ;
+    ns1:japaneseName "ボルケイノ"^^xsd:string ;
+    ns1:locationType "fire"^^xsd:string ;
+    ns1:name "The Volcano"^^xsd:string ;
+    ns1:region ns1:Carmonte_Island .
+
+ns1:Three-Point_Pass a ns1:Location ;
+    ns1:japaneseName "三つまたヶ原"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Three-Point Pass"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Three_Island a ns1:Location ;
+    ns1:japaneseName "３のしま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Three Island"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Thrifty_Megamart a ns1:Location ;
+    ns1:description "The original site of the first Thrifty Megamart store. It is said to have been destroyed by the island's tapu."^^xsd:string ;
+    ns1:japaneseName "スーパー・メガやす"^^xsd:string ;
+    ns1:locationType "ghost"^^xsd:string ;
+    ns1:name "Thrifty Megamart"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Thunder_Temple a ns1:Location ;
+    ns1:japaneseName "かみなりのしんでん"^^xsd:string ;
+    ns1:locationType "electric"^^xsd:string ;
+    ns1:name "Thunder Temple"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Tidal_Passage a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Tidal Passage"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Tide_Song_Hotel a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Tide Song Hotel"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Tidewater_Dam a ns1:Location ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "Tidewater Dam"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Tilikule_Island a ns1:Location ;
+    ns1:description "A small island with an old Monument. A graceful flying Pokémon was seen around this island."^^xsd:string ;
+    ns1:japaneseName "シクレレじま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Tilikule Island"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Timeless_Woods a ns1:Location ;
+    ns1:japaneseName "とこしえの森"^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Timeless Woods"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Tohjo_Falls a ns1:Location ;
+    ns1:description "The Tohjo waterfall that links the Kanto and Johto regions."^^xsd:string ;
+    ns1:japaneseName "トージョウの"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Tohjo Falls"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Tombolo_Walk a ns1:Location ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "Tombolo Walk"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Torchlit_Labyrinth a ns1:Location ;
+    ns1:japaneseName "ともしびの迷路"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Torchlit Labyrinth"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Tower_Summit a ns1:Location ;
+    ns1:japaneseName "タワートップ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Tower Summit"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Tower_of_Darkness a ns1:Location ;
+    ns1:japaneseName "あくの塔"^^xsd:string ;
+    ns1:locationType "dark"^^xsd:string ;
+    ns1:name "Tower of Darkness"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Tower_of_Mastery a ns1:Location ;
+    ns1:japaneseName "マスタータワー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Tower of Mastery"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Tower_of_Waters a ns1:Location ;
+    ns1:japaneseName "みずの塔"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "Tower of Waters"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Towers_of_Two_Fists a ns1:Location ;
+    ns1:japaneseName "双拳の塔"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Towers of Two Fists"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Trackless_Forest a ns1:Location ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Trackless Forest"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Trainer_Hill a ns1:Location ;
+    ns1:japaneseName "トレーナーヒル"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Trainer Hill"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Trainer_House a ns1:Location ;
+    ns1:japaneseName "トレーナーハウス"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Trainer House"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Trainer_Tower a ns1:Location ;
+    ns1:japaneseName "トレーナータワー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Trainer Tower"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Trainers_School a ns1:Location ;
+    ns1:japaneseName "トレーナーズスクール"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Trainers' School"^^xsd:string ;
+    ns1:region ns1:Alola,
+        ns1:Sinnoh .
+
+ns1:Training_Center a ns1:Location ;
+    ns1:japaneseName "トレーニングセンター"^^xsd:string ;
+    ns1:locationType "yellow"^^xsd:string ;
+    ns1:name "Training Center"^^xsd:string ;
+    ns1:region ns1:Carmonte_Island .
+
+ns1:Training_Lowlands a ns1:Location ;
+    ns1:japaneseName "鍛錬平原"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Training Lowlands"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Tranquility_Cove a ns1:Location ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Tranquility Cove"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Trick_House a ns1:Location ;
+    ns1:japaneseName "カラクリ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Trick House"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Trophy_Garden a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Trophy Garden"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Tubeline_Bridge a ns1:Location ;
+    ns1:description "A sturdy steel bridge that won't budge an inch when trains cross it."^^xsd:string ;
+    ns1:japaneseName "シリンダーブリッジ"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Tubeline Bridge"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Tunnel_to_the_Top a ns1:Location ;
+    ns1:japaneseName "登頂トンネル"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Tunnel to the Top"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Turnback_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Turnback Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Twist_Mountain a ns1:Location ;
+    ns1:description "It has a reputation as a mine littered with valuable ore."^^xsd:string ;
+    ns1:locationType "|April|August|December=snow|mountain"^^xsd:string ;
+    ns1:name "Twist Mountain"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Two_Island a ns1:Location ;
+    ns1:japaneseName "２のしま"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Two Island"^^xsd:string ;
+    ns1:region ns1:Sevii_Islands .
+
+ns1:Typhlo_Cavern a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Typhlo Cavern"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Ulaula_Beach a ns1:Location ;
+    ns1:description "A small patch of shore on the southern coast of Ula'ula Island. A rather isolated and unwelcoming place.A beach that spreads on the southern coast of Ula'ula Island. A very popular and busy place for Mantine Surf."^^xsd:string ;
+    ns1:japaneseName "ウラウラビーチ"^^xsd:string ;
+    ns1:locationType "sand"^^xsd:string ;
+    ns1:name "Ula'ula Beach"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Ulaula_Island a ns1:Location ;
+    ns1:japaneseName "ウラウラじま"^^xsd:string ;
+    ns1:locationType "red"^^xsd:string ;
+    ns1:name "Ula'ula Island"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Ulaula_Meadow a ns1:Location ;
+    ns1:description "A place where red flowers bloom in abundance. You can gather the nectar Oricorio loves to feed on here."^^xsd:string ;
+    ns1:japaneseName "ウラウラの"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Ula'ula Meadow"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Ulex a ns1:Location ;
+    ns1:japaneseName "ウレックス"^^xsd:string ;
+    ns1:locationType "normal"^^xsd:string ;
+    ns1:name "Ulex"^^xsd:string ;
+    ns1:region ns1:Carmonte_Island .
+
+ns1:Ultra_Crater a ns1:Location ;
+    ns1:japaneseName "ウルトラバレー"^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Ultra Crater"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Ultra_Deep_Sea a ns1:Location ;
+    ns1:japaneseName "ウルトラディープシー"^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Ultra Deep Sea"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Ultra_Desert a ns1:Location ;
+    ns1:japaneseName "ウルトラデザート"^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Ultra Desert"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Ultra_Forest a ns1:Location ;
+    ns1:japaneseName "ウルトラフォレスト"^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Ultra Forest"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Ultra_Jungle a ns1:Location ;
+    ns1:japaneseName "ウルトラジャングル"^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Ultra Jungle"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Ultra_Plant a ns1:Location ;
+    ns1:japaneseName "ウルトラプラント"^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Ultra Plant"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Ultra_Ruin a ns1:Location ;
+    ns1:japaneseName "ウルトラビルディング"^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Ultra Ruin"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Ultra_Space_Wilds a ns1:Location ;
+    ns1:japaneseName "ウルトラスペースゼロ"^^xsd:string ;
+    ns1:locationType "space"^^xsd:string ;
+    ns1:name "Ultra Space Wilds"^^xsd:string ;
+    ns1:region ns1:RegionUnknown .
+
+ns1:Undella_Bay a ns1:Location ;
+    ns1:description "A world-famous sea of shining waves."^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Undella Bay"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Under_Colosseum a ns1:Location ;
+    ns1:japaneseName "アンダーコロシアム"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Under Colosseum"^^xsd:string ;
+    ns1:region ns1:Orre .
+
+ns1:Underground a ns1:Location ;
+    ns1:japaneseName "ちかつうろ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Underground"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Underground_Ruins a ns1:Location ;
+    ns1:locationType "Cave"^^xsd:string ;
+    ns1:name "Underground Ruins"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Underwater a ns1:Location ;
+    ns1:japaneseName "水中"^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Underwater"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Union_Cave a ns1:Location ;
+    ns1:description "Deep underground, it's connected to the ocean. The water flows here."^^xsd:string ;
+    ns1:japaneseName "つながりのどうくつ"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Union Cave"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:Unity_Tower a ns1:Location ;
+    ns1:description "A skyscraper where people from all over the world can communicate."^^xsd:string ;
+    ns1:japaneseName "ユナイテッドタワー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Unity Tower"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Unknown_Dungeon a ns1:Location ;
+    ns1:japaneseName "ななしの"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Unknown Dungeon"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Ursas_Ring a ns1:Location ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Ursa's Ring"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Uva_Academy a ns1:Location ;
+    ns1:japaneseName "グレープアカデミー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Uva Academy"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Valley_Windworks a ns1:Location ;
+    ns1:description "Numerous wind turbines stand in the vicinity of the Valley Windworks. Winds blowing through the canyon feed the wind turbines to generate clean electricity."^^xsd:string ;
+    ns1:japaneseName "の"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Valley Windworks"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Vast_Poni_Canyon a ns1:Location ;
+    ns1:description "The most challenging path on Poni Island. The ups and downs of this canyon are beyond any other."^^xsd:string ;
+    ns1:japaneseName "ポニの"^^xsd:string ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Vast Poni Canyon"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Veilstone_Cape a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Veilstone Cape"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Veilstone_Department_Store a ns1:Location ;
+    ns1:japaneseName "トバリデパート"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Veilstone Department Store"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Veilstone_Game_Corner a ns1:Location ;
+    ns1:japaneseName "トバリゲームコーナー"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Veilstone Game Corner"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Verdant_Cavern a ns1:Location ;
+    ns1:description "A cave with a great variety of plants thriving inside it. The light shafting in from above makes for a breathtaking sight."^^xsd:string ;
+    ns1:japaneseName "みの"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Verdant Cavern"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Vernal_Avenue a ns1:Location ;
+    ns1:japaneseName "プランタン アベニュー"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Vernal Avenue"^^xsd:string ;
+    ns1:region ns1:Kalos .
+
+ns1:Vicinity_of_Tahnti_Station a ns1:Location ;
+    ns1:japaneseName "タンティ"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Vicinity of Tahnti Station"^^xsd:string ;
+    ns1:region ns1:Ryme_City .
+
+ns1:Victory_Road a ns1:Location ;
+    ns1:description "A tunnel situated on Route 23. It earned its name because it must be traveled by all Trainers aiming for the top.A road that tests Trainers aiming at the Pokémon League.A cave that tests Trainers aiming to reach the Pokémon League at the summit."^^xsd:string,
+        "These forking paths are the last obstacle before the Pokémon League!"^^xsd:string,
+        "These steep slopes are the last obstacle before the !"^^xsd:string,
+        "This challenging path forces Trainers who hope to overcome the Pokémon League to first surpass their own limits."^^xsd:string,
+        "This treacherous path to the Pokémon League will break the hearts of even the toughest Trainers."^^xsd:string,
+        "Trainers seeking to become the best arrive here after enduring a long and grueling journey.Trainers seeking to be the best arrive here after a long and grueling journey.Victory Road is the last and toughest of the challenges leading up to the Pokémon League."^^xsd:string ;
+    ns1:japaneseName "チャンピオンロード"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Victory Road"^^xsd:string ;
+    ns1:region ns1:Hoenn,
+        ns1:Kalos,
+        ns1:Kanto,
+        ns1:Sinnoh,
+        ns1:Unova .
+
+ns1:Villa a ns1:Location ;
+    ns1:japaneseName "べっそう"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Villa"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Village_Bridge a ns1:Location ;
+    ns1:description "An old bridge that settlers of the Unova region built and now live on."^^xsd:string ;
+    ns1:japaneseName "ビレッジブリッジ"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Village Bridge"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Virbank_Complex a ns1:Location ;
+    ns1:description "A complex that is designed so Pokémon can work there easily."^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Virbank Complex"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Viridian_Forest a ns1:Location ;
+    ns1:description "A deep and sprawling forest that extends around Viridian City. A natural maze, many people become lost inside.A forest filled with nature and Bug-type Pokémon.A deep, shady forest filled with nature and Bug-type Pokémon."^^xsd:string ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Viridian Forest"^^xsd:string ;
+    ns1:region ns1:Kanto .
+
+ns1:Vista_Lighthouse a ns1:Location ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Vista Lighthouse"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Voidlands a ns1:Location ;
+    ns1:japaneseName "虚無の世界"^^xsd:string ;
+    ns1:locationType "Shadow"^^xsd:string ;
+    ns1:name "Voidlands"^^xsd:string ;
+    ns1:region ns1:RegionNone .
+
+ns1:Volcanic_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Volcanic Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Volcano_Cave a ns1:Location ;
+    ns1:description "The prime tourist destination on the island of Boyleland. Its cave is filled with pool and rivers of roiling magma. Many kinds of Fire-group Pokémon live here."^^xsd:string ;
+    ns1:japaneseName "かざんのどうくつ"^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Volcano Cave"^^xsd:string ;
+    ns1:region ns1:Almia .
+
+ns1:Voluca_Island a ns1:Location ;
+    ns1:japaneseName "ボルク"^^xsd:string ;
+    ns1:locationType "green"^^xsd:string ;
+    ns1:name "Voluca Island"^^xsd:string ;
+    ns1:region ns1:Lental .
+
+ns1:Warm-Up_Tunnel a ns1:Location ;
+    ns1:japaneseName "慣らしの洞穴"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Warm-Up Tunnel"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Watchtower_Ruins a ns1:Location ;
+    ns1:japaneseName "見張り塔跡地"^^xsd:string ;
+    ns1:locationType "ruins"^^xsd:string ;
+    ns1:name "Watchtower Ruins"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Water_Continent a ns1:Location ;
+    ns1:japaneseName "水の大陸"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "Water Continent"^^xsd:string ;
+    ns1:region ns1:Pokmon_world_Mystery_DungeonMystery_Dungeon_world .
+
+ns1:Waterfall_Colosseum a ns1:Location ;
+    ns1:description "This ancient Colosseum is surrounded on all sides by refreshing waterfalls."^^xsd:string ;
+    ns1:japaneseName "ウォーターコロシアム"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Waterfall Colosseum"^^xsd:string ;
+    ns1:region ns1:Poktopia .
+
+ns1:Waterworks a ns1:Location ;
+    ns1:description "This sewer systems extends beneath Fall City. Pokémon can be seen here."^^xsd:string ;
+    ns1:japaneseName "ちかすいどう"^^xsd:string ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Waterworks"^^xsd:string ;
+    ns1:region ns1:Fiore .
+
+ns1:Wayward_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Wayward Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Wayward_Wood a ns1:Location ;
+    ns1:locationType "forest"^^xsd:string ;
+    ns1:name "Wayward Wood"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Weather_Institute a ns1:Location ;
+    ns1:japaneseName "天気研究所"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Weather Institute"^^xsd:string ;
+    ns1:region ns1:Hoenn .
+
+ns1:Wela_Volcano_Park a ns1:Location ;
+    ns1:description "A mountain with steep paths and waste lands. There is a trial site on top."^^xsd:string ;
+    ns1:japaneseName "ヴェラ"^^xsd:string ;
+    ns1:locationType "volcano"^^xsd:string ;
+    ns1:name "Wela Volcano Park"^^xsd:string ;
+    ns1:region ns1:Alola .
+
+ns1:Wellspring_Cave a ns1:Location ;
+    ns1:description "The underwater pool grew from rainwater soaking into the ground."^^xsd:string ;
+    ns1:japaneseName "ちかすいみゃくのあな"^^xsd:string ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Wellspring Cave"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:West_Lake_Axewell a ns1:Location ;
+    ns1:japaneseName "キバ湖・西"^^xsd:string ;
+    ns1:locationType "lake"^^xsd:string ;
+    ns1:name "West Lake Axewell"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:West_Paldean_Sea a ns1:Location ;
+    ns1:japaneseName "パルデア"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "West Paldean Sea"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:West_Province_Area_One a ns1:Location ;
+    ns1:japaneseName "西１番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "West Province (Area One)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:West_Province_Area_Three a ns1:Location ;
+    ns1:japaneseName "西３番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "West Province (Area Three)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:West_Province_Area_Two a ns1:Location ;
+    ns1:japaneseName "西２番エリア"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "West Province (Area Two)"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Western_Sea a ns1:Location ;
+    ns1:japaneseName "にしのうみ"^^xsd:string ;
+    ns1:locationType "underwater"^^xsd:string ;
+    ns1:name "Western Sea"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Whirl_Islands a ns1:Location ;
+    ns1:description "Four islands that are protected by whirlpools and are difficult to reach."^^xsd:string ;
+    ns1:japaneseName "うずまきじま"^^xsd:string ;
+    ns1:locationType "water"^^xsd:string ;
+    ns1:name "Whirl Islands"^^xsd:string ;
+    ns1:region ns1:Johto .
+
+ns1:White_Treehollow a ns1:Location ;
+    ns1:locationType "white"^^xsd:string ;
+    ns1:name "White Treehollow"^^xsd:string ;
+    ns1:region ns1:Unova .
+
+ns1:Whiteout_Cave a ns1:Location ;
+    ns1:locationType "cave"^^xsd:string ;
+    ns1:name "Whiteout Cave"^^xsd:string ;
+    ns1:region ns1:Sinnoh .
+
+ns1:Whiteout_Valley a ns1:Location ;
+    ns1:locationType "snow"^^xsd:string ;
+    ns1:name "Whiteout Valley"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Windbreak_Stand a ns1:Location ;
+    ns1:locationType "mountain"^^xsd:string ;
+    ns1:name "Windbreak Stand"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Windswept_Run a ns1:Location ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Windswept Run"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Wireless_Tower a ns1:Location ;
+    ns1:japaneseName "むせんきち"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Wireless Tower"^^xsd:string ;
+    ns1:region ns1:Oblivia .
+
+ns1:Wistful_Fields a ns1:Location ;
+    ns1:japaneseName "フジが原"^^xsd:string ;
+    ns1:locationType "land"^^xsd:string ;
+    ns1:name "Wistful Fields"^^xsd:string ;
+    ns1:region ns1:Kitakami .
+
+ns1:Workout_Sea a ns1:Location ;
+    ns1:japaneseName "ワークアウトの海"^^xsd:string ;
+    ns1:locationType "ocean"^^xsd:string ;
+    ns1:name "Workout Sea"^^xsd:string ;
+    ns1:region ns1:Galar .
+
+ns1:Worn_Bridge a ns1:Location ;
+    ns1:locationType "road"^^xsd:string ;
+    ns1:name "Worn Bridge"^^xsd:string ;
+    ns1:region ns1:Hisui .
+
+ns1:Zero_Gate a ns1:Location ;
+    ns1:japaneseName "ゼロゲート"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Zero Gate"^^xsd:string ;
+    ns1:region ns1:Paldea .
+
+ns1:Zero_Lab a ns1:Location ;
+    ns1:japaneseName "ゼロラボ"^^xsd:string ;
+    ns1:locationType "building"^^xsd:string ;
+    ns1:name "Zero Lab"^^xsd:string ;
+    ns1:region ns1:Paldea .
+

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Détails de l'Item - {{ item_details.name }}</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Press Start 2P', cursive;
+            background: linear-gradient(135deg, #ffcccb, #ffeb3b);
+            color: #333;
+            text-align: center;
+            line-height: 1.6;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        header {
+            padding: 40px 20px;
+            background: rgba(255, 255, 255, 0.8);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            position: relative;
+            z-index: 1;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #ff5722;
+            text-shadow: 3px 3px 0 #333;
+        }
+
+        .item-detail {
+            padding: 40px 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .item-detail img {
+            width: 200px;
+            height: 200px;
+            margin-bottom: 20px;
+            border: 4px solid #2a75bb;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .item-detail h2 {
+            font-size: 2rem;
+            color: #2a75bb;
+            text-shadow: 2px 2px 0 #333;
+            margin-bottom: 20px;
+        }
+
+        .item-detail p {
+            font-size: 1rem;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .item-detail .info-section {
+            margin-top: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .item-detail .info-section h3 {
+            font-size: 1.5rem;
+            color: #2a75bb;
+            text-shadow: 2px 2px 0 #333;
+            margin-bottom: 20px;
+        }
+
+        .item-detail .info-section ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .item-detail .info-section li {
+            background: white;
+            border: 2px solid #333;
+            border-radius: 15px;
+            padding: 10px 20px;
+            font-size: 1rem;
+            color: #333;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease;
+        }
+
+        .item-detail .info-section li:hover {
+            transform: scale(1.1);
+        }
+
+        .footer {
+            margin-top: 60px;
+            padding: 20px;
+            background: #333;
+            color: white;
+            font-size: 0.8rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Animations */
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-10px);
+            }
+        }
+
+        .animated {
+            animation: float 3s ease-in-out infinite;
+        }
+
+        .background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            background: url('https://www.transparenttextures.com/patterns/pokemon.png');
+            animation: moveBackground 20s linear infinite;
+        }
+
+        @keyframes moveBackground {
+            0% {
+                background-position: 0 0;
+            }
+            100% {
+                background-position: 100% 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="background"></div>
+
+    <header>
+        <h1>Détails de l'Item - {{ item_details.name }}</h1>
+    </header>
+
+    <div class="item-detail">
+        <!-- Image principale -->
+        <img src="{{ item_details.selectedImage }}" alt="{{ item_details.name }}" class="animated" referrerpolicy="no-referrer" onerror="this.src='https://via.placeholder.com/120';">
+
+        <!-- Nom de l'item -->
+        <h2>{{ item_details.name }}</h2>
+
+        <!-- Informations de base -->
+        <div class="info-section">
+            <h3>Informations de base</h3>
+            <p><strong>Nom japonais:</strong> {{ item_details.japaneseName }}</p>
+            <!-- Ajoutez d'autres propriétés ici si nécessaire -->
+        </div>
+
+        <!-- Liens externes -->
+        <div class="info-section">
+            <h3>Liens externes</h3>
+            <ul>
+                <li><a href="{{ url_for('item_list') }}">Retour à la liste des Items</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>© 2025 Pokémon Knowledge Graph Project | Made with ❤️</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,198 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex: <http://example.org/ontology/pokemon#> .
+
+# Shape pour la classe ex:Pokémon
+ex:PokemonShape
+    a sh:NodeShape ;
+    sh:targetClass ex:Pokémon ;  # Applique cette shape aux instances de ex:Pokémon
+    sh:property [
+        sh:path ex:name ;  # Propriété obligatoire
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path ex:height ;  # Propriété obligatoire
+        sh:datatype xsd:float ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path ex:weight ;  # Propriété obligatoire
+        sh:datatype xsd:float ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path ex:generation ;  # Propriété obligatoire
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasAbility ;  # Propriété obligatoire
+        sh:class ex:Ability ;  # La valeur doit être une instance de ex:Ability
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path ex:canUseMove ;  # Propriété optionnelle
+        sh:class ex:Move ;  # La valeur doit être une instance de ex:Move
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:isFoundIn ;  # Propriété optionnelle
+        sh:class ex:Location ;  # La valeur doit être une instance de ex:Location
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:holdsItem ;  # Propriété optionnelle
+        sh:class ex:Item ;  # La valeur doit être une instance de ex:Item
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:canEvolveInto ;  # Propriété optionnelle
+        sh:class ex:Pokémon ;  # La valeur doit être une instance de ex:Pokémon
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasForm ;  # Propriété optionnelle
+        sh:class ex:Form ;  # La valeur doit être une instance de ex:Form
+        sh:minCount 0 ;
+    ] .
+
+# Shape pour la classe ex:Move
+ex:MoveShape
+    a sh:NodeShape ;
+    sh:targetClass ex:Move ;  # Applique cette shape aux instances de ex:Move
+    sh:property [
+        sh:path ex:name ;  # Propriété obligatoire
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path ex:effectDescription ;  # Propriété obligatoire
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasPower ;  # Propriété optionnelle
+        sh:datatype xsd:integer ;
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasAccuracy ;  # Propriété optionnelle
+        sh:datatype xsd:float ;
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasType ;  # Propriété obligatoire
+        sh:class ex:Type ;  # La valeur doit être une instance de ex:Type
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasCategory ;  # Propriété optionnelle
+        sh:class ex:Category ;  # La valeur doit être une instance de ex:Category
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasTargetType ;  # Propriété optionnelle
+        sh:class ex:TargetType ;  # La valeur doit être une instance de ex:TargetType
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:isLearnedByLevelUp ;  # Propriété optionnelle
+        sh:class ex:Level ;  # La valeur doit être une instance de ex:Level
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:isLearnedByTM ;  # Propriété optionnelle
+        sh:class ex:TM ;  # La valeur doit être une instance de ex:TM
+        sh:minCount 0 ;
+    ] .
+
+# Shape pour la classe ex:Trainer
+ex:TrainerShape
+    a sh:NodeShape ;
+    sh:targetClass ex:Trainer ;  # Applique cette shape aux instances de ex:Trainer
+    sh:property [
+        sh:path ex:name ;  # Propriété obligatoire
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path ex:ownsPokémon ;  # Propriété optionnelle
+        sh:class ex:Pokémon ;  # La valeur doit être une instance de ex:Pokémon
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:isInLocation ;  # Propriété optionnelle
+        sh:class ex:Location ;  # La valeur doit être une instance de ex:Location
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:usesItem ;  # Propriété optionnelle
+        sh:class ex:Item ;  # La valeur doit être une instance de ex:Item
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasParty ;  # Propriété optionnelle
+        sh:nodeKind sh:IRI ;  # La valeur doit être une IRI (liste RDF)
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:isMemberOf ;  # Propriété optionnelle
+        sh:class ex:Gym ;  # La valeur doit être une instance de ex:Gym
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasBadge ;  # Propriété optionnelle
+        sh:class ex:Badge ;  # La valeur doit être une instance de ex:Badge
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasTrainingPhilosophy ;  # Propriété optionnelle
+        sh:class ex:Philosophy ;  # La valeur doit être une instance de ex:Philosophy
+        sh:minCount 0 ;
+    ] .
+
+# Shape pour la classe ex:Item
+ex:ItemShape
+    a sh:NodeShape ;
+    sh:targetClass ex:Item ;  # Applique cette shape aux instances de ex:Item
+    sh:property [
+        sh:path ex:name ;  # Propriété obligatoire
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path ex:isUsedByPokémon ;  # Propriété optionnelle
+        sh:class ex:Pokémon ;  # La valeur doit être une instance de ex:Pokémon
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:isUsedByTrainer ;  # Propriété optionnelle
+        sh:class ex:Trainer ;  # La valeur doit être une instance de ex:Trainer
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:isUsedForEvolution ;  # Propriété optionnelle
+        sh:class ex:Evolution ;  # La valeur doit être une instance de ex:Evolution
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:hasEffect ;  # Propriété optionnelle
+        sh:class ex:Effect ;  # La valeur doit être une instance de ex:Effect
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path ex:isStoredIn ;  # Propriété optionnelle
+        sh:class ex:StorageLocation ;  # La valeur doit être une instance de ex:StorageLocation
+        sh:minCount 0 ;
+    ] .

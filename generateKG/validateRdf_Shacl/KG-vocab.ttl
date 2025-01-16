@@ -1,0 +1,334 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix ex: <http://example.org/ontology/pokemon#> .
+
+ex: a owl:Ontology ;
+    owl:imports <http://schema.org/version/14.0/schemaorg.owl> .
+
+# Classes
+
+ex:Pokémon a owl:Class ;
+    rdfs:label "Pokémon"@en, "ポケモン"@ja ;
+    rdfs:subClassOf schema:Animal .
+
+ex:Ability a owl:Class ;
+    rdfs:label "Ability"@en, "特性"@ja ;
+    rdfs:subClassOf schema:Thing .
+
+ex:Trainer a owl:Class ;
+    rdfs:label "Trainer"@en, "トレーナー"@ja ;
+    rdfs:subClassOf schema:Person .
+
+ex:Location a owl:Class ;
+    rdfs:label "Location"@en, "場所"@ja ;
+    rdfs:subClassOf schema:Place .
+
+ex:Item a owl:Class ;
+    rdfs:label "Item"@en, "アイテム"@ja ;
+    rdfs:subClassOf schema:Product .
+
+ex:Move a owl:Class ;
+    rdfs:label "Move"@en, "技"@ja ;
+    rdfs:subClassOf schema:Action .
+
+ex:Form a owl:Class ;
+    rdfs:label "Form"@en ;
+    rdfs:subClassOf schema:Thing .
+
+ex:Effect a owl:Class ;
+    rdfs:label "Effect"@en ;
+    rdfs:subClassOf schema:Thing .
+
+ex:Gym a owl:Class ;
+    rdfs:label "Gym"@en ;
+    rdfs:subClassOf schema:Place .
+
+ex:Badge a owl:Class ;
+    rdfs:label "Badge"@en ;
+    rdfs:subClassOf schema:Thing .
+
+ex:Philosophy a owl:Class ;
+    rdfs:label "Philosophy"@en ;
+    rdfs:subClassOf schema:Thing .
+
+ex:Evolution a owl:Class ;
+    rdfs:label "Evolution"@en ;
+    rdfs:subClassOf schema:Process .
+
+ex:StorageLocation a owl:Class ;
+    rdfs:label "StorageLocation"@en ;
+    rdfs:subClassOf schema:Place .
+
+ex:Type a owl:Class ;
+    rdfs:label "Type"@en ;
+    rdfs:subClassOf schema:Thing .
+
+ex:Category a owl:Class ;
+    rdfs:label "Category"@en ;
+    rdfs:subClassOf schema:Thing .
+
+ex:TargetType a owl:Class ;
+    rdfs:label "TargetType"@en ;
+    rdfs:subClassOf schema:Thing .
+
+ex:Level a owl:Class ;
+    rdfs:label "Level"@en ;
+    rdfs:subClassOf schema:QuantitativeValue .
+
+ex:TM a owl:Class ;
+    rdfs:label "TM"@en ;
+    rdfs:subClassOf schema:Product .
+
+ex:Region a owl:Class ;
+    rdfs:label "Region"@en ;
+    rdfs:subClassOf schema:Place .
+
+ex:ClimateCondition a owl:Class ;
+    rdfs:label "ClimateCondition"@en ;
+    rdfs:subClassOf schema:Thing .
+
+ex:Season a owl:Class ;
+    rdfs:label "Season"@en ;
+    rdfs:subClassOf schema:Thing .
+
+ex:Person a owl:Class ;
+    rdfs:label "Person"@en ;
+    rdfs:subClassOf schema:Person .
+
+ex:Theme a owl:Class ;
+    rdfs:label "Theme"@en ;
+    rdfs:subClassOf schema:Thing .
+
+# Object Properties
+
+ex:hasAbility a owl:ObjectProperty ;
+    rdfs:domain ex:Pokémon ;
+    rdfs:range ex:Ability ;
+    rdfs:label "has ability"@en, "特性を持つ"@ja .
+
+ex:canUseMove a owl:ObjectProperty ;
+    rdfs:domain ex:Pokémon ;
+    rdfs:range ex:Move ;
+    rdfs:label "can use move"@en, "使える技"@ja .
+
+ex:ownsPokémon a owl:ObjectProperty ;
+    rdfs:domain ex:Trainer ;
+    rdfs:range ex:Pokémon ;
+    rdfs:label "owns Pokémon"@en, "ポケモンを所有する"@ja ;
+    owl:inverseOf ex:isOwnedBy .
+
+ex:isOwnedBy a owl:ObjectProperty ;
+    rdfs:domain ex:Pokémon ;
+    rdfs:range ex:Trainer ;
+    rdfs:label "is owned by"@en, "所有されている"@ja ;
+    owl:inverseOf ex:ownsPokémon .
+
+ex:isFoundIn a owl:ObjectProperty ;
+    rdfs:domain ex:Pokémon ;
+    rdfs:range ex:Location ;
+    rdfs:label "is found in"@en, "出現する場所"@ja .
+
+ex:holdsItem a owl:ObjectProperty ;
+    rdfs:domain ex:Pokémon ;
+    rdfs:range ex:Item ;
+    rdfs:label "holds item"@en, "持っているアイテム"@ja .
+
+ex:canEvolveInto a owl:ObjectProperty ;
+    rdfs:domain ex:Pokémon ;
+    rdfs:range ex:Pokémon ;
+    rdfs:label "can evolve into"@en, "進化できる"@ja .
+
+ex:hasForm a owl:ObjectProperty ;
+    rdfs:domain ex:Pokémon ;
+    rdfs:range ex:Form ;
+    rdfs:label "has form"@en, "フォルムを有する"@ja .
+
+ex:isAbilityOf a owl:ObjectProperty ;
+    rdfs:domain ex:Ability ;
+    rdfs:range ex:Pokémon ;
+    rdfs:label "is ability of"@en, "ポケモンの特性"@ja .
+
+ex:affectsMove a owl:ObjectProperty ;
+    rdfs:domain ex:Ability ;
+    rdfs:range ex:Move ;
+    rdfs:label "affects move"@en, "技に影響を与える"@ja .
+
+ex:hasGenerationEffect a owl:ObjectProperty ;
+    rdfs:domain ex:Ability ;
+    rdfs:range ex:Effect ;
+    rdfs:label "has generation effect"@en, "世代効果"@ja .
+
+ex:interactsWithAbility a owl:ObjectProperty ;
+    rdfs:domain ex:Ability ;
+    rdfs:range ex:Ability ;
+    rdfs:label "interacts with ability"@en, "特性との相互作用"@ja .
+
+ex:interactsWithMove a owl:ObjectProperty ;
+    rdfs:domain ex:Ability ;
+    rdfs:range ex:Move ;
+    rdfs:label "interacts with move"@en, "技との相互作用"@ja .
+
+ex:isInLocation a owl:ObjectProperty ;
+    rdfs:domain ex:Trainer ;
+    rdfs:range ex:Location ;
+    rdfs:label "is in location"@en, "場所にいる"@ja .
+
+ex:usesItem a owl:ObjectProperty ;
+    rdfs:domain ex:Trainer ;
+    rdfs:range ex:Item ;
+    rdfs:label "uses item"@en, "アイテムを使う"@ja .
+
+ex:hasParty a owl:ObjectProperty ;
+    rdfs:domain ex:Trainer ;
+    rdfs:range rdf:List ;
+    rdfs:label "has party"@en, "パーティを持っている"@ja .
+
+ex:isMemberOf a owl:ObjectProperty ;
+    rdfs:domain ex:Trainer ;
+    rdfs:range ex:Gym ;
+    rdfs:label "is member of"@en, "ジムのメンバー"@ja .
+
+ex:hasBadge a owl:ObjectProperty ;
+    rdfs:domain ex:Trainer ;
+    rdfs:range ex:Badge ;
+    rdfs:label "has badge"@en, "バッジを持っている"@ja .
+
+ex:hasTrainingPhilosophy a owl:ObjectProperty ;
+    rdfs:domain ex:Trainer ;
+    rdfs:range ex:Philosophy ;
+    rdfs:label "has training philosophy"@en, "トレーニングフィロソフィー"@ja .
+
+ex:isUsedByPokémon a owl:ObjectProperty ;
+    rdfs:domain ex:Item ;
+    rdfs:range ex:Pokémon ;
+    rdfs:label "is used by Pokémon"@en, "ポケモンが使用する"@ja .
+
+ex:isUsedByTrainer a owl:ObjectProperty ;
+    rdfs:domain ex:Item ;
+    rdfs:range ex:Trainer ;
+    rdfs:label "is used by trainer"@en, "トレーナーが使用する"@ja .
+
+ex:isUsedForEvolution a owl:ObjectProperty ;
+    rdfs:domain ex:Item ;
+    rdfs:range ex:Evolution ;
+    rdfs:label "is used for evolution"@en, "進化に使用する"@ja .
+
+ex:hasEffect a owl:ObjectProperty ;
+    rdfs:domain ex:Item ;
+    rdfs:range ex:Effect ;
+    rdfs:label "has effect"@en, "効果を有する"@ja .
+
+ex:isStoredIn a owl:ObjectProperty ;
+    rdfs:domain ex:Item ;
+    rdfs:range ex:StorageLocation ;
+    rdfs:label "is stored in"@en, "保管場所"@ja .
+
+ex:isLearnedByPokémon a owl:ObjectProperty ;
+    rdfs:domain ex:Move ;
+    rdfs:range ex:Pokémon ;
+    rdfs:label "is learned by Pokémon"@en, "ポケモンが覚える"@ja .
+
+ex:hasPower a owl:ObjectProperty ;
+    rdfs:domain ex:Move ;
+    rdfs:range xsd:integer ;
+    rdfs:label "has power"@en, "威力"@ja .
+
+ex:hasAccuracy a owl:ObjectProperty ;
+    rdfs:domain ex:Move ;
+    rdfs:range xsd:float ;
+    rdfs:label "has accuracy"@en, "命中率"@ja .
+
+ex:hasType a owl:ObjectProperty ;
+    rdfs:domain ex:Move ;
+    rdfs:range ex:Type ;
+    rdfs:label "has type"@en, "タイプ"@ja .
+
+ex:hasCategory a owl:ObjectProperty ;
+    rdfs:domain ex:Move ;
+    rdfs:range ex:Category ;
+    rdfs:label "has category"@en, "分類"@ja .
+
+ex:hasTargetType a owl:ObjectProperty ;
+    rdfs:domain ex:Move ;
+    rdfs:range ex:TargetType ;
+    rdfs:label "has target type"@en, "ターゲットタイプ"@ja .
+
+ex:isLearnedByLevelUp a owl:ObjectProperty ;
+    rdfs:domain ex:Move ;
+    rdfs:range ex:Level ;
+    rdfs:label "is learned by level up"@en, "レベルアップで覚える"@ja .
+
+ex:isLearnedByTM a owl:ObjectProperty ;
+    rdfs:domain ex:Move ;
+    rdfs:range ex:TM ;
+    rdfs:label "is learned by TM"@en, "TMで覚える"@ja .
+
+ex:isHomeToPokémon a owl:ObjectProperty ;
+    rdfs:domain ex:Location ;
+    rdfs:range ex:Pokémon ;
+    rdfs:label "is home to Pokémon"@en, "ポケモンのホーム"@ja .
+
+ex:isVisitedByTrainer a owl:ObjectProperty ;
+    rdfs:domain ex:Location ;
+    rdfs:range ex:Trainer ;
+    rdfs:label "is visited by trainer"@en, "トレーナーが訪れる"@ja .
+
+ex:isPartOfRegion a owl:ObjectProperty ;
+    rdfs:domain ex:Location ;
+    rdfs:range ex:Region ;
+    rdfs:label "is part of region"@en, "地域の一部"@ja .
+
+ex:hasNeighborLocation a owl:ObjectProperty ;
+    rdfs:domain ex:Location ;
+    rdfs:range ex:Location ;
+    rdfs:label "has neighbor location"@en, "隣接する場所"@ja .
+
+ex:hasClimateCondition a owl:ObjectProperty ;
+    rdfs:domain ex:Location ;
+    rdfs:range ex:ClimateCondition ;
+    rdfs:label "has climate condition"@en, "気候条件"@ja .
+
+ex:hasSeason a owl:ObjectProperty ;
+    rdfs:domain ex:Location ;
+    rdfs:range ex:Season ;
+    rdfs:label "has season"@en, "季節"@ja .
+
+# Data Properties
+
+ex:name a rdf:Property ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:label "name"@en, "名称"@ja .
+
+ex:japaneseName a rdf:Property ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:label "Japanese name"@en, "日本語名称"@ja .
+
+ex:translatedName a rdf:Property ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:label "translated name"@en, "翻訳名称"@ja .
+
+ex:height a rdf:Property ;
+    rdfs:domain ex:Pokémon ;
+    rdfs:range xsd:float ;
+    rdfs:label "height"@en, "高さ"@ja .
+
+ex:weight a rdf:Property ;
+    rdfs:domain ex:Pokémon ;
+    rdfs:range xsd:float ;
+    rdfs:label "weight"@en, "重さ"@ja .
+
+ex:generation a rdf:Property ;
+    rdfs:domain ex:Pokémon ;
+    rdfs:range xsd:string ;
+    rdfs:label "generation"@en, "世代"@ja .
+
+ex:effectDescription a rdf:Property ;
+    rdfs:domain ex:Move ;
+    rdfs:range xsd:string ;
+    rdfs:label "effect description"@en, "効果の説明"@ja .

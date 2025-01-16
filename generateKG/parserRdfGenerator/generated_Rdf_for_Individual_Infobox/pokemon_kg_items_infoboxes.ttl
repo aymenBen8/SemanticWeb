@@ -1,0 +1,6393 @@
+@prefix ns1: <http://example.org/ontology/pokemon#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Ability_Capsule a ns1:Item ;
+    ns1:japaneseName "とくせいカプセル"^^xsd:string ;
+    ns1:name "Ability Capsule"^^xsd:string .
+
+ns1:Ability_Patch a ns1:Item ;
+    ns1:japaneseName "とくせいパッチ"^^xsd:string ;
+    ns1:name "Ability Patch"^^xsd:string .
+
+ns1:Ability_Shield a ns1:Item ;
+    ns1:japaneseName "とくせいガード"^^xsd:string ;
+    ns1:name "Ability Shield"^^xsd:string .
+
+ns1:Abomasite a ns1:Item ;
+    ns1:japaneseName "ユキノオナイト"^^xsd:string ;
+    ns1:name "Abomasite"^^xsd:string .
+
+ns1:Absolite a ns1:Item ;
+    ns1:japaneseName "アブソルナイト"^^xsd:string ;
+    ns1:name "Absolite"^^xsd:string .
+
+ns1:Absorb_Bulb a ns1:Item ;
+    ns1:japaneseName "きゅうこん"^^xsd:string ;
+    ns1:name "Absorb Bulb"^^xsd:string .
+
+ns1:Academy_Ball a ns1:Item ;
+    ns1:japaneseName "スクールボール"^^xsd:string ;
+    ns1:name "Academy Ball"^^xsd:string .
+
+ns1:Academy_Bottle a ns1:Item ;
+    ns1:japaneseName "スクールボトル"^^xsd:string ;
+    ns1:name "Academy Bottle"^^xsd:string .
+
+ns1:Academy_Chairs a ns1:Item ;
+    ns1:japaneseName "スクールチェア"^^xsd:string ;
+    ns1:name "Academy Chairs"^^xsd:string .
+
+ns1:Academy_Cup a ns1:Item ;
+    ns1:japaneseName "スクールカップ"^^xsd:string ;
+    ns1:name "Academy Cup"^^xsd:string .
+
+ns1:Academy_Tablecloth a ns1:Item ;
+    ns1:japaneseName "スクールクロス"^^xsd:string ;
+    ns1:name "Academy Tablecloth"^^xsd:string .
+
+ns1:Acro_Bike a ns1:Item ;
+    ns1:japaneseName "ダートじてんしゃ"^^xsd:string ;
+    ns1:name "Acro Bike"^^xsd:string .
+
+ns1:Adamant_Crystal a ns1:Item ;
+    ns1:name "Adamant Crystal"^^xsd:string .
+
+ns1:Adamant_Mint a ns1:Item ;
+    ns1:japaneseName "いじっぱりミント"^^xsd:string ;
+    ns1:name "Adamant Mint"^^xsd:string .
+
+ns1:Adamant_Orb a ns1:Item ;
+    ns1:name "Adamant Orb"^^xsd:string .
+
+ns1:Adrenaline_Orb a ns1:Item ;
+    ns1:japaneseName "ビビリだま"^^xsd:string ;
+    ns1:name "Adrenaline Orb"^^xsd:string .
+
+ns1:Adventure_Guide a ns1:Item ;
+    ns1:japaneseName "たんけんこころえ"^^xsd:string ;
+    ns1:name "Adventure Guide"^^xsd:string .
+
+ns1:Aerodactylite a ns1:Item ;
+    ns1:japaneseName "プテラナイト"^^xsd:string ;
+    ns1:name "Aerodactylite"^^xsd:string .
+
+ns1:Aggronite a ns1:Item ;
+    ns1:japaneseName "ボスゴドラナイト"^^xsd:string ;
+    ns1:name "Aggronite"^^xsd:string .
+
+ns1:Aguav_Berry a ns1:Item ;
+    ns1:japaneseName "バンジのみ"^^xsd:string ;
+    ns1:name "Aguav Berry"^^xsd:string .
+
+ns1:Air_Balloon a ns1:Item ;
+    ns1:japaneseName "ふうせん"^^xsd:string ;
+    ns1:name "Air Balloon"^^xsd:string .
+
+ns1:Air_Mail a ns1:Item ;
+    ns1:japaneseName "エアメール"^^xsd:string ;
+    ns1:name "Air Mail"^^xsd:string .
+
+ns1:Alakazite a ns1:Item ;
+    ns1:japaneseName "フーディナイト"^^xsd:string ;
+    ns1:name "Alakazite"^^xsd:string .
+
+ns1:Aloraichium_Z a ns1:Item ;
+    ns1:japaneseName "アロライＺ"^^xsd:string ;
+    ns1:name "Aloraichium Z"^^xsd:string .
+
+ns1:Altarianite a ns1:Item ;
+    ns1:japaneseName "チルタリスナイト"^^xsd:string ;
+    ns1:name "Altarianite"^^xsd:string .
+
+ns1:Amaze_Mulch a ns1:Item ;
+    ns1:japaneseName "とんでもこやし"^^xsd:string ;
+    ns1:name "Amaze Mulch"^^xsd:string .
+
+ns1:Ampharosite a ns1:Item ;
+    ns1:japaneseName "デンリュウナイト"^^xsd:string ;
+    ns1:name "Ampharosite"^^xsd:string .
+
+ns1:Amulet_Coin a ns1:Item ;
+    ns1:japaneseName "おまもりこばん"^^xsd:string ;
+    ns1:name "Amulet Coin"^^xsd:string .
+
+ns1:Antidote a ns1:Item ;
+    ns1:japaneseName "どくけし"^^xsd:string ;
+    ns1:name "Antidote"^^xsd:string .
+
+ns1:Apicot_Berry a ns1:Item ;
+    ns1:japaneseName "ズアのみ"^^xsd:string ;
+    ns1:name "Apicot Berry"^^xsd:string .
+
+ns1:Apple a ns1:Item ;
+    ns1:japaneseName "わぎりリンゴ"^^xsd:string ;
+    ns1:name "Apple"^^xsd:string .
+
+ns1:Apricorn a ns1:Item ;
+    ns1:japaneseName "ぼんぐりのみ"^^xsd:string ;
+    ns1:name "Apricorn"^^xsd:string .
+
+ns1:Apricorn_Box a ns1:Item ;
+    ns1:name "Apricorn Box"^^xsd:string .
+
+ns1:Aqua_Suit a ns1:Item ;
+    ns1:japaneseName "アクアスーツ"^^xsd:string ;
+    ns1:name "Aqua Suit"^^xsd:string .
+
+ns1:Armor_Fossil a ns1:Item ;
+    ns1:japaneseName "たてのカセキ"^^xsd:string ;
+    ns1:name "Armor Fossil"^^xsd:string .
+
+ns1:Armor_Pass a ns1:Item ;
+    ns1:japaneseName "ヨロイパス"^^xsd:string ;
+    ns1:name "Armor Pass"^^xsd:string .
+
+ns1:Armorite_Ore a ns1:Item ;
+    ns1:japaneseName "ヨロイこうせき"^^xsd:string ;
+    ns1:name "Armorite Ore"^^xsd:string .
+
+ns1:Articuno_Treat a ns1:Item ;
+    ns1:japaneseName "フリーザーのおやつ"^^xsd:string ;
+    ns1:name "Articuno Treat"^^xsd:string .
+
+ns1:Aspear_Berry a ns1:Item ;
+    ns1:japaneseName "ナナシのみ"^^xsd:string ;
+    ns1:name "Aspear Berry"^^xsd:string .
+
+ns1:Assault_Vest a ns1:Item ;
+    ns1:name "Assault Vest"^^xsd:string .
+
+ns1:Audinite a ns1:Item ;
+    ns1:japaneseName "タブンネナイト"^^xsd:string ;
+    ns1:name "Audinite"^^xsd:string .
+
+ns1:AuroraTicket a ns1:Item ;
+    ns1:japaneseName "オーロラチケット"^^xsd:string ;
+    ns1:name "AuroraTicket"^^xsd:string .
+
+ns1:Auspicious_Armor a ns1:Item ;
+    ns1:japaneseName "イワイノヨロイ"^^xsd:string ;
+    ns1:name "Auspicious Armor"^^xsd:string .
+
+ns1:Autograph a ns1:Item ;
+    ns1:japaneseName "マチスのサイン"^^xsd:string ;
+    ns1:name "Autograph"^^xsd:string .
+
+ns1:Aux_Evasion a ns1:Item ;
+    ns1:japaneseName "ヨクアタラーヌ"^^xsd:string ;
+    ns1:name "Aux Evasion"^^xsd:string .
+
+ns1:Aux_Guard a ns1:Item ;
+    ns1:japaneseName "まもりのがんやく"^^xsd:string ;
+    ns1:name "Aux Guard"^^xsd:string .
+
+ns1:Aux_Power a ns1:Item ;
+    ns1:japaneseName "せめのがんやく"^^xsd:string ;
+    ns1:name "Aux Power"^^xsd:string .
+
+ns1:Aux_Powerguard a ns1:Item ;
+    ns1:japaneseName "マルチアップ"^^xsd:string ;
+    ns1:name "Aux Powerguard"^^xsd:string .
+
+ns1:Avocado a ns1:Item ;
+    ns1:japaneseName "アボカド"^^xsd:string ;
+    ns1:name "Avocado"^^xsd:string .
+
+ns1:Awakening a ns1:Item ;
+    ns1:japaneseName "ねむけざまし"^^xsd:string ;
+    ns1:name "Awakening"^^xsd:string .
+
+ns1:Azelfs_Fang a ns1:Item ;
+    ns1:japaneseName "アグノムのきば"^^xsd:string ;
+    ns1:name "Azelf's Fang"^^xsd:string .
+
+ns1:Azure_Flute a ns1:Item ;
+    ns1:name "Azure Flute"^^xsd:string .
+
+ns1:BW_Grass_Chairs a ns1:Item ;
+    ns1:japaneseName "くさむらチェア"^^xsd:string ;
+    ns1:name "B&W Grass Chairs"^^xsd:string .
+
+ns1:BW_Grass_Tablecloth a ns1:Item ;
+    ns1:japaneseName "くさむらモノクロス"^^xsd:string ;
+    ns1:name "B&W Grass Tablecloth"^^xsd:string .
+
+ns1:Babiri_Berry a ns1:Item ;
+    ns1:japaneseName "リリバのみ"^^xsd:string ;
+    ns1:name "Babiri Berry"^^xsd:string .
+
+ns1:Bachs_Food_Tin a ns1:Item ;
+    ns1:name "Bach's Food Tin"^^xsd:string .
+
+ns1:Bacon a ns1:Item ;
+    ns1:japaneseName "やきベーコン"^^xsd:string ;
+    ns1:name "Bacon"^^xsd:string .
+
+ns1:Baguette a ns1:Item ;
+    ns1:name "Baguette"^^xsd:string .
+
+ns1:Ball_of_Mud a ns1:Item ;
+    ns1:japaneseName "どろだんご"^^xsd:string ;
+    ns1:name "Ball of Mud"^^xsd:string .
+
+ns1:Balm_Mushroom a ns1:Item ;
+    ns1:japaneseName "かおるキノコ"^^xsd:string ;
+    ns1:name "Balm Mushroom"^^xsd:string .
+
+ns1:Banana a ns1:Item ;
+    ns1:japaneseName "バナナスライス"^^xsd:string ;
+    ns1:name "Banana"^^xsd:string .
+
+ns1:Band_Autograph a ns1:Item ;
+    ns1:japaneseName "バンドのサイン"^^xsd:string ;
+    ns1:name "Band Autograph"^^xsd:string .
+
+ns1:Banettite a ns1:Item ;
+    ns1:japaneseName "ジュペッタナイト"^^xsd:string ;
+    ns1:name "Banettite"^^xsd:string .
+
+ns1:Barred_Cup a ns1:Item ;
+    ns1:japaneseName "よこストライプカップ"^^xsd:string ;
+    ns1:name "Barred Cup"^^xsd:string .
+
+ns1:Basculegion_Food a ns1:Item ;
+    ns1:japaneseName "イダイトウだんご"^^xsd:string ;
+    ns1:name "Basculegion Food"^^xsd:string .
+
+ns1:Basement_Key a ns1:Item ;
+    ns1:japaneseName "ちかのカギ"^^xsd:string ;
+    ns1:name "Basement Key"^^xsd:string .
+
+ns1:Basil a ns1:Item ;
+    ns1:japaneseName "バジル"^^xsd:string ;
+    ns1:name "Basil"^^xsd:string .
+
+ns1:Battle_CD a ns1:Item ;
+    ns1:japaneseName "バトルディスク"^^xsd:string ;
+    ns1:name "Battle CD"^^xsd:string .
+
+ns1:Battle_Chairs a ns1:Item ;
+    ns1:japaneseName "しょうぶチェア"^^xsd:string ;
+    ns1:name "Battle Chairs"^^xsd:string .
+
+ns1:Battle_Tablecloth a ns1:Item ;
+    ns1:japaneseName "しょうぶクロス"^^xsd:string ;
+    ns1:name "Battle Tablecloth"^^xsd:string .
+
+ns1:Beach_Glass a ns1:Item ;
+    ns1:japaneseName "うみべのガラス"^^xsd:string ;
+    ns1:name "Beach Glass"^^xsd:string .
+
+ns1:Bead_Mail a ns1:Item ;
+    ns1:japaneseName "トレジャーメール"^^xsd:string ;
+    ns1:name "Bead Mail"^^xsd:string .
+
+ns1:Bean_Cake a ns1:Item ;
+    ns1:japaneseName "マメよせだま"^^xsd:string ;
+    ns1:name "Bean Cake"^^xsd:string .
+
+ns1:Beast_Ball a ns1:Item ;
+    ns1:japaneseName "ウルトラボール"^^xsd:string ;
+    ns1:name "Beast Ball"^^xsd:string .
+
+ns1:Beedrillite a ns1:Item ;
+    ns1:japaneseName "スピアナイト"^^xsd:string ;
+    ns1:name "Beedrillite"^^xsd:string .
+
+ns1:Belue_Berry a ns1:Item ;
+    ns1:japaneseName "ベリブのみ"^^xsd:string ;
+    ns1:name "Belue Berry"^^xsd:string .
+
+ns1:Berry a ns1:Item ;
+    ns1:name "Berry"^^xsd:string .
+
+ns1:Berry_Juice a ns1:Item ;
+    ns1:name "Berry Juice"^^xsd:string .
+
+ns1:Berry_Pots a ns1:Item ;
+    ns1:japaneseName "きのみプランター"^^xsd:string ;
+    ns1:name "Berry Pots"^^xsd:string .
+
+ns1:Berry_Pouch a ns1:Item ;
+    ns1:japaneseName "きのみぶくろ"^^xsd:string ;
+    ns1:name "Berry Pouch"^^xsd:string .
+
+ns1:Berry_Sweet a ns1:Item ;
+    ns1:japaneseName "ベリーアメざいく"^^xsd:string ;
+    ns1:name "Berry Sweet"^^xsd:string .
+
+ns1:Berserk_Gene a ns1:Item ;
+    ns1:japaneseName "はかいのいでんし"^^xsd:string ;
+    ns1:name "Berserk Gene"^^xsd:string .
+
+ns1:Bicycle a ns1:Item ;
+    ns1:japaneseName "じてんしゃ"^^xsd:string ;
+    ns1:name "Bicycle"^^xsd:string .
+
+ns1:Big_Bamboo_Shoot a ns1:Item ;
+    ns1:japaneseName "おおきなタケノコ"^^xsd:string ;
+    ns1:name "Big Bamboo Shoot"^^xsd:string .
+
+ns1:Big_Malasada a ns1:Item ;
+    ns1:japaneseName "おおきいマラサダ"^^xsd:string ;
+    ns1:name "Big Malasada"^^xsd:string .
+
+ns1:Big_Mushroom a ns1:Item ;
+    ns1:japaneseName "おおきなキノコ"^^xsd:string ;
+    ns1:name "Big Mushroom"^^xsd:string .
+
+ns1:Big_Nugget a ns1:Item ;
+    ns1:japaneseName "でかいきんのたま"^^xsd:string ;
+    ns1:name "Big Nugget"^^xsd:string .
+
+ns1:Big_Pearl a ns1:Item ;
+    ns1:japaneseName "おおきなしんじゅ"^^xsd:string ;
+    ns1:name "Big Pearl"^^xsd:string .
+
+ns1:Big_Root a ns1:Item ;
+    ns1:japaneseName "おおきなねっこ"^^xsd:string ;
+    ns1:name "Big Root"^^xsd:string .
+
+ns1:Bike_Voucher a ns1:Item ;
+    ns1:japaneseName "ひきかえけん"^^xsd:string ;
+    ns1:name "Bike Voucher"^^xsd:string .
+
+ns1:Binding_Band a ns1:Item ;
+    ns1:japaneseName "しめつけバンド"^^xsd:string ;
+    ns1:name "Binding Band"^^xsd:string .
+
+ns1:Bitter_Berry a ns1:Item ;
+    ns1:name "Bitter Berry"^^xsd:string .
+
+ns1:Bitter_Herba_Mystica a ns1:Item ;
+    ns1:japaneseName "ひでん：にがスパイス"^^xsd:string ;
+    ns1:name "Bitter Herba Mystica"^^xsd:string .
+
+ns1:Black_Apricorn a ns1:Item ;
+    ns1:japaneseName "くろぼんぐり"^^xsd:string ;
+    ns1:name "Black Apricorn"^^xsd:string .
+
+ns1:Black_Augurite a ns1:Item ;
+    ns1:japaneseName "くろのきせき"^^xsd:string ;
+    ns1:name "Black Augurite"^^xsd:string .
+
+ns1:Black_Belt a ns1:Item ;
+    ns1:japaneseName "くろおび"^^xsd:string ;
+    ns1:name "Black Belt"^^xsd:string .
+
+ns1:Black_Flute a ns1:Item ;
+    ns1:name "Black Flute"^^xsd:string .
+
+ns1:Black_Glasses a ns1:Item ;
+    ns1:japaneseName "くろいメガネ"^^xsd:string ;
+    ns1:name "Black Glasses"^^xsd:string .
+
+ns1:Black_Mane_Hair a ns1:Item ;
+    ns1:name "Black Mane Hair"^^xsd:string .
+
+ns1:Black_Sludge a ns1:Item ;
+    ns1:name "Black Sludge"^^xsd:string .
+
+ns1:Black_Tumblestone a ns1:Item ;
+    ns1:japaneseName "くろいろたまいし"^^xsd:string ;
+    ns1:name "Black Tumblestone"^^xsd:string .
+
+ns1:Blank_Plate a ns1:Item ;
+    ns1:japaneseName "まっさらプレート"^^xsd:string ;
+    ns1:name "Blank Plate"^^xsd:string .
+
+ns1:Blastoisinite a ns1:Item ;
+    ns1:japaneseName "カメックスナイト"^^xsd:string ;
+    ns1:name "Blastoisinite"^^xsd:string .
+
+ns1:Blazikenite a ns1:Item ;
+    ns1:japaneseName "バシャーモナイト"^^xsd:string ;
+    ns1:name "Blazikenite"^^xsd:string .
+
+ns1:Bloom_Mail a ns1:Item ;
+    ns1:japaneseName "ブルームメール"^^xsd:string ;
+    ns1:name "Bloom Mail"^^xsd:string .
+
+ns1:Blu_ID_Badge a ns1:Item ;
+    ns1:japaneseName "ＩＤバッジあお"^^xsd:string ;
+    ns1:name "Blu ID Badge"^^xsd:string .
+
+ns1:Blue-Flag_Pick a ns1:Item ;
+    ns1:japaneseName "あおいはたピック"^^xsd:string ;
+    ns1:name "Blue-Flag Pick"^^xsd:string .
+
+ns1:Blue-Sky_Flower_Pick a ns1:Item ;
+    ns1:japaneseName "あおぞらおはなピック"^^xsd:string ;
+    ns1:name "Blue-Sky Flower Pick"^^xsd:string .
+
+ns1:Blue_Apricorn a ns1:Item ;
+    ns1:japaneseName "あおぼんぐり"^^xsd:string ;
+    ns1:name "Blue Apricorn"^^xsd:string .
+
+ns1:Blue_Bottle a ns1:Item ;
+    ns1:japaneseName "ブルーボトル"^^xsd:string ;
+    ns1:name "Blue Bottle"^^xsd:string .
+
+ns1:Blue_Card a ns1:Item ;
+    ns1:japaneseName "ブルーカード"^^xsd:string ;
+    ns1:name "Blue Card"^^xsd:string .
+
+ns1:Blue_Chairs a ns1:Item ;
+    ns1:japaneseName "ブルーチェア"^^xsd:string ;
+    ns1:name "Blue Chairs"^^xsd:string .
+
+ns1:Blue_Cup a ns1:Item ;
+    ns1:japaneseName "ブルーカップ"^^xsd:string ;
+    ns1:name "Blue Cup"^^xsd:string .
+
+ns1:Blue_Dish a ns1:Item ;
+    ns1:japaneseName "ブループレート"^^xsd:string ;
+    ns1:name "Blue Dish"^^xsd:string .
+
+ns1:Blue_Flute a ns1:Item ;
+    ns1:japaneseName "あおいビードロ"^^xsd:string ;
+    ns1:name "Blue Flute"^^xsd:string .
+
+ns1:Blue_Orb a ns1:Item ;
+    ns1:name "Blue Orb"^^xsd:string .
+
+ns1:Blue_Petal a ns1:Item ;
+    ns1:japaneseName "あおのはなびら"^^xsd:string ;
+    ns1:name "Blue Petal"^^xsd:string .
+
+ns1:Blue_Pok_Ball_Pick a ns1:Item ;
+    ns1:japaneseName "あおボールピック"^^xsd:string ;
+    ns1:name "Blue Poké Ball Pick"^^xsd:string .
+
+ns1:Blue_Scarf a ns1:Item ;
+    ns1:japaneseName "あおいバンダナ"^^xsd:string ;
+    ns1:name "Blue Scarf"^^xsd:string .
+
+ns1:Blue_Shard a ns1:Item ;
+    ns1:japaneseName "あおいかけら"^^xsd:string ;
+    ns1:name "Blue Shard"^^xsd:string .
+
+ns1:Blue_Tablecloth a ns1:Item ;
+    ns1:japaneseName "ブルークロス"^^xsd:string ;
+    ns1:name "Blue Tablecloth"^^xsd:string .
+
+ns1:Blueberry_Chairs a ns1:Item ;
+    ns1:japaneseName "ブルーベリーチェア"^^xsd:string ;
+    ns1:name "Blueberry Chairs"^^xsd:string .
+
+ns1:Blueberry_Tablecloth a ns1:Item ;
+    ns1:japaneseName "ブルーベリークロス"^^xsd:string ;
+    ns1:name "Blueberry Tablecloth"^^xsd:string .
+
+ns1:Bluesky_Mail a ns1:Item ;
+    ns1:japaneseName "あおぞらメール"^^xsd:string ;
+    ns1:name "Bluesky Mail"^^xsd:string .
+
+ns1:Bluk_Berry a ns1:Item ;
+    ns1:japaneseName "ブリーのみ"^^xsd:string ;
+    ns1:name "Bluk Berry"^^xsd:string .
+
+ns1:Blunder_Policy a ns1:Item ;
+    ns1:japaneseName "からぶりほけん"^^xsd:string ;
+    ns1:name "Blunder Policy"^^xsd:string .
+
+ns1:Bobs_Food_Tin a ns1:Item ;
+    ns1:name "Bob's Food Tin"^^xsd:string .
+
+ns1:Boiled_Egg a ns1:Item ;
+    ns1:name "Boiled Egg"^^xsd:string .
+
+ns1:Bold_Mint a ns1:Item ;
+    ns1:japaneseName "ずぶといミント"^^xsd:string ;
+    ns1:name "Bold Mint"^^xsd:string .
+
+ns1:Bonsly_Card a ns1:Item ;
+    ns1:japaneseName "ウソハチシート"^^xsd:string ;
+    ns1:name "Bonsly Card"^^xsd:string .
+
+ns1:Bonsly_Photo a ns1:Item ;
+    ns1:japaneseName "ウソハチ・フォト"^^xsd:string ;
+    ns1:name "Bonsly Photo"^^xsd:string .
+
+ns1:Boost_Mulch a ns1:Item ;
+    ns1:japaneseName "ぐんぐんこやし"^^xsd:string ;
+    ns1:name "Boost Mulch"^^xsd:string .
+
+ns1:Booster_Energy a ns1:Item ;
+    ns1:japaneseName "ブーストエナジー"^^xsd:string ;
+    ns1:name "Booster Energy"^^xsd:string .
+
+ns1:Bottle_Cap a ns1:Item ;
+    ns1:japaneseName "ぎんのおうかん"^^xsd:string ;
+    ns1:name "Bottle Cap"^^xsd:string .
+
+ns1:Brave_Mint a ns1:Item ;
+    ns1:japaneseName "ゆうかんミント"^^xsd:string ;
+    ns1:name "Brave Mint"^^xsd:string .
+
+ns1:Bread a ns1:Item ;
+    ns1:name "Bread"^^xsd:string .
+
+ns1:Briars_Book a ns1:Item ;
+    ns1:japaneseName "ゼロの秘宝"^^xsd:string ;
+    ns1:name "Briar's Book"^^xsd:string .
+
+ns1:Brick_Mail a ns1:Item ;
+    ns1:japaneseName "ブリックメール"^^xsd:string ;
+    ns1:name "Brick Mail"^^xsd:string .
+
+ns1:Brick_Piece a ns1:Item ;
+    ns1:japaneseName "かわらのかけら"^^xsd:string ;
+    ns1:name "Brick Piece"^^xsd:string .
+
+ns1:BridgeMail_D a ns1:Item ;
+    ns1:japaneseName "ブリッジメールＣ"^^xsd:string ;
+    ns1:name "BridgeMail D"^^xsd:string .
+
+ns1:BridgeMail_M a ns1:Item ;
+    ns1:japaneseName "ブリッジメールＷ"^^xsd:string ;
+    ns1:name "BridgeMail M"^^xsd:string .
+
+ns1:BridgeMail_S a ns1:Item ;
+    ns1:japaneseName "ブリッジメールＳ"^^xsd:string ;
+    ns1:name "BridgeMail S"^^xsd:string .
+
+ns1:BridgeMail_T a ns1:Item ;
+    ns1:japaneseName "ブリッジメールＣ"^^xsd:string ;
+    ns1:name "BridgeMail T"^^xsd:string .
+
+ns1:BridgeMail_V a ns1:Item ;
+    ns1:japaneseName "ブリッジメールＶ"^^xsd:string ;
+    ns1:name "BridgeMail V"^^xsd:string .
+
+ns1:Bright_Powder a ns1:Item ;
+    ns1:japaneseName "ひかりのこな"^^xsd:string ;
+    ns1:name "Bright Powder"^^xsd:string .
+
+ns1:Brittle_Bones a ns1:Item ;
+    ns1:name "Brittle Bones"^^xsd:string .
+
+ns1:Bronze_Bottle a ns1:Item ;
+    ns1:japaneseName "ブロンズチタンボトル"^^xsd:string ;
+    ns1:name "Bronze Bottle"^^xsd:string .
+
+ns1:Bronze_Cup a ns1:Item ;
+    ns1:japaneseName "ブロンズチタンカップ"^^xsd:string ;
+    ns1:name "Bronze Cup"^^xsd:string .
+
+ns1:Bubble_Mail a ns1:Item ;
+    ns1:japaneseName "ブルーメール"^^xsd:string ;
+    ns1:name "Bubble Mail"^^xsd:string .
+
+ns1:Bug_Gem a ns1:Item ;
+    ns1:japaneseName "むしのジュエル"^^xsd:string ;
+    ns1:name "Bug Gem"^^xsd:string .
+
+ns1:Bug_Memory a ns1:Item ;
+    ns1:japaneseName "バグメモリ"^^xsd:string ;
+    ns1:name "Bug Memory"^^xsd:string .
+
+ns1:Bug_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースむし"^^xsd:string ;
+    ns1:name "Bug Tera Shard"^^xsd:string .
+
+ns1:Buginium_Z a ns1:Item ;
+    ns1:japaneseName "ムシＺ"^^xsd:string ;
+    ns1:name "Buginium Z"^^xsd:string .
+
+ns1:Bugwort a ns1:Item ;
+    ns1:japaneseName "ムシヨケソウ"^^xsd:string ;
+    ns1:name "Bugwort"^^xsd:string .
+
+ns1:Burn_Drive a ns1:Item ;
+    ns1:japaneseName "ブレイズカセット"^^xsd:string ;
+    ns1:name "Burn Drive"^^xsd:string .
+
+ns1:Burn_Heal a ns1:Item ;
+    ns1:japaneseName "やけどなおし"^^xsd:string ;
+    ns1:name "Burn Heal"^^xsd:string .
+
+ns1:Burnt_Berry a ns1:Item ;
+    ns1:name "Burnt Berry"^^xsd:string .
+
+ns1:Butter a ns1:Item ;
+    ns1:japaneseName "バター"^^xsd:string ;
+    ns1:name "Butter"^^xsd:string .
+
+ns1:Cake-Lure_Base a ns1:Item ;
+    ns1:japaneseName "よせだまのもと"^^xsd:string ;
+    ns1:name "Cake-Lure Base"^^xsd:string .
+
+ns1:Calcium a ns1:Item ;
+    ns1:japaneseName "リゾチウム"^^xsd:string ;
+    ns1:name "Calcium"^^xsd:string .
+
+ns1:Calm_Mint a ns1:Item ;
+    ns1:japaneseName "おだやかミント"^^xsd:string ;
+    ns1:name "Calm Mint"^^xsd:string .
+
+ns1:Cameruptite a ns1:Item ;
+    ns1:japaneseName "バクーダナイト"^^xsd:string ;
+    ns1:name "Cameruptite"^^xsd:string .
+
+ns1:Camping_Gear a ns1:Item ;
+    ns1:name "Camping Gear"^^xsd:string .
+
+ns1:Candy_Truffle a ns1:Item ;
+    ns1:japaneseName "スイートトリュフ"^^xsd:string ;
+    ns1:name "Candy Truffle"^^xsd:string .
+
+ns1:Carbos a ns1:Item ;
+    ns1:japaneseName "インドメタシン"^^xsd:string ;
+    ns1:name "Carbos"^^xsd:string .
+
+ns1:Card_Key a ns1:Item ;
+    ns1:japaneseName "カードキー"^^xsd:string ;
+    ns1:name "Card Key"^^xsd:string .
+
+ns1:Careful_Mint a ns1:Item ;
+    ns1:japaneseName "しんちょうミント"^^xsd:string ;
+    ns1:name "Careful Mint"^^xsd:string .
+
+ns1:Carrot_Seeds a ns1:Item ;
+    ns1:name "Carrot Seeds"^^xsd:string .
+
+ns1:Casteliacone a ns1:Item ;
+    ns1:japaneseName "ヒウンアイス"^^xsd:string ;
+    ns1:name "Casteliacone"^^xsd:string .
+
+ns1:Caster_Fern a ns1:Item ;
+    ns1:japaneseName "タマゼンマイ"^^xsd:string ;
+    ns1:name "Caster Fern"^^xsd:string .
+
+ns1:Catching_Charm a ns1:Item ;
+    ns1:name "Catching Charm"^^xsd:string .
+
+ns1:Celestica_Flute a ns1:Item ;
+    ns1:name "Celestica Flute"^^xsd:string .
+
+ns1:Cell_Battery a ns1:Item ;
+    ns1:japaneseName "じゅうでんち"^^xsd:string ;
+    ns1:name "Cell Battery"^^xsd:string .
+
+ns1:Chalky_Stone a ns1:Item ;
+    ns1:japaneseName "チョークいし"^^xsd:string ;
+    ns1:name "Chalky Stone"^^xsd:string .
+
+ns1:Charcoal a ns1:Item ;
+    ns1:japaneseName "もくたん"^^xsd:string ;
+    ns1:name "Charcoal"^^xsd:string .
+
+ns1:Charizardite_X a ns1:Item ;
+    ns1:japaneseName "リザードナイトX"^^xsd:string ;
+    ns1:name "Charizardite X"^^xsd:string .
+
+ns1:Charizardite_Y a ns1:Item ;
+    ns1:japaneseName "リザードナイトY"^^xsd:string ;
+    ns1:name "Charizardite Y"^^xsd:string .
+
+ns1:Charti_Berry a ns1:Item ;
+    ns1:japaneseName "ヨロギのみ"^^xsd:string ;
+    ns1:name "Charti Berry"^^xsd:string .
+
+ns1:Cheese a ns1:Item ;
+    ns1:japaneseName "スライスチーズ"^^xsd:string ;
+    ns1:name "Cheese"^^xsd:string .
+
+ns1:Cheri_Berry a ns1:Item ;
+    ns1:japaneseName "クラボのみ"^^xsd:string ;
+    ns1:name "Cheri Berry"^^xsd:string .
+
+ns1:Cherish_Ball a ns1:Item ;
+    ns1:japaneseName "プレシャスボール"^^xsd:string ;
+    ns1:name "Cherish Ball"^^xsd:string .
+
+ns1:Cherry_Tomatoes a ns1:Item ;
+    ns1:japaneseName "カットミニトマト"^^xsd:string ;
+    ns1:name "Cherry Tomatoes"^^xsd:string .
+
+ns1:Chesto_Berry a ns1:Item ;
+    ns1:japaneseName "カゴのみ"^^xsd:string ;
+    ns1:name "Chesto Berry"^^xsd:string .
+
+ns1:Chilan_Berry a ns1:Item ;
+    ns1:japaneseName "ホズのみ"^^xsd:string ;
+    ns1:name "Chilan Berry"^^xsd:string .
+
+ns1:Chili_Sauce a ns1:Item ;
+    ns1:japaneseName "チリソース"^^xsd:string ;
+    ns1:name "Chili Sauce"^^xsd:string .
+
+ns1:Chill_Drive a ns1:Item ;
+    ns1:japaneseName "フリーズカセット"^^xsd:string ;
+    ns1:name "Chill Drive"^^xsd:string .
+
+ns1:Chipped_Pot a ns1:Item ;
+    ns1:japaneseName "かけたポット"^^xsd:string ;
+    ns1:name "Chipped Pot"^^xsd:string .
+
+ns1:Choice_Band a ns1:Item ;
+    ns1:japaneseName "こだわりハチマキ"^^xsd:string ;
+    ns1:name "Choice Band"^^xsd:string .
+
+ns1:Choice_Dumpling a ns1:Item ;
+    ns1:japaneseName "こだわりちまき"^^xsd:string ;
+    ns1:name "Choice Dumpling"^^xsd:string .
+
+ns1:Choice_Scarf a ns1:Item ;
+    ns1:japaneseName "こだわりスカーフ"^^xsd:string ;
+    ns1:name "Choice Scarf"^^xsd:string .
+
+ns1:Choice_Specs a ns1:Item ;
+    ns1:japaneseName "こだわりメガネ"^^xsd:string ;
+    ns1:name "Choice Specs"^^xsd:string .
+
+ns1:Chople_Berry a ns1:Item ;
+    ns1:japaneseName "ヨプのみ"^^xsd:string ;
+    ns1:name "Chople Berry"^^xsd:string .
+
+ns1:Chorizo a ns1:Item ;
+    ns1:japaneseName "やきチョリソー"^^xsd:string ;
+    ns1:name "Chorizo"^^xsd:string .
+
+ns1:Claw_Fossil a ns1:Item ;
+    ns1:japaneseName "ツメのカセキ"^^xsd:string ;
+    ns1:name "Claw Fossil"^^xsd:string .
+
+ns1:Cleanse_Tag a ns1:Item ;
+    ns1:name "Cleanse Tag"^^xsd:string .
+
+ns1:Clear_Amulet a ns1:Item ;
+    ns1:japaneseName "クリアチャーム"^^xsd:string ;
+    ns1:name "Clear Amulet"^^xsd:string .
+
+ns1:Clear_Bell a ns1:Item ;
+    ns1:name "Clear Bell"^^xsd:string .
+
+ns1:Clever_Feather a ns1:Item ;
+    ns1:japaneseName "せいしんのハネ"^^xsd:string ;
+    ns1:name "Clever Feather"^^xsd:string .
+
+ns1:Clever_Mochi a ns1:Item ;
+    ns1:japaneseName "せいしんのもち"^^xsd:string ;
+    ns1:name "Clever Mochi"^^xsd:string .
+
+ns1:Clover_Sweet a ns1:Item ;
+    ns1:japaneseName "よつばアメざいく"^^xsd:string ;
+    ns1:name "Clover Sweet"^^xsd:string .
+
+ns1:Coba_Berry a ns1:Item ;
+    ns1:japaneseName "バコウのみ"^^xsd:string ;
+    ns1:name "Coba Berry"^^xsd:string .
+
+ns1:Cobalion_Treat a ns1:Item ;
+    ns1:japaneseName "コバルオンのおやつ"^^xsd:string ;
+    ns1:name "Cobalion Treat"^^xsd:string .
+
+ns1:Coconut_Milk a ns1:Item ;
+    ns1:name "Coconut Milk"^^xsd:string .
+
+ns1:Coin_Case a ns1:Item ;
+    ns1:japaneseName "コインケース"^^xsd:string ;
+    ns1:name "Coin Case"^^xsd:string .
+
+ns1:Colbur_Berry a ns1:Item ;
+    ns1:japaneseName "ナモのみ"^^xsd:string ;
+    ns1:name "Colbur Berry"^^xsd:string .
+
+ns1:Cologne_Case a ns1:Item ;
+    ns1:name "Cologne Case"^^xsd:string .
+
+ns1:Colress_Machine a ns1:Item ;
+    ns1:japaneseName "アクロママシーン"^^xsd:string ;
+    ns1:name "Colress Machine"^^xsd:string .
+
+ns1:Comet_Shard a ns1:Item ;
+    ns1:japaneseName "すいせいのかけら"^^xsd:string ;
+    ns1:name "Comet Shard"^^xsd:string .
+
+ns1:Contest_Costume a ns1:Item ;
+    ns1:japaneseName "ライブスーツ/ライブドレス"^^xsd:string ;
+    ns1:name "Contest Costume"^^xsd:string .
+
+ns1:Contest_Pass a ns1:Item ;
+    ns1:japaneseName "コンテストパス"^^xsd:string ;
+    ns1:name "Contest Pass"^^xsd:string .
+
+ns1:Cornerstone_Mask a ns1:Item ;
+    ns1:japaneseName "いしずえのめん"^^xsd:string ;
+    ns1:name "Cornerstone Mask"^^xsd:string .
+
+ns1:Cornn_Berry a ns1:Item ;
+    ns1:japaneseName "モコシのみ"^^xsd:string ;
+    ns1:name "Cornn Berry"^^xsd:string .
+
+ns1:Coupons_1_2_and_3 a ns1:Item ;
+    ns1:japaneseName "ひきかえけん１・２・３"^^xsd:string ;
+    ns1:name "Coupons 1, 2, and 3"^^xsd:string .
+
+ns1:Courage_Candy a ns1:Item ;
+    ns1:japaneseName "こころのアメ"^^xsd:string ;
+    ns1:name "Courage Candy"^^xsd:string .
+
+ns1:Courage_Candy_L a ns1:Item ;
+    ns1:japaneseName "こころのアメＬ"^^xsd:string ;
+    ns1:name "Courage Candy L"^^xsd:string .
+
+ns1:Courage_Candy_XL a ns1:Item ;
+    ns1:japaneseName "こころのアメＸＬ"^^xsd:string ;
+    ns1:name "Courage Candy XL"^^xsd:string .
+
+ns1:Cover_Fossil a ns1:Item ;
+    ns1:japaneseName "ふたのカセキ"^^xsd:string ;
+    ns1:name "Cover Fossil"^^xsd:string .
+
+ns1:Covert_Cloak a ns1:Item ;
+    ns1:japaneseName "おんみつマント"^^xsd:string ;
+    ns1:name "Covert Cloak"^^xsd:string .
+
+ns1:Cracked_Pot a ns1:Item ;
+    ns1:japaneseName "われたポット"^^xsd:string ;
+    ns1:name "Cracked Pot"^^xsd:string .
+
+ns1:Crafting_Kit a ns1:Item ;
+    ns1:japaneseName "クラフトキット"^^xsd:string ;
+    ns1:name "Crafting Kit"^^xsd:string .
+
+ns1:Cream_Cheese a ns1:Item ;
+    ns1:japaneseName "クリームチーズ"^^xsd:string ;
+    ns1:name "Cream Cheese"^^xsd:string .
+
+ns1:Crown_Pass a ns1:Item ;
+    ns1:name "Crown Pass"^^xsd:string .
+
+ns1:Crunchy_Salt a ns1:Item ;
+    ns1:japaneseName "ごりごりミネラル"^^xsd:string ;
+    ns1:name "Crunchy Salt"^^xsd:string .
+
+ns1:Cry_Analyzer a ns1:Item ;
+    ns1:japaneseName "かいどくそうち"^^xsd:string ;
+    ns1:name "Cry Analyzer"^^xsd:string .
+
+ns1:Crystal_Cluster a ns1:Item ;
+    ns1:name "Crystal Cluster"^^xsd:string .
+
+ns1:Cucumber a ns1:Item ;
+    ns1:japaneseName "キュウリスライス"^^xsd:string ;
+    ns1:name "Cucumber"^^xsd:string .
+
+ns1:Curry_Powder a ns1:Item ;
+    ns1:japaneseName "カレーパウダー"^^xsd:string ;
+    ns1:name "Curry Powder"^^xsd:string .
+
+ns1:Custap_Berry a ns1:Item ;
+    ns1:japaneseName "イバンのみ"^^xsd:string ;
+    ns1:name "Custap Berry"^^xsd:string .
+
+ns1:Cyber_Ball a ns1:Item ;
+    ns1:japaneseName "ゲーミングボール"^^xsd:string ;
+    ns1:name "Cyber Ball"^^xsd:string .
+
+ns1:D-Disk a ns1:Item ;
+    ns1:japaneseName "Ｄ－ディスク"^^xsd:string ;
+    ns1:name "D-Disk"^^xsd:string .
+
+ns1:DNA_Sample a ns1:Item ;
+    ns1:japaneseName "ＤＮＡサンプル"^^xsd:string ;
+    ns1:name "DNA Sample"^^xsd:string .
+
+ns1:DNA_Splicers a ns1:Item ;
+    ns1:name "DNA Splicers"^^xsd:string .
+
+ns1:DS_Sounds a ns1:Item ;
+    ns1:japaneseName "ＤＳプレイヤー"^^xsd:string ;
+    ns1:name "DS Sounds"^^xsd:string .
+
+ns1:Damp_Mulch a ns1:Item ;
+    ns1:japaneseName "じめじめこやし"^^xsd:string ;
+    ns1:name "Damp Mulch"^^xsd:string .
+
+ns1:Damp_Rock a ns1:Item ;
+    ns1:japaneseName "しめったいわ"^^xsd:string ;
+    ns1:name "Damp Rock"^^xsd:string .
+
+ns1:Dark_Gem a ns1:Item ;
+    ns1:japaneseName "あくのジュエル"^^xsd:string ;
+    ns1:name "Dark Gem"^^xsd:string .
+
+ns1:Dark_Memory a ns1:Item ;
+    ns1:japaneseName "ダークメモリ"^^xsd:string ;
+    ns1:name "Dark Memory"^^xsd:string .
+
+ns1:Dark_Stone a ns1:Item ;
+    ns1:name "Dark Stone"^^xsd:string .
+
+ns1:Dark_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースあく"^^xsd:string ;
+    ns1:name "Dark Tera Shard"^^xsd:string .
+
+ns1:Darkinium_Z a ns1:Item ;
+    ns1:japaneseName "アクＺ"^^xsd:string ;
+    ns1:name "Darkinium Z"^^xsd:string .
+
+ns1:Data_Card a ns1:Item ;
+    ns1:japaneseName "データカード"^^xsd:string ;
+    ns1:name "Data Card"^^xsd:string .
+
+ns1:Data_ROM a ns1:Item ;
+    ns1:japaneseName "データロム"^^xsd:string ;
+    ns1:name "Data ROM"^^xsd:string .
+
+ns1:Dawn_Stone a ns1:Item ;
+    ns1:japaneseName "めざめいし"^^xsd:string ;
+    ns1:name "Dawn Stone"^^xsd:string .
+
+ns1:Dazzling_Honey a ns1:Item ;
+    ns1:japaneseName "きらきらミツ"^^xsd:string ;
+    ns1:name "Dazzling Honey"^^xsd:string .
+
+ns1:Decidium_Z a ns1:Item ;
+    ns1:japaneseName "ジュナイパーＺ"^^xsd:string ;
+    ns1:name "Decidium Z"^^xsd:string .
+
+ns1:Deep_Sea_Scale a ns1:Item ;
+    ns1:japaneseName "しんかいのウロコ"^^xsd:string ;
+    ns1:name "Deep Sea Scale"^^xsd:string .
+
+ns1:Deep_Sea_Tooth a ns1:Item ;
+    ns1:japaneseName "しんかいのキバ"^^xsd:string ;
+    ns1:name "Deep Sea Tooth"^^xsd:string .
+
+ns1:Destiny_Knot a ns1:Item ;
+    ns1:name "Destiny Knot"^^xsd:string .
+
+ns1:Devon_Parts a ns1:Item ;
+    ns1:japaneseName "デボンのにもつ"^^xsd:string ;
+    ns1:name "Devon Parts"^^xsd:string .
+
+ns1:Devon_Scope a ns1:Item ;
+    ns1:japaneseName "デボンスコープ"^^xsd:string ;
+    ns1:name "Devon Scope"^^xsd:string .
+
+ns1:Devon_Scuba_Gear a ns1:Item ;
+    ns1:japaneseName "デボンボンベ"^^xsd:string ;
+    ns1:name "Devon Scuba Gear"^^xsd:string .
+
+ns1:Diamond_Bottle a ns1:Item ;
+    ns1:japaneseName "ダイヤボトル"^^xsd:string ;
+    ns1:name "Diamond Bottle"^^xsd:string .
+
+ns1:Diamond_Chairs a ns1:Item ;
+    ns1:japaneseName "ダイヤチェア"^^xsd:string ;
+    ns1:name "Diamond Chairs"^^xsd:string .
+
+ns1:Diamond_Pattern_Cup a ns1:Item ;
+    ns1:japaneseName "ダイヤカップ"^^xsd:string ;
+    ns1:name "Diamond Pattern Cup"^^xsd:string .
+
+ns1:Diamond_Tablecloth a ns1:Item ;
+    ns1:japaneseName "ダイヤクロス"^^xsd:string ;
+    ns1:name "Diamond Tablecloth"^^xsd:string .
+
+ns1:Diancite a ns1:Item ;
+    ns1:japaneseName "ディアンシナイト"^^xsd:string ;
+    ns1:name "Diancite"^^xsd:string .
+
+ns1:Digger_Drill a ns1:Item ;
+    ns1:japaneseName "あなほりドリル"^^xsd:string ;
+    ns1:name "Digger Drill"^^xsd:string .
+
+ns1:Dire_Hit a ns1:Item ;
+    ns1:japaneseName "クリティカット"^^xsd:string ;
+    ns1:name "Dire Hit"^^xsd:string .
+
+ns1:Direshroom a ns1:Item ;
+    ns1:japaneseName "キュウショウロ"^^xsd:string ;
+    ns1:name "Direshroom"^^xsd:string .
+
+ns1:Disc_Case a ns1:Item ;
+    ns1:japaneseName "ディスクケース"^^xsd:string ;
+    ns1:name "Disc Case"^^xsd:string .
+
+ns1:Discount_Coupon a ns1:Item ;
+    ns1:japaneseName "バーゲンチケット"^^xsd:string ;
+    ns1:name "Discount Coupon"^^xsd:string .
+
+ns1:Discovery_Slate a ns1:Item ;
+    ns1:name "Discovery Slate"^^xsd:string .
+
+ns1:Distortion_Slate a ns1:Item ;
+    ns1:name "Distortion Slate"^^xsd:string .
+
+ns1:Dive_Ball a ns1:Item ;
+    ns1:japaneseName "ダイブボール"^^xsd:string ;
+    ns1:name "Dive Ball"^^xsd:string .
+
+ns1:Dome_Fossil a ns1:Item ;
+    ns1:japaneseName "こうらのカセキ"^^xsd:string ;
+    ns1:name "Dome Fossil"^^xsd:string .
+
+ns1:Doppel_Bonnets a ns1:Item ;
+    ns1:japaneseName "カゲブンシメジ"^^xsd:string ;
+    ns1:name "Doppel Bonnets"^^xsd:string .
+
+ns1:Douse_Drive a ns1:Item ;
+    ns1:japaneseName "アクアカセット"^^xsd:string ;
+    ns1:name "Douse Drive"^^xsd:string .
+
+ns1:Down_St_Key a ns1:Item ;
+    ns1:japaneseName "ちかつうろのカギ"^^xsd:string ;
+    ns1:name "Down St. Key"^^xsd:string .
+
+ns1:Dowsing_Machine a ns1:Item ;
+    ns1:japaneseName "ダウジングマシン"^^xsd:string ;
+    ns1:name "Dowsing Machine"^^xsd:string .
+
+ns1:Draco_Plate a ns1:Item ;
+    ns1:japaneseName "りゅうのプレート"^^xsd:string ;
+    ns1:name "Draco Plate"^^xsd:string .
+
+ns1:Dragon_Fang a ns1:Item ;
+    ns1:japaneseName "りゅうのキバ"^^xsd:string ;
+    ns1:name "Dragon Fang"^^xsd:string .
+
+ns1:Dragon_Gem a ns1:Item ;
+    ns1:japaneseName "ドラゴンジュエル"^^xsd:string ;
+    ns1:name "Dragon Gem"^^xsd:string .
+
+ns1:Dragon_Memory a ns1:Item ;
+    ns1:japaneseName "ドラゴンメモリ"^^xsd:string ;
+    ns1:name "Dragon Memory"^^xsd:string .
+
+ns1:Dragon_Scale a ns1:Item ;
+    ns1:japaneseName "りゅうのウロコ"^^xsd:string ;
+    ns1:name "Dragon Scale"^^xsd:string .
+
+ns1:Dragon_Skull a ns1:Item ;
+    ns1:name "Dragon Skull"^^xsd:string .
+
+ns1:Dragon_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースドラゴン"^^xsd:string ;
+    ns1:name "Dragon Tera Shard"^^xsd:string .
+
+ns1:Dragonium_Z a ns1:Item ;
+    ns1:japaneseName "ドラゴンＺ"^^xsd:string ;
+    ns1:name "Dragonium Z"^^xsd:string .
+
+ns1:Drash_Berry a ns1:Item ;
+    ns1:japaneseName "ブーカのみ"^^xsd:string ;
+    ns1:name "Drash Berry"^^xsd:string .
+
+ns1:Dread_Plate a ns1:Item ;
+    ns1:japaneseName "こわもてプレート"^^xsd:string ;
+    ns1:name "Dread Plate"^^xsd:string .
+
+ns1:Dream_Ball a ns1:Item ;
+    ns1:japaneseName "ドリームボール"^^xsd:string ;
+    ns1:name "Dream Ball"^^xsd:string .
+
+ns1:Dream_Mail a ns1:Item ;
+    ns1:japaneseName "ドリームメール"^^xsd:string ;
+    ns1:name "Dream Mail"^^xsd:string .
+
+ns1:Dropped_Item a ns1:Item ;
+    ns1:japaneseName "わすれもの"^^xsd:string ;
+    ns1:name "Dropped Item"^^xsd:string .
+
+ns1:Dubious_Disc a ns1:Item ;
+    ns1:japaneseName "あやしいパッチ"^^xsd:string ;
+    ns1:name "Dubious Disc"^^xsd:string .
+
+ns1:Durin_Berry a ns1:Item ;
+    ns1:japaneseName "ドリのみ"^^xsd:string ;
+    ns1:name "Durin Berry"^^xsd:string .
+
+ns1:Dusk_Ball a ns1:Item ;
+    ns1:japaneseName "ダークボール"^^xsd:string ;
+    ns1:name "Dusk Ball"^^xsd:string .
+
+ns1:Dusk_Stone a ns1:Item ;
+    ns1:japaneseName "やみのいし"^^xsd:string ;
+    ns1:name "Dusk Stone"^^xsd:string .
+
+ns1:Dynamax_Band a ns1:Item ;
+    ns1:japaneseName "ダイマックス"^^xsd:string ;
+    ns1:name "Dynamax Band"^^xsd:string .
+
+ns1:Dynamax_Candy a ns1:Item ;
+    ns1:japaneseName "ダイマックスアメ"^^xsd:string ;
+    ns1:name "Dynamax Candy"^^xsd:string .
+
+ns1:Dynamax_Crystal a ns1:Item ;
+    ns1:name "Dynamax Crystal"^^xsd:string .
+
+ns1:Dynite_Ore a ns1:Item ;
+    ns1:japaneseName "マックスこうせき"^^xsd:string ;
+    ns1:name "Dynite Ore"^^xsd:string .
+
+ns1:Earth_Plate a ns1:Item ;
+    ns1:japaneseName "だいちのプレート"^^xsd:string ;
+    ns1:name "Earth Plate"^^xsd:string .
+
+ns1:Eevee_Cup a ns1:Item ;
+    ns1:japaneseName "イーブイカップ"^^xsd:string ;
+    ns1:name "Eevee Cup"^^xsd:string .
+
+ns1:Eevium_Z a ns1:Item ;
+    ns1:japaneseName "イーブイＺ"^^xsd:string ;
+    ns1:name "Eevium Z"^^xsd:string .
+
+ns1:Egg a ns1:Item ;
+    ns1:japaneseName "スライスエッグ"^^xsd:string ;
+    ns1:name "Egg"^^xsd:string .
+
+ns1:Egg_Ticket a ns1:Item ;
+    ns1:japaneseName "タマゴけん"^^xsd:string ;
+    ns1:name "Egg Ticket"^^xsd:string .
+
+ns1:Eggant_Berry a ns1:Item ;
+    ns1:japaneseName "ビスナのみ"^^xsd:string ;
+    ns1:name "Eggant Berry"^^xsd:string .
+
+ns1:Ein_File a ns1:Item ;
+    ns1:japaneseName "ボルグファイル"^^xsd:string ;
+    ns1:name "Ein File"^^xsd:string .
+
+ns1:Eject_Button a ns1:Item ;
+    ns1:japaneseName "だっしゅつボタン"^^xsd:string ;
+    ns1:name "Eject Button"^^xsd:string .
+
+ns1:Eject_Pack a ns1:Item ;
+    ns1:japaneseName "だっしゅつパック"^^xsd:string ;
+    ns1:name "Eject Pack"^^xsd:string .
+
+ns1:Electirizer a ns1:Item ;
+    ns1:japaneseName "エレキブースター"^^xsd:string ;
+    ns1:name "Electirizer"^^xsd:string .
+
+ns1:Electric_Gem a ns1:Item ;
+    ns1:japaneseName "でんきのジュエル"^^xsd:string ;
+    ns1:name "Electric Gem"^^xsd:string .
+
+ns1:Electric_Memory a ns1:Item ;
+    ns1:japaneseName "エレクトロメモリ"^^xsd:string ;
+    ns1:name "Electric Memory"^^xsd:string .
+
+ns1:Electric_Seed a ns1:Item ;
+    ns1:japaneseName "エレキシード"^^xsd:string ;
+    ns1:name "Electric Seed"^^xsd:string .
+
+ns1:Electric_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースでんき"^^xsd:string ;
+    ns1:name "Electric Tera Shard"^^xsd:string .
+
+ns1:Electrium_Z a ns1:Item ;
+    ns1:japaneseName "デンキＺ"^^xsd:string ;
+    ns1:name "Electrium Z"^^xsd:string .
+
+ns1:Elevator_Key a ns1:Item ;
+    ns1:japaneseName "エレベーターのキー"^^xsd:string,
+        "エレベーターキー"^^xsd:string ;
+    ns1:name "Elevator Key"^^xsd:string .
+
+ns1:Elixir a ns1:Item ;
+    ns1:japaneseName "ピーピーエイダー"^^xsd:string ;
+    ns1:name "Elixir"^^xsd:string .
+
+ns1:Endorsement a ns1:Item ;
+    ns1:japaneseName "すいせんじょう"^^xsd:string ;
+    ns1:name "Endorsement"^^xsd:string .
+
+ns1:Energy_Powder a ns1:Item ;
+    ns1:japaneseName "ちからのこな"^^xsd:string ;
+    ns1:name "Energy Powder"^^xsd:string .
+
+ns1:Energy_Root a ns1:Item ;
+    ns1:japaneseName "ちからのねっこ"^^xsd:string ;
+    ns1:name "Energy Root"^^xsd:string .
+
+ns1:Enigma_Berry a ns1:Item ;
+    ns1:japaneseName "ナゾのみ"^^xsd:string ;
+    ns1:name "Enigma Berry"^^xsd:string .
+
+ns1:Enigma_Stone a ns1:Item ;
+    ns1:name "Enigma Stone"^^xsd:string .
+
+ns1:Enigmatic_Card a ns1:Item ;
+    ns1:japaneseName "あやしいカード"^^xsd:string ;
+    ns1:name "Enigmatic Card"^^xsd:string .
+
+ns1:Entei_Treat a ns1:Item ;
+    ns1:japaneseName "エンテイのおやつ"^^xsd:string ;
+    ns1:name "Entei Treat"^^xsd:string .
+
+ns1:Eon_Flute a ns1:Item ;
+    ns1:japaneseName "むげんのふえ"^^xsd:string ;
+    ns1:name "Eon Flute"^^xsd:string .
+
+ns1:Eon_Mail a ns1:Item ;
+    ns1:japaneseName "ブイブイメール"^^xsd:string ;
+    ns1:name "Eon Mail"^^xsd:string .
+
+ns1:Eon_Ticket a ns1:Item ;
+    ns1:name "Eon Ticket"^^xsd:string .
+
+ns1:Escape_Rope a ns1:Item ;
+    ns1:japaneseName "あなぬけのヒモ"^^xsd:string ;
+    ns1:name "Escape Rope"^^xsd:string .
+
+ns1:Eternal_Ice a ns1:Item ;
+    ns1:japaneseName "えいえんのこおり"^^xsd:string ;
+    ns1:name "Eternal Ice"^^xsd:string .
+
+ns1:Ether a ns1:Item ;
+    ns1:japaneseName "ピーピーエイド"^^xsd:string ;
+    ns1:name "Ether"^^xsd:string .
+
+ns1:Everstone a ns1:Item ;
+    ns1:name "Everstone"^^xsd:string .
+
+ns1:Eviolite a ns1:Item ;
+    ns1:name "Eviolite"^^xsd:string .
+
+ns1:Excite_Scent a ns1:Item ;
+    ns1:japaneseName "ワクワクのかおり"^^xsd:string ;
+    ns1:name "Excite Scent"^^xsd:string .
+
+ns1:Exercise_Ball a ns1:Item ;
+    ns1:japaneseName "バランスボール"^^xsd:string ;
+    ns1:name "Exercise Ball"^^xsd:string .
+
+ns1:Exp_Candy_L a ns1:Item ;
+    ns1:japaneseName "けいけんアメＬ"^^xsd:string ;
+    ns1:name "Exp. Candy L"^^xsd:string .
+
+ns1:Exp_Candy_M a ns1:Item ;
+    ns1:japaneseName "けいけんアメＭ"^^xsd:string ;
+    ns1:name "Exp. Candy M"^^xsd:string .
+
+ns1:Exp_Candy_S a ns1:Item ;
+    ns1:japaneseName "けいけんアメＳ"^^xsd:string ;
+    ns1:name "Exp. Candy S"^^xsd:string .
+
+ns1:Exp_Candy_XL a ns1:Item ;
+    ns1:japaneseName "けいけんアメＸＬ"^^xsd:string ;
+    ns1:name "Exp. Candy XL"^^xsd:string .
+
+ns1:Exp_Candy_XS a ns1:Item ;
+    ns1:japaneseName "けいけんアメＸＳ"^^xsd:string ;
+    ns1:name "Exp. Candy XS"^^xsd:string .
+
+ns1:Exp_Charm a ns1:Item ;
+    ns1:japaneseName "けいけんおまもり"^^xsd:string ;
+    ns1:name "Exp. Charm"^^xsd:string .
+
+ns1:Exp_Share a ns1:Item ;
+    ns1:name "Exp. Share"^^xsd:string .
+
+ns1:Expert_Belt a ns1:Item ;
+    ns1:japaneseName "たつじんのおび"^^xsd:string ;
+    ns1:name "Expert Belt"^^xsd:string .
+
+ns1:Explorer_Kit a ns1:Item ;
+    ns1:japaneseName "たんけんセット"^^xsd:string ;
+    ns1:name "Explorer Kit"^^xsd:string .
+
+ns1:F-Disk a ns1:Item ;
+    ns1:japaneseName "Ｆ－ディスク"^^xsd:string ;
+    ns1:name "F-Disk"^^xsd:string .
+
+ns1:Fab_Mail a ns1:Item ;
+    ns1:japaneseName "ミラクルメール"^^xsd:string ;
+    ns1:name "Fab Mail"^^xsd:string .
+
+ns1:Fairium_Z a ns1:Item ;
+    ns1:japaneseName "フェアリーＺ"^^xsd:string ;
+    ns1:name "Fairium Z"^^xsd:string .
+
+ns1:Fairy_Feather a ns1:Item ;
+    ns1:japaneseName "ようせいのハネ"^^xsd:string ;
+    ns1:name "Fairy Feather"^^xsd:string .
+
+ns1:Fairy_Gem a ns1:Item ;
+    ns1:japaneseName "フェアリージュエル"^^xsd:string ;
+    ns1:name "Fairy Gem"^^xsd:string .
+
+ns1:Fairy_Memory a ns1:Item ;
+    ns1:japaneseName "フェアリーメモリ"^^xsd:string ;
+    ns1:name "Fairy Memory"^^xsd:string .
+
+ns1:Fairy_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースフェアリー"^^xsd:string ;
+    ns1:name "Fairy Tera Shard"^^xsd:string .
+
+ns1:Fame_Checker a ns1:Item ;
+    ns1:japaneseName "ボイスチェッカー"^^xsd:string ;
+    ns1:name "Fame Checker"^^xsd:string .
+
+ns1:Fancy_Apple a ns1:Item ;
+    ns1:name "Fancy Apple"^^xsd:string .
+
+ns1:Fashion_Case a ns1:Item ;
+    ns1:japaneseName "アクセサリーいれ"^^xsd:string ;
+    ns1:name "Fashion Case"^^xsd:string .
+
+ns1:Fast_Ball a ns1:Item ;
+    ns1:japaneseName "スピードボール"^^xsd:string ;
+    ns1:name "Fast Ball"^^xsd:string .
+
+ns1:Favored_Mail a ns1:Item ;
+    ns1:japaneseName "だいすきメール"^^xsd:string ;
+    ns1:name "Favored Mail"^^xsd:string .
+
+ns1:Feather_Ball a ns1:Item ;
+    ns1:japaneseName "フェザーボール"^^xsd:string ;
+    ns1:name "Feather Ball"^^xsd:string .
+
+ns1:Festival_Ticket a ns1:Item ;
+    ns1:japaneseName "フェスチケット"^^xsd:string ;
+    ns1:name "Festival Ticket"^^xsd:string .
+
+ns1:Fiery_Pick a ns1:Item ;
+    ns1:japaneseName "メラメラピック"^^xsd:string ;
+    ns1:name "Fiery Pick"^^xsd:string .
+
+ns1:Fighting_Gem a ns1:Item ;
+    ns1:japaneseName "かくとうジュエル"^^xsd:string ;
+    ns1:name "Fighting Gem"^^xsd:string .
+
+ns1:Fighting_Memory a ns1:Item ;
+    ns1:japaneseName "ファイトメモリ"^^xsd:string ;
+    ns1:name "Fighting Memory"^^xsd:string .
+
+ns1:Fighting_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースかくとう"^^xsd:string ;
+    ns1:name "Fighting Tera Shard"^^xsd:string .
+
+ns1:Fightinium_Z a ns1:Item ;
+    ns1:japaneseName "カクトウＺ"^^xsd:string ;
+    ns1:name "Fightinium Z"^^xsd:string .
+
+ns1:Figy_Berry a ns1:Item ;
+    ns1:japaneseName "フィラのみ"^^xsd:string ;
+    ns1:name "Figy Berry"^^xsd:string .
+
+ns1:Fine_Remedy a ns1:Item ;
+    ns1:japaneseName "いいカンポーやく"^^xsd:string ;
+    ns1:name "Fine Remedy"^^xsd:string .
+
+ns1:Fire_Gem a ns1:Item ;
+    ns1:japaneseName "ほのおのジュエル"^^xsd:string ;
+    ns1:name "Fire Gem"^^xsd:string .
+
+ns1:Fire_Memory a ns1:Item ;
+    ns1:japaneseName "ファイヤーメモリ"^^xsd:string ;
+    ns1:name "Fire Memory"^^xsd:string .
+
+ns1:Fire_Pattern_Cup a ns1:Item ;
+    ns1:japaneseName "ファイヤーカップ"^^xsd:string ;
+    ns1:name "Fire Pattern Cup"^^xsd:string .
+
+ns1:Fire_Stone a ns1:Item ;
+    ns1:japaneseName "ほのおのいし"^^xsd:string ;
+    ns1:name "Fire Stone"^^xsd:string .
+
+ns1:Fire_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースほのお"^^xsd:string ;
+    ns1:name "Fire Tera Shard"^^xsd:string .
+
+ns1:Firium_Z a ns1:Item ;
+    ns1:japaneseName "ホノオＺ"^^xsd:string ;
+    ns1:name "Firium Z"^^xsd:string .
+
+ns1:Fishing_Rod a ns1:Item ;
+    ns1:name "Fishing Rod"^^xsd:string .
+
+ns1:Fist_Plate a ns1:Item ;
+    ns1:japaneseName "こぶしのプレート"^^xsd:string ;
+    ns1:name "Fist Plate"^^xsd:string .
+
+ns1:Flame_Mail a ns1:Item ;
+    ns1:japaneseName "フレイムメール"^^xsd:string ;
+    ns1:name "Flame Mail"^^xsd:string .
+
+ns1:Flame_Orb a ns1:Item ;
+    ns1:name "Flame Orb"^^xsd:string .
+
+ns1:Flame_Plate a ns1:Item ;
+    ns1:japaneseName "ひのたまプレート"^^xsd:string ;
+    ns1:name "Flame Plate"^^xsd:string .
+
+ns1:Float_Stone a ns1:Item ;
+    ns1:japaneseName "かるいし"^^xsd:string ;
+    ns1:name "Float Stone"^^xsd:string .
+
+ns1:Flower_Mail a ns1:Item ;
+    ns1:japaneseName "はながらメール"^^xsd:string ;
+    ns1:name "Flower Mail"^^xsd:string .
+
+ns1:Flower_Pattern_Cup a ns1:Item ;
+    ns1:japaneseName "フラワーカップ"^^xsd:string ;
+    ns1:name "Flower Pattern Cup"^^xsd:string .
+
+ns1:Flower_Sweet a ns1:Item ;
+    ns1:japaneseName "おはなアメざいく"^^xsd:string ;
+    ns1:name "Flower Sweet"^^xsd:string .
+
+ns1:Fluffy_Tail a ns1:Item ;
+    ns1:name "Fluffy Tail"^^xsd:string .
+
+ns1:Flying_Gem a ns1:Item ;
+    ns1:japaneseName "ひこうのジュエル"^^xsd:string ;
+    ns1:name "Flying Gem"^^xsd:string .
+
+ns1:Flying_Memory a ns1:Item ;
+    ns1:japaneseName "フライングメモリ"^^xsd:string ;
+    ns1:name "Flying Memory"^^xsd:string .
+
+ns1:Flying_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースひこう"^^xsd:string ;
+    ns1:name "Flying Tera Shard"^^xsd:string .
+
+ns1:Flyinium_Z a ns1:Item ;
+    ns1:japaneseName "ヒコウＺ"^^xsd:string ;
+    ns1:name "Flyinium Z"^^xsd:string .
+
+ns1:Focus_Band a ns1:Item ;
+    ns1:japaneseName "きあいのハチマキ"^^xsd:string ;
+    ns1:name "Focus Band"^^xsd:string .
+
+ns1:Focus_Sash a ns1:Item ;
+    ns1:japaneseName "きあいのタスキ"^^xsd:string ;
+    ns1:name "Focus Sash"^^xsd:string .
+
+ns1:Forage_Bag a ns1:Item ;
+    ns1:japaneseName "ざいりょうぶくろ"^^xsd:string ;
+    ns1:name "Forage Bag"^^xsd:string .
+
+ns1:Forest_Balm a ns1:Item ;
+    ns1:name "Forest Balm"^^xsd:string .
+
+ns1:Fossilized_Bird a ns1:Item ;
+    ns1:japaneseName "カセキのトリ"^^xsd:string ;
+    ns1:name "Fossilized Bird"^^xsd:string .
+
+ns1:Fossilized_Dino a ns1:Item ;
+    ns1:japaneseName "カセキのクビナガ"^^xsd:string ;
+    ns1:name "Fossilized Dino"^^xsd:string .
+
+ns1:Fossilized_Drake a ns1:Item ;
+    ns1:japaneseName "カセキのリュウ"^^xsd:string ;
+    ns1:name "Fossilized Drake"^^xsd:string .
+
+ns1:Fossilized_Fish a ns1:Item ;
+    ns1:japaneseName "カセキのサカナ"^^xsd:string ;
+    ns1:name "Fossilized Fish"^^xsd:string .
+
+ns1:Fresh-Start_Mochi a ns1:Item ;
+    ns1:japaneseName "まっさらもち"^^xsd:string ;
+    ns1:name "Fresh-Start Mochi"^^xsd:string .
+
+ns1:Fresh_Cream a ns1:Item ;
+    ns1:name "Fresh Cream"^^xsd:string .
+
+ns1:Fresh_Water a ns1:Item ;
+    ns1:japaneseName "おいしいみず"^^xsd:string ;
+    ns1:name "Fresh Water"^^xsd:string .
+
+ns1:Fried_Fillet a ns1:Item ;
+    ns1:japaneseName "きりみフライ"^^xsd:string ;
+    ns1:name "Fried Fillet"^^xsd:string .
+
+ns1:Fried_Food a ns1:Item ;
+    ns1:name "Fried Food"^^xsd:string .
+
+ns1:Friend_Ball a ns1:Item ;
+    ns1:japaneseName "フレンドボール"^^xsd:string ;
+    ns1:name "Friend Ball"^^xsd:string .
+
+ns1:Fruit_Bunch a ns1:Item ;
+    ns1:name "Fruit Bunch"^^xsd:string .
+
+ns1:Full_Heal a ns1:Item ;
+    ns1:japaneseName "なんでもなおし"^^xsd:string ;
+    ns1:name "Full Heal"^^xsd:string .
+
+ns1:Full_Incense a ns1:Item ;
+    ns1:name "Full Incense"^^xsd:string .
+
+ns1:Full_Restore a ns1:Item ;
+    ns1:name "Full Restore"^^xsd:string .
+
+ns1:GB_Sounds a ns1:Item ;
+    ns1:japaneseName "ＧＢプレイヤー"^^xsd:string ;
+    ns1:name "GB Sounds"^^xsd:string .
+
+ns1:GS_Ball a ns1:Item ;
+    ns1:japaneseName "ボール"^^xsd:string ;
+    ns1:name "GS Ball"^^xsd:string .
+
+ns1:Galactic_Key a ns1:Item ;
+    ns1:japaneseName "ギンガだんのカギ"^^xsd:string ;
+    ns1:name "Galactic Key"^^xsd:string .
+
+ns1:Galarica_Cuff a ns1:Item ;
+    ns1:japaneseName "ガラナツブレス"^^xsd:string ;
+    ns1:name "Galarica Cuff"^^xsd:string .
+
+ns1:Galarica_Twig a ns1:Item ;
+    ns1:japaneseName "ガラナツのえだ"^^xsd:string ;
+    ns1:name "Galarica Twig"^^xsd:string .
+
+ns1:Galarica_Wreath a ns1:Item ;
+    ns1:japaneseName "ガラナツリース"^^xsd:string ;
+    ns1:name "Galarica Wreath"^^xsd:string .
+
+ns1:Galladite a ns1:Item ;
+    ns1:japaneseName "エルレイドナイト"^^xsd:string ;
+    ns1:name "Galladite"^^xsd:string .
+
+ns1:Ganlon_Berry a ns1:Item ;
+    ns1:japaneseName "リュガのみ"^^xsd:string ;
+    ns1:name "Ganlon Berry"^^xsd:string .
+
+ns1:Garchompite a ns1:Item ;
+    ns1:japaneseName "ガブリアスナイト"^^xsd:string ;
+    ns1:name "Garchompite"^^xsd:string .
+
+ns1:Gardevoirite a ns1:Item ;
+    ns1:japaneseName "サーナイトナイト"^^xsd:string ;
+    ns1:name "Gardevoirite"^^xsd:string .
+
+ns1:Gear a ns1:Item ;
+    ns1:japaneseName "はぐるま"^^xsd:string ;
+    ns1:name "Gear"^^xsd:string .
+
+ns1:Gengarite a ns1:Item ;
+    ns1:japaneseName "ゲンガナイト"^^xsd:string ;
+    ns1:name "Gengarite"^^xsd:string .
+
+ns1:Genius_Feather a ns1:Item ;
+    ns1:japaneseName "ちりょくのハネ"^^xsd:string ;
+    ns1:name "Genius Feather"^^xsd:string .
+
+ns1:Genius_Mochi a ns1:Item ;
+    ns1:japaneseName "ちりょくのもち"^^xsd:string ;
+    ns1:name "Genius Mochi"^^xsd:string .
+
+ns1:Genome_Slate a ns1:Item ;
+    ns1:name "Genome Slate"^^xsd:string .
+
+ns1:Gentle_Mint a ns1:Item ;
+    ns1:japaneseName "おとなしいミント"^^xsd:string ;
+    ns1:name "Gentle Mint"^^xsd:string .
+
+ns1:Ghost_Gem a ns1:Item ;
+    ns1:japaneseName "ゴーストジュエル"^^xsd:string ;
+    ns1:name "Ghost Gem"^^xsd:string .
+
+ns1:Ghost_Memory a ns1:Item ;
+    ns1:japaneseName "ゴーストメモリ"^^xsd:string ;
+    ns1:name "Ghost Memory"^^xsd:string .
+
+ns1:Ghost_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースゴースト"^^xsd:string ;
+    ns1:name "Ghost Tera Shard"^^xsd:string .
+
+ns1:Ghostium_Z a ns1:Item ;
+    ns1:japaneseName "ゴーストＺ"^^xsd:string ;
+    ns1:name "Ghostium Z"^^xsd:string .
+
+ns1:Gigantamix a ns1:Item ;
+    ns1:name "Gigantamix"^^xsd:string .
+
+ns1:Gigaton_Ball a ns1:Item ;
+    ns1:japaneseName "ギガトンボール"^^xsd:string ;
+    ns1:name "Gigaton Ball"^^xsd:string .
+
+ns1:Gimmighoul_Coin a ns1:Item ;
+    ns1:japaneseName "コレクレーのコイン"^^xsd:string ;
+    ns1:name "Gimmighoul Coin"^^xsd:string .
+
+ns1:Ginema_Berry a ns1:Item ;
+    ns1:japaneseName "ギネマのみ"^^xsd:string ;
+    ns1:name "Ginema Berry"^^xsd:string .
+
+ns1:Glalitite a ns1:Item ;
+    ns1:japaneseName "オニゴーリナイト"^^xsd:string ;
+    ns1:name "Glalitite"^^xsd:string .
+
+ns1:Glastrier_Treat a ns1:Item ;
+    ns1:japaneseName "ブリザポスのおやつ"^^xsd:string ;
+    ns1:name "Glastrier Treat"^^xsd:string .
+
+ns1:Glimmering_Charm a ns1:Item ;
+    ns1:name "Glimmering Charm"^^xsd:string .
+
+ns1:Glitter_Mail a ns1:Item ;
+    ns1:japaneseName "キラキラメール"^^xsd:string ;
+    ns1:name "Glitter Mail"^^xsd:string .
+
+ns1:Go-Goggles a ns1:Item ;
+    ns1:japaneseName "ゴーゴーゴーグル"^^xsd:string ;
+    ns1:name "Go-Goggles"^^xsd:string .
+
+ns1:Gold_Berry a ns1:Item ;
+    ns1:name "Gold Berry"^^xsd:string .
+
+ns1:Gold_Bottle a ns1:Item ;
+    ns1:japaneseName "ゴールドチタンボトル"^^xsd:string ;
+    ns1:name "Gold Bottle"^^xsd:string .
+
+ns1:Gold_Bottle_Cap a ns1:Item ;
+    ns1:japaneseName "きんのおうかん"^^xsd:string ;
+    ns1:name "Gold Bottle Cap"^^xsd:string .
+
+ns1:Gold_Cup a ns1:Item ;
+    ns1:japaneseName "ゴールドチタンカップ"^^xsd:string ;
+    ns1:name "Gold Cup"^^xsd:string .
+
+ns1:Gold_Leaf a ns1:Item ;
+    ns1:japaneseName "きんのはっぱ"^^xsd:string ;
+    ns1:name "Gold Leaf"^^xsd:string .
+
+ns1:Gold_Pick a ns1:Item ;
+    ns1:japaneseName "ゴールドピック"^^xsd:string ;
+    ns1:name "Gold Pick"^^xsd:string .
+
+ns1:Gold_Teeth a ns1:Item ;
+    ns1:name "Gold Teeth"^^xsd:string .
+
+ns1:Golden_Nanab_Berry a ns1:Item ;
+    ns1:japaneseName "きんのナナのみ"^^xsd:string ;
+    ns1:name "Golden Nanab Berry"^^xsd:string .
+
+ns1:Golden_Pinap_Berry a ns1:Item ;
+    ns1:japaneseName "きんのパイルのみ"^^xsd:string ;
+    ns1:name "Golden Pinap Berry"^^xsd:string .
+
+ns1:Golden_Razz_Berry a ns1:Item ;
+    ns1:japaneseName "きんのズリのみ"^^xsd:string ;
+    ns1:name "Golden Razz Berry"^^xsd:string .
+
+ns1:Gonzaps_Key a ns1:Item ;
+    ns1:japaneseName "ゴンザのカギ"^^xsd:string ;
+    ns1:name "Gonzap's Key"^^xsd:string .
+
+ns1:Good_Rod a ns1:Item ;
+    ns1:name "Good Rod"^^xsd:string .
+
+ns1:Gooey_Mulch a ns1:Item ;
+    ns1:japaneseName "ねばねばこやし"^^xsd:string ;
+    ns1:name "Gooey Mulch"^^xsd:string .
+
+ns1:Gorgeous_Box a ns1:Item ;
+    ns1:japaneseName "きりのはこ"^^xsd:string ;
+    ns1:name "Gorgeous Box"^^xsd:string .
+
+ns1:Gracidea a ns1:Item ;
+    ns1:name "Gracidea"^^xsd:string .
+
+ns1:Grain_Cake a ns1:Item ;
+    ns1:japaneseName "イナホよせだま"^^xsd:string ;
+    ns1:name "Grain Cake"^^xsd:string .
+
+ns1:Grams_1_2_and_3 a ns1:Item ;
+    ns1:japaneseName "はいたつぶつ１・２・３"^^xsd:string ;
+    ns1:name "Grams 1, 2, and 3"^^xsd:string .
+
+ns1:Grass_Gem a ns1:Item ;
+    ns1:japaneseName "くさのジュエル"^^xsd:string ;
+    ns1:name "Grass Gem"^^xsd:string .
+
+ns1:Grass_Mail a ns1:Item ;
+    ns1:japaneseName "グラスメール"^^xsd:string ;
+    ns1:name "Grass Mail"^^xsd:string .
+
+ns1:Grass_Memory a ns1:Item ;
+    ns1:japaneseName "グラスメモリ"^^xsd:string ;
+    ns1:name "Grass Memory"^^xsd:string .
+
+ns1:Grass_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースくさ"^^xsd:string ;
+    ns1:name "Grass Tera Shard"^^xsd:string .
+
+ns1:Grassium_Z a ns1:Item ;
+    ns1:japaneseName "クサＺ"^^xsd:string ;
+    ns1:name "Grassium Z"^^xsd:string .
+
+ns1:Grassy_Seed a ns1:Item ;
+    ns1:japaneseName "グラスシード"^^xsd:string ;
+    ns1:name "Grassy Seed"^^xsd:string .
+
+ns1:Great_Ball a ns1:Item ;
+    ns1:japaneseName "スーパーボール"^^xsd:string ;
+    ns1:name "Great Ball"^^xsd:string .
+
+ns1:Green_Apricorn a ns1:Item ;
+    ns1:japaneseName "みどぼんぐり"^^xsd:string ;
+    ns1:name "Green Apricorn"^^xsd:string .
+
+ns1:Green_Bell_Pepper a ns1:Item ;
+    ns1:japaneseName "ピーマンスライス"^^xsd:string ;
+    ns1:name "Green Bell Pepper"^^xsd:string .
+
+ns1:Green_Dish a ns1:Item ;
+    ns1:japaneseName "グリーンプレート"^^xsd:string ;
+    ns1:name "Green Dish"^^xsd:string .
+
+ns1:Green_Petal a ns1:Item ;
+    ns1:japaneseName "みどりのはなびら"^^xsd:string ;
+    ns1:name "Green Petal"^^xsd:string .
+
+ns1:Green_Pok_Ball_Pick a ns1:Item ;
+    ns1:japaneseName "みどりボールピック"^^xsd:string ;
+    ns1:name "Green Poké Ball Pick"^^xsd:string .
+
+ns1:Green_Scarf a ns1:Item ;
+    ns1:japaneseName "みどりのバンダナ"^^xsd:string ;
+    ns1:name "Green Scarf"^^xsd:string .
+
+ns1:Green_Shard a ns1:Item ;
+    ns1:japaneseName "みどりのかけら"^^xsd:string ;
+    ns1:name "Green Shard"^^xsd:string .
+
+ns1:Greet_Mail a ns1:Item ;
+    ns1:japaneseName "はじめてメール"^^xsd:string ;
+    ns1:name "Greet Mail"^^xsd:string .
+
+ns1:Grepa_Berry a ns1:Item ;
+    ns1:japaneseName "ウブのみ"^^xsd:string ;
+    ns1:name "Grepa Berry"^^xsd:string .
+
+ns1:Grip_Claw a ns1:Item ;
+    ns1:japaneseName "ねばりのかぎづめ"^^xsd:string ;
+    ns1:name "Grip Claw"^^xsd:string .
+
+ns1:Griseous_Core a ns1:Item ;
+    ns1:name "Griseous Core"^^xsd:string .
+
+ns1:Griseous_Orb a ns1:Item ;
+    ns1:name "Griseous Orb"^^xsd:string .
+
+ns1:Grit_Dust a ns1:Item ;
+    ns1:japaneseName "ガンバリのすな"^^xsd:string ;
+    ns1:name "Grit Dust"^^xsd:string .
+
+ns1:Grit_Gravel a ns1:Item ;
+    ns1:japaneseName "ガンバリのじゃり"^^xsd:string ;
+    ns1:name "Grit Gravel"^^xsd:string .
+
+ns1:Grit_Pebble a ns1:Item ;
+    ns1:japaneseName "ガンバリのいし"^^xsd:string ;
+    ns1:name "Grit Pebble"^^xsd:string .
+
+ns1:Grit_Rock a ns1:Item ;
+    ns1:japaneseName "ガンバリのいわ"^^xsd:string ;
+    ns1:name "Grit Rock"^^xsd:string .
+
+ns1:Grn_ID_Badge a ns1:Item ;
+    ns1:japaneseName "ＩＤバッジみどり"^^xsd:string ;
+    ns1:name "Grn ID Badge"^^xsd:string .
+
+ns1:Groudon_Treat a ns1:Item ;
+    ns1:japaneseName "グラードンのおやつ"^^xsd:string ;
+    ns1:name "Groudon Treat"^^xsd:string .
+
+ns1:Ground_Gem a ns1:Item ;
+    ns1:japaneseName "じめんのジュエル"^^xsd:string ;
+    ns1:name "Ground Gem"^^xsd:string .
+
+ns1:Ground_Memory a ns1:Item ;
+    ns1:japaneseName "グラウンドメモリ"^^xsd:string ;
+    ns1:name "Ground Memory"^^xsd:string .
+
+ns1:Ground_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースじめん"^^xsd:string ;
+    ns1:name "Ground Tera Shard"^^xsd:string .
+
+ns1:Groundium_Z a ns1:Item ;
+    ns1:japaneseName "ジメンＺ"^^xsd:string ;
+    ns1:name "Groundium Z"^^xsd:string .
+
+ns1:Growth_Mulch a ns1:Item ;
+    ns1:japaneseName "すくすくこやし"^^xsd:string ;
+    ns1:name "Growth Mulch"^^xsd:string .
+
+ns1:Grubby_Hanky a ns1:Item ;
+    ns1:name "Grubby Hanky"^^xsd:string .
+
+ns1:Guard_Spec a ns1:Item ;
+    ns1:japaneseName "エフェクトガード"^^xsd:string ;
+    ns1:name "Guard Spec."^^xsd:string .
+
+ns1:Guidebook a ns1:Item ;
+    ns1:japaneseName "ぼうけんノート"^^xsd:string ;
+    ns1:name "Guidebook"^^xsd:string .
+
+ns1:Gyaradosite a ns1:Item ;
+    ns1:japaneseName "ギャラドスナイト"^^xsd:string ;
+    ns1:name "Gyaradosite"^^xsd:string .
+
+ns1:HM01 a ns1:Item ;
+    ns1:japaneseName "ひでんマシン０１"^^xsd:string ;
+    ns1:name "HM01"^^xsd:string .
+
+ns1:HM02 a ns1:Item ;
+    ns1:japaneseName "ひでんマシン０２"^^xsd:string ;
+    ns1:name "HM02"^^xsd:string .
+
+ns1:HM03 a ns1:Item ;
+    ns1:japaneseName "ひでんマシン０３"^^xsd:string ;
+    ns1:name "HM03"^^xsd:string .
+
+ns1:HM04 a ns1:Item ;
+    ns1:japaneseName "ひでんマシン０４"^^xsd:string ;
+    ns1:name "HM04"^^xsd:string .
+
+ns1:HM05 a ns1:Item ;
+    ns1:japaneseName "ひでんマシン０５"^^xsd:string ;
+    ns1:name "HM05"^^xsd:string .
+
+ns1:HM06 a ns1:Item ;
+    ns1:japaneseName "ひでんマシン０６"^^xsd:string ;
+    ns1:name "HM06"^^xsd:string .
+
+ns1:HM07 a ns1:Item ;
+    ns1:japaneseName "ひでんマシン０７"^^xsd:string ;
+    ns1:name "HM07"^^xsd:string .
+
+ns1:HM08 a ns1:Item ;
+    ns1:japaneseName "ひでんマシン０８"^^xsd:string ;
+    ns1:name "HM08"^^xsd:string .
+
+ns1:HP_Up a ns1:Item ;
+    ns1:japaneseName "マックスアップ"^^xsd:string ;
+    ns1:name "HP Up"^^xsd:string .
+
+ns1:Haban_Berry a ns1:Item ;
+    ns1:japaneseName "ハバンのみ"^^xsd:string ;
+    ns1:name "Haban Berry"^^xsd:string .
+
+ns1:Ham a ns1:Item ;
+    ns1:japaneseName "ハムスライス"^^xsd:string ;
+    ns1:name "Ham"^^xsd:string .
+
+ns1:Hamburger a ns1:Item ;
+    ns1:japaneseName "ハンバーグ"^^xsd:string ;
+    ns1:name "Hamburger"^^xsd:string .
+
+ns1:Harbor_Mail a ns1:Item ;
+    ns1:japaneseName "ハーバーメール"^^xsd:string ;
+    ns1:name "Harbor Mail"^^xsd:string .
+
+ns1:Hard_Stone a ns1:Item ;
+    ns1:japaneseName "かたいいし"^^xsd:string ;
+    ns1:name "Hard Stone"^^xsd:string .
+
+ns1:Hasty_Mint a ns1:Item ;
+    ns1:japaneseName "せっかちミント"^^xsd:string ;
+    ns1:name "Hasty Mint"^^xsd:string .
+
+ns1:Heal_Ball a ns1:Item ;
+    ns1:japaneseName "ヒールボール"^^xsd:string ;
+    ns1:name "Heal Ball"^^xsd:string .
+
+ns1:Heal_Powder a ns1:Item ;
+    ns1:japaneseName "ばんのうごな"^^xsd:string ;
+    ns1:name "Heal Powder"^^xsd:string .
+
+ns1:Health_Candy a ns1:Item ;
+    ns1:japaneseName "げんきのアメ"^^xsd:string ;
+    ns1:name "Health Candy"^^xsd:string .
+
+ns1:Health_Candy_L a ns1:Item ;
+    ns1:japaneseName "げんきのアメＬ"^^xsd:string ;
+    ns1:name "Health Candy L"^^xsd:string .
+
+ns1:Health_Candy_XL a ns1:Item ;
+    ns1:japaneseName "げんきのアメＸＬ"^^xsd:string ;
+    ns1:name "Health Candy XL"^^xsd:string .
+
+ns1:Health_Feather a ns1:Item ;
+    ns1:japaneseName "たいりょくのハネ"^^xsd:string ;
+    ns1:name "Health Feather"^^xsd:string .
+
+ns1:Health_Mochi a ns1:Item ;
+    ns1:japaneseName "たいりょくのもち"^^xsd:string ;
+    ns1:name "Health Mochi"^^xsd:string .
+
+ns1:Heart_Mail a ns1:Item ;
+    ns1:japaneseName "ラブラブメール"^^xsd:string ;
+    ns1:name "Heart Mail"^^xsd:string .
+
+ns1:Heart_Scale a ns1:Item ;
+    ns1:japaneseName "ハートのウロコ"^^xsd:string ;
+    ns1:name "Heart Scale"^^xsd:string .
+
+ns1:Hearthflame_Mask a ns1:Item ;
+    ns1:japaneseName "かまどのめん"^^xsd:string ;
+    ns1:name "Hearthflame Mask"^^xsd:string .
+
+ns1:Hearty_Grains a ns1:Item ;
+    ns1:japaneseName "いきいきイナホ"^^xsd:string ;
+    ns1:name "Hearty Grains"^^xsd:string .
+
+ns1:Heat_Rock a ns1:Item ;
+    ns1:japaneseName "あついいわ"^^xsd:string ;
+    ns1:name "Heat Rock"^^xsd:string .
+
+ns1:Heavy-Duty_Boots a ns1:Item ;
+    ns1:japaneseName "あつぞこブーツ"^^xsd:string ;
+    ns1:name "Heavy-Duty Boots"^^xsd:string .
+
+ns1:Heavy_Ball a ns1:Item ;
+    ns1:japaneseName "ヘビーボール"^^xsd:string ;
+    ns1:name "Heavy Ball"^^xsd:string .
+
+ns1:Helix_Fossil a ns1:Item ;
+    ns1:japaneseName "かいのカセキ"^^xsd:string ;
+    ns1:name "Helix Fossil"^^xsd:string .
+
+ns1:Heracronite a ns1:Item ;
+    ns1:japaneseName "ヘラクロスナイト"^^xsd:string ;
+    ns1:name "Heracronite"^^xsd:string .
+
+ns1:Herbed_Sausage a ns1:Item ;
+    ns1:japaneseName "ハーブソーセージ"^^xsd:string ;
+    ns1:name "Herbed Sausage"^^xsd:string .
+
+ns1:Heroic_Sword_Pick a ns1:Item ;
+    ns1:japaneseName "ゆうしゃのけんピック"^^xsd:string ;
+    ns1:name "Heroic Sword Pick"^^xsd:string .
+
+ns1:Hi-tech_Earbuds a ns1:Item ;
+    ns1:japaneseName "すごいみみせん"^^xsd:string ;
+    ns1:name "Hi-tech Earbuds"^^xsd:string .
+
+ns1:Ho-Oh_Treat a ns1:Item ;
+    ns1:japaneseName "ホウオウのおやつ"^^xsd:string ;
+    ns1:name "Ho-Oh Treat"^^xsd:string .
+
+ns1:Holo_Caster a ns1:Item ;
+    ns1:name "Holo Caster"^^xsd:string .
+
+ns1:Hometown_Muffin a ns1:Item ;
+    ns1:japaneseName "ふるさとマフィン"^^xsd:string ;
+    ns1:name "Hometown Muffin"^^xsd:string .
+
+ns1:Hondew_Berry a ns1:Item ;
+    ns1:japaneseName "ロメのみ"^^xsd:string ;
+    ns1:name "Hondew Berry"^^xsd:string .
+
+ns1:Honey a ns1:Item ;
+    ns1:japaneseName "あまいミツ"^^xsd:string ;
+    ns1:name "Honey"^^xsd:string .
+
+ns1:Honey_Cake a ns1:Item ;
+    ns1:japaneseName "ミツよせだま"^^xsd:string ;
+    ns1:name "Honey Cake"^^xsd:string .
+
+ns1:Honor_of_Kalos a ns1:Item ;
+    ns1:name "Honor of Kalos"^^xsd:string .
+
+ns1:Hopo_Berry a ns1:Item ;
+    ns1:japaneseName "ポフのみ"^^xsd:string ;
+    ns1:name "Hopo Berry"^^xsd:string .
+
+ns1:Horseradish a ns1:Item ;
+    ns1:japaneseName "ホースラディッシュ"^^xsd:string ;
+    ns1:name "Horseradish"^^xsd:string .
+
+ns1:Houndoominite a ns1:Item ;
+    ns1:japaneseName "ヘルガナイト"^^xsd:string ;
+    ns1:name "Houndoominite"^^xsd:string .
+
+ns1:Hyper_Potion a ns1:Item ;
+    ns1:name "Hyper Potion"^^xsd:string .
+
+ns1:ID_Card a ns1:Item ;
+    ns1:japaneseName "ＩＤカード"^^xsd:string ;
+    ns1:name "ID Card"^^xsd:string .
+
+ns1:Iapapa_Berry a ns1:Item ;
+    ns1:japaneseName "イアのみ"^^xsd:string ;
+    ns1:name "Iapapa Berry"^^xsd:string .
+
+ns1:Ice_Berry a ns1:Item ;
+    ns1:name "Ice Berry"^^xsd:string .
+
+ns1:Ice_Gem a ns1:Item ;
+    ns1:japaneseName "こおりのジュエル"^^xsd:string ;
+    ns1:name "Ice Gem"^^xsd:string .
+
+ns1:Ice_Heal a ns1:Item ;
+    ns1:japaneseName "こおりなおし"^^xsd:string ;
+    ns1:name "Ice Heal"^^xsd:string .
+
+ns1:Ice_Memory a ns1:Item ;
+    ns1:japaneseName "アイスメモリ"^^xsd:string ;
+    ns1:name "Ice Memory"^^xsd:string .
+
+ns1:Ice_Stone a ns1:Item ;
+    ns1:japaneseName "こおりのいし"^^xsd:string ;
+    ns1:name "Ice Stone"^^xsd:string .
+
+ns1:Ice_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースこおり"^^xsd:string ;
+    ns1:name "Ice Tera Shard"^^xsd:string .
+
+ns1:Iceroot_Carrot a ns1:Item ;
+    ns1:name "Iceroot Carrot"^^xsd:string .
+
+ns1:Icicle_Plate a ns1:Item ;
+    ns1:japaneseName "つららのプレート"^^xsd:string ;
+    ns1:name "Icicle Plate"^^xsd:string .
+
+ns1:Icium_Z a ns1:Item ;
+    ns1:japaneseName "コオリＺ"^^xsd:string ;
+    ns1:name "Icium Z"^^xsd:string .
+
+ns1:Icy_Rock a ns1:Item ;
+    ns1:japaneseName "つめたいいわ"^^xsd:string ;
+    ns1:name "Icy Rock"^^xsd:string .
+
+ns1:Ilimas_Normalium_Z a ns1:Item ;
+    ns1:japaneseName "イリマのノーマルＺ"^^xsd:string ;
+    ns1:name "Ilima's Normalium Z"^^xsd:string .
+
+ns1:Impish_Mint a ns1:Item ;
+    ns1:japaneseName "わんぱくミント"^^xsd:string ;
+    ns1:name "Impish Mint"^^xsd:string .
+
+ns1:Incinium_Z a ns1:Item ;
+    ns1:japaneseName "ガオガエンＺ"^^xsd:string ;
+    ns1:name "Incinium Z"^^xsd:string .
+
+ns1:Indigo_Disk a ns1:Item ;
+    ns1:japaneseName "あおのディスク"^^xsd:string ;
+    ns1:name "Indigo Disk"^^xsd:string .
+
+ns1:Indigo_Style_Card a ns1:Item ;
+    ns1:japaneseName "おしゃれカードあお"^^xsd:string ;
+    ns1:name "Indigo Style Card"^^xsd:string .
+
+ns1:Inquiry_Mail a ns1:Item ;
+    ns1:japaneseName "しつもんメール"^^xsd:string ;
+    ns1:name "Inquiry Mail"^^xsd:string .
+
+ns1:Insect_Plate a ns1:Item ;
+    ns1:japaneseName "たまむしプレート"^^xsd:string ;
+    ns1:name "Insect Plate"^^xsd:string .
+
+ns1:Instant_Noodles a ns1:Item ;
+    ns1:name "Instant Noodles"^^xsd:string .
+
+ns1:Intriguing_Stone a ns1:Item ;
+    ns1:japaneseName "すごそうないし"^^xsd:string ;
+    ns1:name "Intriguing Stone"^^xsd:string .
+
+ns1:Iron a ns1:Item ;
+    ns1:japaneseName "ブロムヘキシン"^^xsd:string ;
+    ns1:name "Iron"^^xsd:string .
+
+ns1:Iron_Ball a ns1:Item ;
+    ns1:name "Iron Ball"^^xsd:string .
+
+ns1:Iron_Barktongue a ns1:Item ;
+    ns1:japaneseName "テッペキクラゲ"^^xsd:string ;
+    ns1:name "Iron Barktongue"^^xsd:string .
+
+ns1:Iron_Chunk a ns1:Item ;
+    ns1:japaneseName "てつのかけら"^^xsd:string ;
+    ns1:name "Iron Chunk"^^xsd:string .
+
+ns1:Iron_Plate a ns1:Item ;
+    ns1:japaneseName "こうてつプレート"^^xsd:string ;
+    ns1:name "Iron Plate"^^xsd:string .
+
+ns1:Jaboca_Berry a ns1:Item ;
+    ns1:japaneseName "ジャポのみ"^^xsd:string ;
+    ns1:name "Jaboca Berry"^^xsd:string .
+
+ns1:Jade_Orb a ns1:Item ;
+    ns1:japaneseName "もえぎいろのたま"^^xsd:string ;
+    ns1:name "Jade Orb"^^xsd:string .
+
+ns1:Jail_Key a ns1:Item ;
+    ns1:japaneseName "ろうやのカギ"^^xsd:string ;
+    ns1:name "Jail Key"^^xsd:string .
+
+ns1:Jalapeo a ns1:Item ;
+    ns1:japaneseName "ハラペーニョ"^^xsd:string ;
+    ns1:name "Jalapeño"^^xsd:string .
+
+ns1:Jam a ns1:Item ;
+    ns1:japaneseName "ベリージャム"^^xsd:string ;
+    ns1:name "Jam"^^xsd:string .
+
+ns1:Jaw_Fossil a ns1:Item ;
+    ns1:japaneseName "アゴのカセキ"^^xsd:string ;
+    ns1:name "Jaw Fossil"^^xsd:string .
+
+ns1:Jet_Ball a ns1:Item ;
+    ns1:japaneseName "ジェットボール"^^xsd:string ;
+    ns1:name "Jet Ball"^^xsd:string .
+
+ns1:Johto_Slate a ns1:Item ;
+    ns1:name "Johto Slate"^^xsd:string .
+
+ns1:Jolly_Mint a ns1:Item ;
+    ns1:japaneseName "ようきミント"^^xsd:string ;
+    ns1:name "Jolly Mint"^^xsd:string .
+
+ns1:Joy_Scent a ns1:Item ;
+    ns1:japaneseName "ルンルンのかおり"^^xsd:string ;
+    ns1:name "Joy Scent"^^xsd:string .
+
+ns1:Jubilife_Muffin a ns1:Item ;
+    ns1:japaneseName "コトブキマフィン"^^xsd:string ;
+    ns1:name "Jubilife Muffin"^^xsd:string .
+
+ns1:Kangaskhanite a ns1:Item ;
+    ns1:japaneseName "ガルーラナイト"^^xsd:string ;
+    ns1:name "Kangaskhanite"^^xsd:string .
+
+ns1:Kanto_Slate a ns1:Item ;
+    ns1:name "Kanto Slate"^^xsd:string .
+
+ns1:Kasib_Berry a ns1:Item ;
+    ns1:japaneseName "カシブのみ"^^xsd:string ;
+    ns1:name "Kasib Berry"^^xsd:string .
+
+ns1:Kebia_Berry a ns1:Item ;
+    ns1:japaneseName "ビアーのみ"^^xsd:string ;
+    ns1:name "Kebia Berry"^^xsd:string .
+
+ns1:Kee_Berry a ns1:Item ;
+    ns1:japaneseName "アッキのみ"^^xsd:string ;
+    ns1:name "Kee Berry"^^xsd:string .
+
+ns1:Kelpsy_Berry a ns1:Item ;
+    ns1:japaneseName "ネコブのみ"^^xsd:string ;
+    ns1:name "Kelpsy Berry"^^xsd:string .
+
+ns1:Ketchup a ns1:Item ;
+    ns1:japaneseName "ケチャップ"^^xsd:string ;
+    ns1:name "Ketchup"^^xsd:string .
+
+ns1:Key_Stone a ns1:Item ;
+    ns1:name "Key Stone"^^xsd:string .
+
+ns1:Key_to_Room_1 a ns1:Item ;
+    ns1:japaneseName "１ごうしつのカギ"^^xsd:string ;
+    ns1:name "Key to Room 1"^^xsd:string .
+
+ns1:Key_to_Room_2 a ns1:Item ;
+    ns1:japaneseName "2ごうしつのカギ"^^xsd:string ;
+    ns1:name "Key to Room 2"^^xsd:string .
+
+ns1:Key_to_Room_4 a ns1:Item ;
+    ns1:japaneseName "4ごうしつのカギ"^^xsd:string ;
+    ns1:name "Key to Room 4"^^xsd:string .
+
+ns1:Key_to_Room_6 a ns1:Item ;
+    ns1:japaneseName "6ごうしつのカギ"^^xsd:string ;
+    ns1:name "Key to Room 6"^^xsd:string .
+
+ns1:Kings_Leaf a ns1:Item ;
+    ns1:japaneseName "キングリーフ"^^xsd:string ;
+    ns1:name "King's Leaf"^^xsd:string .
+
+ns1:Kings_Rock a ns1:Item ;
+    ns1:name "King's Rock"^^xsd:string .
+
+ns1:Kiwi a ns1:Item ;
+    ns1:japaneseName "わぎりキウイ"^^xsd:string ;
+    ns1:name "Kiwi"^^xsd:string .
+
+ns1:Klawf_Stick a ns1:Item ;
+    ns1:japaneseName "ガケガニスティック"^^xsd:string ;
+    ns1:name "Klawf Stick"^^xsd:string .
+
+ns1:Kofus_Wallet a ns1:Item ;
+    ns1:japaneseName "ハイダイのサイフ"^^xsd:string ;
+    ns1:name "Kofu's Wallet"^^xsd:string .
+
+ns1:Kommonium_Z a ns1:Item ;
+    ns1:japaneseName "ジャラランガＺ"^^xsd:string ;
+    ns1:name "Kommonium Z"^^xsd:string .
+
+ns1:Koraidons_Pok_Ball a ns1:Item ;
+    ns1:japaneseName "コライドンのボール"^^xsd:string ;
+    ns1:name "Koraidon's Poké Ball"^^xsd:string .
+
+ns1:Krane_Memo a ns1:Item ;
+    ns1:japaneseName "クレインメモ"^^xsd:string ;
+    ns1:name "Krane Memo"^^xsd:string .
+
+ns1:Kubfu_Treat a ns1:Item ;
+    ns1:japaneseName "ダクマのおやつ"^^xsd:string ;
+    ns1:name "Kubfu Treat"^^xsd:string .
+
+ns1:Kuo_Berry a ns1:Item ;
+    ns1:japaneseName "クオのみ"^^xsd:string ;
+    ns1:name "Kuo Berry"^^xsd:string .
+
+ns1:Kyogre_Treat a ns1:Item ;
+    ns1:japaneseName "カイオーガのおやつ"^^xsd:string ;
+    ns1:name "Kyogre Treat"^^xsd:string .
+
+ns1:Kyurem_Treat a ns1:Item ;
+    ns1:japaneseName "キュレムのおやつ"^^xsd:string ;
+    ns1:name "Kyurem Treat"^^xsd:string .
+
+ns1:L-Disk a ns1:Item ;
+    ns1:japaneseName "Ｌ－ディスク"^^xsd:string ;
+    ns1:name "L-Disk"^^xsd:string .
+
+ns1:Lagging_Tail a ns1:Item ;
+    ns1:name "Lagging Tail"^^xsd:string .
+
+ns1:Lansat_Berry a ns1:Item ;
+    ns1:japaneseName "サンのみ"^^xsd:string ;
+    ns1:name "Lansat Berry"^^xsd:string .
+
+ns1:Large_Leek a ns1:Item ;
+    ns1:name "Large Leek"^^xsd:string .
+
+ns1:Latias_Treat a ns1:Item ;
+    ns1:japaneseName "ラティアスのおやつ"^^xsd:string ;
+    ns1:name "Latias Treat"^^xsd:string .
+
+ns1:Latiasite a ns1:Item ;
+    ns1:japaneseName "ラティアスナイト"^^xsd:string ;
+    ns1:name "Latiasite"^^xsd:string .
+
+ns1:Latios_Treat a ns1:Item ;
+    ns1:japaneseName "ラティオスのおやつ"^^xsd:string ;
+    ns1:name "Latios Treat"^^xsd:string .
+
+ns1:Latiosite a ns1:Item ;
+    ns1:japaneseName "ラティオスナイト"^^xsd:string ;
+    ns1:name "Latiosite"^^xsd:string .
+
+ns1:Lava_Cookie a ns1:Item ;
+    ns1:name "Lava Cookie"^^xsd:string .
+
+ns1:Lax_Incense a ns1:Item ;
+    ns1:name "Lax Incense"^^xsd:string .
+
+ns1:Lax_Mint a ns1:Item ;
+    ns1:japaneseName "のうてんきミント"^^xsd:string ;
+    ns1:name "Lax Mint"^^xsd:string .
+
+ns1:Leaden_Ball a ns1:Item ;
+    ns1:japaneseName "メガトンボール"^^xsd:string ;
+    ns1:name "Leaden Ball"^^xsd:string .
+
+ns1:Leaders_Crest a ns1:Item ;
+    ns1:japaneseName "かしらのしるし"^^xsd:string ;
+    ns1:name "Leader's Crest"^^xsd:string .
+
+ns1:Leaf_Letter a ns1:Item ;
+    ns1:japaneseName "このはのおてがみ"^^xsd:string ;
+    ns1:name "Leaf Letter"^^xsd:string .
+
+ns1:Leaf_Stone a ns1:Item ;
+    ns1:japaneseName "リーフのいし"^^xsd:string ;
+    ns1:name "Leaf Stone"^^xsd:string .
+
+ns1:Leafy_Chairs a ns1:Item ;
+    ns1:japaneseName "ネイチャーチェア"^^xsd:string ;
+    ns1:name "Leafy Chairs"^^xsd:string .
+
+ns1:Leafy_Tablecloth a ns1:Item ;
+    ns1:japaneseName "ネイチャークロス"^^xsd:string ;
+    ns1:name "Leafy Tablecloth"^^xsd:string .
+
+ns1:Leek a ns1:Item ;
+    ns1:name "Leek"^^xsd:string .
+
+ns1:Left_Pok_Ball a ns1:Item ;
+    ns1:japaneseName "のこされたボール"^^xsd:string ;
+    ns1:name "Left Poké Ball"^^xsd:string .
+
+ns1:Leftovers a ns1:Item ;
+    ns1:name "Leftovers"^^xsd:string .
+
+ns1:Legend_Plate a ns1:Item ;
+    ns1:japaneseName "レジェンドプレート"^^xsd:string ;
+    ns1:name "Legend Plate"^^xsd:string .
+
+ns1:Legendary_Clue a ns1:Item ;
+    ns1:name "Legendary Clue?"^^xsd:string .
+
+ns1:Legendary_Clue_1 a ns1:Item ;
+    ns1:name "Legendary Clue 1"^^xsd:string .
+
+ns1:Legendary_Clue_2 a ns1:Item ;
+    ns1:name "Legendary Clue 2"^^xsd:string .
+
+ns1:Legendary_Clue_3 a ns1:Item ;
+    ns1:name "Legendary Clue 3"^^xsd:string .
+
+ns1:Lemonade a ns1:Item ;
+    ns1:japaneseName "ミックスオレ"^^xsd:string ;
+    ns1:name "Lemonade"^^xsd:string .
+
+ns1:Lens_Case a ns1:Item ;
+    ns1:name "Lens Case"^^xsd:string .
+
+ns1:Leppa_Berry a ns1:Item ;
+    ns1:japaneseName "ヒメリのみ"^^xsd:string ;
+    ns1:name "Leppa Berry"^^xsd:string .
+
+ns1:Letter a ns1:Item ;
+    ns1:japaneseName "ダイゴへのてがみ"^^xsd:string ;
+    ns1:name "Letter"^^xsd:string .
+
+ns1:Lettuce a ns1:Item ;
+    ns1:japaneseName "レタス"^^xsd:string ;
+    ns1:name "Lettuce"^^xsd:string .
+
+ns1:Level_Ball a ns1:Item ;
+    ns1:japaneseName "レベルボール"^^xsd:string ;
+    ns1:name "Level Ball"^^xsd:string .
+
+ns1:Liberty_Pass a ns1:Item ;
+    ns1:name "Liberty Pass"^^xsd:string .
+
+ns1:Liechi_Berry a ns1:Item ;
+    ns1:japaneseName "チイラのみ"^^xsd:string ;
+    ns1:name "Liechi Berry"^^xsd:string .
+
+ns1:Life_Orb a ns1:Item ;
+    ns1:name "Life Orb"^^xsd:string .
+
+ns1:Lift_Key a ns1:Item ;
+    ns1:japaneseName "エレベータのカギ"^^xsd:string ;
+    ns1:name "Lift Key"^^xsd:string .
+
+ns1:Light_Ball a ns1:Item ;
+    ns1:name "Light Ball"^^xsd:string .
+
+ns1:Light_Clay a ns1:Item ;
+    ns1:japaneseName "ひかりのねんど"^^xsd:string ;
+    ns1:name "Light Clay"^^xsd:string .
+
+ns1:Light_Stone a ns1:Item ;
+    ns1:name "Light Stone"^^xsd:string .
+
+ns1:Like_Mail a ns1:Item ;
+    ns1:japaneseName "おすすめメール"^^xsd:string ;
+    ns1:name "Like Mail"^^xsd:string .
+
+ns1:Lilac_Chairs a ns1:Item ;
+    ns1:japaneseName "パープルチェア"^^xsd:string ;
+    ns1:name "Lilac Chairs"^^xsd:string .
+
+ns1:Lilac_Tablecloth a ns1:Item ;
+    ns1:japaneseName "パープルクロス"^^xsd:string ;
+    ns1:name "Lilac Tablecloth"^^xsd:string .
+
+ns1:Linking_Cord a ns1:Item ;
+    ns1:japaneseName "つながりのヒモ"^^xsd:string ;
+    ns1:name "Linking Cord"^^xsd:string .
+
+ns1:Litebluemail a ns1:Item ;
+    ns1:japaneseName "みずいろメール"^^xsd:string ;
+    ns1:name "Litebluemail"^^xsd:string .
+
+ns1:Loaded_Dice a ns1:Item ;
+    ns1:japaneseName "いかさまダイス"^^xsd:string ;
+    ns1:name "Loaded Dice"^^xsd:string .
+
+ns1:Lock_Capsule a ns1:Item ;
+    ns1:japaneseName "ロックカプセル"^^xsd:string ;
+    ns1:name "Lock Capsule"^^xsd:string .
+
+ns1:Lone_Earring a ns1:Item ;
+    ns1:japaneseName "かたっぽピアス"^^xsd:string ;
+    ns1:name "Lone Earring"^^xsd:string .
+
+ns1:Lonely_Mint a ns1:Item ;
+    ns1:japaneseName "さみしがりミント"^^xsd:string ;
+    ns1:name "Lonely Mint"^^xsd:string .
+
+ns1:Looker_Ticket a ns1:Item ;
+    ns1:japaneseName "ハンサムチケット"^^xsd:string ;
+    ns1:name "Looker Ticket"^^xsd:string .
+
+ns1:Lopunnite a ns1:Item ;
+    ns1:japaneseName "ミミロップナイト"^^xsd:string ;
+    ns1:name "Lopunnite"^^xsd:string .
+
+ns1:Lost_Item a ns1:Item ;
+    ns1:japaneseName "おとしもの"^^xsd:string ;
+    ns1:name "Lost Item"^^xsd:string .
+
+ns1:Lost_Satchel a ns1:Item ;
+    ns1:japaneseName "だれかのおとしもの"^^xsd:string ;
+    ns1:name "Lost Satchel"^^xsd:string .
+
+ns1:Love_Ball a ns1:Item ;
+    ns1:japaneseName "ラブラブボール"^^xsd:string ;
+    ns1:name "Love Ball"^^xsd:string .
+
+ns1:Love_Sweet a ns1:Item ;
+    ns1:japaneseName "ハートアメざいく"^^xsd:string ;
+    ns1:name "Love Sweet"^^xsd:string .
+
+ns1:Lovely_Mail a ns1:Item ;
+    ns1:japaneseName "ラブリーメール"^^xsd:string ;
+    ns1:name "Lovely Mail"^^xsd:string .
+
+ns1:Lucarionite a ns1:Item ;
+    ns1:japaneseName "ルカリオナイト"^^xsd:string ;
+    ns1:name "Lucarionite"^^xsd:string .
+
+ns1:Luck_Incense a ns1:Item ;
+    ns1:japaneseName "こううんのおこう"^^xsd:string ;
+    ns1:name "Luck Incense"^^xsd:string .
+
+ns1:Lucky_Egg a ns1:Item ;
+    ns1:name "Lucky Egg"^^xsd:string .
+
+ns1:Lucky_Punch a ns1:Item ;
+    ns1:name "Lucky Punch"^^xsd:string .
+
+ns1:Lugia_Treat a ns1:Item ;
+    ns1:japaneseName "ルギアのおやつ"^^xsd:string ;
+    ns1:name "Lugia Treat"^^xsd:string .
+
+ns1:Lum_Berry a ns1:Item ;
+    ns1:japaneseName "ラムのみ"^^xsd:string ;
+    ns1:name "Lum Berry"^^xsd:string .
+
+ns1:Luminous_Moss a ns1:Item ;
+    ns1:japaneseName "ひかりごけ"^^xsd:string ;
+    ns1:name "Luminous Moss"^^xsd:string .
+
+ns1:Lumiose_Galette a ns1:Item ;
+    ns1:japaneseName "ミアレガレット"^^xsd:string ;
+    ns1:name "Lumiose Galette"^^xsd:string .
+
+ns1:Lunala_Treat a ns1:Item ;
+    ns1:japaneseName "ルナアーラのおやつ"^^xsd:string ;
+    ns1:name "Lunala Treat"^^xsd:string .
+
+ns1:Lunalium_Z a ns1:Item ;
+    ns1:japaneseName "ルナアーラＺ"^^xsd:string ;
+    ns1:name "Lunalium Z"^^xsd:string .
+
+ns1:Lunar_Feather a ns1:Item ;
+    ns1:japaneseName "みかづきのはね"^^xsd:string ;
+    ns1:name "Lunar Feather"^^xsd:string .
+
+ns1:Lure a ns1:Item ;
+    ns1:japaneseName "むしよせコロン"^^xsd:string ;
+    ns1:name "Lure"^^xsd:string .
+
+ns1:Lure_Ball a ns1:Item ;
+    ns1:japaneseName "ルアーボール"^^xsd:string ;
+    ns1:name "Lure Ball"^^xsd:string .
+
+ns1:Lustrous_Globe a ns1:Item ;
+    ns1:name "Lustrous Globe"^^xsd:string .
+
+ns1:Lustrous_Orb a ns1:Item ;
+    ns1:name "Lustrous Orb"^^xsd:string .
+
+ns1:Luxury_Ball a ns1:Item ;
+    ns1:japaneseName "ゴージャスボール"^^xsd:string ;
+    ns1:name "Luxury Ball"^^xsd:string .
+
+ns1:Lycanium_Z a ns1:Item ;
+    ns1:japaneseName "ルガルガンＺ"^^xsd:string ;
+    ns1:name "Lycanium Z"^^xsd:string .
+
+ns1:Mach_Bike a ns1:Item ;
+    ns1:japaneseName "マッハじてんしゃ"^^xsd:string ;
+    ns1:name "Mach Bike"^^xsd:string .
+
+ns1:Machine_Part a ns1:Item ;
+    ns1:japaneseName "きかいのぶひん"^^xsd:string,
+        "マシンパーツ"^^xsd:string ;
+    ns1:name "Machine Part"^^xsd:string .
+
+ns1:Macho_Brace a ns1:Item ;
+    ns1:name "Macho Brace"^^xsd:string .
+
+ns1:Magical_Heart_Pick a ns1:Item ;
+    ns1:japaneseName "マジカルハートピック"^^xsd:string ;
+    ns1:name "Magical Heart Pick"^^xsd:string .
+
+ns1:Magical_Star_Pick a ns1:Item ;
+    ns1:japaneseName "マジカルスターピック"^^xsd:string ;
+    ns1:name "Magical Star Pick"^^xsd:string .
+
+ns1:Magma_Emblem a ns1:Item ;
+    ns1:japaneseName "マグマのしるし"^^xsd:string ;
+    ns1:name "Magma Emblem"^^xsd:string .
+
+ns1:Magma_Stone a ns1:Item ;
+    ns1:japaneseName "かざんのおきいし"^^xsd:string ;
+    ns1:name "Magma Stone"^^xsd:string .
+
+ns1:Magma_Suit a ns1:Item ;
+    ns1:japaneseName "マグマスーツ"^^xsd:string ;
+    ns1:name "Magma Suit"^^xsd:string .
+
+ns1:Magmarizer a ns1:Item ;
+    ns1:japaneseName "マグマブースター"^^xsd:string ;
+    ns1:name "Magmarizer"^^xsd:string .
+
+ns1:Magnet a ns1:Item ;
+    ns1:japaneseName "じしゃく"^^xsd:string ;
+    ns1:name "Magnet"^^xsd:string .
+
+ns1:Mago_Berry a ns1:Item ;
+    ns1:japaneseName "マゴのみ"^^xsd:string ;
+    ns1:name "Mago Berry"^^xsd:string .
+
+ns1:Magost_Berry a ns1:Item ;
+    ns1:japaneseName "ゴスのみ"^^xsd:string ;
+    ns1:name "Magost Berry"^^xsd:string .
+
+ns1:Maingate_Key a ns1:Item ;
+    ns1:japaneseName "メインゲートキー"^^xsd:string ;
+    ns1:name "Maingate Key"^^xsd:string .
+
+ns1:Makeup_Bag a ns1:Item ;
+    ns1:japaneseName "コスメポーチ"^^xsd:string ;
+    ns1:name "Makeup Bag"^^xsd:string .
+
+ns1:Malicious_Armor a ns1:Item ;
+    ns1:japaneseName "ノロイノヨロイ"^^xsd:string ;
+    ns1:name "Malicious Armor"^^xsd:string .
+
+ns1:Manectite a ns1:Item ;
+    ns1:japaneseName "ライボルトナイト"^^xsd:string ;
+    ns1:name "Manectite"^^xsd:string .
+
+ns1:Maranga_Berry a ns1:Item ;
+    ns1:japaneseName "タラプのみ"^^xsd:string ;
+    ns1:name "Maranga Berry"^^xsd:string .
+
+ns1:Marble a ns1:Item ;
+    ns1:japaneseName "ビーだま"^^xsd:string ;
+    ns1:name "Marble"^^xsd:string .
+
+ns1:Marill_Ball a ns1:Item ;
+    ns1:japaneseName "マリルボール"^^xsd:string ;
+    ns1:name "Marill Ball"^^xsd:string .
+
+ns1:Mark_Charm a ns1:Item ;
+    ns1:japaneseName "あかしのおまもり"^^xsd:string ;
+    ns1:name "Mark Charm"^^xsd:string .
+
+ns1:Marmalade a ns1:Item ;
+    ns1:japaneseName "マーマレード"^^xsd:string ;
+    ns1:name "Marmalade"^^xsd:string .
+
+ns1:Marsh_Balm a ns1:Item ;
+    ns1:japaneseName "ぬまのシズメダマ"^^xsd:string ;
+    ns1:name "Marsh Balm"^^xsd:string .
+
+ns1:Marshadium_Z a ns1:Item ;
+    ns1:japaneseName "マーシャドーＺ"^^xsd:string ;
+    ns1:name "Marshadium Z"^^xsd:string .
+
+ns1:Master_Ball a ns1:Item ;
+    ns1:japaneseName "マスターボール"^^xsd:string ;
+    ns1:name "Master Ball"^^xsd:string .
+
+ns1:Masterpiece_Teacup a ns1:Item ;
+    ns1:japaneseName "ケッサクのちゃわん"^^xsd:string ;
+    ns1:name "Masterpiece Teacup"^^xsd:string .
+
+ns1:Mawilite a ns1:Item ;
+    ns1:name "Mawilite"^^xsd:string .
+
+ns1:Max_Elixir a ns1:Item ;
+    ns1:japaneseName "ピーピーマックス"^^xsd:string ;
+    ns1:name "Max Elixir"^^xsd:string .
+
+ns1:Max_Ether a ns1:Item ;
+    ns1:japaneseName "ピーピーリカバー"^^xsd:string ;
+    ns1:name "Max Ether"^^xsd:string .
+
+ns1:Max_Honey a ns1:Item ;
+    ns1:japaneseName "ダイミツ"^^xsd:string ;
+    ns1:name "Max Honey"^^xsd:string .
+
+ns1:Max_Lure a ns1:Item ;
+    ns1:japaneseName "ゴールドコロン"^^xsd:string ;
+    ns1:name "Max Lure"^^xsd:string .
+
+ns1:Max_Mushrooms a ns1:Item ;
+    ns1:japaneseName "ダイキノコ"^^xsd:string ;
+    ns1:name "Max Mushrooms"^^xsd:string .
+
+ns1:Max_Potion a ns1:Item ;
+    ns1:name "Max Potion"^^xsd:string .
+
+ns1:Max_Repel a ns1:Item ;
+    ns1:japaneseName "ゴールドスプレー"^^xsd:string ;
+    ns1:name "Max Repel"^^xsd:string .
+
+ns1:Max_Revive a ns1:Item ;
+    ns1:japaneseName "げんきのかたまり"^^xsd:string ;
+    ns1:name "Max Revive"^^xsd:string .
+
+ns1:Mayonnaise a ns1:Item ;
+    ns1:japaneseName "マヨネーズ"^^xsd:string ;
+    ns1:name "Mayonnaise"^^xsd:string .
+
+ns1:Mayors_Note a ns1:Item ;
+    ns1:japaneseName "しちょうのてがみ"^^xsd:string ;
+    ns1:name "Mayor's Note"^^xsd:string .
+
+ns1:Meadow_Plate a ns1:Item ;
+    ns1:japaneseName "みどりのプレート"^^xsd:string ;
+    ns1:name "Meadow Plate"^^xsd:string .
+
+ns1:Mech_Mail a ns1:Item ;
+    ns1:japaneseName "メカニカルメール"^^xsd:string ;
+    ns1:name "Mech Mail"^^xsd:string .
+
+ns1:Medal_Box a ns1:Item ;
+    ns1:japaneseName "メダルボックス"^^xsd:string ;
+    ns1:name "Medal Box"^^xsd:string .
+
+ns1:Medichamite a ns1:Item ;
+    ns1:japaneseName "チャーレムナイト"^^xsd:string ;
+    ns1:name "Medichamite"^^xsd:string .
+
+ns1:Medicinal_Leek a ns1:Item ;
+    ns1:japaneseName "クスリソウ"^^xsd:string ;
+    ns1:name "Medicinal Leek"^^xsd:string .
+
+ns1:Mega_Bracelet a ns1:Item ;
+    ns1:name "Mega Bracelet"^^xsd:string .
+
+ns1:Mega_Ring a ns1:Item ;
+    ns1:name "Mega Ring"^^xsd:string .
+
+ns1:Member_Card a ns1:Item ;
+    ns1:japaneseName "メンバーズカード"^^xsd:string ;
+    ns1:name "Member Card"^^xsd:string .
+
+ns1:Mental_Herb a ns1:Item ;
+    ns1:japaneseName "メンタルハーブ"^^xsd:string ;
+    ns1:name "Mental Herb"^^xsd:string .
+
+ns1:Mesprits_Plume a ns1:Item ;
+    ns1:japaneseName "エムリットのはね"^^xsd:string ;
+    ns1:name "Mesprit’s Plume"^^xsd:string .
+
+ns1:Metagrossite a ns1:Item ;
+    ns1:japaneseName "メタグロスナイト"^^xsd:string ;
+    ns1:name "Metagrossite"^^xsd:string .
+
+ns1:Metal_Alloy a ns1:Item ;
+    ns1:japaneseName "ふくごうきんぞく"^^xsd:string ;
+    ns1:name "Metal Alloy"^^xsd:string .
+
+ns1:Metal_Coat a ns1:Item ;
+    ns1:japaneseName "メタルコート"^^xsd:string ;
+    ns1:name "Metal Coat"^^xsd:string .
+
+ns1:Metal_Powder a ns1:Item ;
+    ns1:name "Metal Powder"^^xsd:string .
+
+ns1:Meteorite a ns1:Item ;
+    ns1:japaneseName "いんせき"^^xsd:string ;
+    ns1:name "Meteorite"^^xsd:string .
+
+ns1:Meteorite_Shard a ns1:Item ;
+    ns1:japaneseName "いんせきのかけら"^^xsd:string ;
+    ns1:name "Meteorite Shard"^^xsd:string .
+
+ns1:Metronome a ns1:Item ;
+    ns1:japaneseName "メトロノーム"^^xsd:string ;
+    ns1:name "Metronome"^^xsd:string .
+
+ns1:Mewnium_Z a ns1:Item ;
+    ns1:japaneseName "ミュウＺ"^^xsd:string ;
+    ns1:name "Mewnium Z"^^xsd:string .
+
+ns1:Mewtwonite_X a ns1:Item ;
+    ns1:japaneseName "ミュウツナイトX"^^xsd:string ;
+    ns1:name "Mewtwonite X"^^xsd:string .
+
+ns1:Mewtwonite_Y a ns1:Item ;
+    ns1:japaneseName "ミュウツナイトY"^^xsd:string ;
+    ns1:name "Mewtwonite Y"^^xsd:string .
+
+ns1:Micle_Berry a ns1:Item ;
+    ns1:japaneseName "ミクルのみ"^^xsd:string ;
+    ns1:name "Micle Berry"^^xsd:string .
+
+ns1:Mighty_Candy a ns1:Item ;
+    ns1:japaneseName "ちからのアメ"^^xsd:string ;
+    ns1:name "Mighty Candy"^^xsd:string .
+
+ns1:Mighty_Candy_L a ns1:Item ;
+    ns1:japaneseName "ちからのアメＬ"^^xsd:string ;
+    ns1:name "Mighty Candy L"^^xsd:string .
+
+ns1:Mighty_Candy_XL a ns1:Item ;
+    ns1:japaneseName "ちからのアメＸＬ"^^xsd:string ;
+    ns1:name "Mighty Candy XL"^^xsd:string .
+
+ns1:Mild_Mint a ns1:Item ;
+    ns1:japaneseName "おっとりミント"^^xsd:string ;
+    ns1:name "Mild Mint"^^xsd:string .
+
+ns1:Mimikium_Z a ns1:Item ;
+    ns1:japaneseName "ミミッキュＺ"^^xsd:string ;
+    ns1:name "Mimikium Z"^^xsd:string .
+
+ns1:Mind_Plate a ns1:Item ;
+    ns1:japaneseName "ふしぎのプレート"^^xsd:string ;
+    ns1:name "Mind Plate"^^xsd:string .
+
+ns1:Mint_Berry a ns1:Item ;
+    ns1:name "Mint Berry"^^xsd:string .
+
+ns1:Mint_Chairs a ns1:Item ;
+    ns1:japaneseName "ミントチェア"^^xsd:string ;
+    ns1:name "Mint Chairs"^^xsd:string .
+
+ns1:Mint_Tablecloth a ns1:Item ;
+    ns1:japaneseName "ミントクロス"^^xsd:string ;
+    ns1:name "Mint Tablecloth"^^xsd:string .
+
+ns1:MiracleBerry a ns1:Item ;
+    ns1:name "MiracleBerry"^^xsd:string .
+
+ns1:Miracle_Seed a ns1:Item ;
+    ns1:japaneseName "きせきのタネ"^^xsd:string ;
+    ns1:name "Miracle Seed"^^xsd:string .
+
+ns1:Mirage_Mail a ns1:Item ;
+    ns1:japaneseName "まぼろしメール"^^xsd:string ;
+    ns1:name "Mirage Mail"^^xsd:string .
+
+ns1:Miraidons_Pok_Ball a ns1:Item ;
+    ns1:japaneseName "ミライドンのボール"^^xsd:string ;
+    ns1:name "Miraidon's Poké Ball"^^xsd:string .
+
+ns1:Miror_Radar a ns1:Item ;
+    ns1:japaneseName "ミラーボレーダー"^^xsd:string ;
+    ns1:name "Miror Radar"^^xsd:string .
+
+ns1:Mirror_Herb a ns1:Item ;
+    ns1:japaneseName "ものまねハーブ"^^xsd:string ;
+    ns1:name "Mirror Herb"^^xsd:string .
+
+ns1:Misty_Seed a ns1:Item ;
+    ns1:japaneseName "ミストシード"^^xsd:string ;
+    ns1:name "Misty Seed"^^xsd:string .
+
+ns1:Mixed_Mushrooms a ns1:Item ;
+    ns1:name "Mixed Mushrooms"^^xsd:string .
+
+ns1:Modest_Mint a ns1:Item ;
+    ns1:japaneseName "ひかえめミント"^^xsd:string ;
+    ns1:name "Modest Mint"^^xsd:string .
+
+ns1:Moltres_Treat a ns1:Item ;
+    ns1:japaneseName "ファイヤーのおやつ"^^xsd:string ;
+    ns1:name "Moltres Treat"^^xsd:string .
+
+ns1:Monstrous_Chairs a ns1:Item ;
+    ns1:japaneseName "かいじゅうチェア"^^xsd:string ;
+    ns1:name "Monstrous Chairs"^^xsd:string .
+
+ns1:Monstrous_Tablecloth a ns1:Item ;
+    ns1:japaneseName "かいじゅうクロス"^^xsd:string ;
+    ns1:name "Monstrous Tablecloth"^^xsd:string .
+
+ns1:Moomoo_Cheese a ns1:Item ;
+    ns1:name "Moomoo Cheese"^^xsd:string .
+
+ns1:Moomoo_Milk a ns1:Item ;
+    ns1:japaneseName "モーモーミルク"^^xsd:string ;
+    ns1:name "Moomoo Milk"^^xsd:string .
+
+ns1:Moon_Ball a ns1:Item ;
+    ns1:japaneseName "ムーンボール"^^xsd:string ;
+    ns1:name "Moon Ball"^^xsd:string .
+
+ns1:Moon_Flute a ns1:Item ;
+    ns1:japaneseName "つきのふえ"^^xsd:string ;
+    ns1:name "Moon Flute"^^xsd:string .
+
+ns1:Moon_Shard a ns1:Item ;
+    ns1:name "Moon Shard"^^xsd:string .
+
+ns1:Moon_Stone a ns1:Item ;
+    ns1:japaneseName "つきのいし"^^xsd:string ;
+    ns1:name "Moon Stone"^^xsd:string .
+
+ns1:Morph_Mail a ns1:Item ;
+    ns1:japaneseName "へんしんメール"^^xsd:string ;
+    ns1:name "Morph Mail"^^xsd:string .
+
+ns1:Mosaic_Mail a ns1:Item ;
+    ns1:japaneseName "モザイクメール"^^xsd:string ;
+    ns1:name "Mosaic Mail"^^xsd:string .
+
+ns1:Mountain_Balm a ns1:Item ;
+    ns1:japaneseName "やまのシズメダマ"^^xsd:string ;
+    ns1:name "Mountain Balm"^^xsd:string .
+
+ns1:Muscle_Band a ns1:Item ;
+    ns1:japaneseName "ちからのハチマキ"^^xsd:string ;
+    ns1:name "Muscle Band"^^xsd:string .
+
+ns1:Muscle_Feather a ns1:Item ;
+    ns1:japaneseName "きんりょくのハネ"^^xsd:string ;
+    ns1:name "Muscle Feather"^^xsd:string .
+
+ns1:Muscle_Mochi a ns1:Item ;
+    ns1:japaneseName "きんりょくのもち"^^xsd:string ;
+    ns1:name "Muscle Mochi"^^xsd:string .
+
+ns1:Mushroom_Cake a ns1:Item ;
+    ns1:japaneseName "キノコよせだま"^^xsd:string ;
+    ns1:name "Mushroom Cake"^^xsd:string .
+
+ns1:Music_Disc a ns1:Item ;
+    ns1:japaneseName "おんがくソフト"^^xsd:string ;
+    ns1:name "Music Disc"^^xsd:string .
+
+ns1:Music_Mail a ns1:Item ;
+    ns1:japaneseName "おんぷメール"^^xsd:string ;
+    ns1:name "Music Mail"^^xsd:string .
+
+ns1:Mustard a ns1:Item ;
+    ns1:japaneseName "マスタード"^^xsd:string ;
+    ns1:name "Mustard"^^xsd:string .
+
+ns1:Mysterious_Balm a ns1:Item ;
+    ns1:japaneseName "しずめだま"^^xsd:string ;
+    ns1:name "Mysterious Balm"^^xsd:string .
+
+ns1:Mysterious_Shard_L a ns1:Item ;
+    ns1:japaneseName "なぞのかけらL"^^xsd:string ;
+    ns1:name "Mysterious Shard L"^^xsd:string .
+
+ns1:Mysterious_Shard_S a ns1:Item ;
+    ns1:japaneseName "なぞのかけらS"^^xsd:string ;
+    ns1:name "Mysterious Shard S"^^xsd:string .
+
+ns1:MysteryBerry a ns1:Item ;
+    ns1:name "MysteryBerry"^^xsd:string .
+
+ns1:Mystery_Egg a ns1:Item ;
+    ns1:japaneseName "ふしぎなタマゴ"^^xsd:string ;
+    ns1:name "Mystery Egg"^^xsd:string .
+
+ns1:MysticTicket a ns1:Item ;
+    ns1:japaneseName "しんぴのチケット"^^xsd:string ;
+    ns1:name "MysticTicket"^^xsd:string .
+
+ns1:Mystic_Water a ns1:Item ;
+    ns1:japaneseName "しんぴのしずく"^^xsd:string ;
+    ns1:name "Mystic Water"^^xsd:string .
+
+ns1:Mythical_Pecha_Berry a ns1:Item ;
+    ns1:japaneseName "まぼろしモモン"^^xsd:string ;
+    ns1:name "Mythical Pecha Berry"^^xsd:string .
+
+ns1:N-Lunarizer a ns1:Item ;
+    ns1:japaneseName "ネクロプラスルナ"^^xsd:string ;
+    ns1:name "N-Lunarizer"^^xsd:string .
+
+ns1:N-Solarizer a ns1:Item ;
+    ns1:japaneseName "ネクロプラスソル"^^xsd:string ;
+    ns1:name "N-Solarizer"^^xsd:string .
+
+ns1:Naive_Mint a ns1:Item ;
+    ns1:japaneseName "むじゃきミント"^^xsd:string ;
+    ns1:name "Naive Mint"^^xsd:string .
+
+ns1:Nanab_Berry a ns1:Item ;
+    ns1:japaneseName "ナナのみ"^^xsd:string ;
+    ns1:name "Nanab Berry"^^xsd:string .
+
+ns1:Naughty_Mint a ns1:Item ;
+    ns1:japaneseName "やんちゃミント"^^xsd:string ;
+    ns1:name "Naughty Mint"^^xsd:string .
+
+ns1:Necrozma_Treat a ns1:Item ;
+    ns1:japaneseName "ネクロズマのおやつ"^^xsd:string ;
+    ns1:name "Necrozma Treat"^^xsd:string .
+
+ns1:Nest_Ball a ns1:Item ;
+    ns1:japaneseName "ネストボール"^^xsd:string ;
+    ns1:name "Nest Ball"^^xsd:string .
+
+ns1:Net_Ball a ns1:Item ;
+    ns1:japaneseName "ネットボール"^^xsd:string ;
+    ns1:name "Net Ball"^^xsd:string .
+
+ns1:Never-Melt_Ice a ns1:Item ;
+    ns1:japaneseName "とけないこおり"^^xsd:string ;
+    ns1:name "Never-Melt Ice"^^xsd:string .
+
+ns1:Niniku_Berry a ns1:Item ;
+    ns1:japaneseName "ニニクのみ"^^xsd:string ;
+    ns1:name "Niniku Berry"^^xsd:string .
+
+ns1:Nomel_Berry a ns1:Item ;
+    ns1:japaneseName "ノメルのみ"^^xsd:string ;
+    ns1:name "Nomel Berry"^^xsd:string .
+
+ns1:Noodles a ns1:Item ;
+    ns1:japaneseName "ヌードル"^^xsd:string ;
+    ns1:name "Noodles"^^xsd:string .
+
+ns1:Normal_Box a ns1:Item ;
+    ns1:japaneseName "きのはこ"^^xsd:string ;
+    ns1:name "Normal Box"^^xsd:string .
+
+ns1:Normal_Gem a ns1:Item ;
+    ns1:japaneseName "ノーマルジュエル"^^xsd:string ;
+    ns1:name "Normal Gem"^^xsd:string .
+
+ns1:Normal_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースノーマル"^^xsd:string ;
+    ns1:name "Normal Tera Shard"^^xsd:string .
+
+ns1:Normalium_Z a ns1:Item ;
+    ns1:japaneseName "ノーマルＺ"^^xsd:string ;
+    ns1:name "Normalium Z"^^xsd:string .
+
+ns1:Nugget a ns1:Item ;
+    ns1:japaneseName "きんのたま"^^xsd:string ;
+    ns1:name "Nugget"^^xsd:string .
+
+ns1:Nutpea_Berry a ns1:Item ;
+    ns1:japaneseName "ラッカのみ"^^xsd:string ;
+    ns1:name "Nutpea Berry"^^xsd:string .
+
+ns1:Oaks_Letter a ns1:Item ;
+    ns1:japaneseName "オーキドのてがみ"^^xsd:string ;
+    ns1:name "Oak's Letter"^^xsd:string .
+
+ns1:Occa_Berry a ns1:Item ;
+    ns1:japaneseName "オッカのみ"^^xsd:string ;
+    ns1:name "Occa Berry"^^xsd:string .
+
+ns1:Oceanic_Slate a ns1:Item ;
+    ns1:name "Oceanic Slate"^^xsd:string .
+
+ns1:Odd_Incense a ns1:Item ;
+    ns1:japaneseName "あやしいおこう"^^xsd:string ;
+    ns1:name "Odd Incense"^^xsd:string .
+
+ns1:Odd_Keystone a ns1:Item ;
+    ns1:name "Odd Keystone"^^xsd:string .
+
+ns1:Old_Amber a ns1:Item ;
+    ns1:japaneseName "ひみつのコハク"^^xsd:string ;
+    ns1:name "Old Amber"^^xsd:string .
+
+ns1:Old_Charm a ns1:Item ;
+    ns1:japaneseName "こだいのおまもり"^^xsd:string ;
+    ns1:name "Old Charm"^^xsd:string .
+
+ns1:Old_Gateau a ns1:Item ;
+    ns1:name "Old Gateau"^^xsd:string .
+
+ns1:Old_Journal a ns1:Item ;
+    ns1:japaneseName "ふるいにっき"^^xsd:string ;
+    ns1:name "Old Journal"^^xsd:string .
+
+ns1:Old_Letter a ns1:Item ;
+    ns1:japaneseName "ふるびたてがみ"^^xsd:string ;
+    ns1:name "Old Letter"^^xsd:string .
+
+ns1:Old_Rod a ns1:Item ;
+    ns1:name "Old Rod"^^xsd:string .
+
+ns1:Old_Sea_Map a ns1:Item ;
+    ns1:name "Old Sea Map"^^xsd:string .
+
+ns1:Old_Verse a ns1:Item ;
+    ns1:japaneseName "ふるいポエム"^^xsd:string ;
+    ns1:name "Old Verse"^^xsd:string .
+
+ns1:Olive_Oil a ns1:Item ;
+    ns1:japaneseName "オリーブオイル"^^xsd:string ;
+    ns1:name "Olive Oil"^^xsd:string .
+
+ns1:Onion a ns1:Item ;
+    ns1:japaneseName "たまねぎスライス"^^xsd:string ;
+    ns1:name "Onion"^^xsd:string .
+
+ns1:Oran_Berry a ns1:Item ;
+    ns1:japaneseName "オレンのみ"^^xsd:string ;
+    ns1:name "Oran Berry"^^xsd:string .
+
+ns1:Orange_Dish a ns1:Item ;
+    ns1:japaneseName "オレンジプレート"^^xsd:string ;
+    ns1:name "Orange Dish"^^xsd:string .
+
+ns1:Orange_Mail a ns1:Item ;
+    ns1:japaneseName "オレンジメール"^^xsd:string ;
+    ns1:name "Orange Mail"^^xsd:string .
+
+ns1:Orange_Petal a ns1:Item ;
+    ns1:japaneseName "だいだいはなびら"^^xsd:string ;
+    ns1:name "Orange Petal"^^xsd:string .
+
+ns1:Origin_Ball a ns1:Item ;
+    ns1:japaneseName "オリジンボール"^^xsd:string ;
+    ns1:name "Origin Ball"^^xsd:string .
+
+ns1:Origin_Ore a ns1:Item ;
+    ns1:japaneseName "オリジンこうせき"^^xsd:string ;
+    ns1:name "Origin Ore"^^xsd:string .
+
+ns1:Oval_Charm a ns1:Item ;
+    ns1:name "Oval Charm"^^xsd:string .
+
+ns1:Oval_Stone a ns1:Item ;
+    ns1:japaneseName "まんまるいし"^^xsd:string ;
+    ns1:name "Oval Stone"^^xsd:string .
+
+ns1:PP_Max a ns1:Item ;
+    ns1:japaneseName "ポイントマックス"^^xsd:string ;
+    ns1:name "PP Max"^^xsd:string .
+
+ns1:PP_Up a ns1:Item ;
+    ns1:japaneseName "ポイントアップ"^^xsd:string ;
+    ns1:name "PP Up"^^xsd:string .
+
+ns1:PRZCureBerry a ns1:Item ;
+    ns1:name "PRZCureBerry"^^xsd:string .
+
+ns1:PSNCureBerry a ns1:Item ;
+    ns1:name "PSNCureBerry"^^xsd:string .
+
+ns1:Pack_of_Potatoes a ns1:Item ;
+    ns1:name "Pack of Potatoes"^^xsd:string .
+
+ns1:Packaged_Curry a ns1:Item ;
+    ns1:name "Packaged Curry"^^xsd:string .
+
+ns1:Pair_of_Tickets a ns1:Item ;
+    ns1:japaneseName "ペアチケット"^^xsd:string ;
+    ns1:name "Pair of Tickets"^^xsd:string .
+
+ns1:Pal_Pad a ns1:Item ;
+    ns1:japaneseName "ともだちてちょう"^^xsd:string ;
+    ns1:name "Pal Pad"^^xsd:string .
+
+ns1:Pamtre_Berry a ns1:Item ;
+    ns1:japaneseName "シーヤのみ"^^xsd:string ;
+    ns1:name "Pamtre Berry"^^xsd:string .
+
+ns1:Paralyze_Heal a ns1:Item ;
+    ns1:japaneseName "まひなおし"^^xsd:string ;
+    ns1:name "Paralyze Heal"^^xsd:string .
+
+ns1:Parasol_Pick a ns1:Item ;
+    ns1:japaneseName "パラソルピック"^^xsd:string ;
+    ns1:name "Parasol Pick"^^xsd:string .
+
+ns1:Parcel a ns1:Item ;
+    ns1:japaneseName "おとどけもの"^^xsd:string ;
+    ns1:name "Parcel"^^xsd:string .
+
+ns1:Park_Ball a ns1:Item ;
+    ns1:japaneseName "パークボール"^^xsd:string ;
+    ns1:name "Park Ball"^^xsd:string .
+
+ns1:Party_Sparkler_Pick a ns1:Item ;
+    ns1:japaneseName "おいわいはなびピック"^^xsd:string ;
+    ns1:name "Party Sparkler Pick"^^xsd:string .
+
+ns1:Pass a ns1:Item ;
+    ns1:japaneseName "リニアパス"^^xsd:string ;
+    ns1:name "Pass"^^xsd:string .
+
+ns1:Pass_Orb a ns1:Item ;
+    ns1:japaneseName "デルダマ"^^xsd:string ;
+    ns1:name "Pass Orb"^^xsd:string .
+
+ns1:Passho_Berry a ns1:Item ;
+    ns1:japaneseName "イトケのみ"^^xsd:string ;
+    ns1:name "Passho Berry"^^xsd:string .
+
+ns1:Pasta a ns1:Item ;
+    ns1:name "Pasta"^^xsd:string .
+
+ns1:Payapa_Berry a ns1:Item ;
+    ns1:japaneseName "ウタンのみ"^^xsd:string ;
+    ns1:name "Payapa Berry"^^xsd:string .
+
+ns1:Peach_Chairs a ns1:Item ;
+    ns1:japaneseName "ベージュチェア"^^xsd:string ;
+    ns1:name "Peach Chairs"^^xsd:string .
+
+ns1:Peach_Tablecloth a ns1:Item ;
+    ns1:japaneseName "ベージュクロス"^^xsd:string ;
+    ns1:name "Peach Tablecloth"^^xsd:string .
+
+ns1:Peanut_Butter a ns1:Item ;
+    ns1:japaneseName "ピーナッツバター"^^xsd:string ;
+    ns1:name "Peanut Butter"^^xsd:string .
+
+ns1:Pearl a ns1:Item ;
+    ns1:japaneseName "しんじゅ"^^xsd:string ;
+    ns1:name "Pearl"^^xsd:string .
+
+ns1:Pearl_String a ns1:Item ;
+    ns1:japaneseName "おだんごしんじゅ"^^xsd:string ;
+    ns1:name "Pearl String"^^xsd:string .
+
+ns1:Peat_Block a ns1:Item ;
+    ns1:name "Peat Block"^^xsd:string .
+
+ns1:Pecha_Berry a ns1:Item ;
+    ns1:japaneseName "モモンのみ"^^xsd:string ;
+    ns1:name "Pecha Berry"^^xsd:string .
+
+ns1:Pep-Up_Plant a ns1:Item ;
+    ns1:japaneseName "ピーピーグサ"^^xsd:string ;
+    ns1:name "Pep-Up Plant"^^xsd:string .
+
+ns1:Pepper a ns1:Item ;
+    ns1:japaneseName "ペッパー"^^xsd:string ;
+    ns1:name "Pepper"^^xsd:string .
+
+ns1:Permit a ns1:Item ;
+    ns1:japaneseName "きょかしょう"^^xsd:string ;
+    ns1:name "Permit"^^xsd:string .
+
+ns1:Persim_Berry a ns1:Item ;
+    ns1:japaneseName "キーのみ"^^xsd:string ;
+    ns1:name "Persim Berry"^^xsd:string .
+
+ns1:Petaya_Berry a ns1:Item ;
+    ns1:japaneseName "ヤタピのみ"^^xsd:string ;
+    ns1:name "Petaya Berry"^^xsd:string .
+
+ns1:Pewter_Crunchies a ns1:Item ;
+    ns1:japaneseName "ニビあられ"^^xsd:string ;
+    ns1:name "Pewter Crunchies"^^xsd:string .
+
+ns1:Pickle a ns1:Item ;
+    ns1:japaneseName "ピクルススライス"^^xsd:string ;
+    ns1:name "Pickle"^^xsd:string .
+
+ns1:Picnic_Set a ns1:Item ;
+    ns1:japaneseName "ピクニックセット"^^xsd:string ;
+    ns1:name "Picnic Set"^^xsd:string .
+
+ns1:Pidgeotite a ns1:Item ;
+    ns1:japaneseName "ピジョットナイト"^^xsd:string ;
+    ns1:name "Pidgeotite"^^xsd:string .
+
+ns1:Pika-Pika_Pick a ns1:Item ;
+    ns1:japaneseName "ピカピカピック"^^xsd:string ;
+    ns1:name "Pika-Pika Pick"^^xsd:string .
+
+ns1:Pikachu_Cup a ns1:Item ;
+    ns1:japaneseName "ピカチュウカップ"^^xsd:string ;
+    ns1:name "Pikachu Cup"^^xsd:string .
+
+ns1:Pikanium_Z a ns1:Item ;
+    ns1:japaneseName "ピカチュウＺ"^^xsd:string ;
+    ns1:name "Pikanium Z"^^xsd:string .
+
+ns1:Pikashunium_Z a ns1:Item ;
+    ns1:japaneseName "サトピカＺ"^^xsd:string ;
+    ns1:name "Pikashunium Z"^^xsd:string .
+
+ns1:Pinap_Berry a ns1:Item ;
+    ns1:japaneseName "パイルのみ"^^xsd:string ;
+    ns1:name "Pinap Berry"^^xsd:string .
+
+ns1:Pineapple a ns1:Item ;
+    ns1:japaneseName "カットパイン"^^xsd:string ;
+    ns1:name "Pineapple"^^xsd:string .
+
+ns1:Pink_Apricorn a ns1:Item ;
+    ns1:japaneseName "ももぼんぐり"^^xsd:string ;
+    ns1:name "Pink Apricorn"^^xsd:string .
+
+ns1:Pink_Bottle a ns1:Item ;
+    ns1:japaneseName "ピンクボトル"^^xsd:string ;
+    ns1:name "Pink Bottle"^^xsd:string .
+
+ns1:Pink_Bow a ns1:Item ;
+    ns1:japaneseName "ピンクのリボン"^^xsd:string ;
+    ns1:name "Pink Bow"^^xsd:string .
+
+ns1:Pink_Chairs a ns1:Item ;
+    ns1:japaneseName "ピンクチェア"^^xsd:string ;
+    ns1:name "Pink Chairs"^^xsd:string .
+
+ns1:Pink_Cup a ns1:Item ;
+    ns1:japaneseName "ピンクカップ"^^xsd:string ;
+    ns1:name "Pink Cup"^^xsd:string .
+
+ns1:Pink_Nectar a ns1:Item ;
+    ns1:japaneseName "うすもものミツ"^^xsd:string ;
+    ns1:name "Pink Nectar"^^xsd:string .
+
+ns1:Pink_Petal a ns1:Item ;
+    ns1:japaneseName "ももいろはなびら"^^xsd:string ;
+    ns1:name "Pink Petal"^^xsd:string .
+
+ns1:Pink_Scarf a ns1:Item ;
+    ns1:japaneseName "ピンクのバンダナ"^^xsd:string ;
+    ns1:name "Pink Scarf"^^xsd:string .
+
+ns1:Pink_Tablecloth a ns1:Item ;
+    ns1:japaneseName "ピンククロス"^^xsd:string ;
+    ns1:name "Pink Tablecloth"^^xsd:string .
+
+ns1:Pinsirite a ns1:Item ;
+    ns1:japaneseName "カイロスナイト"^^xsd:string ;
+    ns1:name "Pinsirite"^^xsd:string .
+
+ns1:Pixie_Plate a ns1:Item ;
+    ns1:japaneseName "せいれいプレート"^^xsd:string ;
+    ns1:name "Pixie Plate"^^xsd:string .
+
+ns1:Plaid_Chairs_B a ns1:Item ;
+    ns1:japaneseName "あおチェックチェア"^^xsd:string ;
+    ns1:name "Plaid Chairs (B)"^^xsd:string .
+
+ns1:Plaid_Chairs_R a ns1:Item ;
+    ns1:japaneseName "あかチェックチェア"^^xsd:string ;
+    ns1:name "Plaid Chairs (R)"^^xsd:string .
+
+ns1:Plaid_Chairs_Y a ns1:Item ;
+    ns1:japaneseName "きいろチェックチェア"^^xsd:string ;
+    ns1:name "Plaid Chairs (Y)"^^xsd:string .
+
+ns1:Plaid_Tablecloth_B a ns1:Item ;
+    ns1:japaneseName "あおチェッククロス"^^xsd:string ;
+    ns1:name "Plaid Tablecloth (B)"^^xsd:string .
+
+ns1:Plaid_Tablecloth_R a ns1:Item ;
+    ns1:japaneseName "あかチェッククロス"^^xsd:string ;
+    ns1:name "Plaid Tablecloth (R)"^^xsd:string .
+
+ns1:Plaid_Tablecloth_Y a ns1:Item ;
+    ns1:japaneseName "きいろチェッククロス"^^xsd:string ;
+    ns1:name "Plaid Tablecloth (Y)"^^xsd:string .
+
+ns1:Plasma_Card a ns1:Item ;
+    ns1:japaneseName "プラズマカード"^^xsd:string ;
+    ns1:name "Plasma Card"^^xsd:string .
+
+ns1:Plume_Fossil a ns1:Item ;
+    ns1:japaneseName "はねのカセキ"^^xsd:string ;
+    ns1:name "Plume Fossil"^^xsd:string .
+
+ns1:Plump_Beans a ns1:Item ;
+    ns1:japaneseName "ころころマメ"^^xsd:string ;
+    ns1:name "Plump Beans"^^xsd:string .
+
+ns1:Poffin_Case a ns1:Item ;
+    ns1:japaneseName "ポフィンケース"^^xsd:string ;
+    ns1:name "Poffin Case"^^xsd:string .
+
+ns1:Point_Card a ns1:Item ;
+    ns1:japaneseName "ポイントカード"^^xsd:string ;
+    ns1:name "Point Card"^^xsd:string .
+
+ns1:Poison_Barb a ns1:Item ;
+    ns1:japaneseName "どくバリ"^^xsd:string ;
+    ns1:name "Poison Barb"^^xsd:string .
+
+ns1:Poison_Gem a ns1:Item ;
+    ns1:japaneseName "どくのジュエル"^^xsd:string ;
+    ns1:name "Poison Gem"^^xsd:string .
+
+ns1:Poison_Memory a ns1:Item ;
+    ns1:japaneseName "ポイズンメモリ"^^xsd:string ;
+    ns1:name "Poison Memory"^^xsd:string .
+
+ns1:Poison_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースどく"^^xsd:string ;
+    ns1:name "Poison Tera Shard"^^xsd:string .
+
+ns1:Poisonium_Z a ns1:Item ;
+    ns1:japaneseName "ドクＺ"^^xsd:string ;
+    ns1:name "Poisonium Z"^^xsd:string .
+
+ns1:Pok_Ball a ns1:Item ;
+    ns1:japaneseName "モンスターボール"^^xsd:string ;
+    ns1:name "Poké Ball"^^xsd:string .
+
+ns1:Pok_Doll a ns1:Item ;
+    ns1:japaneseName "ピッピにんぎょう"^^xsd:string ;
+    ns1:name "Poké Doll"^^xsd:string .
+
+ns1:Pok_Flute a ns1:Item ;
+    ns1:japaneseName "ポケモンのふえ"^^xsd:string ;
+    ns1:name "Poké Flute"^^xsd:string .
+
+ns1:Pok_Radar a ns1:Item ;
+    ns1:japaneseName "ポケモントレーサー"^^xsd:string ;
+    ns1:name "Poké Radar"^^xsd:string .
+
+ns1:Pok_Snack a ns1:Item ;
+    ns1:japaneseName "ポケまんま"^^xsd:string ;
+    ns1:name "Poké Snack"^^xsd:string .
+
+ns1:Pok_Toy a ns1:Item ;
+    ns1:japaneseName "ポケじゃらし"^^xsd:string ;
+    ns1:name "Poké Toy"^^xsd:string .
+
+ns1:Pokblock_Case a ns1:Item ;
+    ns1:japaneseName "ポロックケース"^^xsd:string ;
+    ns1:name "Pokéblock Case"^^xsd:string .
+
+ns1:Pokblock_Kit a ns1:Item ;
+    ns1:japaneseName "ポロックキット"^^xsd:string ;
+    ns1:name "Pokéblock Kit"^^xsd:string .
+
+ns1:Pokmon_Box_Link a ns1:Item ;
+    ns1:japaneseName "ポケモンボックス"^^xsd:string ;
+    ns1:name "Pokémon Box Link"^^xsd:string .
+
+ns1:Pokshi_Doll a ns1:Item ;
+    ns1:japaneseName "ポケモンこけし"^^xsd:string ;
+    ns1:name "Pokéshi Doll"^^xsd:string .
+
+ns1:Polished_Mud_Ball a ns1:Item ;
+    ns1:japaneseName "ピカピカだんご"^^xsd:string ;
+    ns1:name "Polished Mud Ball"^^xsd:string .
+
+ns1:Polka-Dot_Bottle a ns1:Item ;
+    ns1:japaneseName "みずたまボトル"^^xsd:string ;
+    ns1:name "Polka-Dot Bottle"^^xsd:string .
+
+ns1:Polka-Dot_Chairs a ns1:Item ;
+    ns1:japaneseName "みずたまチェア"^^xsd:string ;
+    ns1:name "Polka-Dot Chairs"^^xsd:string .
+
+ns1:Polka-Dot_Cup a ns1:Item ;
+    ns1:japaneseName "みずたまカップ"^^xsd:string ;
+    ns1:name "Polka-Dot Cup"^^xsd:string .
+
+ns1:Polka-Dot_Tablecloth a ns1:Item ;
+    ns1:japaneseName "みずたまクロス"^^xsd:string ;
+    ns1:name "Polka-Dot Tablecloth"^^xsd:string .
+
+ns1:Polkadot_Bow a ns1:Item ;
+    ns1:japaneseName "みずたまリボン"^^xsd:string ;
+    ns1:name "Polkadot Bow"^^xsd:string .
+
+ns1:Pomeg_Berry a ns1:Item ;
+    ns1:japaneseName "ザロクのみ"^^xsd:string ;
+    ns1:name "Pomeg Berry"^^xsd:string .
+
+ns1:Pop_Pod a ns1:Item ;
+    ns1:japaneseName "バリバリモ"^^xsd:string ;
+    ns1:name "Pop Pod"^^xsd:string .
+
+ns1:Portraitmail a ns1:Item ;
+    ns1:japaneseName "にがおえメール"^^xsd:string ;
+    ns1:name "Portraitmail"^^xsd:string .
+
+ns1:Potato_Salad a ns1:Item ;
+    ns1:japaneseName "ポテトサラダ"^^xsd:string ;
+    ns1:name "Potato Salad"^^xsd:string .
+
+ns1:Potato_Tortilla a ns1:Item ;
+    ns1:japaneseName "トルティージャ"^^xsd:string ;
+    ns1:name "Potato Tortilla"^^xsd:string .
+
+ns1:Potion a ns1:Item ;
+    ns1:name "Potion"^^xsd:string .
+
+ns1:Powder_Jar a ns1:Item ;
+    ns1:japaneseName "こないれ"^^xsd:string ;
+    ns1:name "Powder Jar"^^xsd:string .
+
+ns1:Power_Anklet a ns1:Item ;
+    ns1:japaneseName "パワーアンクル"^^xsd:string ;
+    ns1:name "Power Anklet"^^xsd:string .
+
+ns1:Power_Band a ns1:Item ;
+    ns1:japaneseName "パワーバンド"^^xsd:string ;
+    ns1:name "Power Band"^^xsd:string .
+
+ns1:Power_Belt a ns1:Item ;
+    ns1:japaneseName "パワーベルト"^^xsd:string ;
+    ns1:name "Power Belt"^^xsd:string .
+
+ns1:Power_Bracer a ns1:Item ;
+    ns1:japaneseName "パワーリスト"^^xsd:string ;
+    ns1:name "Power Bracer"^^xsd:string .
+
+ns1:Power_Herb a ns1:Item ;
+    ns1:japaneseName "パワフルハーブ"^^xsd:string ;
+    ns1:name "Power Herb"^^xsd:string .
+
+ns1:Power_Lens a ns1:Item ;
+    ns1:japaneseName "パワーレンズ"^^xsd:string ;
+    ns1:name "Power Lens"^^xsd:string .
+
+ns1:Power_Plant_Pass a ns1:Item ;
+    ns1:japaneseName "はつでんしょパス"^^xsd:string ;
+    ns1:name "Power Plant Pass"^^xsd:string .
+
+ns1:Power_Weight a ns1:Item ;
+    ns1:japaneseName "パワーウエイト"^^xsd:string ;
+    ns1:name "Power Weight"^^xsd:string .
+
+ns1:Powerup_Part a ns1:Item ;
+    ns1:japaneseName "きょうかパーツ"^^xsd:string ;
+    ns1:name "Powerup Part"^^xsd:string .
+
+ns1:Precooked_Burger a ns1:Item ;
+    ns1:name "Precooked Burger"^^xsd:string .
+
+ns1:Premier_Ball a ns1:Item ;
+    ns1:japaneseName "プレミアボール"^^xsd:string ;
+    ns1:name "Premier Ball"^^xsd:string .
+
+ns1:Pretty_Feather a ns1:Item ;
+    ns1:japaneseName "きれいなハネ"^^xsd:string ;
+    ns1:name "Pretty Feather"^^xsd:string .
+
+ns1:Primarium_Z a ns1:Item ;
+    ns1:japaneseName "アシレーヌＺ"^^xsd:string ;
+    ns1:name "Primarium Z"^^xsd:string .
+
+ns1:Prism_Scale a ns1:Item ;
+    ns1:japaneseName "きれいなウロコ"^^xsd:string ;
+    ns1:name "Prism Scale"^^xsd:string .
+
+ns1:Prison_Bottle a ns1:Item ;
+    ns1:name "Prison Bottle"^^xsd:string .
+
+ns1:Professors_Mask a ns1:Item ;
+    ns1:japaneseName "はかせのふくめん"^^xsd:string ;
+    ns1:name "Professor's Mask"^^xsd:string .
+
+ns1:Profs_Letter a ns1:Item ;
+    ns1:japaneseName "はかせのてがみ"^^xsd:string ;
+    ns1:name "Prof's Letter"^^xsd:string .
+
+ns1:Prop_Case a ns1:Item ;
+    ns1:name "Prop Case"^^xsd:string .
+
+ns1:Prosciutto a ns1:Item ;
+    ns1:japaneseName "なまハム"^^xsd:string ;
+    ns1:name "Prosciutto"^^xsd:string .
+
+ns1:Protective_Pads a ns1:Item ;
+    ns1:japaneseName "ぼうごパット"^^xsd:string ;
+    ns1:name "Protective Pads"^^xsd:string .
+
+ns1:Protector a ns1:Item ;
+    ns1:japaneseName "プロテクター"^^xsd:string ;
+    ns1:name "Protector"^^xsd:string .
+
+ns1:Protein a ns1:Item ;
+    ns1:japaneseName "タウリン"^^xsd:string ;
+    ns1:name "Protein"^^xsd:string .
+
+ns1:Psychic_Gem a ns1:Item ;
+    ns1:japaneseName "エスパージュエル"^^xsd:string ;
+    ns1:name "Psychic Gem"^^xsd:string .
+
+ns1:Psychic_Memory a ns1:Item ;
+    ns1:japaneseName "サイキックメモリ"^^xsd:string ;
+    ns1:name "Psychic Memory"^^xsd:string .
+
+ns1:Psychic_Seed a ns1:Item ;
+    ns1:japaneseName "サイコシード"^^xsd:string ;
+    ns1:name "Psychic Seed"^^xsd:string .
+
+ns1:Psychic_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースエスパー"^^xsd:string ;
+    ns1:name "Psychic Tera Shard"^^xsd:string .
+
+ns1:Psychium_Z a ns1:Item ;
+    ns1:japaneseName "エスパーＺ"^^xsd:string ;
+    ns1:name "Psychium Z"^^xsd:string .
+
+ns1:Pumkin_Berry a ns1:Item ;
+    ns1:japaneseName "カチャのみ"^^xsd:string ;
+    ns1:name "Pumkin Berry"^^xsd:string .
+
+ns1:Punching_Glove a ns1:Item ;
+    ns1:japaneseName "パンチグローブ"^^xsd:string ;
+    ns1:name "Punching Glove"^^xsd:string .
+
+ns1:Pungent_Root a ns1:Item ;
+    ns1:name "Pungent Root"^^xsd:string .
+
+ns1:Pure_Incense a ns1:Item ;
+    ns1:name "Pure Incense"^^xsd:string .
+
+ns1:Purple_Nectar a ns1:Item ;
+    ns1:japaneseName "むらさきのミツ"^^xsd:string ;
+    ns1:name "Purple Nectar"^^xsd:string .
+
+ns1:Purple_Petal a ns1:Item ;
+    ns1:japaneseName "むらさきはなびら"^^xsd:string ;
+    ns1:name "Purple Petal"^^xsd:string .
+
+ns1:Qualot_Berry a ns1:Item ;
+    ns1:japaneseName "タポルのみ"^^xsd:string ;
+    ns1:name "Qualot Berry"^^xsd:string .
+
+ns1:Quick_Ball a ns1:Item ;
+    ns1:japaneseName "クイックボール"^^xsd:string ;
+    ns1:name "Quick Ball"^^xsd:string .
+
+ns1:Quick_Candy a ns1:Item ;
+    ns1:japaneseName "はやさのアメ"^^xsd:string ;
+    ns1:name "Quick Candy"^^xsd:string .
+
+ns1:Quick_Candy_L a ns1:Item ;
+    ns1:japaneseName "はやさのアメＬ"^^xsd:string ;
+    ns1:name "Quick Candy L"^^xsd:string .
+
+ns1:Quick_Candy_XL a ns1:Item ;
+    ns1:japaneseName "はやさのアメＸＬ"^^xsd:string ;
+    ns1:name "Quick Candy XL"^^xsd:string .
+
+ns1:Quick_Claw a ns1:Item ;
+    ns1:japaneseName "せんせいのツメ"^^xsd:string ;
+    ns1:name "Quick Claw"^^xsd:string .
+
+ns1:Quick_Powder a ns1:Item ;
+    ns1:name "Quick Powder"^^xsd:string .
+
+ns1:Quiet_Mint a ns1:Item ;
+    ns1:japaneseName "れいせいミント"^^xsd:string ;
+    ns1:name "Quiet Mint"^^xsd:string .
+
+ns1:R-Disk a ns1:Item ;
+    ns1:japaneseName "Ｒ－ディスク"^^xsd:string ;
+    ns1:name "R-Disk"^^xsd:string .
+
+ns1:RSVP_Mail a ns1:Item ;
+    ns1:japaneseName "おさそいメール"^^xsd:string ;
+    ns1:name "RSVP Mail"^^xsd:string .
+
+ns1:Rabuta_Berry a ns1:Item ;
+    ns1:japaneseName "ラブタのみ"^^xsd:string ;
+    ns1:name "Rabuta Berry"^^xsd:string .
+
+ns1:Radiant_Petal a ns1:Item ;
+    ns1:name "Radiant Petal"^^xsd:string .
+
+ns1:Rage_Candy_Bar a ns1:Item ;
+    ns1:name "Rage Candy Bar"^^xsd:string .
+
+ns1:Raikou_Treat a ns1:Item ;
+    ns1:japaneseName "ライコウのおやつ"^^xsd:string ;
+    ns1:name "Raikou Treat"^^xsd:string .
+
+ns1:Rainbow_Feather a ns1:Item ;
+    ns1:name "Rainbow Feather"^^xsd:string .
+
+ns1:Rainbow_Flower a ns1:Item ;
+    ns1:name "Rainbow Flower"^^xsd:string .
+
+ns1:Rainbow_Pass a ns1:Item ;
+    ns1:japaneseName "レインボーパス"^^xsd:string ;
+    ns1:name "Rainbow Pass"^^xsd:string .
+
+ns1:Rainbow_Slate a ns1:Item ;
+    ns1:name "Rainbow Slate"^^xsd:string .
+
+ns1:Rare_Bone a ns1:Item ;
+    ns1:japaneseName "きちょうなホネ"^^xsd:string ;
+    ns1:name "Rare Bone"^^xsd:string .
+
+ns1:Rare_Candy a ns1:Item ;
+    ns1:japaneseName "ふしぎなアメ"^^xsd:string ;
+    ns1:name "Rare Candy"^^xsd:string .
+
+ns1:Rash_Mint a ns1:Item ;
+    ns1:japaneseName "うっかりやミント"^^xsd:string ;
+    ns1:name "Rash Mint"^^xsd:string .
+
+ns1:Rawst_Berry a ns1:Item ;
+    ns1:japaneseName "チーゴのみ"^^xsd:string ;
+    ns1:name "Rawst Berry"^^xsd:string .
+
+ns1:Rayquaza_Treat a ns1:Item ;
+    ns1:japaneseName "レックウザのおやつ"^^xsd:string ;
+    ns1:name "Rayquaza Treat"^^xsd:string .
+
+ns1:Razor_Claw a ns1:Item ;
+    ns1:japaneseName "するどいツメ"^^xsd:string ;
+    ns1:name "Razor Claw"^^xsd:string .
+
+ns1:Razor_Fang a ns1:Item ;
+    ns1:japaneseName "するどいキバ"^^xsd:string ;
+    ns1:name "Razor Fang"^^xsd:string .
+
+ns1:Razz_Berry a ns1:Item ;
+    ns1:japaneseName "ズリのみ"^^xsd:string ;
+    ns1:name "Razz Berry"^^xsd:string .
+
+ns1:Reaper_Cloth a ns1:Item ;
+    ns1:japaneseName "れいかいのぬの"^^xsd:string ;
+    ns1:name "Reaper Cloth"^^xsd:string .
+
+ns1:Red-Flag_Pick a ns1:Item ;
+    ns1:japaneseName "あかいはたピック"^^xsd:string ;
+    ns1:name "Red-Flag Pick"^^xsd:string .
+
+ns1:Red_Apricorn a ns1:Item ;
+    ns1:japaneseName "あかぼんぐり"^^xsd:string ;
+    ns1:name "Red Apricorn"^^xsd:string .
+
+ns1:Red_Bell_Pepper a ns1:Item ;
+    ns1:japaneseName "あかパプリカスライス"^^xsd:string ;
+    ns1:name "Red Bell Pepper"^^xsd:string .
+
+ns1:Red_Card a ns1:Item ;
+    ns1:japaneseName "レッドカード"^^xsd:string ;
+    ns1:name "Red Card"^^xsd:string .
+
+ns1:Red_Chain a ns1:Item ;
+    ns1:japaneseName "あかいくさり"^^xsd:string ;
+    ns1:name "Red Chain"^^xsd:string .
+
+ns1:Red_Dish a ns1:Item ;
+    ns1:japaneseName "レッドプレート"^^xsd:string ;
+    ns1:name "Red Dish"^^xsd:string .
+
+ns1:Red_Flute a ns1:Item ;
+    ns1:japaneseName "あかいビードロ"^^xsd:string ;
+    ns1:name "Red Flute"^^xsd:string .
+
+ns1:Red_ID_Badge a ns1:Item ;
+    ns1:japaneseName "ＩＤバッジあか"^^xsd:string ;
+    ns1:name "Red ID Badge"^^xsd:string .
+
+ns1:Red_Nectar a ns1:Item ;
+    ns1:japaneseName "くれないのミツ"^^xsd:string ;
+    ns1:name "Red Nectar"^^xsd:string .
+
+ns1:Red_Onion a ns1:Item ;
+    ns1:japaneseName "アーリーレッド"^^xsd:string ;
+    ns1:name "Red Onion"^^xsd:string .
+
+ns1:Red_Orb a ns1:Item ;
+    ns1:japaneseName "べにいろのたま"^^xsd:string ;
+    ns1:name "Red Orb"^^xsd:string .
+
+ns1:Red_Petal a ns1:Item ;
+    ns1:japaneseName "あかのはなびら"^^xsd:string ;
+    ns1:name "Red Petal"^^xsd:string .
+
+ns1:Red_Pok_Ball_Pick a ns1:Item ;
+    ns1:japaneseName "あかボールピック"^^xsd:string ;
+    ns1:name "Red Poké Ball Pick"^^xsd:string .
+
+ns1:Red_Scale a ns1:Item ;
+    ns1:name "Red Scale"^^xsd:string .
+
+ns1:Red_Scarf a ns1:Item ;
+    ns1:japaneseName "あかいバンダナ"^^xsd:string ;
+    ns1:name "Red Scarf"^^xsd:string .
+
+ns1:Red_Shard a ns1:Item ;
+    ns1:japaneseName "あかいかけら"^^xsd:string ;
+    ns1:name "Red Shard"^^xsd:string .
+
+ns1:Reins_of_Unity a ns1:Item ;
+    ns1:name "Reins of Unity"^^xsd:string .
+
+ns1:Relaxed_Mint a ns1:Item ;
+    ns1:japaneseName "のんきミント"^^xsd:string ;
+    ns1:name "Relaxed Mint"^^xsd:string .
+
+ns1:Relic_Band a ns1:Item ;
+    ns1:japaneseName "こだいのうでわ"^^xsd:string ;
+    ns1:name "Relic Band"^^xsd:string .
+
+ns1:Relic_Copper a ns1:Item ;
+    ns1:japaneseName "こだいのどうか"^^xsd:string ;
+    ns1:name "Relic Copper"^^xsd:string .
+
+ns1:Relic_Crown a ns1:Item ;
+    ns1:japaneseName "こだいのおうかん"^^xsd:string ;
+    ns1:name "Relic Crown"^^xsd:string .
+
+ns1:Relic_Gold a ns1:Item ;
+    ns1:japaneseName "こだいのきんか"^^xsd:string ;
+    ns1:name "Relic Gold"^^xsd:string .
+
+ns1:Relic_Silver a ns1:Item ;
+    ns1:japaneseName "こだいのぎんか"^^xsd:string ;
+    ns1:name "Relic Silver"^^xsd:string .
+
+ns1:Relic_Statue a ns1:Item ;
+    ns1:japaneseName "こだいのせきぞう"^^xsd:string ;
+    ns1:name "Relic Statue"^^xsd:string .
+
+ns1:Relic_Vase a ns1:Item ;
+    ns1:japaneseName "こだいのツボ"^^xsd:string ;
+    ns1:name "Relic Vase"^^xsd:string .
+
+ns1:Remedy a ns1:Item ;
+    ns1:japaneseName "カンポーやく"^^xsd:string ;
+    ns1:name "Remedy"^^xsd:string .
+
+ns1:Repeat_Ball a ns1:Item ;
+    ns1:japaneseName "リピートボール"^^xsd:string ;
+    ns1:name "Repeat Ball"^^xsd:string .
+
+ns1:Repel a ns1:Item ;
+    ns1:japaneseName "むしよけスプレー"^^xsd:string ;
+    ns1:name "Repel"^^xsd:string .
+
+ns1:Reply_Mail a ns1:Item ;
+    ns1:japaneseName "おかえしメール"^^xsd:string ;
+    ns1:name "Reply Mail"^^xsd:string .
+
+ns1:Reshiram_Treat a ns1:Item ;
+    ns1:japaneseName "レシラムのおやつ"^^xsd:string ;
+    ns1:name "Reshiram Treat"^^xsd:string .
+
+ns1:Resist_Feather a ns1:Item ;
+    ns1:japaneseName "ていこうのハネ"^^xsd:string ;
+    ns1:name "Resist Feather"^^xsd:string .
+
+ns1:Resist_Mochi a ns1:Item ;
+    ns1:japaneseName "ていこうのもち"^^xsd:string ;
+    ns1:name "Resist Mochi"^^xsd:string .
+
+ns1:Retro_Mail a ns1:Item ;
+    ns1:japaneseName "レトロメール"^^xsd:string ;
+    ns1:name "Retro Mail"^^xsd:string .
+
+ns1:Reveal_Glass a ns1:Item ;
+    ns1:name "Reveal Glass"^^xsd:string .
+
+ns1:Revival_Herb a ns1:Item ;
+    ns1:japaneseName "ふっかつそう"^^xsd:string ;
+    ns1:name "Revival Herb"^^xsd:string .
+
+ns1:Revive a ns1:Item ;
+    ns1:japaneseName "げんきのかけら"^^xsd:string ;
+    ns1:name "Revive"^^xsd:string .
+
+ns1:Ribbon_Sweet a ns1:Item ;
+    ns1:japaneseName "リボンアメざいく"^^xsd:string ;
+    ns1:name "Ribbon Sweet"^^xsd:string .
+
+ns1:Rice a ns1:Item ;
+    ns1:japaneseName "ライス"^^xsd:string ;
+    ns1:name "Rice"^^xsd:string .
+
+ns1:Rich_Mulch a ns1:Item ;
+    ns1:japaneseName "たわわこやし"^^xsd:string ;
+    ns1:name "Rich Mulch"^^xsd:string .
+
+ns1:Rindo_Berry a ns1:Item ;
+    ns1:japaneseName "リンドのみ"^^xsd:string ;
+    ns1:name "Rindo Berry"^^xsd:string .
+
+ns1:Ring_Target a ns1:Item ;
+    ns1:name "Ring Target"^^xsd:string .
+
+ns1:Rock_Gem a ns1:Item ;
+    ns1:japaneseName "いわのジュエル"^^xsd:string ;
+    ns1:name "Rock Gem"^^xsd:string .
+
+ns1:Rock_Incense a ns1:Item ;
+    ns1:japaneseName "がんせきおこう"^^xsd:string ;
+    ns1:name "Rock Incense"^^xsd:string .
+
+ns1:Rock_Memory a ns1:Item ;
+    ns1:japaneseName "ロックメモリ"^^xsd:string ;
+    ns1:name "Rock Memory"^^xsd:string .
+
+ns1:Rock_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースいわ"^^xsd:string ;
+    ns1:name "Rock Tera Shard"^^xsd:string .
+
+ns1:Rockium_Z a ns1:Item ;
+    ns1:japaneseName "イワＺ"^^xsd:string ;
+    ns1:name "Rockium Z"^^xsd:string .
+
+ns1:Rocky_Helmet a ns1:Item ;
+    ns1:name "Rocky Helmet"^^xsd:string .
+
+ns1:Roller_Skates a ns1:Item ;
+    ns1:japaneseName "ローラースケート"^^xsd:string ;
+    ns1:name "Roller Skates"^^xsd:string .
+
+ns1:Room_Service a ns1:Item ;
+    ns1:japaneseName "ルームサービス"^^xsd:string ;
+    ns1:name "Room Service"^^xsd:string .
+
+ns1:Root_Fossil a ns1:Item ;
+    ns1:japaneseName "ねっこのカセキ"^^xsd:string ;
+    ns1:name "Root Fossil"^^xsd:string .
+
+ns1:Rose_Incense a ns1:Item ;
+    ns1:japaneseName "おはなのおこう"^^xsd:string ;
+    ns1:name "Rose Incense"^^xsd:string .
+
+ns1:Roseli_Berry a ns1:Item ;
+    ns1:japaneseName "ロゼルのみ"^^xsd:string ;
+    ns1:name "Roseli Berry"^^xsd:string .
+
+ns1:Roto-Stick a ns1:Item ;
+    ns1:japaneseName "ロトりぼう"^^xsd:string ;
+    ns1:name "Roto-Stick"^^xsd:string .
+
+ns1:Rotom_Bike a ns1:Item ;
+    ns1:japaneseName "ロトムじてんしゃ"^^xsd:string ;
+    ns1:name "Rotom Bike"^^xsd:string .
+
+ns1:Rotom_Catalog a ns1:Item ;
+    ns1:japaneseName "ロトムのカタログ"^^xsd:string ;
+    ns1:name "Rotom Catalog"^^xsd:string .
+
+ns1:Rotom_Phone a ns1:Item ;
+    ns1:japaneseName "スマホロトム"^^xsd:string ;
+    ns1:name "Rotom Phone"^^xsd:string .
+
+ns1:Rowap_Berry a ns1:Item ;
+    ns1:japaneseName "レンブのみ"^^xsd:string ;
+    ns1:name "Rowap Berry"^^xsd:string .
+
+ns1:Ruby a ns1:Item ;
+    ns1:japaneseName "ルビー"^^xsd:string ;
+    ns1:name "Ruby"^^xsd:string .
+
+ns1:Rusted_Shield a ns1:Item ;
+    ns1:japaneseName "くちたたて"^^xsd:string ;
+    ns1:name "Rusted Shield"^^xsd:string .
+
+ns1:Rusted_Sword a ns1:Item ;
+    ns1:japaneseName "くちたけん"^^xsd:string ;
+    ns1:name "Rusted Sword"^^xsd:string .
+
+ns1:SS_Ticket a ns1:Item ;
+    ns1:japaneseName "ふねのチケット"^^xsd:string ;
+    ns1:name "S.S. Ticket"^^xsd:string .
+
+ns1:Sablenite a ns1:Item ;
+    ns1:japaneseName "ヤミラミナイト"^^xsd:string ;
+    ns1:name "Sablenite"^^xsd:string .
+
+ns1:Sachet a ns1:Item ;
+    ns1:japaneseName "においぶくろ"^^xsd:string ;
+    ns1:name "Sachet"^^xsd:string .
+
+ns1:Sacred_Ash a ns1:Item ;
+    ns1:name "Sacred Ash"^^xsd:string .
+
+ns1:Safari_Ball a ns1:Item ;
+    ns1:japaneseName "サファリボール"^^xsd:string ;
+    ns1:name "Safari Ball"^^xsd:string .
+
+ns1:Safety_Goggles a ns1:Item ;
+    ns1:japaneseName "ぼうじんゴーグル"^^xsd:string ;
+    ns1:name "Safety Goggles"^^xsd:string .
+
+ns1:Sail_Fossil a ns1:Item ;
+    ns1:japaneseName "ヒレのカセキ"^^xsd:string ;
+    ns1:name "Sail Fossil"^^xsd:string .
+
+ns1:Salac_Berry a ns1:Item ;
+    ns1:japaneseName "カムラのみ"^^xsd:string ;
+    ns1:name "Salac Berry"^^xsd:string .
+
+ns1:Salad_Mix a ns1:Item ;
+    ns1:name "Salad Mix"^^xsd:string .
+
+ns1:Salamencite a ns1:Item ;
+    ns1:japaneseName "ボーマンダナイト"^^xsd:string ;
+    ns1:name "Salamencite"^^xsd:string .
+
+ns1:Salt a ns1:Item ;
+    ns1:japaneseName "ソルト"^^xsd:string ;
+    ns1:name "Salt"^^xsd:string .
+
+ns1:Salt_Cake a ns1:Item ;
+    ns1:japaneseName "ミネラルよせだま"^^xsd:string ;
+    ns1:name "Salt Cake"^^xsd:string .
+
+ns1:Salty_Herba_Mystica a ns1:Item ;
+    ns1:japaneseName "ひでん：しおスパイス"^^xsd:string ;
+    ns1:name "Salty Herba Mystica"^^xsd:string .
+
+ns1:Sand_Radish a ns1:Item ;
+    ns1:japaneseName "スナハマダイコン"^^xsd:string ;
+    ns1:name "Sand Radish"^^xsd:string .
+
+ns1:Sandwich a ns1:Item ;
+    ns1:japaneseName "サンドウィッチ"^^xsd:string ;
+    ns1:name "Sandwich"^^xsd:string .
+
+ns1:Sapphire a ns1:Item ;
+    ns1:japaneseName "サファイア"^^xsd:string ;
+    ns1:name "Sapphire"^^xsd:string .
+
+ns1:Sassy_Mint a ns1:Item ;
+    ns1:japaneseName "なまいきミント"^^xsd:string ;
+    ns1:name "Sassy Mint"^^xsd:string .
+
+ns1:Sausages a ns1:Item ;
+    ns1:name "Sausages"^^xsd:string .
+
+ns1:Scanner a ns1:Item ;
+    ns1:japaneseName "たんちき"^^xsd:string ;
+    ns1:name "Scanner"^^xsd:string .
+
+ns1:Scarlet_Book a ns1:Item ;
+    ns1:japaneseName "スカーレットブック"^^xsd:string ;
+    ns1:name "Scarlet Book"^^xsd:string .
+
+ns1:Scatter_Bang a ns1:Item ;
+    ns1:japaneseName "ばりばりだま"^^xsd:string ;
+    ns1:name "Scatter Bang"^^xsd:string .
+
+ns1:Sceptilite a ns1:Item ;
+    ns1:japaneseName "ジュカインナイト"^^xsd:string ;
+    ns1:name "Sceptilite"^^xsd:string .
+
+ns1:Scizorite a ns1:Item ;
+    ns1:japaneseName "ハッサムナイト"^^xsd:string ;
+    ns1:name "Scizorite"^^xsd:string .
+
+ns1:Scope_Lens a ns1:Item ;
+    ns1:japaneseName "ピントレンズ"^^xsd:string ;
+    ns1:name "Scope Lens"^^xsd:string .
+
+ns1:Scroll_of_Darkness a ns1:Item ;
+    ns1:japaneseName "あくのかけじく"^^xsd:string ;
+    ns1:name "Scroll of Darkness"^^xsd:string .
+
+ns1:Scroll_of_Waters a ns1:Item ;
+    ns1:japaneseName "みずのかけじく"^^xsd:string ;
+    ns1:name "Scroll of Waters"^^xsd:string .
+
+ns1:Sea_Incense a ns1:Item ;
+    ns1:name "Sea Incense"^^xsd:string .
+
+ns1:Secret_Key a ns1:Item ;
+    ns1:japaneseName "ひみつのカギ"^^xsd:string ;
+    ns1:name "Secret Key"^^xsd:string .
+
+ns1:Secret_Medicine a ns1:Item ;
+    ns1:japaneseName "ひでんのくすり"^^xsd:string ;
+    ns1:name "Secret Medicine"^^xsd:string .
+
+ns1:Seed_of_Mastery a ns1:Item ;
+    ns1:japaneseName "かいでんのタネ"^^xsd:string ;
+    ns1:name "Seed of Mastery"^^xsd:string .
+
+ns1:Serious_Mint a ns1:Item ;
+    ns1:japaneseName "まじめミント"^^xsd:string ;
+    ns1:name "Serious Mint"^^xsd:string .
+
+ns1:Shaderoot_Carrot a ns1:Item ;
+    ns1:name "Shaderoot Carrot"^^xsd:string .
+
+ns1:Shadow_Mail a ns1:Item ;
+    ns1:japaneseName "シャドーメール"^^xsd:string ;
+    ns1:name "Shadow Mail"^^xsd:string .
+
+ns1:Shalour_Sable a ns1:Item ;
+    ns1:japaneseName "シャラサブレ"^^xsd:string ;
+    ns1:name "Shalour Sable"^^xsd:string .
+
+ns1:Sharp_Beak a ns1:Item ;
+    ns1:japaneseName "するどいくちばし"^^xsd:string ;
+    ns1:name "Sharp Beak"^^xsd:string .
+
+ns1:Sharpedonite a ns1:Item ;
+    ns1:japaneseName "サメハダナイト"^^xsd:string ;
+    ns1:name "Sharpedonite"^^xsd:string .
+
+ns1:Shed_Shell a ns1:Item ;
+    ns1:japaneseName "きれいなぬけがら"^^xsd:string ;
+    ns1:name "Shed Shell"^^xsd:string .
+
+ns1:Shell_Bell a ns1:Item ;
+    ns1:name "Shell Bell"^^xsd:string .
+
+ns1:Shiny_Charm a ns1:Item ;
+    ns1:name "Shiny Charm"^^xsd:string .
+
+ns1:Shiny_Stone a ns1:Item ;
+    ns1:japaneseName "ひかりのいし"^^xsd:string ;
+    ns1:name "Shiny Stone"^^xsd:string .
+
+ns1:Shoal_Salt a ns1:Item ;
+    ns1:japaneseName "あさせのしお"^^xsd:string ;
+    ns1:name "Shoal Salt"^^xsd:string .
+
+ns1:Shoal_Shell a ns1:Item ;
+    ns1:japaneseName "あさせのかいがら"^^xsd:string ;
+    ns1:name "Shoal Shell"^^xsd:string .
+
+ns1:Shock_Drive a ns1:Item ;
+    ns1:japaneseName "イナズマカセット"^^xsd:string ;
+    ns1:name "Shock Drive"^^xsd:string .
+
+ns1:Shuca_Berry a ns1:Item ;
+    ns1:japaneseName "シュカのみ"^^xsd:string ;
+    ns1:name "Shuca Berry"^^xsd:string .
+
+ns1:Silk_Scarf a ns1:Item ;
+    ns1:japaneseName "シルクのスカーフ"^^xsd:string ;
+    ns1:name "Silk Scarf"^^xsd:string .
+
+ns1:Silph_Scope a ns1:Item ;
+    ns1:name "Silph Scope"^^xsd:string .
+
+ns1:Silver_Bottle a ns1:Item ;
+    ns1:japaneseName "シルバーチタンボトル"^^xsd:string ;
+    ns1:name "Silver Bottle"^^xsd:string .
+
+ns1:Silver_Cup a ns1:Item ;
+    ns1:japaneseName "シルバーチタンカップ"^^xsd:string ;
+    ns1:name "Silver Cup"^^xsd:string .
+
+ns1:Silver_Feather a ns1:Item ;
+    ns1:japaneseName "ぎんいろのはね"^^xsd:string ;
+    ns1:name "Silver Feather"^^xsd:string .
+
+ns1:Silver_Leaf a ns1:Item ;
+    ns1:japaneseName "ぎんのはっぱ"^^xsd:string ;
+    ns1:name "Silver Leaf"^^xsd:string .
+
+ns1:Silver_Nanab_Berry a ns1:Item ;
+    ns1:japaneseName "ぎんのナナのみ"^^xsd:string ;
+    ns1:name "Silver Nanab Berry"^^xsd:string .
+
+ns1:Silver_Pick a ns1:Item ;
+    ns1:japaneseName "シルバーピック"^^xsd:string ;
+    ns1:name "Silver Pick"^^xsd:string .
+
+ns1:Silver_Pinap_Berry a ns1:Item ;
+    ns1:japaneseName "ぎんのパイルのみ"^^xsd:string ;
+    ns1:name "Silver Pinap Berry"^^xsd:string .
+
+ns1:Silver_Powder a ns1:Item ;
+    ns1:japaneseName "ぎんのこな"^^xsd:string ;
+    ns1:name "Silver Powder"^^xsd:string .
+
+ns1:Silver_Razz_Berry a ns1:Item ;
+    ns1:japaneseName "ぎんのズリのみ"^^xsd:string ;
+    ns1:name "Silver Razz Berry"^^xsd:string .
+
+ns1:Simple_Chairs a ns1:Item ;
+    ns1:japaneseName "シンプルチェア"^^xsd:string ;
+    ns1:name "Simple Chairs"^^xsd:string .
+
+ns1:Sitrus_Berry a ns1:Item ;
+    ns1:japaneseName "オボンのみ"^^xsd:string ;
+    ns1:name "Sitrus Berry"^^xsd:string .
+
+ns1:Skull_Fossil a ns1:Item ;
+    ns1:japaneseName "ずがいのカセキ"^^xsd:string ;
+    ns1:name "Skull Fossil"^^xsd:string .
+
+ns1:Sky_Plate a ns1:Item ;
+    ns1:japaneseName "あおぞらプレート"^^xsd:string ;
+    ns1:name "Sky Plate"^^xsd:string .
+
+ns1:Sky_Tumblestone a ns1:Item ;
+    ns1:japaneseName "そらいろたまいし"^^xsd:string ;
+    ns1:name "Sky Tumblestone"^^xsd:string .
+
+ns1:Slowbronite a ns1:Item ;
+    ns1:japaneseName "ヤドランナイト"^^xsd:string ;
+    ns1:name "Slowbronite"^^xsd:string .
+
+ns1:Slowpoke_Cup a ns1:Item ;
+    ns1:japaneseName "ヤドンカップ"^^xsd:string ;
+    ns1:name "Slowpoke Cup"^^xsd:string .
+
+ns1:Slowpoke_Tail a ns1:Item ;
+    ns1:japaneseName "おいしいシッポ"^^xsd:string ;
+    ns1:name "Slowpoke Tail"^^xsd:string .
+
+ns1:Small_Bouquet a ns1:Item ;
+    ns1:japaneseName "ちいさなはなたば"^^xsd:string ;
+    ns1:name "Small Bouquet"^^xsd:string .
+
+ns1:Small_Tablet a ns1:Item ;
+    ns1:japaneseName "ちいさなせきばん"^^xsd:string ;
+    ns1:name "Small Tablet"^^xsd:string .
+
+ns1:Smart_Candy a ns1:Item ;
+    ns1:japaneseName "ちしきのアメ"^^xsd:string ;
+    ns1:name "Smart Candy"^^xsd:string .
+
+ns1:Smart_Candy_L a ns1:Item ;
+    ns1:japaneseName "ちしきのアメＬ"^^xsd:string ;
+    ns1:name "Smart Candy L"^^xsd:string .
+
+ns1:Smart_Candy_XL a ns1:Item ;
+    ns1:japaneseName "ちしきのアメＸＬ"^^xsd:string ;
+    ns1:name "Smart Candy XL"^^xsd:string .
+
+ns1:Smiling_Vee_Pick a ns1:Item ;
+    ns1:japaneseName "ニコブイピック"^^xsd:string ;
+    ns1:name "Smiling Vee Pick"^^xsd:string .
+
+ns1:Smoke-Poke_Tail a ns1:Item ;
+    ns1:name "Smoke-Poke Tail"^^xsd:string .
+
+ns1:Smoke_Ball a ns1:Item ;
+    ns1:japaneseName "けむりだま"^^xsd:string ;
+    ns1:name "Smoke Ball"^^xsd:string .
+
+ns1:Smoke_Bomb a ns1:Item ;
+    ns1:japaneseName "めかくしだま"^^xsd:string ;
+    ns1:name "Smoke Bomb"^^xsd:string .
+
+ns1:Smoked_Fillet a ns1:Item ;
+    ns1:japaneseName "スモークきりみ"^^xsd:string ;
+    ns1:name "Smoked Fillet"^^xsd:string .
+
+ns1:Smooth_Rock a ns1:Item ;
+    ns1:japaneseName "さらさらいわ"^^xsd:string ;
+    ns1:name "Smooth Rock"^^xsd:string .
+
+ns1:Snorlium_Z a ns1:Item ;
+    ns1:japaneseName "カビゴンＺ"^^xsd:string ;
+    ns1:name "Snorlium Z"^^xsd:string .
+
+ns1:Snow_Balm a ns1:Item ;
+    ns1:japaneseName "ゆきのシズメダマ"^^xsd:string ;
+    ns1:name "Snow Balm"^^xsd:string .
+
+ns1:Snow_Mail a ns1:Item ;
+    ns1:japaneseName "ブリザードメール"^^xsd:string ;
+    ns1:name "Snow Mail"^^xsd:string .
+
+ns1:Snowball a ns1:Item ;
+    ns1:japaneseName "ゆきだま"^^xsd:string ;
+    ns1:name "Snowball"^^xsd:string .
+
+ns1:Soda_Pop a ns1:Item ;
+    ns1:japaneseName "サイコソーダ"^^xsd:string ;
+    ns1:name "Soda Pop"^^xsd:string .
+
+ns1:Soft_Sand a ns1:Item ;
+    ns1:japaneseName "やわらかいすな"^^xsd:string ;
+    ns1:name "Soft Sand"^^xsd:string .
+
+ns1:Solgaleo_Treat a ns1:Item ;
+    ns1:japaneseName "ソルガレオのおやつ"^^xsd:string ;
+    ns1:name "Solgaleo Treat"^^xsd:string .
+
+ns1:Solganium_Z a ns1:Item ;
+    ns1:japaneseName "ソルガレオＺ"^^xsd:string ;
+    ns1:name "Solganium Z"^^xsd:string .
+
+ns1:Sonias_Book a ns1:Item ;
+    ns1:japaneseName "ソニアのほん"^^xsd:string ;
+    ns1:name "Sonia's Book"^^xsd:string .
+
+ns1:Soot_Sack a ns1:Item ;
+    ns1:japaneseName "はいぶくろ"^^xsd:string ;
+    ns1:name "Soot Sack"^^xsd:string .
+
+ns1:Sootfoot_Root a ns1:Item ;
+    ns1:japaneseName "ケムリイモ"^^xsd:string ;
+    ns1:name "Sootfoot Root"^^xsd:string .
+
+ns1:Soothe_Bell a ns1:Item ;
+    ns1:name "Soothe Bell"^^xsd:string .
+
+ns1:Soul_Dew a ns1:Item ;
+    ns1:name "Soul Dew"^^xsd:string .
+
+ns1:Soul_Slate a ns1:Item ;
+    ns1:name "Soul Slate"^^xsd:string .
+
+ns1:Sour_Herba_Mystica a ns1:Item ;
+    ns1:japaneseName "ひでん：すぱスパイス"^^xsd:string ;
+    ns1:name "Sour Herba Mystica"^^xsd:string .
+
+ns1:Space_Balm a ns1:Item ;
+    ns1:japaneseName "そらのシズメダマ"^^xsd:string ;
+    ns1:name "Space Balm"^^xsd:string .
+
+ns1:Space_Mail a ns1:Item ;
+    ns1:japaneseName "スペースメール"^^xsd:string ;
+    ns1:name "Space Mail"^^xsd:string .
+
+ns1:Sparkling_Stone a ns1:Item ;
+    ns1:name "Sparkling Stone"^^xsd:string .
+
+ns1:Spectrier_Treat a ns1:Item ;
+    ns1:japaneseName "レイスポスのおやつ"^^xsd:string ;
+    ns1:name "Spectrier Treat"^^xsd:string .
+
+ns1:Spell_Tag a ns1:Item ;
+    ns1:japaneseName "のろいのおふだ"^^xsd:string ;
+    ns1:name "Spell Tag"^^xsd:string .
+
+ns1:Spelon_Berry a ns1:Item ;
+    ns1:japaneseName "ノワキのみ"^^xsd:string ;
+    ns1:name "Spelon Berry"^^xsd:string .
+
+ns1:Spice_Mix a ns1:Item ;
+    ns1:name "Spice Mix"^^xsd:string .
+
+ns1:Spicy_Herba_Mystica a ns1:Item ;
+    ns1:japaneseName "ひでん：からスパイス"^^xsd:string ;
+    ns1:name "Spicy Herba Mystica"^^xsd:string .
+
+ns1:Splash_Plate a ns1:Item ;
+    ns1:japaneseName "しずくプレート"^^xsd:string ;
+    ns1:name "Splash Plate"^^xsd:string .
+
+ns1:Spoiled_Apricorn a ns1:Item ;
+    ns1:japaneseName "むしくいぼんぐり"^^xsd:string ;
+    ns1:name "Spoiled Apricorn"^^xsd:string .
+
+ns1:Spooky_Chairs a ns1:Item ;
+    ns1:japaneseName "うらめしチェア"^^xsd:string ;
+    ns1:name "Spooky Chairs"^^xsd:string .
+
+ns1:Spooky_Plate a ns1:Item ;
+    ns1:japaneseName "もののけプレート"^^xsd:string ;
+    ns1:name "Spooky Plate"^^xsd:string .
+
+ns1:Spooky_Tablecloth a ns1:Item ;
+    ns1:japaneseName "うらめしクロス"^^xsd:string ;
+    ns1:name "Spooky Tablecloth"^^xsd:string .
+
+ns1:Sport_Ball a ns1:Item ;
+    ns1:japaneseName "コンペボール"^^xsd:string ;
+    ns1:name "Sport Ball"^^xsd:string .
+
+ns1:Sprayduck a ns1:Item ;
+    ns1:name "Sprayduck"^^xsd:string .
+
+ns1:Springy_Mushroom a ns1:Item ;
+    ns1:japaneseName "もちもちキノコ"^^xsd:string ;
+    ns1:name "Springy Mushroom"^^xsd:string .
+
+ns1:Sprinklotad a ns1:Item ;
+    ns1:name "Sprinklotad"^^xsd:string .
+
+ns1:Squall_Slate a ns1:Item ;
+    ns1:name "Squall Slate"^^xsd:string .
+
+ns1:Squirt_Bottle a ns1:Item ;
+    ns1:name "Squirt Bottle"^^xsd:string .
+
+ns1:Stable_Mulch a ns1:Item ;
+    ns1:japaneseName "ながながこやし"^^xsd:string ;
+    ns1:name "Stable Mulch"^^xsd:string .
+
+ns1:Star_Piece a ns1:Item ;
+    ns1:japaneseName "ほしのかけら"^^xsd:string ;
+    ns1:name "Star Piece"^^xsd:string .
+
+ns1:Star_Sweet a ns1:Item ;
+    ns1:japaneseName "スターアメざいく"^^xsd:string ;
+    ns1:name "Star Sweet"^^xsd:string .
+
+ns1:Stardust a ns1:Item ;
+    ns1:japaneseName "ほしのすな"^^xsd:string ;
+    ns1:name "Stardust"^^xsd:string .
+
+ns1:Starf_Berry a ns1:Item ;
+    ns1:japaneseName "スターのみ"^^xsd:string ;
+    ns1:name "Starf Berry"^^xsd:string .
+
+ns1:Stealth_Spray a ns1:Item ;
+    ns1:japaneseName "ひそやかスプレー"^^xsd:string ;
+    ns1:name "Stealth Spray"^^xsd:string .
+
+ns1:Steel_Bottle_B a ns1:Item ;
+    ns1:japaneseName "Bステンレスボトル"^^xsd:string ;
+    ns1:name "Steel Bottle (B)"^^xsd:string .
+
+ns1:Steel_Bottle_R a ns1:Item ;
+    ns1:japaneseName "Rステンレスボトル"^^xsd:string ;
+    ns1:name "Steel Bottle (R)"^^xsd:string .
+
+ns1:Steel_Bottle_Y a ns1:Item ;
+    ns1:japaneseName "Yステンレスボトル"^^xsd:string ;
+    ns1:name "Steel Bottle (Y)"^^xsd:string .
+
+ns1:Steel_Gem a ns1:Item ;
+    ns1:japaneseName "はがねのジュエル"^^xsd:string ;
+    ns1:name "Steel Gem"^^xsd:string .
+
+ns1:Steel_Mail a ns1:Item ;
+    ns1:japaneseName "スチールメール"^^xsd:string ;
+    ns1:name "Steel Mail"^^xsd:string .
+
+ns1:Steel_Memory a ns1:Item ;
+    ns1:japaneseName "スチールメモリ"^^xsd:string ;
+    ns1:name "Steel Memory"^^xsd:string .
+
+ns1:Steel_Teeth a ns1:Item ;
+    ns1:name "Steel Teeth"^^xsd:string .
+
+ns1:Steel_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースはがね"^^xsd:string ;
+    ns1:name "Steel Tera Shard"^^xsd:string .
+
+ns1:Steelium_Z a ns1:Item ;
+    ns1:japaneseName "ハガネＺ"^^xsd:string ;
+    ns1:name "Steelium Z"^^xsd:string .
+
+ns1:Steelixite a ns1:Item ;
+    ns1:japaneseName "ハガネールナイト"^^xsd:string ;
+    ns1:name "Steelixite"^^xsd:string .
+
+ns1:Stellar_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースステラ"^^xsd:string ;
+    ns1:name "Stellar Tera Shard"^^xsd:string .
+
+ns1:Sticker_Case a ns1:Item ;
+    ns1:japaneseName "シールいれ"^^xsd:string ;
+    ns1:name "Sticker Case"^^xsd:string .
+
+ns1:Sticky_Barb a ns1:Item ;
+    ns1:name "Sticky Barb"^^xsd:string .
+
+ns1:Sticky_Glob a ns1:Item ;
+    ns1:japaneseName "ねばりだま"^^xsd:string ;
+    ns1:name "Sticky Glob"^^xsd:string .
+
+ns1:Stone_Plate a ns1:Item ;
+    ns1:japaneseName "がんせきプレート"^^xsd:string ;
+    ns1:name "Stone Plate"^^xsd:string .
+
+ns1:Storage_Key a ns1:Item ;
+    ns1:japaneseName "そうこのカギ"^^xsd:string ;
+    ns1:name "Storage Key"^^xsd:string .
+
+ns1:Strange_Ball a ns1:Item ;
+    ns1:japaneseName "ストレンジボール"^^xsd:string ;
+    ns1:name "Strange Ball"^^xsd:string .
+
+ns1:Strange_Souvenir a ns1:Item ;
+    ns1:japaneseName "ふしぎなおきもの"^^xsd:string ;
+    ns1:name "Strange Souvenir"^^xsd:string .
+
+ns1:Stratospheric_Slate a ns1:Item ;
+    ns1:name "Stratospheric Slate"^^xsd:string .
+
+ns1:Strawberry a ns1:Item ;
+    ns1:japaneseName "いちごスライス"^^xsd:string ;
+    ns1:name "Strawberry"^^xsd:string .
+
+ns1:Strawberry_Sweet a ns1:Item ;
+    ns1:japaneseName "いちごアメざいく"^^xsd:string ;
+    ns1:name "Strawberry Sweet"^^xsd:string .
+
+ns1:Stretchy_Spring a ns1:Item ;
+    ns1:japaneseName "のびたバネ"^^xsd:string ;
+    ns1:name "Stretchy Spring"^^xsd:string .
+
+ns1:Strib_Berry a ns1:Item ;
+    ns1:japaneseName "エドマのみ"^^xsd:string ;
+    ns1:name "Strib Berry"^^xsd:string .
+
+ns1:Striped_Bottle a ns1:Item ;
+    ns1:japaneseName "ストライプボトル"^^xsd:string ;
+    ns1:name "Striped Bottle"^^xsd:string .
+
+ns1:Striped_Chairs a ns1:Item ;
+    ns1:japaneseName "ストライプチェア"^^xsd:string ;
+    ns1:name "Striped Chairs"^^xsd:string .
+
+ns1:Striped_Cup a ns1:Item ;
+    ns1:japaneseName "たてストライプカップ"^^xsd:string ;
+    ns1:name "Striped Cup"^^xsd:string .
+
+ns1:Striped_Tablecloth a ns1:Item ;
+    ns1:japaneseName "ストライプクロス"^^xsd:string ;
+    ns1:name "Striped Tablecloth"^^xsd:string .
+
+ns1:Style_Card a ns1:Item ;
+    ns1:japaneseName "おしゃれカード"^^xsd:string ;
+    ns1:name "Style Card"^^xsd:string .
+
+ns1:Subway_Key a ns1:Item ;
+    ns1:japaneseName "ちかてつのカギ"^^xsd:string ;
+    ns1:name "Subway Key"^^xsd:string .
+
+ns1:Suicune_Treat a ns1:Item ;
+    ns1:japaneseName "スイクンのおやつ"^^xsd:string ;
+    ns1:name "Suicune Treat"^^xsd:string .
+
+ns1:Suite_Key a ns1:Item ;
+    ns1:japaneseName "ルームキー"^^xsd:string ;
+    ns1:name "Suite Key"^^xsd:string .
+
+ns1:Sun_Flute a ns1:Item ;
+    ns1:japaneseName "たいようのふえ"^^xsd:string ;
+    ns1:name "Sun Flute"^^xsd:string .
+
+ns1:Sun_Shard a ns1:Item ;
+    ns1:name "Sun Shard"^^xsd:string .
+
+ns1:Sun_Stone a ns1:Item ;
+    ns1:japaneseName "たいようのいし"^^xsd:string ;
+    ns1:name "Sun Stone"^^xsd:string .
+
+ns1:Sunrise_Flower_Pick a ns1:Item ;
+    ns1:japaneseName "あさやけおはなピック"^^xsd:string ;
+    ns1:name "Sunrise Flower Pick"^^xsd:string .
+
+ns1:Sunset_Flower_Pick a ns1:Item ;
+    ns1:japaneseName "ゆうやけおはなピック"^^xsd:string ;
+    ns1:name "Sunset Flower Pick"^^xsd:string .
+
+ns1:Super_Lure a ns1:Item ;
+    ns1:japaneseName "シルバーコロン"^^xsd:string ;
+    ns1:name "Super Lure"^^xsd:string .
+
+ns1:Super_Potion a ns1:Item ;
+    ns1:name "Super Potion"^^xsd:string .
+
+ns1:Super_Repel a ns1:Item ;
+    ns1:japaneseName "シルバースプレー"^^xsd:string ;
+    ns1:name "Super Repel"^^xsd:string .
+
+ns1:Super_Rod a ns1:Item ;
+    ns1:name "Super Rod"^^xsd:string .
+
+ns1:Superb_Remedy a ns1:Item ;
+    ns1:japaneseName "すごいカンポーやく"^^xsd:string ;
+    ns1:name "Superb Remedy"^^xsd:string .
+
+ns1:Surf_Mail a ns1:Item ;
+    ns1:japaneseName "なみのりメール"^^xsd:string ;
+    ns1:name "Surf Mail"^^xsd:string .
+
+ns1:Surge_Badge a ns1:Item ;
+    ns1:japaneseName "だいだいバッジ"^^xsd:string ;
+    ns1:name "Surge Badge"^^xsd:string .
+
+ns1:Surprise_Mulch a ns1:Item ;
+    ns1:japaneseName "びっくりこやし"^^xsd:string ;
+    ns1:name "Surprise Mulch"^^xsd:string .
+
+ns1:Survival_Charm a ns1:Item ;
+    ns1:japaneseName "あんぜんおまもり"^^xsd:string ;
+    ns1:name "Survival Charm"^^xsd:string .
+
+ns1:Swampertite a ns1:Item ;
+    ns1:japaneseName "ラグラージナイト"^^xsd:string ;
+    ns1:name "Swampertite"^^xsd:string .
+
+ns1:Swap_Snack a ns1:Item ;
+    ns1:japaneseName "あべこべやき"^^xsd:string ;
+    ns1:name "Swap Snack"^^xsd:string .
+
+ns1:Sweet_Apple a ns1:Item ;
+    ns1:japaneseName "あまーいりんご"^^xsd:string ;
+    ns1:name "Sweet Apple"^^xsd:string .
+
+ns1:Sweet_Heart a ns1:Item ;
+    ns1:japaneseName "ハートスイーツ"^^xsd:string ;
+    ns1:name "Sweet Heart"^^xsd:string .
+
+ns1:Sweet_Herba_Mystica a ns1:Item ;
+    ns1:japaneseName "ひでん：あまスパイス"^^xsd:string ;
+    ns1:name "Sweet Herba Mystica"^^xsd:string .
+
+ns1:Swift_Feather a ns1:Item ;
+    ns1:japaneseName "しゅんぱつのハネ"^^xsd:string ;
+    ns1:name "Swift Feather"^^xsd:string .
+
+ns1:Swift_Mochi a ns1:Item ;
+    ns1:japaneseName "しゅんぱつのもち"^^xsd:string ;
+    ns1:name "Swift Mochi"^^xsd:string .
+
+ns1:Swordcap a ns1:Item ;
+    ns1:japaneseName "ツルギマイタケ"^^xsd:string ;
+    ns1:name "Swordcap"^^xsd:string .
+
+ns1:Synchro_Machine a ns1:Item ;
+    ns1:japaneseName "シンクロマシン"^^xsd:string ;
+    ns1:name "Synchro Machine"^^xsd:string .
+
+ns1:Syrupy_Apple a ns1:Item ;
+    ns1:japaneseName "みついりりんご"^^xsd:string ;
+    ns1:name "Syrupy Apple"^^xsd:string .
+
+ns1:System_Lever a ns1:Item ;
+    ns1:japaneseName "かいじょレバー"^^xsd:string ;
+    ns1:name "System Lever"^^xsd:string .
+
+ns1:TM00 a ns1:Item ;
+    ns1:japaneseName "わざマシン００"^^xsd:string ;
+    ns1:name "TM00"^^xsd:string .
+
+ns1:TM001 a ns1:Item ;
+    ns1:japaneseName "わざマシン００１"^^xsd:string ;
+    ns1:name "TM001"^^xsd:string .
+
+ns1:TM002 a ns1:Item ;
+    ns1:japaneseName "わざマシン００２"^^xsd:string ;
+    ns1:name "TM002"^^xsd:string .
+
+ns1:TM003 a ns1:Item ;
+    ns1:japaneseName "わざマシン００３"^^xsd:string ;
+    ns1:name "TM003"^^xsd:string .
+
+ns1:TM004 a ns1:Item ;
+    ns1:japaneseName "わざマシン００４"^^xsd:string ;
+    ns1:name "TM004"^^xsd:string .
+
+ns1:TM005 a ns1:Item ;
+    ns1:japaneseName "わざマシン００５"^^xsd:string ;
+    ns1:name "TM005"^^xsd:string .
+
+ns1:TM006 a ns1:Item ;
+    ns1:japaneseName "わざマシン００６"^^xsd:string ;
+    ns1:name "TM006"^^xsd:string .
+
+ns1:TM007 a ns1:Item ;
+    ns1:japaneseName "わざマシン００７"^^xsd:string ;
+    ns1:name "TM007"^^xsd:string .
+
+ns1:TM008 a ns1:Item ;
+    ns1:japaneseName "わざマシン００８"^^xsd:string ;
+    ns1:name "TM008"^^xsd:string .
+
+ns1:TM009 a ns1:Item ;
+    ns1:japaneseName "わざマシン００９"^^xsd:string ;
+    ns1:name "TM009"^^xsd:string .
+
+ns1:TM010 a ns1:Item ;
+    ns1:japaneseName "わざマシン０１０"^^xsd:string ;
+    ns1:name "TM010"^^xsd:string .
+
+ns1:TM011 a ns1:Item ;
+    ns1:japaneseName "わざマシン０１１"^^xsd:string ;
+    ns1:name "TM011"^^xsd:string .
+
+ns1:TM012 a ns1:Item ;
+    ns1:japaneseName "わざマシン０１２"^^xsd:string ;
+    ns1:name "TM012"^^xsd:string .
+
+ns1:TM013 a ns1:Item ;
+    ns1:japaneseName "わざマシン０１３"^^xsd:string ;
+    ns1:name "TM013"^^xsd:string .
+
+ns1:TM014 a ns1:Item ;
+    ns1:japaneseName "わざマシン０１４"^^xsd:string ;
+    ns1:name "TM014"^^xsd:string .
+
+ns1:TM015 a ns1:Item ;
+    ns1:japaneseName "わざマシン０１５"^^xsd:string ;
+    ns1:name "TM015"^^xsd:string .
+
+ns1:TM016 a ns1:Item ;
+    ns1:japaneseName "わざマシン０１６"^^xsd:string ;
+    ns1:name "TM016"^^xsd:string .
+
+ns1:TM017 a ns1:Item ;
+    ns1:japaneseName "わざマシン０１７"^^xsd:string ;
+    ns1:name "TM017"^^xsd:string .
+
+ns1:TM018 a ns1:Item ;
+    ns1:japaneseName "わざマシン０１８"^^xsd:string ;
+    ns1:name "TM018"^^xsd:string .
+
+ns1:TM019 a ns1:Item ;
+    ns1:japaneseName "わざマシン０１９"^^xsd:string ;
+    ns1:name "TM019"^^xsd:string .
+
+ns1:TM020 a ns1:Item ;
+    ns1:japaneseName "わざマシン０２０"^^xsd:string ;
+    ns1:name "TM020"^^xsd:string .
+
+ns1:TM021 a ns1:Item ;
+    ns1:japaneseName "わざマシン０２１"^^xsd:string ;
+    ns1:name "TM021"^^xsd:string .
+
+ns1:TM022 a ns1:Item ;
+    ns1:japaneseName "わざマシン０２２"^^xsd:string ;
+    ns1:name "TM022"^^xsd:string .
+
+ns1:TM023 a ns1:Item ;
+    ns1:japaneseName "わざマシン０２３"^^xsd:string ;
+    ns1:name "TM023"^^xsd:string .
+
+ns1:TM024 a ns1:Item ;
+    ns1:japaneseName "わざマシン０２４"^^xsd:string ;
+    ns1:name "TM024"^^xsd:string .
+
+ns1:TM025 a ns1:Item ;
+    ns1:japaneseName "わざマシン０２５"^^xsd:string ;
+    ns1:name "TM025"^^xsd:string .
+
+ns1:TM026 a ns1:Item ;
+    ns1:japaneseName "わざマシン０２６"^^xsd:string ;
+    ns1:name "TM026"^^xsd:string .
+
+ns1:TM027 a ns1:Item ;
+    ns1:japaneseName "わざマシン０２７"^^xsd:string ;
+    ns1:name "TM027"^^xsd:string .
+
+ns1:TM028 a ns1:Item ;
+    ns1:japaneseName "わざマシン０２８"^^xsd:string ;
+    ns1:name "TM028"^^xsd:string .
+
+ns1:TM029 a ns1:Item ;
+    ns1:japaneseName "わざマシン０２９"^^xsd:string ;
+    ns1:name "TM029"^^xsd:string .
+
+ns1:TM030 a ns1:Item ;
+    ns1:japaneseName "わざマシン０３０"^^xsd:string ;
+    ns1:name "TM030"^^xsd:string .
+
+ns1:TM031 a ns1:Item ;
+    ns1:japaneseName "わざマシン０３１"^^xsd:string ;
+    ns1:name "TM031"^^xsd:string .
+
+ns1:TM032 a ns1:Item ;
+    ns1:japaneseName "わざマシン０３２"^^xsd:string ;
+    ns1:name "TM032"^^xsd:string .
+
+ns1:TM033 a ns1:Item ;
+    ns1:japaneseName "わざマシン０３３"^^xsd:string ;
+    ns1:name "TM033"^^xsd:string .
+
+ns1:TM034 a ns1:Item ;
+    ns1:japaneseName "わざマシン０３４"^^xsd:string ;
+    ns1:name "TM034"^^xsd:string .
+
+ns1:TM035 a ns1:Item ;
+    ns1:japaneseName "わざマシン０３５"^^xsd:string ;
+    ns1:name "TM035"^^xsd:string .
+
+ns1:TM036 a ns1:Item ;
+    ns1:japaneseName "わざマシン０３６"^^xsd:string ;
+    ns1:name "TM036"^^xsd:string .
+
+ns1:TM037 a ns1:Item ;
+    ns1:japaneseName "わざマシン０３７"^^xsd:string ;
+    ns1:name "TM037"^^xsd:string .
+
+ns1:TM038 a ns1:Item ;
+    ns1:japaneseName "わざマシン０３８"^^xsd:string ;
+    ns1:name "TM038"^^xsd:string .
+
+ns1:TM039 a ns1:Item ;
+    ns1:japaneseName "わざマシン０３９"^^xsd:string ;
+    ns1:name "TM039"^^xsd:string .
+
+ns1:TM040 a ns1:Item ;
+    ns1:japaneseName "わざマシン０４０"^^xsd:string ;
+    ns1:name "TM040"^^xsd:string .
+
+ns1:TM041 a ns1:Item ;
+    ns1:japaneseName "わざマシン０４１"^^xsd:string ;
+    ns1:name "TM041"^^xsd:string .
+
+ns1:TM042 a ns1:Item ;
+    ns1:japaneseName "わざマシン０４２"^^xsd:string ;
+    ns1:name "TM042"^^xsd:string .
+
+ns1:TM043 a ns1:Item ;
+    ns1:japaneseName "わざマシン０４３"^^xsd:string ;
+    ns1:name "TM043"^^xsd:string .
+
+ns1:TM044 a ns1:Item ;
+    ns1:japaneseName "わざマシン０４４"^^xsd:string ;
+    ns1:name "TM044"^^xsd:string .
+
+ns1:TM045 a ns1:Item ;
+    ns1:japaneseName "わざマシン０４５"^^xsd:string ;
+    ns1:name "TM045"^^xsd:string .
+
+ns1:TM046 a ns1:Item ;
+    ns1:japaneseName "わざマシン０４６"^^xsd:string ;
+    ns1:name "TM046"^^xsd:string .
+
+ns1:TM047 a ns1:Item ;
+    ns1:japaneseName "わざマシン０４７"^^xsd:string ;
+    ns1:name "TM047"^^xsd:string .
+
+ns1:TM048 a ns1:Item ;
+    ns1:japaneseName "わざマシン０４８"^^xsd:string ;
+    ns1:name "TM048"^^xsd:string .
+
+ns1:TM049 a ns1:Item ;
+    ns1:japaneseName "わざマシン０４９"^^xsd:string ;
+    ns1:name "TM049"^^xsd:string .
+
+ns1:TM050 a ns1:Item ;
+    ns1:japaneseName "わざマシン０５０"^^xsd:string ;
+    ns1:name "TM050"^^xsd:string .
+
+ns1:TM051 a ns1:Item ;
+    ns1:japaneseName "わざマシン０５１"^^xsd:string ;
+    ns1:name "TM051"^^xsd:string .
+
+ns1:TM052 a ns1:Item ;
+    ns1:japaneseName "わざマシン０５２"^^xsd:string ;
+    ns1:name "TM052"^^xsd:string .
+
+ns1:TM053 a ns1:Item ;
+    ns1:japaneseName "わざマシン０５３"^^xsd:string ;
+    ns1:name "TM053"^^xsd:string .
+
+ns1:TM054 a ns1:Item ;
+    ns1:japaneseName "わざマシン０５４"^^xsd:string ;
+    ns1:name "TM054"^^xsd:string .
+
+ns1:TM055 a ns1:Item ;
+    ns1:japaneseName "わざマシン０５５"^^xsd:string ;
+    ns1:name "TM055"^^xsd:string .
+
+ns1:TM056 a ns1:Item ;
+    ns1:japaneseName "わざマシン０５６"^^xsd:string ;
+    ns1:name "TM056"^^xsd:string .
+
+ns1:TM057 a ns1:Item ;
+    ns1:japaneseName "わざマシン０５７"^^xsd:string ;
+    ns1:name "TM057"^^xsd:string .
+
+ns1:TM058 a ns1:Item ;
+    ns1:japaneseName "わざマシン０５８"^^xsd:string ;
+    ns1:name "TM058"^^xsd:string .
+
+ns1:TM059 a ns1:Item ;
+    ns1:japaneseName "わざマシン０５９"^^xsd:string ;
+    ns1:name "TM059"^^xsd:string .
+
+ns1:TM060 a ns1:Item ;
+    ns1:japaneseName "わざマシン０６０"^^xsd:string ;
+    ns1:name "TM060"^^xsd:string .
+
+ns1:TM061 a ns1:Item ;
+    ns1:japaneseName "わざマシン０６１"^^xsd:string ;
+    ns1:name "TM061"^^xsd:string .
+
+ns1:TM062 a ns1:Item ;
+    ns1:japaneseName "わざマシン０６２"^^xsd:string ;
+    ns1:name "TM062"^^xsd:string .
+
+ns1:TM063 a ns1:Item ;
+    ns1:japaneseName "わざマシン０６３"^^xsd:string ;
+    ns1:name "TM063"^^xsd:string .
+
+ns1:TM064 a ns1:Item ;
+    ns1:japaneseName "わざマシン０６４"^^xsd:string ;
+    ns1:name "TM064"^^xsd:string .
+
+ns1:TM065 a ns1:Item ;
+    ns1:japaneseName "わざマシン０６５"^^xsd:string ;
+    ns1:name "TM065"^^xsd:string .
+
+ns1:TM066 a ns1:Item ;
+    ns1:japaneseName "わざマシン０６６"^^xsd:string ;
+    ns1:name "TM066"^^xsd:string .
+
+ns1:TM067 a ns1:Item ;
+    ns1:japaneseName "わざマシン０６７"^^xsd:string ;
+    ns1:name "TM067"^^xsd:string .
+
+ns1:TM068 a ns1:Item ;
+    ns1:japaneseName "わざマシン０６８"^^xsd:string ;
+    ns1:name "TM068"^^xsd:string .
+
+ns1:TM069 a ns1:Item ;
+    ns1:japaneseName "わざマシン０６９"^^xsd:string ;
+    ns1:name "TM069"^^xsd:string .
+
+ns1:TM070 a ns1:Item ;
+    ns1:japaneseName "わざマシン０７０"^^xsd:string ;
+    ns1:name "TM070"^^xsd:string .
+
+ns1:TM071 a ns1:Item ;
+    ns1:japaneseName "わざマシン０７１"^^xsd:string ;
+    ns1:name "TM071"^^xsd:string .
+
+ns1:TM072 a ns1:Item ;
+    ns1:japaneseName "わざマシン０７２"^^xsd:string ;
+    ns1:name "TM072"^^xsd:string .
+
+ns1:TM073 a ns1:Item ;
+    ns1:japaneseName "わざマシン０７３"^^xsd:string ;
+    ns1:name "TM073"^^xsd:string .
+
+ns1:TM074 a ns1:Item ;
+    ns1:japaneseName "わざマシン０７４"^^xsd:string ;
+    ns1:name "TM074"^^xsd:string .
+
+ns1:TM075 a ns1:Item ;
+    ns1:japaneseName "わざマシン０７５"^^xsd:string ;
+    ns1:name "TM075"^^xsd:string .
+
+ns1:TM076 a ns1:Item ;
+    ns1:japaneseName "わざマシン０７６"^^xsd:string ;
+    ns1:name "TM076"^^xsd:string .
+
+ns1:TM077 a ns1:Item ;
+    ns1:japaneseName "わざマシン０７７"^^xsd:string ;
+    ns1:name "TM077"^^xsd:string .
+
+ns1:TM078 a ns1:Item ;
+    ns1:japaneseName "わざマシン０７８"^^xsd:string ;
+    ns1:name "TM078"^^xsd:string .
+
+ns1:TM079 a ns1:Item ;
+    ns1:japaneseName "わざマシン０７９"^^xsd:string ;
+    ns1:name "TM079"^^xsd:string .
+
+ns1:TM080 a ns1:Item ;
+    ns1:japaneseName "わざマシン０８０"^^xsd:string ;
+    ns1:name "TM080"^^xsd:string .
+
+ns1:TM081 a ns1:Item ;
+    ns1:japaneseName "わざマシン０８１"^^xsd:string ;
+    ns1:name "TM081"^^xsd:string .
+
+ns1:TM082 a ns1:Item ;
+    ns1:japaneseName "わざマシン０８２"^^xsd:string ;
+    ns1:name "TM082"^^xsd:string .
+
+ns1:TM083 a ns1:Item ;
+    ns1:japaneseName "わざマシン０８３"^^xsd:string ;
+    ns1:name "TM083"^^xsd:string .
+
+ns1:TM084 a ns1:Item ;
+    ns1:japaneseName "わざマシン０８４"^^xsd:string ;
+    ns1:name "TM084"^^xsd:string .
+
+ns1:TM085 a ns1:Item ;
+    ns1:japaneseName "わざマシン０８５"^^xsd:string ;
+    ns1:name "TM085"^^xsd:string .
+
+ns1:TM086 a ns1:Item ;
+    ns1:japaneseName "わざマシン０８６"^^xsd:string ;
+    ns1:name "TM086"^^xsd:string .
+
+ns1:TM087 a ns1:Item ;
+    ns1:japaneseName "わざマシン０８７"^^xsd:string ;
+    ns1:name "TM087"^^xsd:string .
+
+ns1:TM088 a ns1:Item ;
+    ns1:japaneseName "わざマシン０８８"^^xsd:string ;
+    ns1:name "TM088"^^xsd:string .
+
+ns1:TM089 a ns1:Item ;
+    ns1:japaneseName "わざマシン０８９"^^xsd:string ;
+    ns1:name "TM089"^^xsd:string .
+
+ns1:TM090 a ns1:Item ;
+    ns1:japaneseName "わざマシン０９０"^^xsd:string ;
+    ns1:name "TM090"^^xsd:string .
+
+ns1:TM091 a ns1:Item ;
+    ns1:japaneseName "わざマシン０９１"^^xsd:string ;
+    ns1:name "TM091"^^xsd:string .
+
+ns1:TM092 a ns1:Item ;
+    ns1:japaneseName "わざマシン０９２"^^xsd:string ;
+    ns1:name "TM092"^^xsd:string .
+
+ns1:TM093 a ns1:Item ;
+    ns1:japaneseName "わざマシン０９３"^^xsd:string ;
+    ns1:name "TM093"^^xsd:string .
+
+ns1:TM094 a ns1:Item ;
+    ns1:japaneseName "わざマシン０９４"^^xsd:string ;
+    ns1:name "TM094"^^xsd:string .
+
+ns1:TM095 a ns1:Item ;
+    ns1:japaneseName "わざマシン０９５"^^xsd:string ;
+    ns1:name "TM095"^^xsd:string .
+
+ns1:TM096 a ns1:Item ;
+    ns1:japaneseName "わざマシン０９６"^^xsd:string ;
+    ns1:name "TM096"^^xsd:string .
+
+ns1:TM097 a ns1:Item ;
+    ns1:japaneseName "わざマシン０９７"^^xsd:string ;
+    ns1:name "TM097"^^xsd:string .
+
+ns1:TM098 a ns1:Item ;
+    ns1:japaneseName "わざマシン０９８"^^xsd:string ;
+    ns1:name "TM098"^^xsd:string .
+
+ns1:TM099 a ns1:Item ;
+    ns1:japaneseName "わざマシン０９９"^^xsd:string ;
+    ns1:name "TM099"^^xsd:string .
+
+ns1:TM100 a ns1:Item ;
+    ns1:japaneseName "わざマシン１００"^^xsd:string ;
+    ns1:name "TM100"^^xsd:string .
+
+ns1:TM101 a ns1:Item ;
+    ns1:japaneseName "わざマシン１０１"^^xsd:string ;
+    ns1:name "TM101"^^xsd:string .
+
+ns1:TM102 a ns1:Item ;
+    ns1:japaneseName "わざマシン１０２"^^xsd:string ;
+    ns1:name "TM102"^^xsd:string .
+
+ns1:TM103 a ns1:Item ;
+    ns1:japaneseName "わざマシン１０３"^^xsd:string ;
+    ns1:name "TM103"^^xsd:string .
+
+ns1:TM104 a ns1:Item ;
+    ns1:japaneseName "わざマシン１０４"^^xsd:string ;
+    ns1:name "TM104"^^xsd:string .
+
+ns1:TM105 a ns1:Item ;
+    ns1:japaneseName "わざマシン１０５"^^xsd:string ;
+    ns1:name "TM105"^^xsd:string .
+
+ns1:TM106 a ns1:Item ;
+    ns1:japaneseName "わざマシン１０６"^^xsd:string ;
+    ns1:name "TM106"^^xsd:string .
+
+ns1:TM107 a ns1:Item ;
+    ns1:japaneseName "わざマシン１０７"^^xsd:string ;
+    ns1:name "TM107"^^xsd:string .
+
+ns1:TM108 a ns1:Item ;
+    ns1:japaneseName "わざマシン１０８"^^xsd:string ;
+    ns1:name "TM108"^^xsd:string .
+
+ns1:TM109 a ns1:Item ;
+    ns1:japaneseName "わざマシン１０９"^^xsd:string ;
+    ns1:name "TM109"^^xsd:string .
+
+ns1:TM110 a ns1:Item ;
+    ns1:japaneseName "わざマシン１１０"^^xsd:string ;
+    ns1:name "TM110"^^xsd:string .
+
+ns1:TM111 a ns1:Item ;
+    ns1:japaneseName "わざマシン１１１"^^xsd:string ;
+    ns1:name "TM111"^^xsd:string .
+
+ns1:TM112 a ns1:Item ;
+    ns1:japaneseName "わざマシン１１２"^^xsd:string ;
+    ns1:name "TM112"^^xsd:string .
+
+ns1:TM113 a ns1:Item ;
+    ns1:japaneseName "わざマシン１１３"^^xsd:string ;
+    ns1:name "TM113"^^xsd:string .
+
+ns1:TM114 a ns1:Item ;
+    ns1:japaneseName "わざマシン１１４"^^xsd:string ;
+    ns1:name "TM114"^^xsd:string .
+
+ns1:TM115 a ns1:Item ;
+    ns1:japaneseName "わざマシン１１５"^^xsd:string ;
+    ns1:name "TM115"^^xsd:string .
+
+ns1:TM116 a ns1:Item ;
+    ns1:japaneseName "わざマシン１１６"^^xsd:string ;
+    ns1:name "TM116"^^xsd:string .
+
+ns1:TM117 a ns1:Item ;
+    ns1:japaneseName "わざマシン１１７"^^xsd:string ;
+    ns1:name "TM117"^^xsd:string .
+
+ns1:TM118 a ns1:Item ;
+    ns1:japaneseName "わざマシン１１８"^^xsd:string ;
+    ns1:name "TM118"^^xsd:string .
+
+ns1:TM119 a ns1:Item ;
+    ns1:japaneseName "わざマシン１１９"^^xsd:string ;
+    ns1:name "TM119"^^xsd:string .
+
+ns1:TM120 a ns1:Item ;
+    ns1:japaneseName "わざマシン１２０"^^xsd:string ;
+    ns1:name "TM120"^^xsd:string .
+
+ns1:TM121 a ns1:Item ;
+    ns1:japaneseName "わざマシン１２１"^^xsd:string ;
+    ns1:name "TM121"^^xsd:string .
+
+ns1:TM122 a ns1:Item ;
+    ns1:japaneseName "わざマシン１２２"^^xsd:string ;
+    ns1:name "TM122"^^xsd:string .
+
+ns1:TM123 a ns1:Item ;
+    ns1:japaneseName "わざマシン１２３"^^xsd:string ;
+    ns1:name "TM123"^^xsd:string .
+
+ns1:TM124 a ns1:Item ;
+    ns1:japaneseName "わざマシン１２４"^^xsd:string ;
+    ns1:name "TM124"^^xsd:string .
+
+ns1:TM125 a ns1:Item ;
+    ns1:japaneseName "わざマシン１２５"^^xsd:string ;
+    ns1:name "TM125"^^xsd:string .
+
+ns1:TM126 a ns1:Item ;
+    ns1:japaneseName "わざマシン１２６"^^xsd:string ;
+    ns1:name "TM126"^^xsd:string .
+
+ns1:TM127 a ns1:Item ;
+    ns1:japaneseName "わざマシン１２７"^^xsd:string ;
+    ns1:name "TM127"^^xsd:string .
+
+ns1:TM128 a ns1:Item ;
+    ns1:japaneseName "わざマシン１２８"^^xsd:string ;
+    ns1:name "TM128"^^xsd:string .
+
+ns1:TM129 a ns1:Item ;
+    ns1:japaneseName "わざマシン１２９"^^xsd:string ;
+    ns1:name "TM129"^^xsd:string .
+
+ns1:TM130 a ns1:Item ;
+    ns1:japaneseName "わざマシン１３０"^^xsd:string ;
+    ns1:name "TM130"^^xsd:string .
+
+ns1:TM131 a ns1:Item ;
+    ns1:japaneseName "わざマシン１３１"^^xsd:string ;
+    ns1:name "TM131"^^xsd:string .
+
+ns1:TM132 a ns1:Item ;
+    ns1:japaneseName "わざマシン１３２"^^xsd:string ;
+    ns1:name "TM132"^^xsd:string .
+
+ns1:TM133 a ns1:Item ;
+    ns1:japaneseName "わざマシン１３３"^^xsd:string ;
+    ns1:name "TM133"^^xsd:string .
+
+ns1:TM134 a ns1:Item ;
+    ns1:japaneseName "わざマシン１３４"^^xsd:string ;
+    ns1:name "TM134"^^xsd:string .
+
+ns1:TM135 a ns1:Item ;
+    ns1:japaneseName "わざマシン１３５"^^xsd:string ;
+    ns1:name "TM135"^^xsd:string .
+
+ns1:TM136 a ns1:Item ;
+    ns1:japaneseName "わざマシン１３６"^^xsd:string ;
+    ns1:name "TM136"^^xsd:string .
+
+ns1:TM137 a ns1:Item ;
+    ns1:japaneseName "わざマシン１３７"^^xsd:string ;
+    ns1:name "TM137"^^xsd:string .
+
+ns1:TM138 a ns1:Item ;
+    ns1:japaneseName "わざマシン１３８"^^xsd:string ;
+    ns1:name "TM138"^^xsd:string .
+
+ns1:TM139 a ns1:Item ;
+    ns1:japaneseName "わざマシン１３９"^^xsd:string ;
+    ns1:name "TM139"^^xsd:string .
+
+ns1:TM140 a ns1:Item ;
+    ns1:japaneseName "わざマシン１４０"^^xsd:string ;
+    ns1:name "TM140"^^xsd:string .
+
+ns1:TM141 a ns1:Item ;
+    ns1:japaneseName "わざマシン１４１"^^xsd:string ;
+    ns1:name "TM141"^^xsd:string .
+
+ns1:TM142 a ns1:Item ;
+    ns1:japaneseName "わざマシン１４２"^^xsd:string ;
+    ns1:name "TM142"^^xsd:string .
+
+ns1:TM143 a ns1:Item ;
+    ns1:japaneseName "わざマシン１４３"^^xsd:string ;
+    ns1:name "TM143"^^xsd:string .
+
+ns1:TM144 a ns1:Item ;
+    ns1:japaneseName "わざマシン１４４"^^xsd:string ;
+    ns1:name "TM144"^^xsd:string .
+
+ns1:TM145 a ns1:Item ;
+    ns1:japaneseName "わざマシン１４５"^^xsd:string ;
+    ns1:name "TM145"^^xsd:string .
+
+ns1:TM146 a ns1:Item ;
+    ns1:japaneseName "わざマシン１４６"^^xsd:string ;
+    ns1:name "TM146"^^xsd:string .
+
+ns1:TM147 a ns1:Item ;
+    ns1:japaneseName "わざマシン１４７"^^xsd:string ;
+    ns1:name "TM147"^^xsd:string .
+
+ns1:TM148 a ns1:Item ;
+    ns1:japaneseName "わざマシン１４８"^^xsd:string ;
+    ns1:name "TM148"^^xsd:string .
+
+ns1:TM149 a ns1:Item ;
+    ns1:japaneseName "わざマシン１４９"^^xsd:string ;
+    ns1:name "TM149"^^xsd:string .
+
+ns1:TM150 a ns1:Item ;
+    ns1:japaneseName "わざマシン１５０"^^xsd:string ;
+    ns1:name "TM150"^^xsd:string .
+
+ns1:TM151 a ns1:Item ;
+    ns1:japaneseName "わざマシン１５１"^^xsd:string ;
+    ns1:name "TM151"^^xsd:string .
+
+ns1:TM152 a ns1:Item ;
+    ns1:japaneseName "わざマシン１５２"^^xsd:string ;
+    ns1:name "TM152"^^xsd:string .
+
+ns1:TM153 a ns1:Item ;
+    ns1:japaneseName "わざマシン１５３"^^xsd:string ;
+    ns1:name "TM153"^^xsd:string .
+
+ns1:TM154 a ns1:Item ;
+    ns1:japaneseName "わざマシン１５４"^^xsd:string ;
+    ns1:name "TM154"^^xsd:string .
+
+ns1:TM155 a ns1:Item ;
+    ns1:japaneseName "わざマシン１５５"^^xsd:string ;
+    ns1:name "TM155"^^xsd:string .
+
+ns1:TM156 a ns1:Item ;
+    ns1:japaneseName "わざマシン１５６"^^xsd:string ;
+    ns1:name "TM156"^^xsd:string .
+
+ns1:TM157 a ns1:Item ;
+    ns1:japaneseName "わざマシン１５７"^^xsd:string ;
+    ns1:name "TM157"^^xsd:string .
+
+ns1:TM158 a ns1:Item ;
+    ns1:japaneseName "わざマシン１５８"^^xsd:string ;
+    ns1:name "TM158"^^xsd:string .
+
+ns1:TM159 a ns1:Item ;
+    ns1:japaneseName "わざマシン１５９"^^xsd:string ;
+    ns1:name "TM159"^^xsd:string .
+
+ns1:TM160 a ns1:Item ;
+    ns1:japaneseName "わざマシン１６０"^^xsd:string ;
+    ns1:name "TM160"^^xsd:string .
+
+ns1:TM161 a ns1:Item ;
+    ns1:japaneseName "わざマシン１６１"^^xsd:string ;
+    ns1:name "TM161"^^xsd:string .
+
+ns1:TM162 a ns1:Item ;
+    ns1:japaneseName "わざマシン１６２"^^xsd:string ;
+    ns1:name "TM162"^^xsd:string .
+
+ns1:TM163 a ns1:Item ;
+    ns1:japaneseName "わざマシン１６３"^^xsd:string ;
+    ns1:name "TM163"^^xsd:string .
+
+ns1:TM164 a ns1:Item ;
+    ns1:japaneseName "わざマシン１６４"^^xsd:string ;
+    ns1:name "TM164"^^xsd:string .
+
+ns1:TM165 a ns1:Item ;
+    ns1:japaneseName "わざマシン１６５"^^xsd:string ;
+    ns1:name "TM165"^^xsd:string .
+
+ns1:TM166 a ns1:Item ;
+    ns1:japaneseName "わざマシン１６６"^^xsd:string ;
+    ns1:name "TM166"^^xsd:string .
+
+ns1:TM167 a ns1:Item ;
+    ns1:japaneseName "わざマシン１６７"^^xsd:string ;
+    ns1:name "TM167"^^xsd:string .
+
+ns1:TM168 a ns1:Item ;
+    ns1:japaneseName "わざマシン１６８"^^xsd:string ;
+    ns1:name "TM168"^^xsd:string .
+
+ns1:TM169 a ns1:Item ;
+    ns1:japaneseName "わざマシン１６９"^^xsd:string ;
+    ns1:name "TM169"^^xsd:string .
+
+ns1:TM170 a ns1:Item ;
+    ns1:japaneseName "わざマシン１７０"^^xsd:string ;
+    ns1:name "TM170"^^xsd:string .
+
+ns1:TM171 a ns1:Item ;
+    ns1:japaneseName "わざマシン１７１"^^xsd:string ;
+    ns1:name "TM171"^^xsd:string .
+
+ns1:TM172 a ns1:Item ;
+    ns1:japaneseName "わざマシン１７２"^^xsd:string ;
+    ns1:name "TM172"^^xsd:string .
+
+ns1:TM173 a ns1:Item ;
+    ns1:japaneseName "わざマシン１７３"^^xsd:string ;
+    ns1:name "TM173"^^xsd:string .
+
+ns1:TM174 a ns1:Item ;
+    ns1:japaneseName "わざマシン１７４"^^xsd:string ;
+    ns1:name "TM174"^^xsd:string .
+
+ns1:TM175 a ns1:Item ;
+    ns1:japaneseName "わざマシン１７５"^^xsd:string ;
+    ns1:name "TM175"^^xsd:string .
+
+ns1:TM176 a ns1:Item ;
+    ns1:japaneseName "わざマシン１７６"^^xsd:string ;
+    ns1:name "TM176"^^xsd:string .
+
+ns1:TM177 a ns1:Item ;
+    ns1:japaneseName "わざマシン１７７"^^xsd:string ;
+    ns1:name "TM177"^^xsd:string .
+
+ns1:TM178 a ns1:Item ;
+    ns1:japaneseName "わざマシン１７８"^^xsd:string ;
+    ns1:name "TM178"^^xsd:string .
+
+ns1:TM179 a ns1:Item ;
+    ns1:japaneseName "わざマシン１７９"^^xsd:string ;
+    ns1:name "TM179"^^xsd:string .
+
+ns1:TM180 a ns1:Item ;
+    ns1:japaneseName "わざマシン１８０"^^xsd:string ;
+    ns1:name "TM180"^^xsd:string .
+
+ns1:TM181 a ns1:Item ;
+    ns1:japaneseName "わざマシン１８１"^^xsd:string ;
+    ns1:name "TM181"^^xsd:string .
+
+ns1:TM182 a ns1:Item ;
+    ns1:japaneseName "わざマシン１８２"^^xsd:string ;
+    ns1:name "TM182"^^xsd:string .
+
+ns1:TM183 a ns1:Item ;
+    ns1:japaneseName "わざマシン１８３"^^xsd:string ;
+    ns1:name "TM183"^^xsd:string .
+
+ns1:TM184 a ns1:Item ;
+    ns1:japaneseName "わざマシン１８４"^^xsd:string ;
+    ns1:name "TM184"^^xsd:string .
+
+ns1:TM185 a ns1:Item ;
+    ns1:japaneseName "わざマシン１８５"^^xsd:string ;
+    ns1:name "TM185"^^xsd:string .
+
+ns1:TM186 a ns1:Item ;
+    ns1:japaneseName "わざマシン１８６"^^xsd:string ;
+    ns1:name "TM186"^^xsd:string .
+
+ns1:TM187 a ns1:Item ;
+    ns1:japaneseName "わざマシン１８７"^^xsd:string ;
+    ns1:name "TM187"^^xsd:string .
+
+ns1:TM188 a ns1:Item ;
+    ns1:japaneseName "わざマシン１８８"^^xsd:string ;
+    ns1:name "TM188"^^xsd:string .
+
+ns1:TM189 a ns1:Item ;
+    ns1:japaneseName "わざマシン１８９"^^xsd:string ;
+    ns1:name "TM189"^^xsd:string .
+
+ns1:TM190 a ns1:Item ;
+    ns1:japaneseName "わざマシン１９０"^^xsd:string ;
+    ns1:name "TM190"^^xsd:string .
+
+ns1:TM191 a ns1:Item ;
+    ns1:japaneseName "わざマシン１９１"^^xsd:string ;
+    ns1:name "TM191"^^xsd:string .
+
+ns1:TM192 a ns1:Item ;
+    ns1:japaneseName "わざマシン１９２"^^xsd:string ;
+    ns1:name "TM192"^^xsd:string .
+
+ns1:TM193 a ns1:Item ;
+    ns1:japaneseName "わざマシン１９３"^^xsd:string ;
+    ns1:name "TM193"^^xsd:string .
+
+ns1:TM194 a ns1:Item ;
+    ns1:japaneseName "わざマシン１９４"^^xsd:string ;
+    ns1:name "TM194"^^xsd:string .
+
+ns1:TM195 a ns1:Item ;
+    ns1:japaneseName "わざマシン１９５"^^xsd:string ;
+    ns1:name "TM195"^^xsd:string .
+
+ns1:TM196 a ns1:Item ;
+    ns1:japaneseName "わざマシン１９６"^^xsd:string ;
+    ns1:name "TM196"^^xsd:string .
+
+ns1:TM197 a ns1:Item ;
+    ns1:japaneseName "わざマシン１９７"^^xsd:string ;
+    ns1:name "TM197"^^xsd:string .
+
+ns1:TM198 a ns1:Item ;
+    ns1:japaneseName "わざマシン１９８"^^xsd:string ;
+    ns1:name "TM198"^^xsd:string .
+
+ns1:TM199 a ns1:Item ;
+    ns1:japaneseName "わざマシン１９９"^^xsd:string ;
+    ns1:name "TM199"^^xsd:string .
+
+ns1:TM200 a ns1:Item ;
+    ns1:japaneseName "わざマシン２００"^^xsd:string ;
+    ns1:name "TM200"^^xsd:string .
+
+ns1:TM201 a ns1:Item ;
+    ns1:japaneseName "わざマシン２０１"^^xsd:string ;
+    ns1:name "TM201"^^xsd:string .
+
+ns1:TM202 a ns1:Item ;
+    ns1:japaneseName "わざマシン２０２"^^xsd:string ;
+    ns1:name "TM202"^^xsd:string .
+
+ns1:TM203 a ns1:Item ;
+    ns1:japaneseName "わざマシン２０３"^^xsd:string ;
+    ns1:name "TM203"^^xsd:string .
+
+ns1:TM204 a ns1:Item ;
+    ns1:japaneseName "わざマシン２０４"^^xsd:string ;
+    ns1:name "TM204"^^xsd:string .
+
+ns1:TM205 a ns1:Item ;
+    ns1:japaneseName "わざマシン２０５"^^xsd:string ;
+    ns1:name "TM205"^^xsd:string .
+
+ns1:TM206 a ns1:Item ;
+    ns1:japaneseName "わざマシン２０６"^^xsd:string ;
+    ns1:name "TM206"^^xsd:string .
+
+ns1:TM207 a ns1:Item ;
+    ns1:japaneseName "わざマシン２０７"^^xsd:string ;
+    ns1:name "TM207"^^xsd:string .
+
+ns1:TM208 a ns1:Item ;
+    ns1:japaneseName "わざマシン２０８"^^xsd:string ;
+    ns1:name "TM208"^^xsd:string .
+
+ns1:TM209 a ns1:Item ;
+    ns1:japaneseName "わざマシン２０９"^^xsd:string ;
+    ns1:name "TM209"^^xsd:string .
+
+ns1:TM210 a ns1:Item ;
+    ns1:japaneseName "わざマシン２１０"^^xsd:string ;
+    ns1:name "TM210"^^xsd:string .
+
+ns1:TM211 a ns1:Item ;
+    ns1:japaneseName "わざマシン２１１"^^xsd:string ;
+    ns1:name "TM211"^^xsd:string .
+
+ns1:TM212 a ns1:Item ;
+    ns1:japaneseName "わざマシン２１２"^^xsd:string ;
+    ns1:name "TM212"^^xsd:string .
+
+ns1:TM213 a ns1:Item ;
+    ns1:japaneseName "わざマシン２１３"^^xsd:string ;
+    ns1:name "TM213"^^xsd:string .
+
+ns1:TM214 a ns1:Item ;
+    ns1:japaneseName "わざマシン２１４"^^xsd:string ;
+    ns1:name "TM214"^^xsd:string .
+
+ns1:TM215 a ns1:Item ;
+    ns1:japaneseName "わざマシン２１５"^^xsd:string ;
+    ns1:name "TM215"^^xsd:string .
+
+ns1:TM216 a ns1:Item ;
+    ns1:japaneseName "わざマシン２１６"^^xsd:string ;
+    ns1:name "TM216"^^xsd:string .
+
+ns1:TM217 a ns1:Item ;
+    ns1:japaneseName "わざマシン２１７"^^xsd:string ;
+    ns1:name "TM217"^^xsd:string .
+
+ns1:TM218 a ns1:Item ;
+    ns1:japaneseName "わざマシン２１８"^^xsd:string ;
+    ns1:name "TM218"^^xsd:string .
+
+ns1:TM219 a ns1:Item ;
+    ns1:japaneseName "わざマシン２１９"^^xsd:string ;
+    ns1:name "TM219"^^xsd:string .
+
+ns1:TM220 a ns1:Item ;
+    ns1:japaneseName "わざマシン２２０"^^xsd:string ;
+    ns1:name "TM220"^^xsd:string .
+
+ns1:TM221 a ns1:Item ;
+    ns1:japaneseName "わざマシン２２１"^^xsd:string ;
+    ns1:name "TM221"^^xsd:string .
+
+ns1:TM222 a ns1:Item ;
+    ns1:japaneseName "わざマシン２２２"^^xsd:string ;
+    ns1:name "TM222"^^xsd:string .
+
+ns1:TM223 a ns1:Item ;
+    ns1:japaneseName "わざマシン２２３"^^xsd:string ;
+    ns1:name "TM223"^^xsd:string .
+
+ns1:TM224 a ns1:Item ;
+    ns1:japaneseName "わざマシン２２４"^^xsd:string ;
+    ns1:name "TM224"^^xsd:string .
+
+ns1:TM225 a ns1:Item ;
+    ns1:japaneseName "わざマシン２２５"^^xsd:string ;
+    ns1:name "TM225"^^xsd:string .
+
+ns1:TM226 a ns1:Item ;
+    ns1:japaneseName "わざマシン２２６"^^xsd:string ;
+    ns1:name "TM226"^^xsd:string .
+
+ns1:TM227 a ns1:Item ;
+    ns1:japaneseName "わざマシン２２７"^^xsd:string ;
+    ns1:name "TM227"^^xsd:string .
+
+ns1:TM228 a ns1:Item ;
+    ns1:japaneseName "わざマシン２２８"^^xsd:string ;
+    ns1:name "TM228"^^xsd:string .
+
+ns1:TM229 a ns1:Item ;
+    ns1:japaneseName "わざマシン２２９"^^xsd:string ;
+    ns1:name "TM229"^^xsd:string .
+
+ns1:TMV_Pass a ns1:Item ;
+    ns1:japaneseName "TMVパス"^^xsd:string ;
+    ns1:name "TMV Pass"^^xsd:string .
+
+ns1:TM_Case a ns1:Item ;
+    ns1:japaneseName "わざマシンケース"^^xsd:string ;
+    ns1:name "TM Case"^^xsd:string .
+
+ns1:TR00 a ns1:Item ;
+    ns1:japaneseName "わざレコード００"^^xsd:string ;
+    ns1:name "TR00"^^xsd:string .
+
+ns1:TR01 a ns1:Item ;
+    ns1:japaneseName "わざレコード０１"^^xsd:string ;
+    ns1:name "TR01"^^xsd:string .
+
+ns1:TR02 a ns1:Item ;
+    ns1:japaneseName "わざレコード０２"^^xsd:string ;
+    ns1:name "TR02"^^xsd:string .
+
+ns1:TR03 a ns1:Item ;
+    ns1:japaneseName "わざレコード０３"^^xsd:string ;
+    ns1:name "TR03"^^xsd:string .
+
+ns1:TR04 a ns1:Item ;
+    ns1:japaneseName "わざレコード０４"^^xsd:string ;
+    ns1:name "TR04"^^xsd:string .
+
+ns1:TR05 a ns1:Item ;
+    ns1:japaneseName "わざレコード０５"^^xsd:string ;
+    ns1:name "TR05"^^xsd:string .
+
+ns1:TR06 a ns1:Item ;
+    ns1:japaneseName "わざレコード０６"^^xsd:string ;
+    ns1:name "TR06"^^xsd:string .
+
+ns1:TR07 a ns1:Item ;
+    ns1:japaneseName "わざレコード０７"^^xsd:string ;
+    ns1:name "TR07"^^xsd:string .
+
+ns1:TR08 a ns1:Item ;
+    ns1:japaneseName "わざレコード０８"^^xsd:string ;
+    ns1:name "TR08"^^xsd:string .
+
+ns1:TR09 a ns1:Item ;
+    ns1:japaneseName "わざレコード０９"^^xsd:string ;
+    ns1:name "TR09"^^xsd:string .
+
+ns1:TR10 a ns1:Item ;
+    ns1:japaneseName "わざレコード１０"^^xsd:string ;
+    ns1:name "TR10"^^xsd:string .
+
+ns1:TR11 a ns1:Item ;
+    ns1:japaneseName "わざレコード１１"^^xsd:string ;
+    ns1:name "TR11"^^xsd:string .
+
+ns1:TR12 a ns1:Item ;
+    ns1:japaneseName "わざレコード１２"^^xsd:string ;
+    ns1:name "TR12"^^xsd:string .
+
+ns1:TR13 a ns1:Item ;
+    ns1:japaneseName "わざレコード１３"^^xsd:string ;
+    ns1:name "TR13"^^xsd:string .
+
+ns1:TR14 a ns1:Item ;
+    ns1:japaneseName "わざレコード１４"^^xsd:string ;
+    ns1:name "TR14"^^xsd:string .
+
+ns1:TR15 a ns1:Item ;
+    ns1:japaneseName "わざレコード１５"^^xsd:string ;
+    ns1:name "TR15"^^xsd:string .
+
+ns1:TR16 a ns1:Item ;
+    ns1:japaneseName "わざレコード１６"^^xsd:string ;
+    ns1:name "TR16"^^xsd:string .
+
+ns1:TR17 a ns1:Item ;
+    ns1:japaneseName "わざレコード１７"^^xsd:string ;
+    ns1:name "TR17"^^xsd:string .
+
+ns1:TR18 a ns1:Item ;
+    ns1:japaneseName "わざレコード１８"^^xsd:string ;
+    ns1:name "TR18"^^xsd:string .
+
+ns1:TR19 a ns1:Item ;
+    ns1:japaneseName "わざレコード１９"^^xsd:string ;
+    ns1:name "TR19"^^xsd:string .
+
+ns1:TR20 a ns1:Item ;
+    ns1:japaneseName "わざレコード２０"^^xsd:string ;
+    ns1:name "TR20"^^xsd:string .
+
+ns1:TR21 a ns1:Item ;
+    ns1:japaneseName "わざレコード２１"^^xsd:string ;
+    ns1:name "TR21"^^xsd:string .
+
+ns1:TR22 a ns1:Item ;
+    ns1:japaneseName "わざレコード２２"^^xsd:string ;
+    ns1:name "TR22"^^xsd:string .
+
+ns1:TR23 a ns1:Item ;
+    ns1:japaneseName "わざレコード２３"^^xsd:string ;
+    ns1:name "TR23"^^xsd:string .
+
+ns1:TR24 a ns1:Item ;
+    ns1:japaneseName "わざレコード２４"^^xsd:string ;
+    ns1:name "TR24"^^xsd:string .
+
+ns1:TR25 a ns1:Item ;
+    ns1:japaneseName "わざレコード２５"^^xsd:string ;
+    ns1:name "TR25"^^xsd:string .
+
+ns1:TR26 a ns1:Item ;
+    ns1:japaneseName "わざレコード２６"^^xsd:string ;
+    ns1:name "TR26"^^xsd:string .
+
+ns1:TR27 a ns1:Item ;
+    ns1:japaneseName "わざレコード２７"^^xsd:string ;
+    ns1:name "TR27"^^xsd:string .
+
+ns1:TR28 a ns1:Item ;
+    ns1:japaneseName "わざレコード２８"^^xsd:string ;
+    ns1:name "TR28"^^xsd:string .
+
+ns1:TR29 a ns1:Item ;
+    ns1:japaneseName "わざレコード２９"^^xsd:string ;
+    ns1:name "TR29"^^xsd:string .
+
+ns1:TR30 a ns1:Item ;
+    ns1:japaneseName "わざレコード３０"^^xsd:string ;
+    ns1:name "TR30"^^xsd:string .
+
+ns1:TR31 a ns1:Item ;
+    ns1:japaneseName "わざレコード３１"^^xsd:string ;
+    ns1:name "TR31"^^xsd:string .
+
+ns1:TR32 a ns1:Item ;
+    ns1:japaneseName "わざレコード３２"^^xsd:string ;
+    ns1:name "TR32"^^xsd:string .
+
+ns1:TR33 a ns1:Item ;
+    ns1:japaneseName "わざレコード３３"^^xsd:string ;
+    ns1:name "TR33"^^xsd:string .
+
+ns1:TR34 a ns1:Item ;
+    ns1:japaneseName "わざレコード３４"^^xsd:string ;
+    ns1:name "TR34"^^xsd:string .
+
+ns1:TR35 a ns1:Item ;
+    ns1:japaneseName "わざレコード３５"^^xsd:string ;
+    ns1:name "TR35"^^xsd:string .
+
+ns1:TR36 a ns1:Item ;
+    ns1:japaneseName "わざレコード３６"^^xsd:string ;
+    ns1:name "TR36"^^xsd:string .
+
+ns1:TR37 a ns1:Item ;
+    ns1:japaneseName "わざレコード３７"^^xsd:string ;
+    ns1:name "TR37"^^xsd:string .
+
+ns1:TR38 a ns1:Item ;
+    ns1:japaneseName "わざレコード３８"^^xsd:string ;
+    ns1:name "TR38"^^xsd:string .
+
+ns1:TR39 a ns1:Item ;
+    ns1:japaneseName "わざレコード３９"^^xsd:string ;
+    ns1:name "TR39"^^xsd:string .
+
+ns1:TR40 a ns1:Item ;
+    ns1:japaneseName "わざレコード４０"^^xsd:string ;
+    ns1:name "TR40"^^xsd:string .
+
+ns1:TR41 a ns1:Item ;
+    ns1:japaneseName "わざレコード４１"^^xsd:string ;
+    ns1:name "TR41"^^xsd:string .
+
+ns1:TR42 a ns1:Item ;
+    ns1:japaneseName "わざレコード４２"^^xsd:string ;
+    ns1:name "TR42"^^xsd:string .
+
+ns1:TR43 a ns1:Item ;
+    ns1:japaneseName "わざレコード４３"^^xsd:string ;
+    ns1:name "TR43"^^xsd:string .
+
+ns1:TR44 a ns1:Item ;
+    ns1:japaneseName "わざレコード４４"^^xsd:string ;
+    ns1:name "TR44"^^xsd:string .
+
+ns1:TR45 a ns1:Item ;
+    ns1:japaneseName "わざレコード４５"^^xsd:string ;
+    ns1:name "TR45"^^xsd:string .
+
+ns1:TR46 a ns1:Item ;
+    ns1:japaneseName "わざレコード４６"^^xsd:string ;
+    ns1:name "TR46"^^xsd:string .
+
+ns1:TR47 a ns1:Item ;
+    ns1:japaneseName "わざレコード４７"^^xsd:string ;
+    ns1:name "TR47"^^xsd:string .
+
+ns1:TR48 a ns1:Item ;
+    ns1:japaneseName "わざレコード４８"^^xsd:string ;
+    ns1:name "TR48"^^xsd:string .
+
+ns1:TR49 a ns1:Item ;
+    ns1:japaneseName "わざレコード４９"^^xsd:string ;
+    ns1:name "TR49"^^xsd:string .
+
+ns1:TR50 a ns1:Item ;
+    ns1:japaneseName "わざレコード５０"^^xsd:string ;
+    ns1:name "TR50"^^xsd:string .
+
+ns1:TR51 a ns1:Item ;
+    ns1:japaneseName "わざレコード５１"^^xsd:string ;
+    ns1:name "TR51"^^xsd:string .
+
+ns1:TR52 a ns1:Item ;
+    ns1:japaneseName "わざレコード５２"^^xsd:string ;
+    ns1:name "TR52"^^xsd:string .
+
+ns1:TR53 a ns1:Item ;
+    ns1:japaneseName "わざレコード５３"^^xsd:string ;
+    ns1:name "TR53"^^xsd:string .
+
+ns1:TR54 a ns1:Item ;
+    ns1:japaneseName "わざレコード５４"^^xsd:string ;
+    ns1:name "TR54"^^xsd:string .
+
+ns1:TR55 a ns1:Item ;
+    ns1:japaneseName "わざレコード５５"^^xsd:string ;
+    ns1:name "TR55"^^xsd:string .
+
+ns1:TR56 a ns1:Item ;
+    ns1:japaneseName "わざレコード５６"^^xsd:string ;
+    ns1:name "TR56"^^xsd:string .
+
+ns1:TR57 a ns1:Item ;
+    ns1:japaneseName "わざレコード５７"^^xsd:string ;
+    ns1:name "TR57"^^xsd:string .
+
+ns1:TR58 a ns1:Item ;
+    ns1:japaneseName "わざレコード５８"^^xsd:string ;
+    ns1:name "TR58"^^xsd:string .
+
+ns1:TR59 a ns1:Item ;
+    ns1:japaneseName "わざレコード５９"^^xsd:string ;
+    ns1:name "TR59"^^xsd:string .
+
+ns1:TR60 a ns1:Item ;
+    ns1:japaneseName "わざレコード６０"^^xsd:string ;
+    ns1:name "TR60"^^xsd:string .
+
+ns1:TR61 a ns1:Item ;
+    ns1:japaneseName "わざレコード６１"^^xsd:string ;
+    ns1:name "TR61"^^xsd:string .
+
+ns1:TR62 a ns1:Item ;
+    ns1:japaneseName "わざレコード６２"^^xsd:string ;
+    ns1:name "TR62"^^xsd:string .
+
+ns1:TR63 a ns1:Item ;
+    ns1:japaneseName "わざレコード６３"^^xsd:string ;
+    ns1:name "TR63"^^xsd:string .
+
+ns1:TR64 a ns1:Item ;
+    ns1:japaneseName "わざレコード６４"^^xsd:string ;
+    ns1:name "TR64"^^xsd:string .
+
+ns1:TR65 a ns1:Item ;
+    ns1:japaneseName "わざレコード６５"^^xsd:string ;
+    ns1:name "TR65"^^xsd:string .
+
+ns1:TR66 a ns1:Item ;
+    ns1:japaneseName "わざレコード６６"^^xsd:string ;
+    ns1:name "TR66"^^xsd:string .
+
+ns1:TR67 a ns1:Item ;
+    ns1:japaneseName "わざレコード６７"^^xsd:string ;
+    ns1:name "TR67"^^xsd:string .
+
+ns1:TR68 a ns1:Item ;
+    ns1:japaneseName "わざレコード６８"^^xsd:string ;
+    ns1:name "TR68"^^xsd:string .
+
+ns1:TR69 a ns1:Item ;
+    ns1:japaneseName "わざレコード６９"^^xsd:string ;
+    ns1:name "TR69"^^xsd:string .
+
+ns1:TR70 a ns1:Item ;
+    ns1:japaneseName "わざレコード７０"^^xsd:string ;
+    ns1:name "TR70"^^xsd:string .
+
+ns1:TR71 a ns1:Item ;
+    ns1:japaneseName "わざレコード７１"^^xsd:string ;
+    ns1:name "TR71"^^xsd:string .
+
+ns1:TR72 a ns1:Item ;
+    ns1:japaneseName "わざレコード７２"^^xsd:string ;
+    ns1:name "TR72"^^xsd:string .
+
+ns1:TR73 a ns1:Item ;
+    ns1:japaneseName "わざレコード７３"^^xsd:string ;
+    ns1:name "TR73"^^xsd:string .
+
+ns1:TR74 a ns1:Item ;
+    ns1:japaneseName "わざレコード７４"^^xsd:string ;
+    ns1:name "TR74"^^xsd:string .
+
+ns1:TR75 a ns1:Item ;
+    ns1:japaneseName "わざレコード７５"^^xsd:string ;
+    ns1:name "TR75"^^xsd:string .
+
+ns1:TR76 a ns1:Item ;
+    ns1:japaneseName "わざレコード７６"^^xsd:string ;
+    ns1:name "TR76"^^xsd:string .
+
+ns1:TR77 a ns1:Item ;
+    ns1:japaneseName "わざレコード７７"^^xsd:string ;
+    ns1:name "TR77"^^xsd:string .
+
+ns1:TR78 a ns1:Item ;
+    ns1:japaneseName "わざレコード７８"^^xsd:string ;
+    ns1:name "TR78"^^xsd:string .
+
+ns1:TR79 a ns1:Item ;
+    ns1:japaneseName "わざレコード７９"^^xsd:string ;
+    ns1:name "TR79"^^xsd:string .
+
+ns1:TR80 a ns1:Item ;
+    ns1:japaneseName "わざレコード８０"^^xsd:string ;
+    ns1:name "TR80"^^xsd:string .
+
+ns1:TR81 a ns1:Item ;
+    ns1:japaneseName "わざレコード８１"^^xsd:string ;
+    ns1:name "TR81"^^xsd:string .
+
+ns1:TR82 a ns1:Item ;
+    ns1:japaneseName "わざレコード８２"^^xsd:string ;
+    ns1:name "TR82"^^xsd:string .
+
+ns1:TR83 a ns1:Item ;
+    ns1:japaneseName "わざレコード８３"^^xsd:string ;
+    ns1:name "TR83"^^xsd:string .
+
+ns1:TR84 a ns1:Item ;
+    ns1:japaneseName "わざレコード８４"^^xsd:string ;
+    ns1:name "TR84"^^xsd:string .
+
+ns1:TR85 a ns1:Item ;
+    ns1:japaneseName "わざレコード８５"^^xsd:string ;
+    ns1:name "TR85"^^xsd:string .
+
+ns1:TR86 a ns1:Item ;
+    ns1:japaneseName "わざレコード８６"^^xsd:string ;
+    ns1:name "TR86"^^xsd:string .
+
+ns1:TR87 a ns1:Item ;
+    ns1:japaneseName "わざレコード８７"^^xsd:string ;
+    ns1:name "TR87"^^xsd:string .
+
+ns1:TR88 a ns1:Item ;
+    ns1:japaneseName "わざレコード８８"^^xsd:string ;
+    ns1:name "TR88"^^xsd:string .
+
+ns1:TR89 a ns1:Item ;
+    ns1:japaneseName "わざレコード８９"^^xsd:string ;
+    ns1:name "TR89"^^xsd:string .
+
+ns1:TR90 a ns1:Item ;
+    ns1:japaneseName "わざレコード９０"^^xsd:string ;
+    ns1:name "TR90"^^xsd:string .
+
+ns1:TR91 a ns1:Item ;
+    ns1:japaneseName "わざレコード９１"^^xsd:string ;
+    ns1:name "TR91"^^xsd:string .
+
+ns1:TR92 a ns1:Item ;
+    ns1:japaneseName "わざレコード９２"^^xsd:string ;
+    ns1:name "TR92"^^xsd:string .
+
+ns1:TR93 a ns1:Item ;
+    ns1:japaneseName "わざレコード９３"^^xsd:string ;
+    ns1:name "TR93"^^xsd:string .
+
+ns1:TR94 a ns1:Item ;
+    ns1:japaneseName "わざレコード９４"^^xsd:string ;
+    ns1:name "TR94"^^xsd:string .
+
+ns1:TR95 a ns1:Item ;
+    ns1:japaneseName "わざレコード９５"^^xsd:string ;
+    ns1:name "TR95"^^xsd:string .
+
+ns1:TR96 a ns1:Item ;
+    ns1:japaneseName "わざレコード９６"^^xsd:string ;
+    ns1:name "TR96"^^xsd:string .
+
+ns1:TR97 a ns1:Item ;
+    ns1:japaneseName "わざレコード９７"^^xsd:string ;
+    ns1:name "TR97"^^xsd:string .
+
+ns1:TR98 a ns1:Item ;
+    ns1:japaneseName "わざレコード９８"^^xsd:string ;
+    ns1:name "TR98"^^xsd:string .
+
+ns1:TR99 a ns1:Item ;
+    ns1:japaneseName "わざレコード９９"^^xsd:string ;
+    ns1:name "TR99"^^xsd:string .
+
+ns1:Tamato_Berry a ns1:Item ;
+    ns1:japaneseName "マトマのみ"^^xsd:string ;
+    ns1:name "Tamato Berry"^^xsd:string .
+
+ns1:Tanga_Berry a ns1:Item ;
+    ns1:japaneseName "タンガのみ"^^xsd:string ;
+    ns1:name "Tanga Berry"^^xsd:string .
+
+ns1:Tapunium_Z a ns1:Item ;
+    ns1:japaneseName "カプＺ"^^xsd:string ;
+    ns1:name "Tapunium Z"^^xsd:string .
+
+ns1:Tart_Apple a ns1:Item ;
+    ns1:japaneseName "すっぱいりんご"^^xsd:string ;
+    ns1:name "Tart Apple"^^xsd:string .
+
+ns1:Tea a ns1:Item ;
+    ns1:japaneseName "おちゃ"^^xsd:string ;
+    ns1:name "Tea"^^xsd:string .
+
+ns1:Teachy_TV a ns1:Item ;
+    ns1:japaneseName "おしえテレビ"^^xsd:string ;
+    ns1:name "Teachy TV"^^xsd:string .
+
+ns1:Teal_Mask a ns1:Item ;
+    ns1:japaneseName "みどりのめん"^^xsd:string ;
+    ns1:name "Teal Mask"^^xsd:string .
+
+ns1:Teal_Style_Card a ns1:Item ;
+    ns1:japaneseName "おしゃれカードみどり"^^xsd:string ;
+    ns1:name "Teal Style Card"^^xsd:string .
+
+ns1:Tectonic_Slate a ns1:Item ;
+    ns1:name "Tectonic Slate"^^xsd:string .
+
+ns1:Tempting_Charm a ns1:Item ;
+    ns1:japaneseName "みがわりおまもり"^^xsd:string ;
+    ns1:name "Tempting Charm"^^xsd:string .
+
+ns1:Tera_Orb a ns1:Item ;
+    ns1:name "Tera Orb"^^xsd:string .
+
+ns1:Terrain_Extender a ns1:Item ;
+    ns1:japaneseName "グランドコート"^^xsd:string ;
+    ns1:name "Terrain Extender"^^xsd:string .
+
+ns1:Terrakion_Treat a ns1:Item ;
+    ns1:japaneseName "テラキオンのおやつ"^^xsd:string ;
+    ns1:name "Terrakion Treat"^^xsd:string .
+
+ns1:Teru-sama a ns1:Item ;
+    ns1:japaneseName "カビチュウ"^^xsd:string ;
+    ns1:name "Teru-sama"^^xsd:string .
+
+ns1:Thanks_Mail a ns1:Item ;
+    ns1:japaneseName "かんしゃメール"^^xsd:string ;
+    ns1:name "Thanks Mail"^^xsd:string .
+
+ns1:Thick_Club a ns1:Item ;
+    ns1:japaneseName "ふといホネ"^^xsd:string ;
+    ns1:name "Thick Club"^^xsd:string .
+
+ns1:Throat_Spray a ns1:Item ;
+    ns1:japaneseName "のどスプレー"^^xsd:string ;
+    ns1:name "Throat Spray"^^xsd:string .
+
+ns1:Thunder_Stone a ns1:Item ;
+    ns1:japaneseName "かみなりのいし"^^xsd:string ;
+    ns1:name "Thunder Stone"^^xsd:string .
+
+ns1:Tidal_Bell a ns1:Item ;
+    ns1:japaneseName "うみなりのスズ"^^xsd:string ;
+    ns1:name "Tidal Bell"^^xsd:string .
+
+ns1:Time_Balm a ns1:Item ;
+    ns1:japaneseName "ときのシズメダマ"^^xsd:string ;
+    ns1:name "Time Balm"^^xsd:string .
+
+ns1:Time_Flute a ns1:Item ;
+    ns1:japaneseName "ときのふえ"^^xsd:string ;
+    ns1:name "Time Flute"^^xsd:string .
+
+ns1:Timer_Ball a ns1:Item ;
+    ns1:japaneseName "タイマーボール"^^xsd:string ;
+    ns1:name "Timer Ball"^^xsd:string .
+
+ns1:Timid_Mint a ns1:Item ;
+    ns1:japaneseName "おくびょうミント"^^xsd:string ;
+    ns1:name "Timid Mint"^^xsd:string .
+
+ns1:Tin_of_Beans a ns1:Item ;
+    ns1:japaneseName "マメかん"^^xsd:string ;
+    ns1:name "Tin of Beans"^^xsd:string .
+
+ns1:Tiny_Bamboo_Shoot a ns1:Item ;
+    ns1:japaneseName "ちいさなタケノコ"^^xsd:string ;
+    ns1:name "Tiny Bamboo Shoot"^^xsd:string .
+
+ns1:Tiny_Mushroom a ns1:Item ;
+    ns1:japaneseName "ちいさなキノコ"^^xsd:string ;
+    ns1:name "Tiny Mushroom"^^xsd:string .
+
+ns1:Tofu a ns1:Item ;
+    ns1:japaneseName "トーフ"^^xsd:string ;
+    ns1:name "Tofu"^^xsd:string .
+
+ns1:Tomato a ns1:Item ;
+    ns1:japaneseName "トマトスライス"^^xsd:string ;
+    ns1:name "Tomato"^^xsd:string .
+
+ns1:Topo_Berry a ns1:Item ;
+    ns1:japaneseName "トポのみ"^^xsd:string ;
+    ns1:name "Topo Berry"^^xsd:string .
+
+ns1:Torn_Journal a ns1:Item ;
+    ns1:japaneseName "やぶれたにっき"^^xsd:string ;
+    ns1:name "Torn Journal"^^xsd:string .
+
+ns1:Touga_Berry a ns1:Item ;
+    ns1:japaneseName "トウガのみ"^^xsd:string ;
+    ns1:name "Touga Berry"^^xsd:string .
+
+ns1:Tough_Candy a ns1:Item ;
+    ns1:japaneseName "まもりのアメ"^^xsd:string ;
+    ns1:name "Tough Candy"^^xsd:string .
+
+ns1:Tough_Candy_L a ns1:Item ;
+    ns1:japaneseName "まもりのアメＬ"^^xsd:string ;
+    ns1:name "Tough Candy L"^^xsd:string .
+
+ns1:Tough_Candy_XL a ns1:Item ;
+    ns1:japaneseName "まもりのアメＸＬ"^^xsd:string ;
+    ns1:name "Tough Candy XL"^^xsd:string .
+
+ns1:Town_Map a ns1:Item ;
+    ns1:japaneseName "タウンマップ"^^xsd:string ;
+    ns1:name "Town Map"^^xsd:string .
+
+ns1:Toxic_Orb a ns1:Item ;
+    ns1:name "Toxic Orb"^^xsd:string .
+
+ns1:Toxic_Plate a ns1:Item ;
+    ns1:japaneseName "もうどくプレート"^^xsd:string ;
+    ns1:name "Toxic Plate"^^xsd:string .
+
+ns1:Tri-Pass a ns1:Item ;
+    ns1:japaneseName "トライパス"^^xsd:string ;
+    ns1:name "Tri-Pass"^^xsd:string .
+
+ns1:Tropic_Mail a ns1:Item ;
+    ns1:japaneseName "トロピカルメール"^^xsd:string ;
+    ns1:name "Tropic Mail"^^xsd:string .
+
+ns1:Tropical_Shell a ns1:Item ;
+    ns1:japaneseName "なんごくかいがら"^^xsd:string ;
+    ns1:name "Tropical Shell"^^xsd:string .
+
+ns1:Tumblestone a ns1:Item ;
+    ns1:japaneseName "たまいし"^^xsd:string ;
+    ns1:name "Tumblestone"^^xsd:string .
+
+ns1:Tunnel_Mail a ns1:Item ;
+    ns1:japaneseName "トンネルメール"^^xsd:string ;
+    ns1:name "Tunnel Mail"^^xsd:string .
+
+ns1:Twice-Spiced_Radish a ns1:Item ;
+    ns1:japaneseName "にばいづけ"^^xsd:string ;
+    ns1:name "Twice-Spiced Radish"^^xsd:string .
+
+ns1:Twisted_Spoon a ns1:Item ;
+    ns1:japaneseName "まがったスプーン"^^xsd:string ;
+    ns1:name "Twisted Spoon"^^xsd:string .
+
+ns1:Tyranitarite a ns1:Item ;
+    ns1:japaneseName "バンギラスナイト"^^xsd:string ;
+    ns1:name "Tyranitarite"^^xsd:string .
+
+ns1:U-Disk a ns1:Item ;
+    ns1:japaneseName "Ｕ－ディスク"^^xsd:string ;
+    ns1:name "U-Disk"^^xsd:string .
+
+ns1:Ultra_Ball a ns1:Item ;
+    ns1:japaneseName "ハイパーボール"^^xsd:string ;
+    ns1:name "Ultra Ball"^^xsd:string .
+
+ns1:Ultranecrozium_Z a ns1:Item ;
+    ns1:japaneseName "ウルトラネクロＺ"^^xsd:string ;
+    ns1:name "Ultranecrozium Z"^^xsd:string .
+
+ns1:Unown_Report a ns1:Item ;
+    ns1:japaneseName "アンノーンノート"^^xsd:string ;
+    ns1:name "Unown Report"^^xsd:string .
+
+ns1:Unremarkable_Teacup a ns1:Item ;
+    ns1:japaneseName "ボンサクのちゃわん"^^xsd:string ;
+    ns1:name "Unremarkable Teacup"^^xsd:string .
+
+ns1:Upgrade a ns1:Item ;
+    ns1:japaneseName "アップグレード"^^xsd:string ;
+    ns1:name "Upgrade"^^xsd:string .
+
+ns1:Utility_Umbrella a ns1:Item ;
+    ns1:japaneseName "ばんのうがさ"^^xsd:string ;
+    ns1:name "Utility Umbrella"^^xsd:string .
+
+ns1:Uxies_Claw a ns1:Item ;
+    ns1:japaneseName "ユクシーのつめ"^^xsd:string ;
+    ns1:name "Uxie's Claw"^^xsd:string .
+
+ns1:Vee-Vee_Pick a ns1:Item ;
+    ns1:japaneseName "ブイブイピック"^^xsd:string ;
+    ns1:name "Vee-Vee Pick"^^xsd:string .
+
+ns1:Venusaurite a ns1:Item ;
+    ns1:japaneseName "フシギバナイト"^^xsd:string ;
+    ns1:name "Venusaurite"^^xsd:string .
+
+ns1:Vinegar a ns1:Item ;
+    ns1:japaneseName "ビネガー"^^xsd:string ;
+    ns1:name "Vinegar"^^xsd:string .
+
+ns1:Violet_Book a ns1:Item ;
+    ns1:japaneseName "バイオレットブック"^^xsd:string ;
+    ns1:name "Violet Book"^^xsd:string .
+
+ns1:Virizion_Treat a ns1:Item ;
+    ns1:japaneseName "ビリジオンのおやつ"^^xsd:string ;
+    ns1:name "Virizion Treat"^^xsd:string .
+
+ns1:Vivichoke a ns1:Item ;
+    ns1:japaneseName "ゲンキノツボミ"^^xsd:string ;
+    ns1:name "Vivichoke"^^xsd:string .
+
+ns1:Vivid_Scent a ns1:Item ;
+    ns1:japaneseName "ドキドキのかおり"^^xsd:string ;
+    ns1:name "Vivid Scent"^^xsd:string .
+
+ns1:Voice_Case a ns1:Item ;
+    ns1:japaneseName "こえカプセル"^^xsd:string ;
+    ns1:name "Voice Case"^^xsd:string .
+
+ns1:Volcano_Balm a ns1:Item ;
+    ns1:japaneseName "かざんのシズメダマ"^^xsd:string ;
+    ns1:name "Volcano Balm"^^xsd:string .
+
+ns1:Vs_Recorder a ns1:Item ;
+    ns1:japaneseName "バトルレコーダー"^^xsd:string ;
+    ns1:name "Vs. Recorder"^^xsd:string .
+
+ns1:Vs_Seeker a ns1:Item ;
+    ns1:japaneseName "バトルサーチャー"^^xsd:string ;
+    ns1:name "Vs. Seeker"^^xsd:string .
+
+ns1:Wacan_Berry a ns1:Item ;
+    ns1:japaneseName "ソクノのみ"^^xsd:string ;
+    ns1:name "Wacan Berry"^^xsd:string .
+
+ns1:Wailmer_Pail a ns1:Item ;
+    ns1:name "Wailmer Pail"^^xsd:string .
+
+ns1:Wall_Fragment a ns1:Item ;
+    ns1:japaneseName "せきばんのかけら"^^xsd:string ;
+    ns1:name "Wall Fragment"^^xsd:string .
+
+ns1:Warding_Charm a ns1:Item ;
+    ns1:japaneseName "けんこうおまもり"^^xsd:string ;
+    ns1:name "Warding Charm"^^xsd:string .
+
+ns1:Wasabi a ns1:Item ;
+    ns1:japaneseName "ワサビソース"^^xsd:string ;
+    ns1:name "Wasabi"^^xsd:string .
+
+ns1:Water_Gem a ns1:Item ;
+    ns1:japaneseName "みずのジュエル"^^xsd:string ;
+    ns1:name "Water Gem"^^xsd:string .
+
+ns1:Water_Memory a ns1:Item ;
+    ns1:japaneseName "ウオーターメモリ"^^xsd:string ;
+    ns1:name "Water Memory"^^xsd:string .
+
+ns1:Water_Stone a ns1:Item ;
+    ns1:japaneseName "みずのいし"^^xsd:string ;
+    ns1:name "Water Stone"^^xsd:string .
+
+ns1:Water_Tera_Shard a ns1:Item ;
+    ns1:japaneseName "テラピースみず"^^xsd:string ;
+    ns1:name "Water Tera Shard"^^xsd:string .
+
+ns1:Watercress a ns1:Item ;
+    ns1:japaneseName "クレソン"^^xsd:string ;
+    ns1:name "Watercress"^^xsd:string .
+
+ns1:Waterium_Z a ns1:Item ;
+    ns1:japaneseName "ミズＺ"^^xsd:string ;
+    ns1:name "Waterium Z"^^xsd:string .
+
+ns1:Watmel_Berry a ns1:Item ;
+    ns1:japaneseName "カイスのみ"^^xsd:string ;
+    ns1:name "Watmel Berry"^^xsd:string .
+
+ns1:Wave_Incense a ns1:Item ;
+    ns1:japaneseName "さざなみのおこう"^^xsd:string ;
+    ns1:name "Wave Incense"^^xsd:string .
+
+ns1:Wave_Mail a ns1:Item ;
+    ns1:japaneseName "クロスメール"^^xsd:string ;
+    ns1:name "Wave Mail"^^xsd:string .
+
+ns1:Weakness_Policy a ns1:Item ;
+    ns1:japaneseName "じゃくてんほけん"^^xsd:string ;
+    ns1:name "Weakness Policy"^^xsd:string .
+
+ns1:Wellspring_Mask a ns1:Item ;
+    ns1:japaneseName "いどのめん"^^xsd:string ;
+    ns1:name "Wellspring Mask"^^xsd:string .
+
+ns1:Wepear_Berry a ns1:Item ;
+    ns1:japaneseName "セシナのみ"^^xsd:string ;
+    ns1:name "Wepear Berry"^^xsd:string .
+
+ns1:Whimsical_Chairs a ns1:Item ;
+    ns1:japaneseName "ファンシーチェア"^^xsd:string ;
+    ns1:name "Whimsical Chairs"^^xsd:string .
+
+ns1:Whimsical_Tablecloth a ns1:Item ;
+    ns1:japaneseName "ファンシークロス"^^xsd:string ;
+    ns1:name "Whimsical Tablecloth"^^xsd:string .
+
+ns1:Whipped_Cream a ns1:Item ;
+    ns1:japaneseName "ホイップクリーム"^^xsd:string ;
+    ns1:name "Whipped Cream"^^xsd:string .
+
+ns1:Whipped_Dream a ns1:Item ;
+    ns1:japaneseName "ホイップポップ"^^xsd:string ;
+    ns1:name "Whipped Dream"^^xsd:string .
+
+ns1:White_Apricorn a ns1:Item ;
+    ns1:japaneseName "しろぼんぐり"^^xsd:string ;
+    ns1:name "White Apricorn"^^xsd:string .
+
+ns1:White_Dish a ns1:Item ;
+    ns1:japaneseName "ホワイトプレート"^^xsd:string ;
+    ns1:name "White Dish"^^xsd:string .
+
+ns1:White_Flute a ns1:Item ;
+    ns1:japaneseName "しろいビードロ"^^xsd:string ;
+    ns1:name "White Flute"^^xsd:string .
+
+ns1:White_Herb a ns1:Item ;
+    ns1:japaneseName "しろいハーブ"^^xsd:string ;
+    ns1:name "White Herb"^^xsd:string .
+
+ns1:White_Mane_Hair a ns1:Item ;
+    ns1:name "White Mane Hair"^^xsd:string .
+
+ns1:Wide_Lens a ns1:Item ;
+    ns1:japaneseName "こうかくレンズ"^^xsd:string ;
+    ns1:name "Wide Lens"^^xsd:string .
+
+ns1:Wiki_Berry a ns1:Item ;
+    ns1:japaneseName "ウイのみ"^^xsd:string ;
+    ns1:name "Wiki Berry"^^xsd:string .
+
+ns1:Wing_Ball a ns1:Item ;
+    ns1:japaneseName "ウイングボール"^^xsd:string ;
+    ns1:name "Wing Ball"^^xsd:string .
+
+ns1:Winking_Pika_Pick a ns1:Item ;
+    ns1:japaneseName "パチピカピック"^^xsd:string ;
+    ns1:name "Winking Pika Pick"^^xsd:string .
+
+ns1:Wise_Glasses a ns1:Item ;
+    ns1:japaneseName "ものしりメガネ"^^xsd:string ;
+    ns1:name "Wise Glasses"^^xsd:string .
+
+ns1:Wishing_Piece a ns1:Item ;
+    ns1:japaneseName "ねがいのかたまり"^^xsd:string ;
+    ns1:name "Wishing Piece"^^xsd:string .
+
+ns1:Wishing_Star a ns1:Item ;
+    ns1:japaneseName "ねがいぼし"^^xsd:string ;
+    ns1:name "Wishing Star"^^xsd:string .
+
+ns1:Wood a ns1:Item ;
+    ns1:japaneseName "もくざい"^^xsd:string ;
+    ns1:name "Wood"^^xsd:string .
+
+ns1:Wood_Mail a ns1:Item ;
+    ns1:japaneseName "ウッディメール"^^xsd:string ;
+    ns1:name "Wood Mail"^^xsd:string .
+
+ns1:Wooden_Crown a ns1:Item ;
+    ns1:name "Wooden Crown"^^xsd:string .
+
+ns1:Works_Key a ns1:Item ;
+    ns1:japaneseName "はつでんしょキー"^^xsd:string ;
+    ns1:name "Works Key"^^xsd:string .
+
+ns1:X_Accuracy a ns1:Item ;
+    ns1:japaneseName "ヨクアタール"^^xsd:string ;
+    ns1:name "X Accuracy"^^xsd:string .
+
+ns1:X_Attack a ns1:Item ;
+    ns1:japaneseName "プラスパワー"^^xsd:string ;
+    ns1:name "X Attack"^^xsd:string .
+
+ns1:X_Defense a ns1:Item ;
+    ns1:japaneseName "ディフェンダー"^^xsd:string ;
+    ns1:name "X Defense"^^xsd:string .
+
+ns1:X_Sp_Atk a ns1:Item ;
+    ns1:japaneseName "スペシャルアップ"^^xsd:string ;
+    ns1:name "X Sp. Atk"^^xsd:string .
+
+ns1:X_Sp_Def a ns1:Item ;
+    ns1:japaneseName "スペシャルガード"^^xsd:string ;
+    ns1:name "X Sp. Def"^^xsd:string .
+
+ns1:X_Speed a ns1:Item ;
+    ns1:japaneseName "スピーダー"^^xsd:string ;
+    ns1:name "X Speed"^^xsd:string .
+
+ns1:Xtransceiver a ns1:Item ;
+    ns1:name "Xtransceiver"^^xsd:string .
+
+ns1:Yache_Berry a ns1:Item ;
+    ns1:japaneseName "ヤチェのみ"^^xsd:string ;
+    ns1:name "Yache Berry"^^xsd:string .
+
+ns1:Yago_Berry a ns1:Item ;
+    ns1:japaneseName "ヤゴのみ"^^xsd:string ;
+    ns1:name "Yago Berry"^^xsd:string .
+
+ns1:Yarn_Ball a ns1:Item ;
+    ns1:japaneseName "けいとボール"^^xsd:string ;
+    ns1:name "Yarn Ball"^^xsd:string .
+
+ns1:Yellow_Apricorn a ns1:Item ;
+    ns1:japaneseName "きぼんぐり"^^xsd:string ;
+    ns1:name "Yellow Apricorn"^^xsd:string .
+
+ns1:Yellow_Bell_Pepper a ns1:Item ;
+    ns1:japaneseName "きパプリカスライス"^^xsd:string ;
+    ns1:name "Yellow Bell Pepper"^^xsd:string .
+
+ns1:Yellow_Bottle a ns1:Item ;
+    ns1:japaneseName "イエローボトル"^^xsd:string ;
+    ns1:name "Yellow Bottle"^^xsd:string .
+
+ns1:Yellow_Chairs a ns1:Item ;
+    ns1:japaneseName "イエローチェア"^^xsd:string ;
+    ns1:name "Yellow Chairs"^^xsd:string .
+
+ns1:Yellow_Cup a ns1:Item ;
+    ns1:japaneseName "イエローカップ"^^xsd:string ;
+    ns1:name "Yellow Cup"^^xsd:string .
+
+ns1:Yellow_Dish a ns1:Item ;
+    ns1:japaneseName "イエロープレート"^^xsd:string ;
+    ns1:name "Yellow Dish"^^xsd:string .
+
+ns1:Yellow_Flute a ns1:Item ;
+    ns1:japaneseName "きいろビードロ"^^xsd:string ;
+    ns1:name "Yellow Flute"^^xsd:string .
+
+ns1:Yellow_Nectar a ns1:Item ;
+    ns1:japaneseName "やまぶきのミツ"^^xsd:string ;
+    ns1:name "Yellow Nectar"^^xsd:string .
+
+ns1:Yellow_Petal a ns1:Item ;
+    ns1:japaneseName "きいろのはなびら"^^xsd:string ;
+    ns1:name "Yellow Petal"^^xsd:string .
+
+ns1:Yellow_Scarf a ns1:Item ;
+    ns1:japaneseName "きいろのバンダナ"^^xsd:string ;
+    ns1:name "Yellow Scarf"^^xsd:string .
+
+ns1:Yellow_Shard a ns1:Item ;
+    ns1:japaneseName "きいろいかけら"^^xsd:string ;
+    ns1:name "Yellow Shard"^^xsd:string .
+
+ns1:Yellow_Tablecloth a ns1:Item ;
+    ns1:japaneseName "イエロークロス"^^xsd:string ;
+    ns1:name "Yellow Tablecloth"^^xsd:string .
+
+ns1:Ylw_ID_Badge a ns1:Item ;
+    ns1:japaneseName "ＩＤバッジきいろ"^^xsd:string ;
+    ns1:name "Ylw ID Badge"^^xsd:string .
+
+ns1:Yogurt a ns1:Item ;
+    ns1:japaneseName "ヨーグルト"^^xsd:string ;
+    ns1:name "Yogurt"^^xsd:string .
+
+ns1:Z-Power_Ring a ns1:Item ;
+    ns1:japaneseName "パワーリング"^^xsd:string ;
+    ns1:name "Z-Power Ring"^^xsd:string .
+
+ns1:Z-Ring a ns1:Item ;
+    ns1:japaneseName "リング"^^xsd:string ;
+    ns1:name "Z-Ring"^^xsd:string .
+
+ns1:Zap_Plate a ns1:Item ;
+    ns1:japaneseName "いかずちプレート"^^xsd:string ;
+    ns1:name "Zap Plate"^^xsd:string .
+
+ns1:Zapdos_Treat a ns1:Item ;
+    ns1:japaneseName "サンダーのおやつ"^^xsd:string ;
+    ns1:name "Zapdos Treat"^^xsd:string .
+
+ns1:Zekrom_Treat a ns1:Item ;
+    ns1:japaneseName "ゼクロムのおやつ"^^xsd:string ;
+    ns1:name "Zekrom Treat"^^xsd:string .
+
+ns1:Zinc a ns1:Item ;
+    ns1:japaneseName "キトサン"^^xsd:string ;
+    ns1:name "Zinc"^^xsd:string .
+
+ns1:Zoom_Lens a ns1:Item ;
+    ns1:japaneseName "フォーカスレンズ"^^xsd:string ;
+    ns1:name "Zoom Lens"^^xsd:string .
+
+ns1:Zygarde_Cube a ns1:Item ;
+    ns1:name "Zygarde Cube"^^xsd:string .
+

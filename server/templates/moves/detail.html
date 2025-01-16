@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Détails du Move - {{ move_details.name }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h1>{{ move_details.name }}</h1>
+    <p>Nom japonais : {{ move_details.japaneseName }}</p>
+
+    <h2>Liens associés</h2>
+    <ul>
+        {% for relatedTo in move_details.relatedToList %}
+            <li>{{ relatedTo }}</li>
+        {% endfor %}
+    </ul>
+
+    <a href="{{ url_for('move_list') }}">Retour à la liste des Moves</a>
+</body>
+</html>

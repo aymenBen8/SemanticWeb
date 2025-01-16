@@ -1,0 +1,3377 @@
+=== BEGIN INFODex ===
+
+|name=Adaptability
+|jpname=てきおうりょく
+|jptrans=Adaptability
+|jptranslit=Tekiōryoku
+|colorscheme=water
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Aerilate
+|jpname=スカイスキン 
+|jptrans=Sky Skin
+|jptranslit=Sukai Sukin
+|colorscheme=flying
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Aftermath</span>
+|jpname=<span style="color:#FFF">ゆうばく</span>
+|jptrans=<span style="color:#FFF">Induced Explosion</span>
+|jptranslit=Yūbaku
+|colorscheme=Poison
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Air Lock
+|jpname=エアロック
+|jptrans=Air Lock
+|jptranslit=Ea Rokku
+|colorscheme=flying
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Analytic
+|jpname=アナライズ
+|jptrans=Analyze
+|jptranslit=Anaraizu
+|colorscheme=Normal
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Anger Point
+|jpname=いかりのつぼ
+|jptrans=Anger Point
+|jptranslit=Ikari no Tsubo
+|colorscheme=attack
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Anger Shell
+|jpname=いかりのこうら
+|jptrans=Anger Shell
+|jptranslit=Ikari no Kōra
+|colorscheme=attack
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Anticipation
+|jpname=きけんよち
+|jptrans=Danger Premonition
+|jptranslit=Kikenyochi
+|colorscheme=fighting
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Arena Trap</span>
+|jpname=<span style="color:#FFF">ありじごく</span>
+|jptrans=<span style="color:#FFF">Antlion</span>
+|jptranslit=Arijigoku
+|colorscheme=ground
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Armor Tail
+|jpname=テイルアーマー
+|jptrans=Tail Armor
+|jptranslit=Teiru Āmā
+|colorscheme=psychic
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Aroma Veil
+|jpname=アロマベール 
+|jptrans=Aroma Veil
+|jptranslit=Aroma Bēru
+|colorscheme=fairy
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=As One
+|jpname=じんばいったい
+|jptrans=Rider and Mount in Unison
+|jptranslit=Jinba Ittai
+|colorscheme=psychic
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Aura Break</span>
+|jpname=<span style="color:#FFF">オーラブレイク</span>
+|jptrans=<span style="color:#FFF">Aura Break</span>
+|jptranslit=Ōra Bureiku
+|colorscheme=dragon
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Bad Dreams</span>
+|jpname=<span style="color:#FFF">ナイトメア</span>
+|jptrans=<span style="color:#FFF">Nightmare</span>
+|jptranslit=Naitomea
+|colorscheme=dark
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Ball Fetch
+|jpname=たまひろい
+|jptrans=Ball Fetch
+|jptranslit=Tama Hiroi
+|colorscheme=Poké Balls
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Battery</span>
+|jpname=<span style="color:#FFF">バッテリー</span>
+|jptrans=<span style="color:#FFF">Battery</span>
+|jptranslit=Batterī
+|colorscheme=special
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Battle Armor
+|jpname=カブトアーマー
+|jptrans=Kabuto Armor
+|jptranslit=Kabuto Āmā
+|colorscheme=rock
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Battle Bond
+|jpname=きずなへんげ
+|jptrans=Bond Transformation
+|jptranslit=Kizuna Henge
+|colorscheme=Water
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Beads of Ruin</span>
+|jpname=<span style="color:#FFF">わざわいのたま</span>
+|jptrans=<span style="color:#FFF">Beads of Ruin</span>
+|jptranslit=Wazawai no Tama
+|colorscheme=Special Defense
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Beast Boost
+|jpname=ビーストブースト
+|jptrans=Beast Boost
+|jptranslit=Bīsuto Būsuto
+|colorscheme=status
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Berserk
+|jpname=ぎゃくじょう
+|jptrans=Frenzy
+|jptranslit=Gyakujō
+|colorscheme=Special Attack
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Big Pecks
+|jpname=はとむね
+|jptrans=Pigeon Breast
+|jptranslit=Hatomune
+|colorscheme=defense
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Blaze</span>
+|jpname=<span style="color:#FFF">もうか</span>
+|jptrans=<span style="color:#FFF">Raging Flames</span>
+|jptranslit=Mōka
+|colorscheme=fire
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Bulletproof</span>
+|jpname=<span style="color:#FFF">ぼうだん</span>
+|jptrans=<span style="color:#FFF">Bulletproof</span>
+|jptranslit=Bōdan
+|colorscheme=special
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Cacophony
+|jpname=そうおん
+|jptranslit=Sōon
+|jptrans=Noise
+|colorscheme=???
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Cheek Pouch
+|jpname=ほおぶくろ
+|jptrans=Cheek Pouch
+|jptranslit=Hō Bukuro
+|colorscheme=berries
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Chilling Neigh
+|jpname=しろのいななき
+|jptrans=White Neigh
+|jptranslit=Shiro no Inanaki
+|colorscheme=ice
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Chlorophyll
+|jpname=ようりょくそ
+|jptrans=Chlorophyll
+|jptranslit=Yōryokuso
+|colorscheme=grass
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Clear Body
+|jpname=クリアボディ
+|jptrans=Clear Body
+|jptranslit=Kuria Bodi
+|colorscheme=status
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Cloud Nine
+|jpname=ノーてんき
+|jptrans=No Weather
+|jptranslit=Nō Tenki
+|colorscheme=Normal
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Color Change
+|jpname=へんしょく
+|jptrans=Color Change
+|jptranslit=Henshoku
+|colorscheme=arceus
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Comatose
+|jpname=ぜったいねむり
+|jptrans=Sure Sleeper
+|jptranslit=Zettai Nemuri
+|colorscheme=Status
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Commander</span>
+|jpname=<span style="color:#FFF">しれいとう</span>
+|jptrans=<span style="color:#FFF">Commander</span>
+|jptranslit=Shireitō
+|colorscheme=dragon
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Competitive
+|jpname=かちき
+|jptrans=Determined Spirit
+|jptranslit=Kachiki
+|colorscheme=special attack
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Compound Eyes
+|jpname=ふくがん
+|jptrans=Compound Eyes
+|jptranslit=Fukugan
+|colorscheme=bug
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Contrary
+|jpname=あまのじゃく
+|jptrans=Amanojaku
+|jptranslit=Amanojaku
+|colorscheme=Grass
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Corrosion</span>
+|jpname=<span style="color:#FFF">ふしょく</span>
+|jptrans=<span style="color:#FFF">Corrosion</span>
+|jptranslit=Fushoku
+|colorscheme=Poison
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Costar
+|jpname=きょうえん
+|jptrans=Costarring
+|jptranslit=Kyōen
+|colorscheme=status
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Cotton Down
+|jpname=わたげ
+|jptrans=Cotton Down
+|jptranslit=Watage
+|colorscheme=Grass
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Cud Chew
+|jpname=はんすう
+|jptrans=Cud Chew
+|jptranslit= Hansū
+|colorscheme=berries
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Curious Medicine</span>
+|jpname=<span style="color:#FFF">きみょうなくすり</span>
+|jptrans=<span style="color:#FFF">Curious Medicine</span>
+|jptranslit=Kimyō na Kusuri
+|colorscheme=poison
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Cursed Body</span>
+|jpname=<span style="color:#FFF">のろわれボディ</span>
+|jptrans=<span style="color:#FFF">Cursed Body</span>
+|jptranslit=Noroware Bodi
+|colorscheme=ghost
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Cute Charm
+|jpname=メロメロボディ
+|jptrans=Mad Love Body
+|jptranslit=Meromero Bodi
+|colorscheme=fairy
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Damp
+|jpname=しめりけ
+|jptrans=Moisture
+|jptranslit=Shimerike
+|colorscheme=water
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Dancer
+|jpname=おどりこ
+|jptrans=Dancer
+|jptranslit=Odoriko
+|colorscheme=Flying
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Dark Aura</span>
+|jpname=<span style="color:#FFF">ダークオーラ</span>
+|jptrans=<span style="color:#FFF">Dark Aura</span>
+|jptranslit=Dāku Ōra
+|colorscheme=dark
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Dauntless Shield
+|jpname=ふくつのたて
+|jptrans=Fortitude Shield
+|jptranslit=Fukutsu no Tate
+|colorscheme=Fighting
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Dazzling
+|jpname=ビビッドボディ
+|jptrans=Vivid Body
+|jptranslit=Bibiddo Bodi
+|colorscheme=Psychic
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Defeatist
+|jpname=よわき
+|jptrans=Timid
+|jptranslit=Yowaki
+|colorscheme=Rock
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Defiant
+|jpname=まけんき
+|jptrans=Competitive Spirit
+|jptranslit=Makenki
+|colorscheme=attack
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Delta Stream
+|jpname=デルタストリーム
+|jptrans=Delta Stream
+|jptranslit=Deruta Sutorīmu
+|colorscheme=flying
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Desolate Land</span>
+|jpname=<span style="color:#FFF">おわりのだいち</span>
+|jptrans=<span style="color:#FFF">Land of the End</span>
+|jptranslit=Owari no Daichi
+|colorscheme=fire
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Disguise
+|jpname=ばけのかわ
+|jptrans=Disguise
+|jptranslit=Bakenokawa
+|colorscheme=Ghost
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Download
+|jpname=ダウンロード
+|jptrans=Download
+|jptranslit=Daunrōdo
+|colorscheme=special attack
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Dragon's Maw</span>
+|jpname=<span style="color:#FFF">りゅうのあぎと</span>
+|jptrans=<span style="color:#FFF">Dragon's Jaw</span>
+|jptranslit=Ryū no Agito
+|colorscheme=dragon
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Drizzle
+|jpname=あめふらし
+|jptrans=Rainfall
+|jptranslit=Amefurashi
+|colorscheme=water
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Drought</span>
+|jpname=<span style="color:#FFF">ひでり</span>
+|jptrans=<span style="color:#FFF">Drought</span>
+|jptranslit=Hideri
+|colorscheme=fire
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Dry Skin
+|jpname=かんそうはだ
+|jptrans=Dry Skin
+|jptranslit=Kansō Hada
+|colorscheme=water
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Early Bird
+|jpname=はやおき
+|jptrans=Early Rising
+|jptranslit=Hayaoki
+|colorscheme=flying
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Earth Eater</span>
+|jpname=<span style="color:#FFF">どしょく</span>
+|jptrans=<span style="color:#FFF">Geophagy</span>
+|jptranslit=Doshoku
+|colorscheme=ground
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Effect Spore
+|jpname=ほうし
+|jptrans=Spore
+|jptranslit=Hōshi
+|colorscheme=grass
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Electric Surge
+|jpname=エレキメイカー
+|jptrans=Electric Maker
+|jptranslit=Ereki Meikā
+|colorscheme=Electric
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Electromorphosis 
+|jpname=でんきにかえる
+|jptrans=Change into Electricity
+|jptranslit=Denki ni Kaeru
+|colorscheme=electric
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Embody Aspect
+|jpname=おもかげやどし
+|jptrans=Bearing Visage
+|jptranslit=Omokage Yadoshi
+|colorscheme=grass
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Emergency Exit
+|jpname=ききかいひ
+|jptrans=Crisis Prevention
+|jptranslit=Kiki Kaihi
+|colorscheme=bug
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Fairy Aura
+|jpname=フェアリーオーラ
+|jptrans=Fairy Aura
+|jptranslit=Fearī Ōra
+|colorscheme=fairy
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Filter
+|jpname=フィルター
+|jptrans=Filter
+|jptranslit=Firutā
+|colorscheme=steel
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Flame Body</span>
+|jpname=<span style="color:#FFF">ほのおのからだ</span>
+|jptrans=<span style="color:#FFF">Flame Body</span>
+|jptranslit=Honō no Karada
+|colorscheme=fire
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Flare Boost</span>
+|jpname=<span style="color:#FFF">ねつぼうそう</span>
+|jptrans=<span style="color:#FFF">Thermal Runaway</span>
+|jptranslit=Netsu Bōsō
+|colorscheme=ghost
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Flash Fire</span>
+|jpname=<span style="color:#FFF">もらいび</span>
+|jptrans=<span style="color:#FFF">Received Fire</span>
+|jptranslit=Moraibi
+|colorscheme=fire
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Flower Gift
+|jpname=フラワーギフト
+|jptrans=Flower Gift
+|jptranslit=Furawā Gifuto
+|colorscheme=grass
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Flower Veil
+|jpname=フラワーベール
+|jptrans=Flower Veil
+|jptranslit=Furawā Bēru
+|colorscheme=Grass
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Fluffy</span>
+|jpname=<span style="color:#FFF">もふもふ</span>
+|jptrans=<span style="color:#FFF">Fluffy</span>
+|jptranslit=Mofumofu
+|colorscheme=Cute
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Forecast
+|jpname=てんきや
+|jptrans=Temperamental
+|jptranslit=Tenkiya
+|colorscheme=Normal
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Forewarn
+|jpname=よちむ
+|jptrans=Prophetic Dream
+|jptranslit=Yochimu
+|colorscheme=psychic
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Friend Guard
+|jpname=フレンドガード
+|jptrans=Friend Guard
+|jptranslit=Furendo Gādo
+|colorscheme=fairy
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Frisk
+|jpname=おみとおし
+|jptrans=Unobstructed Sight
+|jptranslit=Omitōshi
+|colorscheme=items
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Full Metal Body
+|jpname=メタルプロテクト
+|jptrans=Metal Protect
+|jptranslit=Metaru Purotekuto
+|colorscheme=Steel
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Fur Coat</span>
+|jpname=<span style="color:#FFF">ファーコート</span>
+|jptrans=<span style="color:#FFF">Fur Coat</span>
+|jptranslit=Fā Kōto
+|colorscheme=physical
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Gale Wings
+|jpname=はやてのつばさ
+|jptrans=Gale Wings
+|jptranslit=Hayate no Tsubasa
+|colorscheme=flying
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Galvanize
+|jpname=エレキスキン
+|jptrans=Electric Skin
+|jptranslit=Ereki Sukin
+|colorscheme=electric
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Gluttony
+|jpname=くいしんぼう
+|jptrans=Glutton
+|jptranslit=Kuishinbō
+|colorscheme=berries
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Good as Gold
+|jpname=おうごんのからだ
+|jptrans=Gold Body
+|jptranslit=Ōgon no Karada
+|colorscheme=gold
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Gooey</span>
+|jpname=<span style="color:#FFF">ぬめぬめ</span>
+|jptrans=<span style="color:#FFF">Gooey</span>
+|jptranslit=Numenume
+|colorscheme=dragon
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Gorilla Tactics
+|jpname=ごりむちゅう
+|jptrans=Obsessed Gorilla
+|jptranslit=Gori Muchū
+|colorscheme=attack
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Grass Pelt
+|jpname=くさのけがわ
+|jptrans=Grass Pelt
+|jptranslit=Kusa no Kegawa
+|colorscheme=grass
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Grassy Surge
+|jpname=グラスメイカー
+|jptrans=Grass Maker
+|jptranslit=Gurasu Meikā
+|colorscheme=Grass
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Grim Neigh</span>
+|jpname=<span style="color:#FFF">くろのいななき</span>
+|jptrans=<span style="color:#FFF">Black Neigh</span>
+|jptranslit=Kuro no Inanaki
+|colorscheme=ghost
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Guard Dog
+|jpname=ばんけん
+|jptrans=Guard Dog
+|jptranslit=Banken
+|colorscheme=attack
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Gulp Missile
+|jpname=うのミサイル
+|jptrans=Gulp Missile
+|jptranslit=U no Misairu
+|colorscheme=water
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Guts
+|jpname=こんじょう
+|jptrans=Guts
+|jptranslit=Konjō
+|colorscheme=attack
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Hadron Engine</span>
+|jpname=<span style="color:#FFF">ハドロンエンジン</span>
+|jptrans=<span style="color:#FFF">Hadron Engine</span>
+|jptranslit=Hadoron Enjin
+|colorscheme=Violet
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Harvest
+|jpname=しゅうかく
+|jptrans=Harvest
+|jptranslit=Shūkaku
+|colorscheme=berries
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Healer
+|jpname=いやしのこころ
+|jptrans=Healing Heart
+|jptranslit=Iyashi no Kokoro
+|colorscheme=normal
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Heatproof
+|jpname=たいねつ
+|jptrans=Heatproof
+|jptranslit=Tainetsu
+|colorscheme=steel
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Heavy Metal
+|jpname=ヘヴィメタル
+|jptrans=Heavy Metal
+|jptranslit=Hevi Metaru
+|colorscheme=steel
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Honey Gather
+|jpname=みつあつめ
+|jptrans=Honey Gather
+|jptranslit=Mitsu Atsume
+|colorscheme=gold
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Hospitality
+|jpname=おもてなし
+|jptrans=Hospitality
+|jptranslit=Omotenashi
+|colorscheme=HP
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Huge Power
+|jpname=ちからもち
+|jptrans=Muscleman
+|jptranslit=Chikaramochi
+|colorscheme=attack
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Hunger Switch
+|jpname=はらぺこスイッチ
+|jptrans=Hunger Switch
+|jptranslit=Harapeko Suitchi
+|colorscheme=electric
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Hustle
+|jpname=はりきり
+|jptranslit=Harikiri
+|jptrans=Enthusiasm
+|colorscheme=attack
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Hydration
+|jpname=うるおいボディ
+|jptranslit=Uruoi Bodi
+|jptrans=Moist Body
+|colorscheme=water
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Hyper Cutter
+|jpname=かいりきバサミ
+|jptrans=Superpowerful Claws
+|jptranslit=Kairiki Basami
+|colorscheme=attack
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Ice Body
+|jpname=アイスボディ
+|jptrans=Ice Body
+|jptranslit=Aisu Bodi
+|colorscheme=ice
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Ice Face
+|jpname=アイスフェイス 
+|jptrans=Ice Face
+|jptranslit=Aisu Feisu 
+|colorscheme=Ice
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Ice Scales
+|jpname=こおりのりんぷん
+|jptrans=Ice Scales
+|jptranslit=Kōri no Rinpun
+|colorscheme=Ice
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Illuminate
+|jpname=はっこう
+|jptranslit=Hakkō
+|jptrans=Luminescence
+|colorscheme=electric
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Illusion</span>
+|jpname=<span style="color:#FFF">イリュージョン</span>
+|jptrans=<span style="color:#FFF">Illusion</span>
+|jptranslit=Iryūjon
+|colorscheme=dark
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Immunity</span>
+|jpname=<span style="color:#FFF">めんえき</span>
+|jptrans=<span style="color:#FFF">Immunity</span>
+|jptranslit=Men'eki
+|colorscheme=poison
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Imposter
+|jpname=かわりもの
+|jptrans=Changer
+|jptranslit=Kawarimono
+|colorscheme=ditto egg
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Infiltrator
+|jpname=すりぬけ
+|jptranslit=Surinuke
+|jptrans=Slip Through
+|colorscheme=Flying
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Innards Out
+|jpname=とびだすなかみ
+|jptrans=Flying Innards
+|jptranslit=Tobidasu Nakami
+|colorscheme=Water
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Inner Focus
+|jpname=せいしんりょく
+|jptrans=Force of Will
+|jptranslit=Seishinryoku
+|colorscheme=fighting
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Insomnia
+|jpname=ふみん
+|jptranslit=Fumin
+|jptrans=Insomnia
+|colorscheme=status
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Intimidate
+|jpname=いかく
+|jptranslit=Ikaku
+|jptrans=Intimidate
+|colorscheme=attack
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Intrepid Sword
+|jpname=ふとうのけん
+|jptrans=Tenacity Sword
+|jptranslit=Futō no Ken
+|colorscheme=Fairy
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Iron Barbs
+|jpname=てつのトゲ
+|jptrans=Iron Thorns
+|jptranslit=Tetsu no Toge
+|colorscheme=steel
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Iron Fist
+|jpname=てつのこぶし
+|jptrans=Iron Fist
+|jptranslit=Tetsu no Kobushi
+|colorscheme=fighting
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Justified
+|jpname=せいぎのこころ
+|jptrans=Heart of Justice
+|jptranslit=Seigi no Kokoro
+|colorscheme=Fighting
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Keen Eye
+|jpname=するどいめ
+|jptrans=Keen Eye
+|jptranslit=Surudoi Me
+|colorscheme=flying
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Klutz
+|jpname=ぶきよう
+|jptrans=Clumsy
+|jptranslit=Bukiyō
+|colorscheme=items
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Leaf Guard
+|jpname=リーフガード
+|jptranslit=Rīfu Gādo
+|jptrans=Leaf Guard
+|colorscheme=grass
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Levitate
+|jpname=ふゆう
+|jptrans=Floating
+|jptranslit=Fuyū
+|colorscheme=flying
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Libero</span>
+|jpname=<span style="color:#FFF">リベロ</span>
+|jptrans=<span style="color:#FFF">Libero</span>
+|jptranslit=Ribero
+|colorscheme=Fire
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Light Metal
+|jpname=ライトメタル
+|jptrans=Light Metal
+|jptranslit=Raito Metaru
+|colorscheme=steel
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Lightning Rod
+|jpname=ひらいしん
+|jptrans=Lightning Rod
+|jptranslit=Hiraishin
+|colorscheme=electric
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Limber
+|jpname=じゅうなん
+|jptrans=Flexible
+|jptranslit=Jūnan
+|colorscheme=Electric
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Lingering Aroma
+|jpname=とれないにおい
+|jptrans=Lingering Scent
+|jptranslit=Torenai Nioi
+|colorscheme=normal
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Liquid Ooze</span>
+|jpname=<span style="color:#FFF">ヘドロえき</span>
+|jptrans=<span style="color:#FFF">Oozing Liquid</span>
+|jptranslit=Hedoro Eki
+|colorscheme=poison
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Liquid Voice
+|jpname=うるおいボイス
+|jptrans=Moist Voice
+|jptranslit=Uruoi Boisu
+|colorscheme=water
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Long Reach</span>
+|jpname=<span style="color:#FFF">えんかく</span>
+|jptrans=<span style="color:#FFF">Distant</span>
+|jptranslit=Enkaku
+|colorscheme=special
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Magic Bounce
+|jpname=マジックミラー
+|jptranslit=Majikku Mirā
+|jptrans=Magic Mirror
+|colorscheme=psychic
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Magic Guard
+|jpname=マジックガード
+|jptranslit=Majikku Gādo
+|jptrans=Magic Guard
+|colorscheme=psychic
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Magician
+|jpname=マジシャン
+|jptrans=Magician
+|jptranslit=Majishan
+|colorscheme=psychic
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Magma Armor</span>
+|jpname=<span style="color:#FFF">マグマのよろい</span>
+|jptrans=<span style="color:#FFF">Magma Armor</span>
+|jptranslit=Maguma no Yoroi
+|colorscheme=fire
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Magnet Pull
+|jpname=じりょく
+|jptrans=Magnetism
+|jptranslit=Jiryoku
+|colorscheme=steel
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Marvel Scale
+|jpname=ふしぎなうろこ
+|jptrans=Marvelous Scale
+|jptranslit=Fushigina Uroko
+|colorscheme=defense
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Mega Launcher</span>
+|jpname=<span style="color:#FFF">メガランチャー</span>
+|jptrans=<span style="color:#FFF">Mega Launcher</span>
+|jptranslit=Mega Ranchā
+|colorscheme=Special
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Merciless</span>
+|jpname=<span style="color:#FFF">ひとでなし</span>
+|jptrans=<span style="color:#FFF">Brute</span>
+|jptranslit=Hitodenashi
+|colorscheme=poison
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Mimicry
+|jpname=ぎたい
+|jptrans=Mimicry
+|jptranslit=Gitai
+|colorscheme=arceus
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Mind's Eye
+|jpname=しんがん
+|jptrans=Mind's Eye
+|jptranslit=Shingan
+|colorscheme=normal
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Minus
+|jpname=マイナス
+|jptrans=Minus
+|jptranslit=Mainasu
+|colorscheme=special attack
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Mirror Armor
+|jpname=ミラーアーマー
+|jptrans=Mirror Armor
+|jptranslit=Mirā Āmā
+|colorscheme=steel
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Misty Surge
+|jpname=ミストメイカー
+|jptrans=Mist Maker
+|jptranslit=Misuto Meikā
+|colorscheme=Fairy
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Mold Breaker
+|jpname=かたやぶり
+|jptranslit=Katayaburi
+|jptrans=Mold-Breaking
+|colorscheme=rock
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Moody
+|jpname=ムラっけ
+|jptrans=Caprice
+|jptranslit=Murakke
+|colorscheme=normal
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Motor Drive
+|jpname=でんきエンジン
+|jptrans=Electric Engine
+|jptranslit=Denki Enjin
+|colorscheme=electric
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Moxie
+|jpname=じしんかじょう
+|jptranslit=Jishinkajō
+|jptrans=Overconfident
+|colorscheme=attack
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Multiscale
+|jpname=マルチスケイル
+|jptrans=Multiscale
+|jptranslit=Maruchisukeiru
+|colorscheme=Flying
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Multitype
+|jpname=マルチタイプ
+|jptrans=Multitype
+|jptranslit=Maruchitaipu
+|colorscheme=Normal
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Mummy</span>
+|jpname=<span style="color:#FFF">ミイラ</span>
+|jptrans=<span style="color:#FFF">Mummy</span>
+|jptranslit=Miira
+|colorscheme=ghost
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Mycelium Might
+|jpname=きんしのちから
+|jptrans=Hyphal Power
+|jptranslit=Kinshi no Chikara
+|colorscheme=status
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Natural Cure
+|jpname=しぜんかいふく
+|jptrans=Natural Recovery
+|jptranslit=Shizen Kaifuku
+|colorscheme=status
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Neuroforce
+|jpname=ブレインフォース
+|jptrans=Brain Force
+|jptranslit=Burein Fōsu
+|colorscheme=psychic
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Neutralizing Gas</span>
+|jpname=<span style="color:#FFF">かがくへんかガス</span>
+|jptrans=<span style="color:#FFF">Chemical Change Gas</span>
+|jptranslit=Kagaku Henka Gasu
+|colorscheme=poison
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=No Guard
+|jpname=ノーガード
+|jptrans=No Guard
+|jptranslit=Nō Gādo
+|colorscheme=fighting
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Normalize
+|jpname=ノーマルスキン
+|jptranslit=Nōmaru Sukin
+|jptrans=Normal Skin
+|colorscheme=normal
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Oblivious
+|jpname=どんかん
+|jptranslit=Donkan
+|jptrans=Thickheaded
+|colorscheme=psychic
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Opportunist
+|jpname=びんじょう
+|jptrans=Opportunist
+|jptranslit=Binjō
+|colorscheme=psychic
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Orichalcum Pulse</span>
+|jpname=<span style="color:#FFF">ひひいろのこどう</span>
+|jptrans=<span style="color:#FFF">Scarlet Pulse</span>
+|jptranslit=Hihi'iro no Kodō
+|colorscheme=Scarlet
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Overcoat
+|jpname=ぼうじん
+|jptrans=Dustproof
+|jptranslit=Bōjin
+|colorscheme=bug
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Overgrow
+|jpname=しんりょく
+|jptrans=Fresh Greenery
+|jptranslit=Shinryoku
+|colorscheme=grass
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Own Tempo
+|jpname=マイペース
+|jptranslit=Mai Pēsu
+|jptrans=My Pace
+|colorscheme=psychic
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Parental Bond
+|jpname=おやこあい
+|jptrans=Parent-Child Love
+|jptranslit=Oyako Ai
+|colorscheme=normal
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Pastel Veil
+|jpname=パステルベール
+|jptrans=Pastel Veil
+|jptranslit=Pasuteru Bēru
+|colorscheme=psychic
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Perish Body</span>
+|jpname=<span style="color:#FFF">ほろびのボディ</span>
+|jptrans=<span style="color:#FFF">Perish Body</span>
+|jptranslit=Horobi no Body
+|colorscheme=Ghost
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Pickpocket</span>
+|jpname=<span style="color:#FFF">わるいてぐせ</span>
+|jptrans=<span style="color:#FFF">Bad Habit</span>
+|jptranslit=Warui Teguse
+|colorscheme=dark
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Pickup
+|jpname=ものひろい
+|jptrans=Pickup
+|jptranslit=Monohiroi
+|colorscheme=items
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Pixilate
+|jpname=フェアリースキン
+|jptrans=Fairy Skin
+|jptranslit=Fearī Sukin
+|colorscheme=fairy
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Plus
+|jpname=プラス
+|jptrans=Plus
+|jptranslit=Purasu
+|colorscheme=Special Attack
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Poison Heal</span>
+|jpname=<span style="color:#FFF">ポイズンヒール</span>
+|jptrans=<span style="color:#FFF">Poison Heal</span>
+|jptranslit=Poizun Hīru
+|colorscheme=poison
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Poison Point</span>
+|jpname=<span style="color:#FFF">どくのトゲ</span>
+|jptranslit=Doku no Toge
+|jptrans=<span style="color:#FFF">Poison Spine</span>
+|colorscheme=poison
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Poison Puppeteer</span>
+|jpname=<span style="color:#FFF">どくくぐつ</span>
+|jptrans=<span style="color:#FFF">Poison Puppeteer</span>
+|jptranslit=Doku Kugutsu
+|colorscheme=Poison
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Poison Touch</span>
+|jpname=<span style="color:#FFF">どくしゅ</span>
+|jptranslit=Dokushu
+|jptrans=<span style="color:#FFF">Underhanded Trick</span>
+|colorscheme=poison
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Power Construct</span>
+|jpname=<span style="color:#FFF">スワームチェンジ</span>
+|jptrans=<span style="color:#FFF">Swarm Change</span>
+|jptranslit=Suwāmu Chenji
+|colorscheme=Dragon
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Power of Alchemy
+|jpname=かがくのちから
+|jptrans=Power of Chemistry
+|jptranslit=Kagaku no Chikara
+|colorscheme=Status
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Power Spot
+|jpname=パワースポット
+|jptrans=Power Spot
+|jptranslit=Pawā Supotto
+|colorscheme=Rock
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Prankster
+|jpname=いたずらごころ
+|jptrans=Prank Desire
+|jptranslit=Itazuragokoro
+|colorscheme=status
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Pressure</span>
+|jpname=<span style="color:#FFF">プレッシャー</span>
+|jptrans=<span style="color:#FFF">Pressure</span>
+|jptranslit=Puresshā
+|colorscheme=dragon
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Primordial Sea
+|jpname=はじまりのうみ
+|jptrans=Sea of the Beginning
+|jptranslit=Hajimari no Umi
+|colorscheme=water
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Prism Armor
+|jpname=プリズムアーマー
+|jptrans=Prism Armor
+|jptranslit=Purizumu Āmā
+|colorscheme=psychic
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Propeller Tail
+|jpname=スクリューおびれ
+|jptrans=Screw Tailfin
+|jptranslit=Sukuryū Obire
+|colorscheme=Water
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Protean
+|jpname=へんげんじざい
+|jptrans=Protean
+|jptranslit=Hengen Jizai
+|colorscheme=arceus
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Protosynthesis</span>
+|jpname=<span style="color:#FFF">こだいかっせい</span>
+|jptrans=<span style="color:#FFF">Ancient Activation</span>
+|jptranslit=Kodaikassei
+|colorscheme=Fire
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Psychic Surge
+|jpname=サイコメイカー
+|jptrans=Psycho Maker
+|jptranslit=Saiko Meikā
+|colorscheme=Psychic
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Punk Rock
+|jpname=パンクロック
+|jptrans=Punk Rock
+|jptranslit=Panku Rokku
+|colorscheme=electric
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Pure Power
+|jpname=ヨガパワー
+|jptrans=Yoga Power
+|jptranslit=Yoga Pawā
+|colorscheme=attack
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Purifying Salt
+|jpname=きよめのしお
+|jptrans=Purifying Salt
+|jptranslit=Kiyome no Shio 
+|colorscheme=white
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Quark Drive
+|jpname=クォークチャージ
+|jptrans=Quark Charge
+|jptranslit=Kwōku Chāji
+|colorscheme=Electric
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Queenly Majesty
+|jpname=じょおうのいげん
+|jptrans=Queen's Majesty
+|jptranslit=Joō no Igen
+|colorscheme=Grass
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Quick Draw</span>
+|jpname=<span style="color:#FFF">クイックドロウ</span>
+|jptrans=<span style="color:#FFF">Quick Draw</span>
+|jptranslit=Kuikku Dorō
+|colorscheme=poison
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Quick Feet</span>
+|jpname=<span style="color:#FFF">はやあし</span>
+|jptrans=<span style="color:#FFF">Quick Feet</span>
+|jptranslit=Haya'ashi
+|colorscheme=speed
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Rain Dish
+|jpname=あめうけざら
+|jptrans=Rain Saucer
+|jptranslit=Ameukezara
+|colorscheme=water
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Rattled
+|jpname=びびり
+|jptrans=Jitter
+|jptranslit=Bibiri
+|colorscheme=normal
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Receiver
+|jpname=レシーバー
+|jptrans=Receiver
+|jptranslit=Reshībā
+|colorscheme=Status
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Reckless
+|jpname=すてみ
+|jptrans=Life-Risking
+|jptranslit=Sutemi
+|colorscheme=physical
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Refrigerate
+|jpname=フリーズスキン
+|jptrans=Freeze Skin
+|jptranslit=Furīzu Sukin
+|colorscheme=ice
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Regenerator
+|jpname=さいせいりょく
+|jptrans=Regenerative Power
+|jptranslit=Saisei Ryoku
+|colorscheme=HP
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Ripen
+|jpname=じゅくせい
+|jptrans=Ripen
+|jptranslit=Jukusei
+|colorscheme=Berries
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Rivalry</span>
+|jpname=<span style="color:#FFF">とうそうしん</span>
+|jptrans=<span style="color:#FFF">Belligerence</span>
+|jptranslit=Tōsōshin
+|colorscheme=dragon
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=RKS System
+|jpname=ＡＲシステム
+|jptrans=AR System
+|jptranslit=AR Shisutemu
+|colorscheme=Normal
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Rock Head
+|jpname=いしあたま
+|jptrans=Rock Head
+|jptranslit=Ishi Atama
+|colorscheme=rock
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Rocky Payload
+|jpname=いわはこび
+|jptrans=Rock Transport
+|jptranslit=Iwahakobi
+|colorscheme=rock
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Rough Skin</span>
+|jpname=<span style="color:#FFF">さめはだ</span>
+|jptrans=<span style="color:#FFF">Rough Skin</span>
+|jptranslit=Samehada
+|colorscheme=dragon
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Run Away
+|jpname=にげあし
+|jptranslit=Nigeashi
+|jptrans=Run Away
+|colorscheme=normal
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Sand Force</span>
+|jpname=<span style="color:#FFF">すなのちから</span>
+|jptrans=<span style="color:#FFF">Sand Force</span>
+|jptranslit=Suna no Chikara
+|colorscheme=Ground
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Sand Rush</span>
+|jpname=<span style="color:#FFF">すなかき</span>
+|jptrans=<span style="color:#FFF">Sand Paddle</span>
+|jptranslit=Sunakaki
+|colorscheme=Ground
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Sand Spit</span>
+|jpname=<span style="color:#FFF">すなはき</span>
+|jptrans=<span style="color:#FFF">Sand Spit</span>
+|jptranslit=Sunahaki
+|colorscheme=Ground
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Sand Stream</span>
+|jpname=<span style="color:#FFF">すなおこし</span>
+|jptrans=<span style="color:#FFF">Sand Raising</span>
+|jptranslit=Suna Okoshi
+|colorscheme=ground
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Sand Veil</span>
+|jpname=<span style="color:#FFF">すながくれ</span>
+|jptrans=<span style="color:#FFF">Hidden in Sand</span>
+|jptranslit=Suna Gakure
+|colorscheme=ground
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Sap Sipper
+|jpname=そうしょく
+|jptrans=Herbivorous
+|jptranslit=Sōshoku
+|colorscheme=grass
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Schooling
+|jpname=ぎょぐん
+|jptrans=Schooling
+|jptranslit=Gyogun
+|colorscheme=Water
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Scrappy
+|jpname=きもったま
+|jptrans=Spunk
+|jptranslit=Kimottama
+|colorscheme=normal
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Screen Cleaner
+|jpname=バリアフリー
+|jptrans=Barrier-Free
+|jptranslit=Baria Furī
+|colorscheme=Psychic
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Seed Sower
+|jpname=こぼれダネ
+|jptrans=Self-Sowing Seeds
+|jptranslit=Koboredane
+|colorscheme=Grass
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Serene Grace
+|jpname=てんのめぐみ
+|jptranslit=Ten no Megumi
+|jptrans=Heavenly Blessing
+|colorscheme=normal
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Shadow Shield</span>
+|jpname=<span style="color:#FFF">ファントムガード</span>
+|jptrans=<span style="color:#FFF">Phantom Guard</span>
+|jptranslit=Fantomu Gādo
+|colorscheme=Ghost
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Shadow Tag</span>
+|jpname=<span style="color:#FFF">かげふみ</span>
+|jptrans=<span style="color:#FFF">Stepping on Shadows</span>
+|jptranslit=Kage Fumi
+|colorscheme=ghost
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Sharpness
+|jpname=きれあじ
+|jptrans=Sharpness
+|jptranslit=Kireaji
+|colorscheme=Attack
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Shed Skin
+|jpname=だっぴ
+|jptranslit=Dappi
+|jptrans=Shed Skin
+|colorscheme=Bug
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Sheer Force
+|jpname=ちからずく
+|jptrans=Sheer Force
+|jptranslit=Chikarazuku
+|colorscheme=Fighting
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Shell Armor
+|jpname=シェルアーマー
+|jptranslit=Sheru Āmā
+|jptrans=Shell Armor
+|colorscheme=water
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Shield Dust
+|jpname=りんぷん
+|jptrans=Scales
+|jptranslit=Rinpun
+|colorscheme=bug
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Shields Down
+|jpname=リミットシールド
+|jptrans=Limit Shield
+|jptranslit=Rimitto Shīrudo
+|colorscheme=Rock
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Simple
+|jpname=たんじゅん
+|jptrans=Simple
+|jptranslit=Tanjun
+|colorscheme=normal
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Skill Link
+|jpname=スキルリンク
+|jptrans=Skill Link
+|jptranslit=Sukiru Rinku
+|colorscheme=normal
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Slow Start
+|jpname=スロースタート
+|jptrans=Slow Start
+|jptranslit=Surō Sutāto
+|colorscheme=normal
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Slush Rush
+|jpname=ゆきかき
+|jptrans=Snow Removal
+|jptranslit=Yuki Kaki
+|colorscheme=ice
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Sniper
+|jpname=スナイパー
+|jptrans=Sniper
+|jptranslit=Sunaipā
+|colorscheme=water
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Snow Cloak
+|jpname=ゆきがくれ
+|jptrans=Hidden in the Snow
+|jptranslit=Yukigakure
+|colorscheme=ice
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Snow Warning
+|jpname=ゆきふらし
+|jptrans=Snowfall
+|jptranslit=Yuki Furashi
+|colorscheme=ice
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Solar Power</span>
+|jpname=<span style="color:#FFF">サンパワー</span>
+|jptranslit=San Pawā
+|jptrans=<span style="color:#FFF">Sun Power</span>
+|colorscheme=Fire
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Solid Rock
+|jpname=ハードロック
+|jptrans=Hard Rock
+|jptranslit=Hādo Rokku
+|colorscheme=rock
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Soul-Heart
+|jpname=ソウルハート
+|jptrans=Soul-Heart
+|jptranslit=Sōru Hāto
+|colorscheme=Steel
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Soundproof
+|jpname=ぼうおん
+|jptrans=Soundproof
+|jptranslit=Bōon
+|colorscheme=normal
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Speed Boost</span>
+|jpname=<span style="color:#FFF">かそく</span>
+|jptrans=<span style="color:#FFF">Speed Up</span>
+|jptranslit=Kasoku
+|colorscheme=speed
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Stakeout
+|jpname=はりこみ
+|jptrans=Stakeout
+|jptranslit=Harikomi
+|colorscheme=Normal
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Stall</span>
+|jpname=<span style="color:#FFF">あとだし</span>
+|jptrans=<span style="color:#FFF">Going After</span>
+|jptranslit=Atodashi
+|colorscheme=ghost
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Stalwart
+|jpname=すじがねいり
+|jptrans=Staunch
+|jptranslit=Suji ga neiri
+|colorscheme=Steel
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Stamina
+|jpname=じきゅうりょく
+|jptrans=Stamina
+|jptranslit=Jikyūryoku
+|colorscheme=defense
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Stance Change
+|jpname=バトルスイッチ
+|jptrans=Battle Switch
+|jptranslit=Batoru Suitchi
+|colorscheme=steel
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Static
+|jpname=せいでんき
+|jptrans=Static Electricity
+|jptranslit=Seidenki
+|colorscheme=electric
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Steadfast
+|jpname=ふくつのこころ
+|jptrans=Indomitable Heart
+|jptranslit=Fukutsu no Kokoro
+|colorscheme=fighting
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Steam Engine
+|jpname=じょうききかん
+|jptrans=Steam Engine
+|jptranslit=Jōki Kikan
+|colorscheme=rock
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Steelworker
+|jpname=はがねつかい
+|jptrans=Steelworker
+|jptranslit=Hagane Tsukai
+|colorscheme=steel
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Steely Spirit
+|jpname=はがねのせいしん
+|jptrans=Steely Spirit
+|jptranslit=Hagane no Seishin
+|colorscheme=Steel
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Stench</span>
+|jpname=<span style="color:#FFF">あくしゅう</span>
+|jptrans=<span style="color:#FFF">Stench</span>
+|jptranslit=Akushū
+|colorscheme=poison
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Sticky Hold</span>
+|jpname=<span style="color:#FFF">ねんちゃく</span>
+|jptrans=<span style="color:#FFF">Adhesion</span>
+|jptranslit=Nenchaku
+|colorscheme=poison
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Storm Drain
+|jpname=よびみず
+|jptrans=Pump Priming
+|jptranslit=Yobimizu
+|colorscheme=water
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Strong Jaw</span>
+|jpname=<span style="color:#FFF">がんじょうあご</span>
+|jptrans=<span style="color:#FFF">Strong Jaw</span>
+|jptranslit=Ganjō Ago
+|colorscheme=physical
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Sturdy
+|jpname=がんじょう
+|jptranslit=Ganjō
+|jptrans=Sturdy
+|colorscheme=rock
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Suction Cups
+|jpname=きゅうばん
+|jptrans=Suction Cups
+|jptranslit=Kyūban
+|colorscheme=water
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Super Luck
+|jpname=きょううん
+|jptrans=Good Luck
+|jptranslit=Kyōun
+|colorscheme=Flying
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Supersweet Syrup
+|jpname=かんろなミツ
+|jptrans=Sweet Nectar
+|jptranslit=Kanro na Mitsu
+|colorscheme=Grass
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Supreme Overlord
+|jpname=そうだいしょう
+|jptrans=Supreme Commander
+|jptranslit=Sōdaishō
+|colorscheme=attack
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Surge Surfer
+|jpname=サーフテール
+|jptrans=Surf Tail
+|jptranslit=Sāfu Tēru
+|colorscheme=Electric
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Swarm
+|jpname=むしのしらせ
+|jptranslit=Mushi no Shirase
+|jptrans=Bug Notification
+|colorscheme=bug
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Sweet Veil
+|jpname=スイートベール
+|jptrans=Sweet Veil
+|jptranslit=Suīto Bēru
+|colorscheme=Status
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Swift Swim
+|jpname=すいすい
+|jptrans=Smooth Swim
+|jptranslit=Suisui
+|colorscheme=water
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Sword of Ruin
+|jpname=わざわいのつるぎ
+|jptrans=Sword of Ruin
+|jptranslit=Wazawai no Tsurugi
+|colorscheme=defense
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Symbiosis
+|jpname=きょうせい 
+|jptrans=Symbiosis
+|jptranslit=Kyōsei
+|colorscheme=items
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Synchronize
+|jpname=シンクロ
+|jptranslit=Shinkuro
+|jptrans=Synchro
+|colorscheme=psychic
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Tablets of Ruin
+|jpname=わざわいのおふだ
+|jptrans=Talismans of Ruin
+|jptranslit=Wazawai no Ofuda
+|colorscheme=attack
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Tangled Feet
+|jpname=ちどりあし
+|jptranslit=Chidori Ashi
+|jptrans=Tottering Steps
+|colorscheme=normal
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Tangling Hair
+|jpname=カーリーヘアー
+|jptrans=Curly Hair
+|jptranslit=Kārī Heā
+|colorscheme=steel
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Technician
+|jpname=テクニシャン
+|jptrans=Technician
+|jptranslit=Tekunishan
+|colorscheme=normal
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Telepathy
+|jpname=テレパシー
+|jptrans=Telepathy
+|jptranslit=Terepashī
+|colorscheme=Psychic
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Tera Shell</span>
+|jpname=<span style="color:#FFF">テラスシェル</span>
+|jptrans=<span style="color:#FFF">Tera Shell</span>
+|jptranslit=Terasu Sheru
+|colorscheme=Stellar
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Tera Shift</span>
+|jpname=<span style="color:#FFF">テラスチェンジ</span>
+|jptrans=<span style="color:#FFF">Tera Change</span>
+|jptranslit=Terasu Chenji
+|colorscheme=Stellar
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Teraform Zero
+|jpname=ゼロフォーミング
+|jptrans=Zero-Forming
+|jptranslit=Zero-Fōmingu
+|colorscheme=Stellar
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Teravolt
+|jpname=テラボルテージ
+|jptrans=Teravoltage
+|jptranslit=Teraborutēji
+|colorscheme=Electric
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Thermal Exchange
+|jpname=ねつこうかん
+|jptrans=Thermal Exchange
+|jptranslit=Netsu Kōkan
+|colorscheme=Ice
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Thick Fat</span>
+|jpname=<span style="color:#FFF">あついしぼう</span>
+|jptrans=<span style="color:#FFF">Thick Fat</span>
+|jptranslit=Atsui Shibō
+|colorscheme=fire
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Tinted Lens
+|jpname=いろめがね
+|jptrans=Tinted Glasses
+|jptranslit=Iromegane
+|colorscheme=bug
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Torrent
+|jpname=げきりゅう
+|jptrans=Raging Rapids
+|jptranslit=Gekiryū
+|colorscheme=water
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Tough Claws</span>
+|jpname=<span style="color:#FFF">かたいツメ</span>
+|jptrans=<span style="color:#FFF">Tough Claws</span>
+|jptranslit=Katai Tsume
+|colorscheme=Physical
+|gen=VI
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Toxic Boost</span>
+|jpname=<span style="color:#FFF">どくぼうそう </span>
+|jptrans=<span style="color:#FFF">Poison Rampage</span>
+|jptranslit=Doku Bōsō
+|colorscheme=poison
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Toxic Chain</span>
+|jpname=<span style="color:#FFF">どくのくさり</span>
+|jptrans=<span style="color:#FFF">Toxic Chain</span>
+|jptranslit=Doku no Kusari 
+|colorscheme=poison
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Toxic Debris</span>
+|jpname=<span style="color:#FFF">どくげしょう</span>
+|jptrans=<span style="color:#FFF">Scattered Poison</span>
+|jptranslit=Dokugeshō
+|colorscheme=poison
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Trace
+|jpname=トレース
+|jptranslit=Torēsu
+|jptrans=Trace
+|colorscheme=psychic
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Transistor
+|jpname=トランジスタ
+|jptrans=Transistor
+|jptranslit=Toranjisuta
+|colorscheme=electric
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Triage
+|jpname=ヒーリングシフト
+|jptrans=Healing Shift
+|jptranslit=Hīringu Shifuto
+|colorscheme=HP
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Truant
+|jpname=なまけ
+|jptrans=Lazy
+|jptranslit=Namake
+|colorscheme=normal
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Turboblaze</span>
+|jpname=<span style="color:#FFF">ターボブレイズ</span>
+|jptrans=<span style="color:#FFF">Turboblaze</span>
+|jptranslit=Tābobureizu
+|colorscheme=Fire
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Unaware
+|jpname=てんねん
+|jptranslit=Ten'nen
+|jptrans=Airhead
+|colorscheme=normal
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Unburden</span>
+|jpname=<span style="color:#FFF">かるわざ</span>
+|jptrans=<span style="color:#FFF">Acrobatics</span>
+|jptranslit=Karuwaza
+|colorscheme=speed
+|gen=IV
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Unnerve
+|jpname=きんちょうかん
+|jptrans=Tension
+|jptranslit=Kinchōkan
+|colorscheme=berries
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Unseen Fist
+|jpname=ふかしのこぶし
+|jptrans=Invisible Fist
+|jptranslit=Fukashi no Kobushi
+|colorscheme=fighting
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Vessel of Ruin
+|jpname=わざわいのうつわ
+|jptrans=Vessel of Ruin
+|jptranslit=Wazawai no Utsuwa
+|colorscheme=special Attack
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Victory Star
+|jpname=しょうりのほし
+|jptrans=Victory Star
+|jptranslit=Shōri no Hoshi
+|colorscheme=psychic
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Vital Spirit
+|jpname=やるき
+|jptranslit=Yaruki
+|jptrans=Willingness
+|colorscheme=status
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Volt Absorb
+|jpname=ちくでん
+|jptranslit=Chikuden
+|jptrans=Electricity Storage
+|colorscheme=electric
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Wandering Spirit</span>
+|jpname=<span style="color:#FFF">さまようたましい</span>
+|jptrans=<span style="color:#FFF">Wandering Spirit</span>
+|jptranslit=Samayou Tamashii
+|colorscheme=ghost
+|gen=VIII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Water Absorb
+|jpname=ちょすい
+|jptrans=Water Storage
+|jptranslit=Chosui
+|colorscheme=water
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Water Bubble
+|jpname=すいほう
+|jptrans=Water Bubble
+|jptranslit=Suihō
+|colorscheme=water
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Water Compaction</span>
+|jpname=<span style="color:#FFF">みずがため </span>
+|jptrans=<span style="color:#FFF">Water Fortifying</span>
+|jptranslit=Mizu Gatame
+|colorscheme=Ground
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Water Veil
+|jpname=みずのベール
+|jptrans=Water Veil
+|jptranslit=Mizu no Bēru
+|colorscheme=water
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Weak Armor
+|jpname=くだけるよろい
+|jptrans=Broken Armor
+|jptranslit=Kudakeru Yoroi
+|colorscheme=rock
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Well-Baked Body</span>
+|jpname=<span style="color:#FFF">こんがりボディ</span>
+|jptrans=<span style="color:#FFF">Well-Baked Body</span>
+|jptranslit=Kongari Bodi
+|colorscheme=fire
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">White Smoke</span>
+|jpname=<span style="color:#FFF">しろいけむり</span>
+|jptrans=<span style="color:#FFF">White Smoke</span>
+|jptranslit=Shiroi Kemuri
+|colorscheme=fire
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Wimp Out
+|jpname=にげごし
+|jptrans=Back Off
+|jptranslit=Nigegoshi
+|colorscheme=Bug
+|gen=VII
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Wind Power
+|jpname=ふうりょくでんき
+|jptrans=Wind-Powered Electricity
+|jptranslit=Fūryoku Denki
+|colorscheme=Electric
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Wind Rider
+|jpname=かぜのり
+|jptrans=Wind Riding
+|jptranslit=Kazenori
+|colorscheme=Flying
+|gen=IX
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Wonder Guard</span>
+|jpname=<span style="color:#FFF">ふしぎなまもり</span>
+|jptrans=<span style="color:#FFF">Mysterious Protection</span>
+|jptranslit=Fushigina Mamori
+|colorscheme=ghost
+|gen=III
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Wonder Skin
+|jpname=ミラクルスキン
+|jptranslit=Mirakuru Sukin
+|jptrans=Miracle Skin
+|colorscheme=status
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=<span style="color:#FFF">Zen Mode</span>
+|jpname=<span style="color:#FFF">ダルマモード</span>
+|jptrans=<span style="color:#FFF">Daruma Mode</span>
+|jptranslit=Daruma Mōdo
+|colorscheme=Fire
+|gen=V
+
+=== END INFODex ===
+
+=== BEGIN INFODex ===
+
+|name=Zero to Hero
+|jpname=マイティチェンジ
+|jptrans=Mighty Change
+|jptranslit=Maiti Chenji
+|colorscheme=water
+|gen=IX
+
+=== END INFODex ===
+

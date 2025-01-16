@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Detail - {{ pokemon_details.name.value }}</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Press Start 2P', cursive;
+            background: linear-gradient(135deg, #ffcccb, #ffeb3b);
+            color: #333;
+            text-align: center;
+            line-height: 1.6;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        header {
+            padding: 40px 20px;
+            background: rgba(255, 255, 255, 0.8);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            position: relative;
+            z-index: 1;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #ff5722;
+            text-shadow: 3px 3px 0 #333;
+        }
+
+        .pokemon-detail {
+            padding: 40px 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .pokemon-detail img {
+            width: 200px;
+            height: 200px;
+            margin-bottom: 20px;
+            border: 4px solid #2a75bb;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .pokemon-detail h2 {
+            font-size: 2rem;
+            color: #2a75bb;
+            text-shadow: 2px 2px 0 #333;
+            margin-bottom: 20px;
+        }
+
+        .pokemon-detail p {
+            font-size: 1rem;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .pokemon-detail .info-section {
+            margin-top: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .pokemon-detail .info-section h3 {
+            font-size: 1.5rem;
+            color: #2a75bb;
+            text-shadow: 2px 2px 0 #333;
+            margin-bottom: 20px;
+        }
+
+        .pokemon-detail .info-section ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .pokemon-detail .info-section li {
+            background: white;
+            border: 2px solid #333;
+            border-radius: 15px;
+            padding: 10px 20px;
+            font-size: 1rem;
+            color: #333;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease;
+        }
+
+        .pokemon-detail .info-section li:hover {
+            transform: scale(1.1);
+        }
+
+        .pokemon-detail .info-section p {
+            font-size: 1rem;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .footer {
+            margin-top: 60px;
+            padding: 20px;
+            background: #333;
+            color: white;
+            font-size: 0.8rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Animations */
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-10px);
+            }
+        }
+
+        .animated {
+            animation: float 3s ease-in-out infinite;
+        }
+
+        .background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            background: url('https://www.transparenttextures.com/patterns/pokemon.png');
+            animation: moveBackground 20s linear infinite;
+        }
+
+        @keyframes moveBackground {
+            0% {
+                background-position: 0 0;
+            }
+            100% {
+                background-position: 100% 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="background"></div>
+
+    <header>
+        <h1>Pokémon Detail - {{ pokemon_details.name}}</h1>
+    </header>
+
+    <div class="pokemon-detail">
+        <!-- Image principale -->
+        {% set filename = pokemon_details.image.split('File:')[-1] %}
+        {% set hash = filename|hash_md5 %}
+        {% set direct_image_url = "https://archives.bulbagarden.net/media/upload/" + hash[0] + "/" + hash[:2] + "/" + filename %}
+        <img src="{{ direct_image_url }}" alt="{{ pokemon_details.name}}" class="animated" referrerpolicy="no-referrer" onerror="this.src='https://via.placeholder.com/120';">
+        <!-- Nom du Pokémon -->
+        <h2>{{ pokemon_details.name }}</h2>
+
+        <!-- Informations de base -->
+        <div class="info-section">
+            <h3>Informations de base</h3>
+            <p><strong>Catégorie:</strong> {{ pokemon_details.category }}</p>
+            <p><strong>Types:</strong> {{ ", ".join(pokemon_details.types) }}</p>
+            <p><strong>Taille:</strong> {{ pokemon_details.height }} m</p>
+            <p><strong>Poids:</strong> {{ pokemon_details.weight }} kg</p>
+            <p><strong>Expérience de base:</strong> {{ pokemon_details.baseExperience }}</p>
+            <p><strong>Taux de capture:</strong> {{ pokemon_details.catchRate }}</p>
+            <p><strong>Ratio de genre:</strong> {{ pokemon_details.genderRatio }}</p>
+            <p><strong>Pas d'œuf:</strong> {{ pokemon_details.eggSteps }}</p>
+            <p><strong>Bonheur de base:</strong> {{ pokemon_details.baseHappiness }}</p>
+            <p><strong>Forme du corps:</strong> {{ pokemon_details.bodyShape }}</p>
+            <p><strong>Couleur:</strong> {{ pokemon_details.color }}</p>
+            <p><strong>Numéro:</strong> {{ pokemon_details.number }}</p>
+            <p><strong>EV total:</strong> {{ pokemon_details.totalEV }}</p>
+        </div>
+
+        <!-- Noms dans toutes les langues -->
+        <div class="info-section">
+            <h3>Noms dans toutes les langues</h3>
+            <ul>
+                {% for label in pokemon_details.labels %}
+                    <li>{{ label }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <!-- Capacités -->
+        <div class="info-section">
+            <h3>Capacités</h3>
+            <ul>
+                {% for ability in pokemon_details.abilities %}
+                    <li>{{ ability }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <!-- Types -->
+        <div class="info-section">
+            <h3>Types</h3>
+            <ul>
+                {% for type in pokemon_details.types %}
+                    <li>{{ type }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <!-- Liens externes -->
+        <div class="info-section">
+            <h3>Liens externes</h3>
+            <ul>
+                {% if pokemon_details.sameAs %}
+                    <li><a href="{{ pokemon_details.sameAs }}" target="_blank">DBpedia</a></li>
+                {% endif %}
+                {% if pokemon_details.relatedTo %}
+                    <li><a href="{{ pokemon_details.relatedTo }}" target="_blank">Related Pokémon</a></li>
+                {% endif %}
+            </ul>
+        </div>
+
+        <!-- Images supplémentaires -->
+        <div class="info-section">
+            <h3>Images supplémentaires</h3>
+            <ul>
+                {% for image in pokemon_details.images %}
+                    {% set filename = image.split('File:')[-1] %}
+                    {% set hash = filename|hash_md5 %}
+                    {% set direct_image_url = "https://archives.bulbagarden.net/media/upload/" + hash[0] + "/" + hash[:2] + "/" + filename %}
+                    <li>
+                        <img src="{{ direct_image_url }}" alt="{{ pokemon_details.name }} - Image {{ loop.index }}" 
+                             referrerpolicy="no-referrer" onerror="this.src='https://via.placeholder.com/120';">
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>© 2025 Pokémon Knowledge Graph Project | Made with ❤️</p>
+    </div>
+</body>
+</html>

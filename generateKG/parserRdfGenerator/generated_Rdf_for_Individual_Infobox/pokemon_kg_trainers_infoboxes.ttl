@@ -1,0 +1,1546 @@
+@prefix ns1: <http://example.org/ontology/pokemon#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:A-list_Actor a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "にんきはいゆう"^^xsd:string ;
+    ns1:name "A-list Actor"^^xsd:string .
+
+ns1:Ace_Duo a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "エリートコンビ"^^xsd:string ;
+    ns1:name "Ace Duo"^^xsd:string .
+
+ns1:Ace_Trainer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "エリートトレーナー"^^xsd:string ;
+    ns1:name "Ace Trainer"^^xsd:string .
+
+ns1:Actor a ns1:Trainer ;
+    ns1:gender "Male onlyFemale only"^^xsd:string ;
+    ns1:japaneseName "げきだんいん"^^xsd:string ;
+    ns1:name "Actor"^^xsd:string .
+
+ns1:Actress a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "じょゆう"^^xsd:string ;
+    ns1:name "Actress"^^xsd:string .
+
+ns1:Aeos_Trainer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:name "Aeos Trainer"^^xsd:string .
+
+ns1:Aether_Foundation a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "エーテルざいだん"^^xsd:string ;
+    ns1:name "Aether Foundation"^^xsd:string .
+
+ns1:Aether_Foundation_Employee a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "エーテル財団 職員"^^xsd:string ;
+    ns1:name "Aether Foundation Employee"^^xsd:string .
+
+ns1:Aqua_Admin a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "アクアだんかんぶ"^^xsd:string ;
+    ns1:name "Aqua Admin"^^xsd:string .
+
+ns1:Area_Leader a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "エリアリーダー"^^xsd:string ;
+    ns1:name "Area Leader"^^xsd:string .
+
+ns1:Aroma_Lady a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "アロマなおねえさん"^^xsd:string ;
+    ns1:name "Aroma Lady"^^xsd:string .
+
+ns1:Artist a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "芸術家"^^xsd:string ;
+    ns1:name "Artist"^^xsd:string .
+
+ns1:Artist_Family a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "げいじゅつおやこ"^^xsd:string ;
+    ns1:name "Artist Family"^^xsd:string .
+
+ns1:Assistant a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "じょしゅ"^^xsd:string ;
+    ns1:name "Assistant"^^xsd:string .
+
+ns1:Athlete a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "アスリート"^^xsd:string ;
+    ns1:name "Athlete"^^xsd:string .
+
+ns1:Athletic_Siblings a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "スポーツきょうだい"^^xsd:string ;
+    ns1:name "Athletic Siblings"^^xsd:string .
+
+ns1:BB_League_Elite_Four a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ブルベリーグ四天王"^^xsd:string ;
+    ns1:name "BB League Elite Four"^^xsd:string .
+
+ns1:Backers a ns1:Trainer ;
+    ns1:gender "Two males or two females"^^xsd:string ;
+    ns1:japaneseName "ファンクラブ"^^xsd:string ;
+    ns1:name "Backers"^^xsd:string .
+
+ns1:Backpacker a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "バックパッカー"^^xsd:string ;
+    ns1:name "Backpacker"^^xsd:string .
+
+ns1:Baker a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "ベーカリー"^^xsd:string ;
+    ns1:name "Baker"^^xsd:string .
+
+ns1:Bandana_Guy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "バンダナやろう"^^xsd:string ;
+    ns1:name "Bandana Guy"^^xsd:string .
+
+ns1:Bandit a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "やとう"^^xsd:string ;
+    ns1:name "Bandit"^^xsd:string .
+
+ns1:Battle_Chatelaine a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "バトルシャトレーヌ"^^xsd:string ;
+    ns1:name "Battle Chatelaine"^^xsd:string .
+
+ns1:Battle_Girl a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "バトルガール"^^xsd:string ;
+    ns1:name "Battle Girl"^^xsd:string .
+
+ns1:Battle_Legend a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "バトルレジェンド"^^xsd:string ;
+    ns1:name "Battle Legend"^^xsd:string .
+
+ns1:Beauty a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "大人のおねえさん"^^xsd:string ;
+    ns1:name "Beauty"^^xsd:string .
+
+ns1:Bellhop a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ベルボーイ"^^xsd:string ;
+    ns1:name "Bellhop"^^xsd:string .
+
+ns1:Big_Star a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "おおものはいゆう"^^xsd:string ;
+    ns1:name "Big Star"^^xsd:string .
+
+ns1:Biker a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ぼうそうぞく"^^xsd:string ;
+    ns1:name "Biker"^^xsd:string .
+
+ns1:Bird_Keeper a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "とりつかい"^^xsd:string ;
+    ns1:name "Bird Keeper"^^xsd:string .
+
+ns1:Black_Belt a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "からておう"^^xsd:string ;
+    ns1:name "Black Belt"^^xsd:string .
+
+ns1:Boarder a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ボーダー"^^xsd:string ;
+    ns1:name "Boarder"^^xsd:string .
+
+ns1:Bodybuilder a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "にくたいは"^^xsd:string ;
+    ns1:name "Bodybuilder"^^xsd:string .
+
+ns1:Boss_Trainer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ボストレーナー"^^xsd:string ;
+    ns1:name "Boss Trainer"^^xsd:string .
+
+ns1:Brains_Brawn a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ブレイン&パワーズ"^^xsd:string ;
+    ns1:name "Brains & Brawn"^^xsd:string .
+
+ns1:Bug-Catching_Man a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Bug-Catching Man"^^xsd:string .
+
+ns1:Bug_Catcher a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "むしとりしょうねん"^^xsd:string ;
+    ns1:name "Bug Catcher"^^xsd:string .
+
+ns1:Bug_Maniac a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "こんちゅうマニア"^^xsd:string ;
+    ns1:name "Bug Maniac"^^xsd:string .
+
+ns1:Burglar a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "かじばどろぼう"^^xsd:string ;
+    ns1:name "Burglar"^^xsd:string .
+
+ns1:Butler a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "しつじ"^^xsd:string ;
+    ns1:name "Butler"^^xsd:string .
+
+ns1:Cabbie a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "タクシードライバー"^^xsd:string ;
+    ns1:name "Cabbie"^^xsd:string .
+
+ns1:Caf_Master a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "マスター"^^xsd:string ;
+    ns1:name "Café Master"^^xsd:string .
+
+ns1:Cameraman a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "カメラマン"^^xsd:string ;
+    ns1:name "Cameraman"^^xsd:string .
+
+ns1:Camper a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "キャンプボーイ"^^xsd:string ;
+    ns1:name "Camper"^^xsd:string .
+
+ns1:Capoeira_Couple a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "カポエラカップル"^^xsd:string ;
+    ns1:name "Capoeira Couple"^^xsd:string .
+
+ns1:Casual_Dude a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "きらくなおにいさん"^^xsd:string ;
+    ns1:name "Casual Dude"^^xsd:string .
+
+ns1:Casual_Guy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "のんきなおじさん"^^xsd:string ;
+    ns1:name "Casual Guy"^^xsd:string .
+
+ns1:Celebrity a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "タレント"^^xsd:string ;
+    ns1:name "Celebrity"^^xsd:string .
+
+ns1:Champion a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "チャンピオン"^^xsd:string ;
+    ns1:name "Champion"^^xsd:string .
+
+ns1:Channeler a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "きとうし"^^xsd:string ;
+    ns1:name "Channeler"^^xsd:string .
+
+ns1:Chaser a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "チェイサー"^^xsd:string ;
+    ns1:name "Chaser"^^xsd:string .
+
+ns1:Chef a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "りょうりにん"^^xsd:string ;
+    ns1:name "Chef"^^xsd:string .
+
+ns1:Chic_Actress a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "にんきじょゆう"^^xsd:string ;
+    ns1:name "Chic Actress"^^xsd:string .
+
+ns1:Child_Star a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "てんさいこやく"^^xsd:string ;
+    ns1:name "Child Star"^^xsd:string .
+
+ns1:Cipher_Peon a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "シャドー戦闘員"^^xsd:string ;
+    ns1:name "Cipher Peon"^^xsd:string .
+
+ns1:Clan_Leader a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "おさ"^^xsd:string ;
+    ns1:name "Clan Leader"^^xsd:string .
+
+ns1:Clown a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ピエロ"^^xsd:string ;
+    ns1:name "Clown"^^xsd:string .
+
+ns1:Coach_Trainer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "コーチトレーナー"^^xsd:string ;
+    ns1:name "Coach Trainer"^^xsd:string .
+
+ns1:Colleagues a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ビジネスパートナー"^^xsd:string ;
+    ns1:name "Colleagues"^^xsd:string .
+
+ns1:Collector a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ポケモンコレクター"^^xsd:string ;
+    ns1:name "Collector"^^xsd:string .
+
+ns1:Colosseum_Leader a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "コロシアムリーダー"^^xsd:string ;
+    ns1:name "Colosseum Leader"^^xsd:string .
+
+ns1:Colosseum_Master a ns1:Trainer ;
+    ns1:gender "Male (Mysterial, Joe, Kruger), Female (Sashay)"^^xsd:string ;
+    ns1:japaneseName "コロシアムマスター"^^xsd:string ;
+    ns1:name "Colosseum Master"^^xsd:string .
+
+ns1:Comedian a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "コメディアン"^^xsd:string ;
+    ns1:name "Comedian"^^xsd:string .
+
+ns1:Commander a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ギンガだんかんぶ"^^xsd:string ;
+    ns1:name "Commander"^^xsd:string .
+
+ns1:Cook a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "コック"^^xsd:string ;
+    ns1:name "Cook"^^xsd:string .
+
+ns1:Cool_Beauty a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Cool Beauty"^^xsd:string .
+
+ns1:Cool_Couple a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "エリートカップル"^^xsd:string ;
+    ns1:name "Cool Couple"^^xsd:string .
+
+ns1:Courier a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "配達員"^^xsd:string ;
+    ns1:name "Courier"^^xsd:string .
+
+ns1:Cowgirl a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "カウガール"^^xsd:string ;
+    ns1:name "Cowgirl"^^xsd:string .
+
+ns1:Crush_Girl a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "かくとうむすめ"^^xsd:string ;
+    ns1:name "Crush Girl"^^xsd:string .
+
+ns1:Crush_Kin a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "かくとうきょうだい"^^xsd:string ;
+    ns1:name "Crush Kin"^^xsd:string .
+
+ns1:Curmudgeon a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "しぶめなおじいさん"^^xsd:string ;
+    ns1:name "Curmudgeon"^^xsd:string .
+
+ns1:Cute_Maniac a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Cute Maniac"^^xsd:string .
+
+ns1:Cute_Trainer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "めとめが あったひと"^^xsd:string ;
+    ns1:name "Cute Trainer"^^xsd:string .
+
+ns1:Cyclist a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "サイクリング"^^xsd:string ;
+    ns1:name "Cyclist"^^xsd:string .
+
+ns1:Dancer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ダンサー"^^xsd:string ;
+    ns1:name "Dancer"^^xsd:string .
+
+ns1:Dancing_Family a ns1:Trainer ;
+    ns1:gender "Both female"^^xsd:string ;
+    ns1:japaneseName "ダンスおやこ"^^xsd:string ;
+    ns1:name "Dancing Family"^^xsd:string .
+
+ns1:Daring_Couple a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "きもだめしカップル"^^xsd:string ;
+    ns1:name "Daring Couple"^^xsd:string .
+
+ns1:Delinquent a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "怖いお姉さん"^^xsd:string ;
+    ns1:name "Delinquent"^^xsd:string .
+
+ns1:Doctor a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ドクター"^^xsd:string ;
+    ns1:name "Doctor"^^xsd:string .
+
+ns1:Double_Team a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "ダブルチーム"^^xsd:string ;
+    ns1:name "Double Team"^^xsd:string .
+
+ns1:Dragon_Tamer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ドラゴン使い"^^xsd:string ;
+    ns1:name "Dragon Tamer"^^xsd:string .
+
+ns1:Driver a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ドライバー"^^xsd:string ;
+    ns1:name "Driver"^^xsd:string .
+
+ns1:Electrifying_Guy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Electrifying Guy"^^xsd:string .
+
+ns1:Elite_Four a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "四天王"^^xsd:string ;
+    ns1:name "Elite Four"^^xsd:string .
+
+ns1:Engineer a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "でんきやのオヤジ"^^xsd:string ;
+    ns1:name "Engineer"^^xsd:string .
+
+ns1:Executive a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ロケットだんかんぶ"^^xsd:string ;
+    ns1:name "Executive"^^xsd:string .
+
+ns1:Expert a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "たつじん"^^xsd:string ;
+    ns1:name "Expert"^^xsd:string .
+
+ns1:Factory_Head a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ファクトリーヘッド"^^xsd:string ;
+    ns1:name "Factory Head"^^xsd:string .
+
+ns1:Fairy_Tale_Girl a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "メルヘンしょうじょ"^^xsd:string ;
+    ns1:name "Fairy Tale Girl"^^xsd:string .
+
+ns1:Fare_Prince a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "フードコートキング"^^xsd:string ;
+    ns1:name "Fare Prince"^^xsd:string .
+
+ns1:Festival_Boy a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "お祭り少年"^^xsd:string ;
+    ns1:name "Festival Boy"^^xsd:string .
+
+ns1:Festival_Girl a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "お祭り少女"^^xsd:string ;
+    ns1:name "Festival Girl"^^xsd:string .
+
+ns1:Fine_Actor a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "せいかくはいゆう"^^xsd:string ;
+    ns1:name "Fine Actor"^^xsd:string .
+
+ns1:Firebreather a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ひふきやろう"^^xsd:string ;
+    ns1:name "Firebreather"^^xsd:string .
+
+ns1:Firefighter a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ファイヤーマン"^^xsd:string ;
+    ns1:name "Firefighter"^^xsd:string .
+
+ns1:Fisher a ns1:Trainer ;
+    ns1:gender "Male (Generations -, BDSP)Female (Sword and Shield)"^^xsd:string ;
+    ns1:japaneseName "つりびと"^^xsd:string ;
+    ns1:name "Fisher"^^xsd:string .
+
+ns1:Free_Diver a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "あまさん"^^xsd:string ;
+    ns1:name "Free Diver"^^xsd:string .
+
+ns1:Freshwoman a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Freshwoman"^^xsd:string .
+
+ns1:Fun_Old_Man a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ほがらかおじいさん"^^xsd:string ;
+    ns1:name "Fun Old Man"^^xsd:string .
+
+ns1:Furisode_Girl a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "ふりそで"^^xsd:string ;
+    ns1:name "Furisode Girl"^^xsd:string .
+
+ns1:Future_Girl a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Future Girl"^^xsd:string .
+
+ns1:GAME_FREAKs a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ゲームフリーク"^^xsd:string ;
+    ns1:name "GAME FREAK's"^^xsd:string .
+
+ns1:Gardener a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "にわし"^^xsd:string ;
+    ns1:name "Gardener"^^xsd:string .
+
+ns1:Garon a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ギャルソン"^^xsd:string ;
+    ns1:name "Garçon"^^xsd:string .
+
+ns1:Gentleman a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ジェントルマン"^^xsd:string ;
+    ns1:name "Gentleman"^^xsd:string .
+
+ns1:Girl_In_Love a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "こいするしょうじょ"^^xsd:string ;
+    ns1:name "Girl In Love"^^xsd:string .
+
+ns1:Girlfriend a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "こいびと"^^xsd:string ;
+    ns1:name "Girlfriend"^^xsd:string .
+
+ns1:Glasses_Man a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "メガネのおにいさん"^^xsd:string ;
+    ns1:name "Glasses Man"^^xsd:string .
+
+ns1:Golf_Buddies a ns1:Trainer ;
+    ns1:gender "Both female"^^xsd:string ;
+    ns1:japaneseName "ゴルファーズ"^^xsd:string ;
+    ns1:name "Golf Buddies"^^xsd:string .
+
+ns1:Golfer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ゴルファー"^^xsd:string ;
+    ns1:name "Golfer"^^xsd:string .
+
+ns1:Guitarist a ns1:Trainer ;
+    ns1:gender "Male (Generations - , , )Female (Generation V)"^^xsd:string ;
+    ns1:japaneseName "ギタリスト"^^xsd:string ;
+    ns1:name "Guitarist"^^xsd:string .
+
+ns1:Guy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "おじさん"^^xsd:string ;
+    ns1:name "Guy"^^xsd:string .
+
+ns1:Gym_Challenger a ns1:Trainer ;
+    ns1:gender "Any"^^xsd:string ;
+    ns1:japaneseName "ジムチャレンジャー"^^xsd:string ;
+    ns1:name "Gym Challenger"^^xsd:string .
+
+ns1:Gym_Leader a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ジムリーダー"^^xsd:string ;
+    ns1:name "Gym Leader"^^xsd:string .
+
+ns1:Gym_Trainer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ジムトレーナー"^^xsd:string ;
+    ns1:name "Gym Trainer"^^xsd:string .
+
+ns1:Hardheaded_Girl a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Hardheaded Girl"^^xsd:string .
+
+ns1:Harlequin a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "クラウン"^^xsd:string ;
+    ns1:name "Harlequin"^^xsd:string .
+
+ns1:Haunted_Man a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "とりつかれたおとこ"^^xsd:string ;
+    ns1:name "Haunted Man"^^xsd:string .
+
+ns1:Hex_Maniac a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "オカルトマニア"^^xsd:string ;
+    ns1:name "Hex Maniac"^^xsd:string .
+
+ns1:High-Tech_Maniac a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "High-Tech Maniac"^^xsd:string .
+
+ns1:Hiker a ns1:Trainer ;
+    ns1:gender "Male (Generations -)Female (Generation IX)"^^xsd:string ;
+    ns1:japaneseName "やまおとこ/やまガール"^^xsd:string ;
+    ns1:name "Hiker"^^xsd:string .
+
+ns1:Hiking_Club_Member a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Hiking Club Member"^^xsd:string .
+
+ns1:Hiking_Girl a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Hiking Girl"^^xsd:string .
+
+ns1:Honeymooners a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "ハネムーン"^^xsd:string ;
+    ns1:name "Honeymooners"^^xsd:string .
+
+ns1:Hooligans a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "バッドチーム"^^xsd:string ;
+    ns1:name "Hooligans"^^xsd:string .
+
+ns1:Hoopster a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "バスケせんしゅ"^^xsd:string ;
+    ns1:name "Hoopster"^^xsd:string .
+
+ns1:Hunter a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ハンター"^^xsd:string ;
+    ns1:name "Hunter"^^xsd:string .
+
+ns1:Icy_Guy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Icy Guy"^^xsd:string .
+
+ns1:Idol a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "アイドル"^^xsd:string ;
+    ns1:name "Idol"^^xsd:string .
+
+ns1:Infielder a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "やきゅうせんしゅ"^^xsd:string ;
+    ns1:name "Infielder"^^xsd:string .
+
+ns1:Instructor a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "教師"^^xsd:string ;
+    ns1:name "Instructor"^^xsd:string .
+
+ns1:Interviewers a ns1:Trainer ;
+    ns1:gender "One female, one male"^^xsd:string ;
+    ns1:japaneseName "インタビュアー"^^xsd:string ;
+    ns1:name "Interviewers"^^xsd:string .
+
+ns1:Janitor a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "清掃員"^^xsd:string ;
+    ns1:name "Janitor"^^xsd:string .
+
+ns1:Joes_Groupie a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "ジョーのおっかけ"^^xsd:string ;
+    ns1:name "Joe's Groupie"^^xsd:string .
+
+ns1:Jogger a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ジョギング"^^xsd:string ;
+    ns1:name "Jogger"^^xsd:string .
+
+ns1:Juggler a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ジャグラー"^^xsd:string ;
+    ns1:name "Juggler"^^xsd:string .
+
+ns1:Junior_Representative a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ジュニアだいひょう"^^xsd:string ;
+    ns1:name "Junior Representative"^^xsd:string .
+
+ns1:Kantonian_Gym a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ジムオブカントー"^^xsd:string ;
+    ns1:name "Kantonian Gym"^^xsd:string .
+
+ns1:Karate_Family a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "カラテおやこ"^^xsd:string ;
+    ns1:name "Karate Family"^^xsd:string .
+
+ns1:Kimono_Girl a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "まいこはん"^^xsd:string ;
+    ns1:name "Kimono Girl"^^xsd:string .
+
+ns1:Kindler a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "キャンプファイヤー"^^xsd:string ;
+    ns1:name "Kindler"^^xsd:string .
+
+ns1:Kitakami_Ogre_Clan a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "キタカミ鬼面衆"^^xsd:string ;
+    ns1:name "Kitakami Ogre Clan"^^xsd:string .
+
+ns1:Kruger_Family a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ルトガーファミリー"^^xsd:string ;
+    ns1:name "Kruger Family"^^xsd:string .
+
+ns1:Lady a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "おじょうさま"^^xsd:string ;
+    ns1:name "Lady"^^xsd:string .
+
+ns1:Lady_in_Suit a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "スーツのおねえさん"^^xsd:string ;
+    ns1:name "Lady in Suit"^^xsd:string .
+
+ns1:Lass a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "ミニスカート"^^xsd:string ;
+    ns1:name "Lass"^^xsd:string .
+
+ns1:Leader-in-Training a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "リーダーしゅぎょう"^^xsd:string ;
+    ns1:name "Leader-in-Training"^^xsd:string .
+
+ns1:League_Club a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "リーグ部"^^xsd:string ;
+    ns1:name "League Club"^^xsd:string .
+
+ns1:League_Staff a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "リーグスタッフ"^^xsd:string ;
+    ns1:name "League Staff"^^xsd:string .
+
+ns1:Linebacker a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "フットボーラー"^^xsd:string ;
+    ns1:name "Linebacker"^^xsd:string .
+
+ns1:Lone_Wolf a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "いっぴきおおかみ"^^xsd:string ;
+    ns1:name "Lone Wolf"^^xsd:string .
+
+ns1:Lumiose_Gang_Member a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ミアレギャング"^^xsd:string ;
+    ns1:name "Lumiose Gang Member"^^xsd:string .
+
+ns1:Macro_Cosmoss a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "マクロコスモス"^^xsd:string ;
+    ns1:name "Macro Cosmos's"^^xsd:string .
+
+ns1:Madame a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "マダム"^^xsd:string ;
+    ns1:name "Madame"^^xsd:string .
+
+ns1:Magicians_Apprentice a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "マジシャンのタマゴ"^^xsd:string ;
+    ns1:name "Magician's Apprentice"^^xsd:string .
+
+ns1:Magma_Admin a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "マグマだんかんぶ"^^xsd:string ;
+    ns1:name "Magma Admin"^^xsd:string .
+
+ns1:Maid a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "メイド"^^xsd:string ;
+    ns1:name "Maid"^^xsd:string .
+
+ns1:Masked_Man a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "かめんのおとこ"^^xsd:string ;
+    ns1:name "Masked Man"^^xsd:string .
+
+ns1:Masked_Woman a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "かめんのおんな"^^xsd:string ;
+    ns1:name "Masked Woman"^^xsd:string .
+
+ns1:Master_Apprentice a ns1:Trainer ;
+    ns1:gender "Both male"^^xsd:string ;
+    ns1:japaneseName "バトルしてい"^^xsd:string ;
+    ns1:name "Master & Apprentice"^^xsd:string .
+
+ns1:Master_Class a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "マスタークラス"^^xsd:string ;
+    ns1:name "Master Class"^^xsd:string .
+
+ns1:Master_Dojo_Student a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "マスターどうじょうのもんかせい"^^xsd:string ;
+    ns1:name "Master Dojo Student"^^xsd:string .
+
+ns1:Master_Representative a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "マスターだいひょう"^^xsd:string ;
+    ns1:name "Master Representative"^^xsd:string .
+
+ns1:Matron a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "ほのぼのおばあさん"^^xsd:string ;
+    ns1:name "Matron"^^xsd:string .
+
+ns1:Mature_Couple a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:name "Mature Couple"^^xsd:string .
+
+ns1:Medical_Team a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "いりょうチーム"^^xsd:string ;
+    ns1:name "Medical Team"^^xsd:string .
+
+ns1:Medium a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "イタコ"^^xsd:string ;
+    ns1:name "Medium"^^xsd:string .
+
+ns1:Miror_BPeon a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ミラーボ手下"^^xsd:string ;
+    ns1:name "Miror B.Peon"^^xsd:string .
+
+ns1:Model a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "モデル"^^xsd:string ;
+    ns1:name "Model"^^xsd:string .
+
+ns1:Monsieur a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ムッシュ"^^xsd:string ;
+    ns1:name "Monsieur"^^xsd:string .
+
+ns1:Movie_Star a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "スター"^^xsd:string ;
+    ns1:name "Movie Star"^^xsd:string .
+
+ns1:Mt_BtlMaster a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "バトル山マスター"^^xsd:string ;
+    ns1:name "Mt BtlMaster"^^xsd:string .
+
+ns1:Muddy_Boy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Muddy Boy"^^xsd:string .
+
+ns1:Music_Crew a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ダンサブルユニット"^^xsd:string ;
+    ns1:name "Music Crew"^^xsd:string .
+
+ns1:Musician a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ミュージシャン"^^xsd:string ;
+    ns1:name "Musician"^^xsd:string .
+
+ns1:Mysterious_Sisters a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "フシギしまい"^^xsd:string ;
+    ns1:name "Mysterious Sisters"^^xsd:string .
+
+ns1:Mystery_Man a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "の"^^xsd:string ;
+    ns1:name "Mystery Man"^^xsd:string .
+
+ns1:Myth_Trainer a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "伝説のトレーナー"^^xsd:string ;
+    ns1:name "Myth Trainer"^^xsd:string .
+
+ns1:Navigator a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "航海士"^^xsd:string ;
+    ns1:name "Navigator"^^xsd:string .
+
+ns1:New_Actress a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "しんじんじょゆう"^^xsd:string ;
+    ns1:name "New Actress"^^xsd:string .
+
+ns1:Newscaster a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "キャスター"^^xsd:string ;
+    ns1:name "Newscaster"^^xsd:string .
+
+ns1:Ninja_Boy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ニンジャごっこ"^^xsd:string ;
+    ns1:name "Ninja Boy"^^xsd:string .
+
+ns1:Nurse a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "ナース"^^xsd:string ;
+    ns1:name "Nurse"^^xsd:string .
+
+ns1:Nursery_Aide a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "ほいくし"^^xsd:string ;
+    ns1:name "Nursery Aide"^^xsd:string .
+
+ns1:Office_Worker a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ビジネスマン/ＯＬ"^^xsd:string ;
+    ns1:name "Office Worker"^^xsd:string .
+
+ns1:Old_Couple a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "きんこんしき"^^xsd:string ;
+    ns1:name "Old Couple"^^xsd:string .
+
+ns1:Ordinary_Guy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Ordinary Guy"^^xsd:string .
+
+ns1:Ordinary_Lady a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Ordinary Lady"^^xsd:string .
+
+ns1:Owner a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "オーナー"^^xsd:string ;
+    ns1:name "Owner"^^xsd:string .
+
+ns1:PI a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ギャンブラー"^^xsd:string ;
+    ns1:name "PI"^^xsd:string .
+
+ns1:Painter a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "えかき"^^xsd:string ;
+    ns1:name "Painter"^^xsd:string .
+
+ns1:Parasol_Lady a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "パラソルおねえさん"^^xsd:string ;
+    ns1:name "Parasol Lady"^^xsd:string .
+
+ns1:Passionate_Man a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Passionate Man"^^xsd:string .
+
+ns1:Passionate_Rider a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:name "Passionate Rider"^^xsd:string .
+
+ns1:Picnic_Girl a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "ピクニックしょうじょ"^^xsd:string ;
+    ns1:name "Picnic Girl"^^xsd:string .
+
+ns1:Picnicker a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "ピクニックガール"^^xsd:string ;
+    ns1:name "Picnicker"^^xsd:string .
+
+ns1:Pikachu_Fan a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:name "Pikachu Fan"^^xsd:string .
+
+ns1:Pilot a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "パイロット"^^xsd:string ;
+    ns1:name "Pilot"^^xsd:string .
+
+ns1:Poison_Tongue_Boy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Poison Tongue Boy"^^xsd:string .
+
+ns1:Pok_Fan a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "だいすきクラブ"^^xsd:string ;
+    ns1:name "Poké Fan"^^xsd:string .
+
+ns1:Pok_Fan_Family a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "だいすきふうふ"^^xsd:string ;
+    ns1:name "Poké Fan Family"^^xsd:string .
+
+ns1:Pok_Kid a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ポケモンごっこ"^^xsd:string ;
+    ns1:name "Poké Kid"^^xsd:string .
+
+ns1:Pok_Maniac a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "かいじゅうマニア"^^xsd:string ;
+    ns1:name "Poké Maniac"^^xsd:string .
+
+ns1:Pokmon_Breeder a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ポケモンブリーダー"^^xsd:string ;
+    ns1:name "Pokémon Breeder"^^xsd:string .
+
+ns1:Pokmon_Ranger a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ポケモンレンジャー"^^xsd:string ;
+    ns1:name "Pokémon Ranger"^^xsd:string .
+
+ns1:Police_Officer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "|おまわりさん"^^xsd:string ;
+    ns1:name "|Police Officer"^^xsd:string .
+
+ns1:Postman a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ポストマン"^^xsd:string ;
+    ns1:name "Postman"^^xsd:string .
+
+ns1:Preschooler a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "えんじ"^^xsd:string ;
+    ns1:name "Preschooler"^^xsd:string .
+
+ns1:Principal a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "こうちょう"^^xsd:string ;
+    ns1:name "Principal"^^xsd:string .
+
+ns1:Psychic a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "サイキッカー"^^xsd:string ;
+    ns1:name "Psychic"^^xsd:string .
+
+ns1:Punk_Couple a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "ふりょうアベック"^^xsd:string ;
+    ns1:name "Punk Couple"^^xsd:string .
+
+ns1:Punk_Girl a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "バッドガール"^^xsd:string ;
+    ns1:name "Punk Girl"^^xsd:string .
+
+ns1:Punk_Guy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "バッドガイ"^^xsd:string ;
+    ns1:name "Punk Guy"^^xsd:string .
+
+ns1:Punk_Pair a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "バッドカップル"^^xsd:string ;
+    ns1:name "Punk Pair"^^xsd:string .
+
+ns1:Rail_Staff a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "てつどういん"^^xsd:string ;
+    ns1:name "Rail Staff"^^xsd:string .
+
+ns1:Rancher a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ぼくじょうおじさん"^^xsd:string ;
+    ns1:name "Rancher"^^xsd:string .
+
+ns1:Ranchers a ns1:Trainer ;
+    ns1:gender "One female, one male"^^xsd:string ;
+    ns1:japaneseName "ぼくじょうおやこ"^^xsd:string ;
+    ns1:name "Ranchers"^^xsd:string .
+
+ns1:Rangers a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "レンジャーズ"^^xsd:string ;
+    ns1:name "Rangers"^^xsd:string .
+
+ns1:Reporter a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "レポーター"^^xsd:string ;
+    ns1:name "Reporter"^^xsd:string .
+
+ns1:Rich_Boy a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "おぼっちゃま"^^xsd:string ;
+    ns1:name "Rich Boy"^^xsd:string .
+
+ns1:Rider a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ライダー"^^xsd:string ;
+    ns1:name "Rider"^^xsd:string .
+
+ns1:Rising_Star a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ホープトレーナー"^^xsd:string ;
+    ns1:name "Rising Star"^^xsd:string .
+
+ns1:Rising_Star_Duo a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "ホープコンビ"^^xsd:string ;
+    ns1:name "Rising Star Duo"^^xsd:string .
+
+ns1:Rival a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ライバル"^^xsd:string ;
+    ns1:name "Rival"^^xsd:string .
+
+ns1:Rocker a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "でんきグループ"^^xsd:string ;
+    ns1:name "Rocker"^^xsd:string .
+
+ns1:Roller_Boy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ローラーボーイ"^^xsd:string ;
+    ns1:name "Roller Boy"^^xsd:string .
+
+ns1:Roller_Skater a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ローラースケート"^^xsd:string ;
+    ns1:name "Roller Skater"^^xsd:string .
+
+ns1:Rookie a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Rookie"^^xsd:string .
+
+ns1:Rotation_Girl a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "ローテーションむすめ"^^xsd:string ;
+    ns1:name "Rotation Girl"^^xsd:string .
+
+ns1:Roughneck a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "スキンヘッズ"^^xsd:string ;
+    ns1:name "Roughneck"^^xsd:string .
+
+ns1:Ruffian a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "怖いお兄さん"^^xsd:string ;
+    ns1:name "Ruffian"^^xsd:string .
+
+ns1:Ruin_Maniac a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "いせきマニア"^^xsd:string ;
+    ns1:name "Ruin Maniac"^^xsd:string .
+
+ns1:Sage a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ぼうず"^^xsd:string ;
+    ns1:name "Sage"^^xsd:string .
+
+ns1:Sailor a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ふなのり"^^xsd:string ;
+    ns1:name "Sailor"^^xsd:string .
+
+ns1:School_Kid a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "塾がえり"^^xsd:string ;
+    ns1:name "School Kid"^^xsd:string .
+
+ns1:Schoolboy a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "スクールボーイ"^^xsd:string ;
+    ns1:name "Schoolboy"^^xsd:string .
+
+ns1:Schoolgirl a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "スクールガール"^^xsd:string ;
+    ns1:name "Schoolgirl"^^xsd:string .
+
+ns1:Scientist a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "研究員"^^xsd:string ;
+    ns1:name "Scientist"^^xsd:string .
+
+ns1:Scuba_Diver a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ダイバー"^^xsd:string ;
+    ns1:name "Scuba Diver"^^xsd:string .
+
+ns1:Secret_Base_Trainer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ひみつきち"^^xsd:string ;
+    ns1:name "Secret Base Trainer"^^xsd:string .
+
+ns1:Senior_Representative a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "シニアだいひょう"^^xsd:string ;
+    ns1:name "Senior Representative"^^xsd:string .
+
+ns1:Shady_Guy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "怪しい男"^^xsd:string ;
+    ns1:name "Shady Guy"^^xsd:string .
+
+ns1:Shocking_Girl a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Shocking Girl"^^xsd:string .
+
+ns1:Sightseer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "かんこうきゃく"^^xsd:string ;
+    ns1:name "Sightseer"^^xsd:string .
+
+ns1:Sis_Bro a ns1:Trainer ;
+    ns1:gender "One female, one male"^^xsd:string ;
+    ns1:japaneseName "うみきょうだい"^^xsd:string ;
+    ns1:name "Sis & Bro"^^xsd:string .
+
+ns1:Skier a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "スキーヤー"^^xsd:string ;
+    ns1:name "Skier"^^xsd:string .
+
+ns1:Sky_Trainer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "スカイトレーナー"^^xsd:string ;
+    ns1:name "Sky Trainer"^^xsd:string .
+
+ns1:Smasher a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "テニスプレイヤー"^^xsd:string ;
+    ns1:name "Smasher"^^xsd:string .
+
+ns1:Sparring_Partners a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "しゅぎょうなかま"^^xsd:string ;
+    ns1:name "Sparring Partners"^^xsd:string .
+
+ns1:Sprout_Trainer a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Sprout Trainer"^^xsd:string .
+
+ns1:Spy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "謎の戦闘員"^^xsd:string ;
+    ns1:name "Spy"^^xsd:string .
+
+ns1:StPerformer a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "大道芸人"^^xsd:string ;
+    ns1:name "St.Performer"^^xsd:string .
+
+ns1:Star_Actor a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "スターアクター"^^xsd:string ;
+    ns1:name "Star Actor"^^xsd:string .
+
+ns1:Steel_Spirit a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:name "Steel Spirit"^^xsd:string .
+
+ns1:Street_Thug a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "こわいおじさん"^^xsd:string ;
+    ns1:name "Street Thug"^^xsd:string .
+
+ns1:Striker a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "サッカーせんしゅ"^^xsd:string ;
+    ns1:name "Striker"^^xsd:string .
+
+ns1:Stubborn_Boy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Stubborn Boy"^^xsd:string .
+
+ns1:Student a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "学生"^^xsd:string ;
+    ns1:name "Student"^^xsd:string .
+
+ns1:Subway_Boss a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "サブウェイマスター"^^xsd:string ;
+    ns1:name "Subway Boss"^^xsd:string .
+
+ns1:Suit_Actor a ns1:Trainer ;
+    ns1:japaneseName "スーツアクター/スーツアクトレス"^^xsd:string ;
+    ns1:name "Suit Actor"^^xsd:string .
+
+ns1:Super_Nerd a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "理科系のおとこ"^^xsd:string ;
+    ns1:name "Super Nerd"^^xsd:string .
+
+ns1:Supertrainer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "スーパートレーナー"^^xsd:string ;
+    ns1:name "Supertrainer"^^xsd:string .
+
+ns1:Surfer a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "サーファー"^^xsd:string ;
+    ns1:name "Surfer"^^xsd:string .
+
+ns1:Swimmer a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "かいパンやろう/ビキニのおねえさん"^^xsd:string ;
+    ns1:name "Swimmer"^^xsd:string .
+
+ns1:Swimmer_Girls a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "ビキニギャルズ"^^xsd:string ;
+    ns1:name "Swimmer Girls"^^xsd:string .
+
+ns1:Swimmers a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "みずぎカップル"^^xsd:string ;
+    ns1:name "Swimmers"^^xsd:string .
+
+ns1:Swimming_Club_Member a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:name "Swimming Club Member"^^xsd:string .
+
+ns1:Tamer a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "もうじゅうつかい"^^xsd:string ;
+    ns1:name "Tamer"^^xsd:string .
+
+ns1:Teacher a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:japaneseName "せんせい"^^xsd:string ;
+    ns1:name "Teacher"^^xsd:string .
+
+ns1:Team_Aqua_Grunt a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "アクアだんのしたっぱ"^^xsd:string ;
+    ns1:name "Team Aqua Grunt"^^xsd:string .
+
+ns1:Team_Flare a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "フレア団"^^xsd:string ;
+    ns1:name "Team Flare"^^xsd:string .
+
+ns1:Team_Flare_Admin a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "フレア団のかんぶ"^^xsd:string ;
+    ns1:name "Team Flare Admin"^^xsd:string .
+
+ns1:Team_Flare_Grunt a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "フレア団のしたっぱ"^^xsd:string ;
+    ns1:name "Team Flare Grunt"^^xsd:string .
+
+ns1:Team_GO_Rocket_Grunt a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "GOロケット団のしたっぱ"^^xsd:string ;
+    ns1:name "Team GO Rocket Grunt"^^xsd:string .
+
+ns1:Team_GO_Rocket_Leader a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "GOロケット団リーダー"^^xsd:string ;
+    ns1:name "Team GO Rocket Leader"^^xsd:string .
+
+ns1:Team_Galactic_Grunt a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ギンガだんのしたっぱ"^^xsd:string ;
+    ns1:name "Team Galactic Grunt"^^xsd:string .
+
+ns1:Team_Magma_Grunt a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "マグマだんのしたっぱ"^^xsd:string ;
+    ns1:name "Team Magma Grunt"^^xsd:string .
+
+ns1:Team_Plasma a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "プラズマ団"^^xsd:string ;
+    ns1:name "Team Plasma"^^xsd:string .
+
+ns1:Team_Plasma_Grunt a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "プラズマだんのしたっぱ"^^xsd:string ;
+    ns1:name "Team Plasma Grunt"^^xsd:string .
+
+ns1:Team_Rainbow_Rocket_Grunt a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "Ｒロケットだんのしたっぱ"^^xsd:string ;
+    ns1:name "Team Rainbow Rocket Grunt"^^xsd:string .
+
+ns1:Team_Rocket_Grunt a ns1:Trainer ;
+    ns1:gender "Either"^^xsd:string ;
+    ns1:japaneseName "ロケットだんのしたっぱ"^^xsd:string ;
+    ns1:name "Team Rocket Grunt"^^xsd:string .
+
+ns1:Team_Skull_Grunt a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "スカルだんのしたっぱ"^^xsd:string ;
+    ns1:name "Team Skull Grunt"^^xsd:string .
+
+ns1:Team_Snagem a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "スナッチ団"^^xsd:string ;
+    ns1:name "Team Snagem"^^xsd:string .
+
+ns1:Team_Star a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "スター団"^^xsd:string ;
+    ns1:name "Team Star"^^xsd:string .
+
+ns1:Team_Star_Grunt a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "スターだんのしたっぱ"^^xsd:string ;
+    ns1:name "Team Star Grunt"^^xsd:string .
+
+ns1:Team_Yell_Grunt a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "エールだんのしたっぱ"^^xsd:string ;
+    ns1:name "Team Yell Grunt"^^xsd:string .
+
+ns1:Teammates a ns1:Trainer ;
+    ns1:gender "Both female"^^xsd:string ;
+    ns1:japaneseName "センパイとコウハイ"^^xsd:string ;
+    ns1:name "Teammates"^^xsd:string .
+
+ns1:The_Riches a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ブルジョワールけ"^^xsd:string ;
+    ns1:name "The Riches"^^xsd:string .
+
+ns1:Three_Brothers a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:name "Three Brothers"^^xsd:string .
+
+ns1:Three_Sisters a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Three Sisters"^^xsd:string .
+
+ns1:Tourist a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ツアーきゃく"^^xsd:string ;
+    ns1:name "Tourist"^^xsd:string .
+
+ns1:Tourist_Couple a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "かんこうカップル"^^xsd:string ;
+    ns1:name "Tourist Couple"^^xsd:string .
+
+ns1:Tower_Tycoon a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "タワータイクーン"^^xsd:string ;
+    ns1:name "Tower Tycoon"^^xsd:string .
+
+ns1:Traveling_Guy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:name "Traveling Guy"^^xsd:string .
+
+ns1:Traveling_Lady a ns1:Trainer ;
+    ns1:gender "Female"^^xsd:string ;
+    ns1:name "Traveling Lady"^^xsd:string .
+
+ns1:Trial_Guide a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "しれんサポーター"^^xsd:string ;
+    ns1:name "Trial Guide"^^xsd:string .
+
+ns1:Triathlete a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "トライアスリート"^^xsd:string ;
+    ns1:name "Triathlete"^^xsd:string .
+
+ns1:Tuber a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "うきわボーイ/うきわガール"^^xsd:string ;
+    ns1:name "Tuber"^^xsd:string .
+
+ns1:Twins a ns1:Trainer ;
+    ns1:gender "Both female"^^xsd:string ;
+    ns1:japaneseName "ふたごちゃん"^^xsd:string ;
+    ns1:name "Twins"^^xsd:string .
+
+ns1:Ultra_Forest_Kartenvoy a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "ウルトラフォレストのかみつかい"^^xsd:string ;
+    ns1:name "Ultra Forest Kartenvoy"^^xsd:string .
+
+ns1:Ultra_Recon_Squad a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "ちょうさたい"^^xsd:string ;
+    ns1:name "Ultra Recon Squad"^^xsd:string .
+
+ns1:Unique_Star a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "こせいはじょゆう"^^xsd:string ;
+    ns1:name "Unique Star"^^xsd:string .
+
+ns1:Veteran a ns1:Trainer ;
+    ns1:japaneseName "ベテラントレーナー"^^xsd:string ;
+    ns1:name "Veteran"^^xsd:string .
+
+ns1:Veteran_Duo a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "ベテランコンビ"^^xsd:string ;
+    ns1:name "Veteran Duo"^^xsd:string .
+
+ns1:Veteran_Star a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ベテランはいゆう"^^xsd:string ;
+    ns1:name "Veteran Star"^^xsd:string .
+
+ns1:Waiter a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "ウエーター"^^xsd:string ;
+    ns1:name "Waiter"^^xsd:string .
+
+ns1:Waitress a ns1:Trainer ;
+    ns1:gender "Female only"^^xsd:string ;
+    ns1:japaneseName "ウエートレス"^^xsd:string ;
+    ns1:name "Waitress"^^xsd:string .
+
+ns1:Worker a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "作業員"^^xsd:string ;
+    ns1:name "Worker"^^xsd:string .
+
+ns1:World_Champion a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "チャンピオン"^^xsd:string ;
+    ns1:name "World Champion"^^xsd:string .
+
+ns1:World_Finalist a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "せかい3い/せかい4い"^^xsd:string ;
+    ns1:name "World Finalist"^^xsd:string .
+
+ns1:World_Runner-up a ns1:Trainer ;
+    ns1:gender "Male"^^xsd:string ;
+    ns1:japaneseName "せかい2い"^^xsd:string ;
+    ns1:name "World Runner-up"^^xsd:string .
+
+ns1:Young_Couple a ns1:Trainer ;
+    ns1:gender "One male, one female"^^xsd:string ;
+    ns1:japaneseName "ラブラブカップル"^^xsd:string ;
+    ns1:name "Young Couple"^^xsd:string .
+
+ns1:Youngster a ns1:Trainer ;
+    ns1:gender "Male only"^^xsd:string ;
+    ns1:japaneseName "たんぱんこぞう"^^xsd:string ;
+    ns1:name "Youngster"^^xsd:string .
+
+ns1:Youth_Athlete a ns1:Trainer ;
+    ns1:gender "Both"^^xsd:string ;
+    ns1:japaneseName "スポーツしょうねん/スポーツしょうじょ"^^xsd:string ;
+    ns1:name "Youth Athlete"^^xsd:string .
+
